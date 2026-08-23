@@ -129,6 +129,11 @@ def historical_params(ticker: str, years: int) -> dict[str, str]:
     }
 
 
+def one_year_history_params(ticker: str) -> dict[str, str]:
+    """Fallback explícito para planos BRAPI que não liberam períodos longos."""
+    return {"symbols": ticker, "range": "1y", "interval": "1d", "sortOrder": "asc"}
+
+
 def date_window(ticker: str, years: int = 1) -> dict[str, str]:
     end_date = date.today()
     try:
@@ -244,11 +249,36 @@ async def history(
     _: None = Depends(require_api_key),
 ) -> HistoryResponse:
     ticker = validate_ticker(ticker)
-    raw_data = (
-        {"ticker": ticker, "years": years, "items": [], "notice": "Modo demonstração."}
-        if demo_mode()
-        else await brapi_get("/api/v2/stocks/historical", historical_params(ticker, years))
-    )
+    if demo_mode():
+        raw_data = {"ticker": ticker, "years": years, "items": [], "notice": "Modo demonstração."}
+    else:
+        primary = await optional_brapi_get("/api/v2/stocks/historical", historical_params(ticker, years))
+        if "_error" not in primary:
+            raw_data = {
+                "requested_years": years,
+                "available_years": years,
+                "history": primary,
+                "notice": "Série histórica retornada para o período solicitado.",
+            }
+        else:
+            fallback = await optional_brapi_get("/api/v2/stocks/historical", one_year_history_params(ticker))
+            if "_error" not in fallback:
+                raw_data = {
+                    "requested_years": years,
+                    "available_years": 1,
+                    "history": fallback,
+                    "notice": "A BRAPI não liberou o período solicitado neste plano. Retornado somente o histórico de 1 ano; não calcule valorização de 3 anos.",
+                    "primary_request_status": primary,
+                }
+            else:
+                raw_data = {
+                    "requested_years": years,
+                    "available_years": 0,
+                    "history": None,
+                    "notice": "A BRAPI não disponibilizou histórico para este ativo ou plano. Nenhuma valorização foi calculada.",
+                    "primary_request_status": primary,
+                    "fallback_request_status": fallback,
+                }
     return HistoryResponse(asset=ticker, years_requested=years, source=source_metadata(), raw_data=raw_data)
 
 
