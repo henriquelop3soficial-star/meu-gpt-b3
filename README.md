@@ -1,6 +1,6 @@
 # GPT Coletor B3 API
 
-API privada para o GPT Coletor consultar dados de ações, FIIs e ETFs da B3. Ela foi criada para manter a chave da RapidAPI fora das instruções do GPT.
+API privada para o GPT Coletor consultar dados de ações, FIIs e ETFs da B3. Ela foi criada para manter o token da BRAPI fora das instruções do GPT.
 
 ## O que já está pronto
 
@@ -22,7 +22,7 @@ API privada para o GPT Coletor consultar dados de ações, FIIs e ETFs da B3. El
 
 2. Copie `.env.example` para `.env` e preencha os valores.
 
-3. Para testar sem a RapidAPI, use:
+3. Para testar sem a BRAPI, use:
 
    ```text
    API_ACCESS_KEY=uma-chave-local
@@ -37,16 +37,13 @@ API privada para o GPT Coletor consultar dados de ações, FIIs e ETFs da B3. El
 
 5. Abra `http://127.0.0.1:8000/docs` para testar os endpoints.
 
-## Ligação com a RapidAPI
+## Ligação com a BRAPI
 
-Na página **Endpoints** da API B3 Boletim Diário, copie apenas estes valores para o `.env`:
+Defina somente o token da BRAPI no `.env`:
 
-- host;
-- URL-base;
-- caminho do endpoint de cotação;
-- caminho do endpoint de histórico.
+- `BRAPI_TOKEN`.
 
-Não envie a chave RapidAPI em mensagens ou arquivos compartilhados. Os nomes reais dos campos serão mapeados assim que a documentação dos endpoints estiver disponível.
+Não envie o token da BRAPI em mensagens ou arquivos compartilhados. A API usa os endpoints oficiais de cotação e histórico da BRAPI.
 
 ## Antes de conectar ao GPT
 
@@ -57,7 +54,7 @@ Um GPT personalizado só alcança uma API que esteja publicada em URL HTTPS. Ap�
 O projeto inclui `main.py` para compatibilidade com o comando `uvicorn main:app` e `render.yaml` com o caminho de health check correto.
 
 1. Substitua os arquivos publicados na Render pelos arquivos deste diretório.
-2. Defina as variáveis em **Environment**: `API_ACCESS_KEY`, `PUBLIC_BASE_URL`, `RAPIDAPI_KEY`, `RAPIDAPI_HOST`, `RAPIDAPI_BASE_URL`, `RAPIDAPI_QUOTE_PATH` e `RAPIDAPI_HISTORY_PATH`.
+2. Defina as variáveis em **Environment**: `API_ACCESS_KEY`, `PUBLIC_BASE_URL`, `BRAPI_TOKEN` e `DEMO_MODE=false`.
 3. Faça um novo deploy e confirme `GET /health` e `GET /openapi.json`.
 4. No GPT, reimporte `https://meu-gpt-b3.onrender.com/openapi.json`.
 
