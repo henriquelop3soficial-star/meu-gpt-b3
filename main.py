@@ -12,7 +12,6 @@ load_dotenv()
 
 http_client: httpx.AsyncClient | None = None
 
-
 @asynccontextmanager
 async def lifespan(app: FastAPI) -> AsyncGenerator[None, None]:
     global http_client
@@ -20,8 +19,19 @@ async def lifespan(app: FastAPI) -> AsyncGenerator[None, None]:
     yield
     await http_client.aclose()
 
-
 app = FastAPI(
+    title="GPT Coletor B3 API",
+    version="0.2.0",
+    docs_url="/docs",
+    openapi_url="/openapi.json",
+    lifespan=lifespan,
+    servers=[
+        {
+            "url": "https://meu-gpt-b3.onrender.com",
+            "description": "Servidor do Render"
+        }
+    ]
+)
     title="GPT Coletor B3 API",
     version="0.2.0",
     description="API privada que normaliza dados da B3 via BRAPI para um GPT.",
