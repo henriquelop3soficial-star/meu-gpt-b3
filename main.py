@@ -115,3 +115,6 @@ async def quote(
     ticker = validate_ticker(ticker)
     data = await brapi_get_quote(ticker, client=client)
     return {"asset": ticker, "source": source_metadata(), "data": data}
+@app.get("/", tags=["Status"])
+def read_root():
+    return {"status": "API B3 Online", "docs": "/docs"}
