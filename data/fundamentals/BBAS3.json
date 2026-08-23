@@ -1,0 +1,74 @@
+{
+  "ticker": "BBAS3",
+  "asset_type": "stock",
+  "issuer_name": "Banco do Brasil S.A.",
+  "cnpj": "00000000000191",
+  "cvm_code": "00102-3",
+  "updated_at": "2026-08-23T18:52:07.370974+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "bank",
+      "revenue": 265438605000.0,
+      "net_income": 33165591000.0,
+      "earnings_per_share": 20.9,
+      "equity": 173570326000.0,
+      "cash_and_equivalents": 54999815000.0,
+      "short_term_debt": null,
+      "long_term_debt": null,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários são divulgados no DFP consolidado e normalizados para reais (BRL).",
+        "Campos nulos não foram estimados; exigem validação do plano de contas da companhia.",
+        "Dívida de banco não é calculada: depósitos e captações não são equivalentes à dívida corporativa de uma empresa não financeira."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "bank",
+      "revenue": 273505274000.0,
+      "net_income": 29171564000.0,
+      "earnings_per_share": 9.24,
+      "equity": 184236344000.0,
+      "cash_and_equivalents": 83167243000.0,
+      "short_term_debt": null,
+      "long_term_debt": null,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários são divulgados no DFP consolidado e normalizados para reais (BRL).",
+        "Campos nulos não foram estimados; exigem validação do plano de contas da companhia.",
+        "Dívida de banco não é calculada: depósitos e captações não são equivalentes à dívida corporativa de uma empresa não financeira."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "bank",
+      "revenue": 319462104000.0,
+      "net_income": 16781938000.0,
+      "earnings_per_share": 2.4,
+      "equity": 193567416000.0,
+      "cash_and_equivalents": 59635525000.0,
+      "short_term_debt": null,
+      "long_term_debt": null,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários são divulgados no DFP consolidado e normalizados para reais (BRL).",
+        "Campos nulos não foram estimados; exigem validação do plano de contas da companhia.",
+        "Dívida de banco não é calculada: depósitos e captações não são equivalentes à dívida corporativa de uma empresa não financeira."
+      ]
+    }
+  ],
+  "errors": []
+}

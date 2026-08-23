@@ -1,6 +1,8 @@
 import asyncio
+import json
 import os
 from datetime import date, datetime, timezone
+from pathlib import Path
 from typing import Any
 
 import httpx
@@ -10,6 +12,9 @@ from fastapi.security import APIKeyHeader
 from pydantic import BaseModel
 
 load_dotenv()
+
+ROOT_DIR = Path(__file__).resolve().parent
+FUNDAMENTALS_DIR = ROOT_DIR / "data" / "fundamentals"
 
 
 class SourceMetadata(BaseModel):
@@ -133,9 +138,9 @@ def date_window(ticker: str, years: int = 1) -> dict[str, str]:
     return {"symbols": ticker, "startDate": start_date.isoformat(), "endDate": end_date.isoformat()}
 
 
-def source_metadata() -> SourceMetadata:
+def source_metadata(provider: str = "BRAPI") -> SourceMetadata:
     return SourceMetadata(
-        provider="BRAPI",
+        provider=provider,
         retrieved_at=datetime.now(timezone.utc).isoformat(),
         demo_mode=demo_mode(),
     )
@@ -176,6 +181,28 @@ def first_result_data(payload: dict[str, Any]) -> Any:
 
 def number(value: Any) -> float | None:
     return float(value) if isinstance(value, (int, float)) and not isinstance(value, bool) else None
+
+
+def load_cvm_financials(ticker: str) -> dict[str, Any] | None:
+    """Lê o retrato anual gerado a partir dos DFPs públicos da CVM."""
+    snapshot_path = FUNDAMENTALS_DIR / f"{ticker}.json"
+    if not snapshot_path.exists():
+        return None
+    try:
+        payload = json.loads(snapshot_path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return None
+    return payload if isinstance(payload, dict) else None
+
+
+def annual_records(snapshot: dict[str, Any] | None) -> list[dict[str, Any]]:
+    if not snapshot:
+        return []
+    records = snapshot.get("annual_financials")
+    if not isinstance(records, list):
+        return []
+    valid = [item for item in records if isinstance(item, dict) and isinstance(item.get("year"), int)]
+    return sorted(valid, key=lambda item: item["year"])
 
 
 def payload_status(payload: dict[str, Any], data: Any) -> str:
@@ -236,78 +263,68 @@ async def fundamentals(ticker: str, _: None = Depends(require_api_key)) -> Funda
     ticker = validate_ticker(ticker)
     if demo_mode():
         raise HTTPException(status_code=503, detail="Fundamentos não estão disponíveis no modo demonstração.")
-    if not brapi_configured():
-        raise HTTPException(status_code=503, detail="BRAPI_TOKEN não configurado no servidor.")
 
-    dividend_params = {**date_window(ticker), "sortBy": "paymentDate", "sortOrder": "asc"}
-    quote_payload, statistics_payload, financial_payload, balance_payload, dividends_payload = await asyncio.gather(
-        optional_brapi_get("/api/v2/stocks/quote", {"symbols": ticker}),
-        optional_brapi_get("/api/v2/stocks/statistics", {"symbols": ticker, "mode": "current"}),
-        optional_brapi_get("/api/v2/stocks/financial-data", {"symbols": ticker, "mode": "current"}),
-        optional_brapi_get("/api/v2/stocks/balance-sheet", {"symbols": ticker, "period": "annual"}),
-        optional_brapi_get("/api/v2/stocks/dividends", dividend_params),
-    )
+    snapshot = load_cvm_financials(ticker)
+    records = annual_records(snapshot)
+    if not records:
+        raise HTTPException(
+            status_code=404,
+            detail="Fundamentos CVM ainda não foram importados para este ativo. Adicione-o à tabela data/assets.csv e execute a importação DFP.",
+        )
 
+    quote_payload = await optional_brapi_get("/api/v2/stocks/quote", {"symbols": ticker})
     quote_data = first_result_data(quote_payload)
-    statistics_data = first_result_data(statistics_payload)
-    financial_data = first_result_data(financial_payload)
-    balance_data = first_result_data(balance_payload)
-    dividends_data = first_result_data(dividends_payload)
-
     quote = quote_data if isinstance(quote_data, dict) else {}
-    statistics = statistics_data if isinstance(statistics_data, dict) else {}
-    financial = financial_data if isinstance(financial_data, dict) else {}
-    latest_balance = balance_data[0] if isinstance(balance_data, list) and balance_data and isinstance(balance_data[0], dict) else {}
-    dividends = dividends_data if isinstance(dividends_data, dict) else {}
-    cash_dividends = dividends.get("cashDividends") if isinstance(dividends.get("cashDividends"), list) else []
-
+    current = records[-1]
+    previous = records[-2] if len(records) > 1 else None
     price = number(quote.get("regularMarketPrice"))
-    eps = number(statistics.get("earningsPerShare")) or number(statistics.get("trailingEps"))
-    dividends_ttm = sum(number(event.get("rate")) or 0.0 for event in cash_dividends if isinstance(event, dict))
-    payout = (dividends_ttm / eps * 100) if eps is not None and eps > 0 else None
-    dividend_yield = (dividends_ttm / price * 100) if price is not None and price > 0 else None
-    equity = number(latest_balance.get("shareholdersEquity")) or number(latest_balance.get("totalStockholderEquity"))
+    market_cap = number(quote.get("marketCap"))
+    eps = number(current.get("earnings_per_share"))
+    equity = number(current.get("equity"))
+    net_income = number(current.get("net_income"))
+    previous_equity = number(previous.get("equity")) if previous else None
+    average_equity = (equity + previous_equity) / 2 if equity is not None and previous_equity is not None else None
+    roe = net_income / average_equity * 100 if net_income is not None and average_equity and average_equity > 0 else None
+    price_to_earnings = price / eps if price is not None and eps is not None and eps > 0 else None
+    price_to_book = market_cap / equity if market_cap is not None and equity is not None and equity > 0 else None
 
     metrics = {
         "price": price,
-        "price_to_earnings": number(statistics.get("trailingPE")),
-        "price_to_book": number(statistics.get("priceToBook")),
-        "roe_percent": (number(financial.get("returnOnEquity")) or 0.0) * 100 if number(financial.get("returnOnEquity")) is not None else None,
+        "price_to_earnings": price_to_earnings,
+        "price_to_book": price_to_book,
+        "roe_percent": roe,
         "earnings_per_share": eps,
-        "revenue_ttm": number(financial.get("totalRevenue")),
-        "net_income_ttm": number(statistics.get("netIncomeToCommon")),
+        "revenue_last_annual": number(current.get("revenue")),
+        "net_income_last_annual": net_income,
         "equity": equity,
-        "total_debt": number(financial.get("totalDebt")),
-        "total_cash": number(financial.get("totalCash")),
-        "dividends_per_share_ttm": dividends_ttm,
-        "payout_percent_ttm": payout,
-        "dividend_yield_percent_ttm": dividend_yield,
+        "total_debt": (number(current.get("short_term_debt")) or 0.0) + (number(current.get("long_term_debt")) or 0.0)
+        if number(current.get("short_term_debt")) is not None or number(current.get("long_term_debt")) is not None else None,
+        "total_cash": number(current.get("cash_and_equivalents")),
+        "dividends_per_share_ttm": None,
+        "payout_percent_ttm": None,
+        "dividend_yield_percent_ttm": None,
     }
     status_by_source = {
         "quote": payload_status(quote_payload, quote_data),
-        "statistics": payload_status(statistics_payload, statistics_data),
-        "financial_data": payload_status(financial_payload, financial_data),
-        "balance_sheet": payload_status(balance_payload, balance_data),
-        "dividends": payload_status(dividends_payload, dividends_data),
+        "cvm_dfp": "ok: demonstrações anuais públicas importadas",
+        "dividends": "não integrado: fonte gratuita de proventos será adicionada em etapa posterior",
     }
-    window = date_window(ticker)
+    current_year = current["year"]
     return FundamentalsResponse(
         asset=ticker,
         as_of=datetime.now(timezone.utc).isoformat(),
-        period_start=window["startDate"],
-        period_end=window["endDate"],
+        period_start=f"{current_year}-01-01",
+        period_end=f"{current_year}-12-31",
         metrics=metrics,
         formulas={
-            "payout_percent_ttm": "dividendos por ação dos últimos 12 meses ÷ EPS TTM × 100",
-            "dividend_yield_percent_ttm": "dividendos por ação dos últimos 12 meses ÷ cotação atual × 100",
+            "price_to_earnings": "cotação atual ÷ lucro por ação anual divulgado no DFP",
+            "price_to_book": "valor de mercado da cotação BRAPI ÷ patrimônio líquido anual divulgado no DFP",
+            "roe_percent": "lucro líquido anual ÷ patrimônio líquido médio de dois exercícios × 100",
         },
         source_status=status_by_source,
         raw_data={
             "quote": quote_payload,
-            "statistics": statistics_payload,
-            "financial_data": financial_payload,
-            "balance_sheet": balance_payload,
-            "dividends": dividends_payload,
+            "cvm_financials": snapshot,
         },
     )
 
