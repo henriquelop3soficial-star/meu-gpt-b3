@@ -1,0 +1,26 @@
+name: Atualizar dados CVM
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "20 8 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/import_cvm_dfp.py --years 2023 2024 2025
+      - name: Salvar dados atualizados
+        run: |
+          git config user.name "coletor-b3-bot"
+          git config user.email "actions@github.com"
+          git add data/fundamentals
+          git diff --cached --quiet || git commit -m "Atualiza dados CVM"
+          git push
