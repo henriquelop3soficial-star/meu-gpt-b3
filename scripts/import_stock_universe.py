@@ -93,13 +93,30 @@ def chunked(items: list[str], size: int) -> list[list[str]]:
 
 def load_profiles(tickers: list[str]) -> dict[str, dict[str, Any]]:
     profiles: dict[str, dict[str, Any]] = {}
-    for batch in chunked(tickers, 40):
+    for batch in chunked(tickers, 10):
         try:
             payload = get_json(BRAPI_PROFILE_URL, {"symbols": ",".join(batch)})
         except urllib.error.HTTPError as error:
             if error.code == 401:
                 raise RuntimeError("BRAPI_TOKEN não configurado ou inválido. Configure a mesma chave BRAPI usada pelo Coletor B3 antes de atualizar o universo.") from error
-            raise
+            if error.code != 400:
+                raise
+            # Alguns símbolos podem não possuir perfil cadastral. Em vez de
+            # descartar o lote inteiro, tentamos um a um e mantemos somente
+            # os perfis que a BRAPI efetivamente confirmar.
+            for ticker in batch:
+                try:
+                    individual = get_json(BRAPI_PROFILE_URL, {"symbols": ticker})
+                except urllib.error.HTTPError as individual_error:
+                    if individual_error.code == 401:
+                        raise RuntimeError("BRAPI_TOKEN não configurado ou inválido. Configure a mesma chave BRAPI usada pelo Coletor B3 antes de atualizar o universo.") from individual_error
+                    continue
+                for result in individual.get("results") or []:
+                    symbol = str(result.get("symbol") or result.get("requestedSymbol") or "").upper()
+                    data = result.get("data")
+                    if symbol and isinstance(data, dict):
+                        profiles[symbol] = data
+            continue
         for result in payload.get("results") or []:
             ticker = str(result.get("symbol") or result.get("requestedSymbol") or "").upper()
             data = result.get("data")
