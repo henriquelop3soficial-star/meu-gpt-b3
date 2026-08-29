@@ -17,24 +17,27 @@ Projeto limpo para publicar na Render e conectar a um GPT personalizado.
 - `/v1/assets/{ticker}/fundamentals`
 - `/v1/assets/{ticker}/dossier?years=3`
 
-O histórico usa `startDate` e `endDate` para solicitar uma janela exata de três anos à BRAPI.
+O histórico usa `startDate` e `endDate` para solicitar a janela exata. Se o plano da BRAPI não liberar o período solicitado, a API tenta retornar um ano e sinaliza explicitamente que não se deve calcular a valorização de três anos.
 
 `/fundamentals` combina cotação da BRAPI com as demonstrações anuais públicas da CVM. Nesta etapa, P/L, P/VP e ROE são calculados somente quando há dados suficientes; payout e dividend yield ficam nulos até a integração da fonte gratuita de proventos.
 
 Os campos de receita e lucro são anuais, não TTM. O próprio retorno informa o período contábil e a fonte de cada grupo de dados.
 
-## Cadastro de ativos
+## Universo automático de ações
 
-O arquivo `data/assets.csv` faz o vínculo entre ticker, CNPJ e código CVM para a coleta dos dados abertos da CVM. Começamos com BBAS3 e a rotina futura poderá preencher novos ativos automaticamente.
+O Coletor não exige cadastro manual de tickers. A rotina `scripts/import_stock_universe.py` consulta a lista de ações e Units da B3 na BRAPI, obtém o CNPJ no perfil do emissor e faz o vínculo com o cadastro ativo da CVM. Ela grava o resultado em `data/assets.csv` e deixa vínculos não confirmados em `data/assets_unresolved.csv`, sem fazer inferências.
 
-## Coleta gratuita da CVM
+## Fundamentos anuais em massa
 
-`scripts/import_cvm_dfp.py` baixa os DFPs públicos da CVM e gera `data/fundamentals/<TICKER>.json` com receita, lucro líquido, lucro por ação, patrimônio, caixa e dívida por exercício.
+`scripts/import_cvm_dfp_bulk.py` baixa cada DFP anual da CVM uma única vez e gera `data/fundamentals/<TICKER>.json` para todo o universo vinculado. Os campos iniciais são receita ou linha operacional equivalente, lucro líquido, lucro por ação, patrimônio, caixa e dívida quando aplicável.
 
-Cada ativo informa o seu `accounting_profile`. Para bancos, depósitos e captações não são classificados como dívida corporativa, evitando indicadores distorcidos.
+Para bancos, depósitos e captações não são classificados como dívida corporativa, evitando indicadores distorcidos.
 
 ```powershell
-python scripts/import_cvm_dfp.py --years 2023 2024 2025
+python scripts/import_stock_universe.py
+python scripts/import_cvm_dfp_bulk.py --years 2023 2024 2025
 ```
 
-O workflow `.github/workflows/update-cvm-data.yml` executa a atualização semanalmente e salva os JSONs no repositório.
+O workflow `.github/workflows/update-cvm-data.yml` executa os dois processos semanalmente, salva os dados no repositório e aciona uma nova implantação automática na Render. Para ele funcionar, cadastre `BRAPI_TOKEN` em **GitHub > Settings > Secrets and variables > Actions**.
+
+Histórico de preços, proventos, ITR e documentos oficiais serão integrados em rotinas próprias, sem depender de envio manual de arquivos.

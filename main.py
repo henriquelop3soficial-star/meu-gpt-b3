@@ -1,5 +1,4 @@
 import asyncio
-import csv
 import json
 import os
 from datetime import date, datetime, timezone
@@ -17,7 +16,6 @@ load_dotenv()
 ROOT_DIR = Path(__file__).resolve().parent
 FUNDAMENTALS_DIR = ROOT_DIR / "data" / "fundamentals"
 HISTORY_DIR = ROOT_DIR / "data" / "history"
-ASSETS_FILE = ROOT_DIR / "data" / "assets.csv"
 
 
 class SourceMetadata(BaseModel):
@@ -63,21 +61,6 @@ class FundamentalsResponse(BaseModel):
     formulas: dict[str, str]
     source_status: dict[str, str]
     raw_data: dict[str, Any]
-
-
-class AnalysisPackageResponse(BaseModel):
-    asset: str
-    asset_type: str
-    accounting_profile: str
-    as_of: str
-    identity: dict[str, Any]
-    market: dict[str, Any]
-    price_history: dict[str, Any]
-    fundamentals: dict[str, Any]
-    dividends: dict[str, Any]
-    official_reports: dict[str, Any]
-    peer_comparison: dict[str, Any]
-    data_quality: dict[str, Any]
 
 
 class RootResponse(BaseModel):
@@ -216,54 +199,6 @@ def load_cvm_financials(ticker: str) -> dict[str, Any] | None:
     except (OSError, json.JSONDecodeError):
         return None
     return payload if isinstance(payload, dict) else None
-
-
-def registered_asset(ticker: str) -> dict[str, str] | None:
-    if not ASSETS_FILE.exists():
-        return None
-    with ASSETS_FILE.open("r", encoding="utf-8", newline="") as file:
-        for asset in csv.DictReader(file):
-            if asset.get("status") == "active" and asset.get("ticker", "").upper() == ticker:
-                return asset
-    return None
-
-
-def stock_metrics(records: list[dict[str, Any]], quote: dict[str, Any]) -> dict[str, Any]:
-    if not records:
-        return {"status": "not_available", "reason": "Demonstrações CVM ainda não importadas."}
-    current = records[-1]
-    previous = records[-2] if len(records) > 1 else None
-    price = number(quote.get("regularMarketPrice"))
-    market_cap = number(quote.get("marketCap"))
-    eps = number(current.get("earnings_per_share"))
-    equity = number(current.get("equity"))
-    net_income = number(current.get("net_income"))
-    previous_equity = number(previous.get("equity")) if previous else None
-    average_equity = (equity + previous_equity) / 2 if equity is not None and previous_equity is not None else None
-    return {
-        "status": "ok",
-        "period": f"{current['year']}-01-01 a {current['year']}-12-31",
-        "metrics": {
-            "price": price,
-            "market_cap": market_cap,
-            "price_to_earnings": price / eps if price is not None and eps is not None and eps > 0 else None,
-            "price_to_book": market_cap / equity if market_cap is not None and equity is not None and equity > 0 else None,
-            "roe_percent": net_income / average_equity * 100 if net_income is not None and average_equity and average_equity > 0 else None,
-            "earnings_per_share": eps,
-            "revenue_last_annual": number(current.get("revenue")),
-            "net_income_last_annual": net_income,
-            "equity_last_annual": equity,
-            "cash_last_annual": number(current.get("cash_and_equivalents")),
-            "total_debt": (number(current.get("short_term_debt")) or 0.0) + (number(current.get("long_term_debt")) or 0.0)
-            if number(current.get("short_term_debt")) is not None or number(current.get("long_term_debt")) is not None else None,
-        },
-        "annual_series": records,
-        "formulas": {
-            "price_to_earnings": "cotação atual ÷ LPA anual",
-            "price_to_book": "valor de mercado ÷ patrimônio líquido anual",
-            "roe_percent": "lucro líquido anual ÷ patrimônio líquido médio de dois exercícios × 100",
-        },
-    }
 
 
 def annual_records(snapshot: dict[str, Any] | None) -> list[dict[str, Any]]:
@@ -414,26 +349,37 @@ async def fundamentals(ticker: str, _: None = Depends(require_api_key)) -> Funda
     if not records:
         raise HTTPException(
             status_code=404,
-            detail="Fundamentos CVM ainda não foram importados para este ativo. Adicione-o à tabela data/assets.csv e execute a importação DFP.",
+            detail="Fundamentos CVM ainda não foram importados para este ativo. Execute a atualização automática do universo de ações e a importação DFP em massa.",
         )
 
     quote_payload = await optional_brapi_get("/api/v2/stocks/quote", {"symbols": ticker})
     quote_data = first_result_data(quote_payload)
     quote = quote_data if isinstance(quote_data, dict) else {}
-    package = stock_metrics(records, quote)
     current = records[-1]
-    package_metrics = package["metrics"]
+    previous = records[-2] if len(records) > 1 else None
+    price = number(quote.get("regularMarketPrice"))
+    market_cap = number(quote.get("marketCap"))
+    eps = number(current.get("earnings_per_share"))
+    equity = number(current.get("equity"))
+    net_income = number(current.get("net_income"))
+    previous_equity = number(previous.get("equity")) if previous else None
+    average_equity = (equity + previous_equity) / 2 if equity is not None and previous_equity is not None else None
+    roe = net_income / average_equity * 100 if net_income is not None and average_equity and average_equity > 0 else None
+    price_to_earnings = price / eps if price is not None and eps is not None and eps > 0 else None
+    price_to_book = market_cap / equity if market_cap is not None and equity is not None and equity > 0 else None
+
     metrics = {
-        "price": package_metrics["price"],
-        "price_to_earnings": package_metrics["price_to_earnings"],
-        "price_to_book": package_metrics["price_to_book"],
-        "roe_percent": package_metrics["roe_percent"],
-        "earnings_per_share": package_metrics["earnings_per_share"],
-        "revenue_last_annual": package_metrics["revenue_last_annual"],
-        "net_income_last_annual": package_metrics["net_income_last_annual"],
-        "equity": package_metrics["equity_last_annual"],
-        "total_debt": package_metrics["total_debt"],
-        "total_cash": package_metrics["cash_last_annual"],
+        "price": price,
+        "price_to_earnings": price_to_earnings,
+        "price_to_book": price_to_book,
+        "roe_percent": roe,
+        "earnings_per_share": eps,
+        "revenue_last_annual": number(current.get("revenue")),
+        "net_income_last_annual": net_income,
+        "equity": equity,
+        "total_debt": (number(current.get("short_term_debt")) or 0.0) + (number(current.get("long_term_debt")) or 0.0)
+        if number(current.get("short_term_debt")) is not None or number(current.get("long_term_debt")) is not None else None,
+        "total_cash": number(current.get("cash_and_equivalents")),
         "dividends_per_share_ttm": None,
         "payout_percent_ttm": None,
         "dividend_yield_percent_ttm": None,
@@ -459,87 +405,6 @@ async def fundamentals(ticker: str, _: None = Depends(require_api_key)) -> Funda
         raw_data={
             "quote": quote_payload,
             "cvm_financials": snapshot,
-        },
-    )
-
-
-@app.get(
-    "/v1/assets/{ticker}/analysis-package",
-    tags=["Análise"],
-    operation_id="getAssetAnalysisPackage",
-    summary="Gerar pacote padronizado para o GPT Analista B3",
-    response_model=AnalysisPackageResponse,
-)
-async def analysis_package(
-    ticker: str,
-    _: None = Depends(require_api_key),
-) -> AnalysisPackageResponse:
-    ticker = validate_ticker(ticker)
-    asset = registered_asset(ticker)
-    if asset is None:
-        raise HTTPException(status_code=404, detail="Ativo ainda não cadastrado na base automática.")
-
-    quote_payload = await optional_brapi_get("/api/v2/stocks/quote", {"symbols": ticker}) if not demo_mode() else {}
-    quote_data = first_result_data(quote_payload)
-    quote = quote_data if isinstance(quote_data, dict) else {}
-    fundamentals_snapshot = load_cvm_financials(ticker)
-    records = annual_records(fundamentals_snapshot)
-    history_snapshot = load_b3_history(ticker)
-    history = b3_history_for_period(history_snapshot, 5) if history_snapshot else None
-    asset_type = asset.get("asset_type", "unknown")
-    profile = asset.get("accounting_profile", "unknown")
-
-    if asset_type == "stock":
-        fundamentals_data = stock_metrics(records, quote)
-        peer_dimensions = ["P/L", "P/VP", "ROE", "crescimento de lucro", "liquidez"] if profile == "bank" else ["P/L", "P/VP", "ROE", "ROIC", "dívida", "margens"]
-    else:
-        fundamentals_data = {"status": "not_available", "reason": "Coletor FII ainda será integrado à base mensal da CVM."}
-        peer_dimensions = ["P/VP", "DY 12 meses", "vacância", "liquidez", "alavancagem", "concentração"]
-
-    return AnalysisPackageResponse(
-        asset=ticker,
-        asset_type=asset_type,
-        accounting_profile=profile,
-        as_of=datetime.now(timezone.utc).isoformat(),
-        identity={
-            "ticker": ticker,
-            "issuer_name": asset.get("issuer_name"),
-            "cnpj": asset.get("cnpj"),
-            "cvm_code": asset.get("cvm_code"),
-        },
-        market={
-            "status": payload_status(quote_payload, quote_data),
-            "source": "BRAPI",
-            "quote": quote,
-        },
-        price_history=history or {
-            "status": "not_available",
-            "reason": "Histórico B3 ainda não importado para este ativo; BRAPI pode estar limitada pelo plano.",
-        },
-        fundamentals=fundamentals_data,
-        dividends={
-            "status": "not_available",
-            "reason": "Integração de proventos ainda não implementada; não calcular DY ou payout por estimativa.",
-        },
-        official_reports={
-            "status": "not_integrated",
-            "required_sources": ["CVM", "Relações com Investidores/administrador"],
-            "instruction": "Fornecer somente links oficiais, período do documento e data de publicação validada.",
-        },
-        peer_comparison={
-            "status": "not_available",
-            "comparison_dimensions": peer_dimensions,
-            "reason": "A base completa de pares por setor/subsetor ainda será carregada automaticamente.",
-        },
-        data_quality={
-            "do_not_infer_missing_values": True,
-            "market_data_timestamp": quote.get("regularMarketTime"),
-            "fundamentals_source": "CVM DFP anual" if records else "não disponível",
-            "history_source": "B3 COTAHIST" if history else "não disponível",
-            "notes": [
-                "Valores monetários CVM são normalizados para reais.",
-                "Séries anuais não devem ser tratadas como resultados trimestrais ou TTM.",
-            ],
         },
     )
 
