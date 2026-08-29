@@ -1,4 +1,3 @@
-import asyncio
 import json
 import os
 from datetime import date, datetime, timezone
@@ -27,7 +26,7 @@ class SourceMetadata(BaseModel):
 
 class HealthResponse(BaseModel):
     status: str
-    brapi_configured: bool
+    bolsai_configured: bool
     demo_mode: bool
 
 
@@ -53,6 +52,12 @@ class DossierResponse(BaseModel):
     data_quality: dict[str, Any]
 
 
+class DividendsResponse(BaseModel):
+    asset: str
+    source: SourceMetadata
+    raw_data: dict[str, Any]
+
+
 class FundamentalsResponse(BaseModel):
     asset: str
     as_of: str
@@ -73,7 +78,7 @@ class RootResponse(BaseModel):
 app = FastAPI(
     title="GPT Coletor B3 API",
     version="1.0.0",
-    description="API privada que coleta dados da B3 via BRAPI para um GPT personalizado.",
+    description="API privada que coleta, valida e organiza dados da B3 via BolsAI e CVM para um GPT personalizado.",
     servers=[
         {
             "url": os.getenv("PUBLIC_BASE_URL", "https://meu-gpt-b3.onrender.com").rstrip("/"),
@@ -108,44 +113,24 @@ def validate_ticker(ticker: str) -> str:
     return normalized
 
 
-def brapi_configured() -> bool:
-    return bool(env("BRAPI_TOKEN"))
+def bolsai_configured() -> bool:
+    return bool(env("BOLSAI_API_KEY"))
 
 
-def brapi_headers() -> dict[str, str]:
-    return {"Authorization": f"Bearer {env('BRAPI_TOKEN')}"}
+def bolsai_headers() -> dict[str, str]:
+    return {"X-API-Key": env("BOLSAI_API_KEY"), "Accept": "application/json"}
 
 
-def historical_params(ticker: str, years: int) -> dict[str, str]:
+def historical_params(years: int) -> dict[str, str | int]:
     end_date = date.today()
     try:
         start_date = end_date.replace(year=end_date.year - years)
     except ValueError:  # Ajusta 29/02 quando o ano inicial não é bissexto.
         start_date = end_date.replace(year=end_date.year - years, day=28)
-    return {
-        "symbols": ticker,
-        "startDate": start_date.isoformat(),
-        "endDate": end_date.isoformat(),
-        "interval": "1d",
-        "sortOrder": "asc",
-    }
+    return {"start": start_date.isoformat(), "end": end_date.isoformat(), "limit": 5000}
 
 
-def one_year_history_params(ticker: str) -> dict[str, str]:
-    """Fallback explícito para planos BRAPI que não liberam períodos longos."""
-    return {"symbols": ticker, "range": "1y", "interval": "1d", "sortOrder": "asc"}
-
-
-def date_window(ticker: str, years: int = 1) -> dict[str, str]:
-    end_date = date.today()
-    try:
-        start_date = end_date.replace(year=end_date.year - years)
-    except ValueError:
-        start_date = end_date.replace(year=end_date.year - years, day=28)
-    return {"symbols": ticker, "startDate": start_date.isoformat(), "endDate": end_date.isoformat()}
-
-
-def source_metadata(provider: str = "BRAPI") -> SourceMetadata:
+def source_metadata(provider: str = "BolsAI") -> SourceMetadata:
     return SourceMetadata(
         provider=provider,
         retrieved_at=datetime.now(timezone.utc).isoformat(),
@@ -153,37 +138,38 @@ def source_metadata(provider: str = "BRAPI") -> SourceMetadata:
     )
 
 
-async def brapi_get(path: str, params: dict[str, Any]) -> dict[str, Any]:
-    if not brapi_configured():
-        raise HTTPException(status_code=503, detail="BRAPI_TOKEN não configurado no servidor.")
+async def bolsai_get(path: str, params: dict[str, Any] | None = None) -> dict[str, Any]:
+    if not bolsai_configured():
+        raise HTTPException(status_code=503, detail="BOLSAI_API_KEY não configurada no servidor.")
     try:
         async with httpx.AsyncClient(timeout=20.0) as client:
-            response = await client.get(f"https://brapi.dev{path}", headers=brapi_headers(), params=params)
+            base_url = env("BOLSAI_BASE_URL", "https://api.usebolsai.com/api/v1").rstrip("/")
+            response = await client.get(f"{base_url}{path}", headers=bolsai_headers(), params=params or {})
             response.raise_for_status()
             payload = response.json()
     except httpx.HTTPStatusError as error:
         if error.response.status_code == 404:
-            raise HTTPException(status_code=404, detail="Ativo não encontrado na BRAPI.") from error
-        raise HTTPException(status_code=502, detail=f"BRAPI retornou HTTP {error.response.status_code}.") from error
+            raise HTTPException(status_code=404, detail="Ativo não encontrado na BolsAI.") from error
+        if error.response.status_code == 429:
+            raise HTTPException(status_code=429, detail="Limite de requisições da BolsAI atingido.") from error
+        raise HTTPException(status_code=502, detail=f"BolsAI retornou HTTP {error.response.status_code}.") from error
     except (httpx.HTTPError, ValueError) as error:
-        raise HTTPException(status_code=502, detail="Não foi possível consultar a BRAPI.") from error
+        raise HTTPException(status_code=502, detail="Não foi possível consultar a BolsAI.") from error
     return payload if isinstance(payload, dict) else {"data": payload}
 
 
-async def optional_brapi_get(path: str, params: dict[str, Any]) -> dict[str, Any]:
+async def optional_bolsai_get(path: str, params: dict[str, Any] | None = None) -> dict[str, Any]:
     try:
-        return await brapi_get(path, params)
+        return await bolsai_get(path, params)
     except HTTPException as error:
         return {"_error": error.detail, "_status": error.status_code}
 
 
-def first_result_data(payload: dict[str, Any]) -> Any:
+def bolsai_data(payload: dict[str, Any]) -> Any:
     if "_error" in payload:
         return None
-    results = payload.get("results")
-    if not isinstance(results, list) or not results or not isinstance(results[0], dict):
-        return None
-    return results[0].get("data")
+    data = payload.get("data")
+    return data if isinstance(data, dict) else payload
 
 
 def number(value: Any) -> float | None:
@@ -288,7 +274,7 @@ def demo_quote(ticker: str) -> dict[str, Any]:
 
 @app.get("/health", tags=["Status"], operation_id="health", response_model=HealthResponse)
 async def health() -> HealthResponse:
-    return HealthResponse(status="ok", brapi_configured=brapi_configured(), demo_mode=demo_mode())
+    return HealthResponse(status="ok", bolsai_configured=bolsai_configured(), demo_mode=demo_mode())
 
 
 @app.get(
@@ -299,7 +285,7 @@ async def health() -> HealthResponse:
 )
 async def quote(ticker: str, _: None = Depends(require_api_key)) -> QuoteResponse:
     ticker = validate_ticker(ticker)
-    raw_data = demo_quote(ticker) if demo_mode() else await brapi_get("/api/v2/stocks/quote", {"symbols": ticker})
+    raw_data = demo_quote(ticker) if demo_mode() else await bolsai_get(f"/stocks/{ticker}/quote")
     return QuoteResponse(asset=ticker, source=source_metadata(), raw_data=raw_data)
 
 
@@ -315,44 +301,21 @@ async def history(
     _: None = Depends(require_api_key),
 ) -> HistoryResponse:
     ticker = validate_ticker(ticker)
-    b3_snapshot = load_b3_history(ticker)
-    b3_history = b3_history_for_period(b3_snapshot, years) if b3_snapshot else None
-    if b3_history:
-        raw_data = b3_history
-        provider = "B3 - COTAHIST"
-    elif demo_mode():
+    if demo_mode():
         raw_data = {"ticker": ticker, "years": years, "items": [], "notice": "Modo demonstração."}
-        provider = "B3 - COTAHIST"
     else:
-        primary = await optional_brapi_get("/api/v2/stocks/historical", historical_params(ticker, years))
-        if "_error" not in primary:
-            raw_data = {
-                "requested_years": years,
-                "available_years": years,
-                "history": primary,
-                "notice": "Série histórica retornada para o período solicitado.",
-            }
+        payload = await optional_bolsai_get(f"/stocks/{ticker}/history", historical_params(years))
+        raw_data = {
+            "requested_years": years,
+            "history": bolsai_data(payload),
+            "notice": "Histórico solicitado à BolsAI com preços ajustados conforme a metodologia do provedor.",
+        }
+        if "_error" in payload:
+            raw_data["available_years"] = 0
+            raw_data["notice"] = f"Histórico indisponível nesta consulta: {payload['_error']}"
         else:
-            fallback = await optional_brapi_get("/api/v2/stocks/historical", one_year_history_params(ticker))
-            if "_error" not in fallback:
-                raw_data = {
-                    "requested_years": years,
-                    "available_years": 1,
-                    "history": fallback,
-                    "notice": "A BRAPI não liberou o período solicitado neste plano. Retornado somente o histórico de 1 ano; não calcule valorização de 3 anos.",
-                    "primary_request_status": primary,
-                }
-            else:
-                raw_data = {
-                    "requested_years": years,
-                    "available_years": 0,
-                    "history": None,
-                    "notice": "A BRAPI não disponibilizou histórico para este ativo ou plano. Nenhuma valorização foi calculada.",
-                    "primary_request_status": primary,
-                    "fallback_request_status": fallback,
-                }
-        provider = "BRAPI"
-    return HistoryResponse(asset=ticker, years_requested=years, source=source_metadata(provider), raw_data=raw_data)
+            raw_data["available_years"] = years
+    return HistoryResponse(asset=ticker, years_requested=years, source=source_metadata(), raw_data=raw_data)
 
 
 @app.get(
@@ -371,35 +334,44 @@ async def fundamentals(ticker: str, _: None = Depends(require_api_key)) -> Funda
     records = annual_records(snapshot)
     interim_snapshot = load_cvm_interim_financials(ticker)
     interim = interim_records(interim_snapshot)
-    if not records:
+    bolsai_payload = await optional_bolsai_get(f"/fundamentals/{ticker}")
+    bolsai = bolsai_data(bolsai_payload)
+    if not isinstance(bolsai, dict) and not records:
         raise HTTPException(
             status_code=404,
-            detail="Fundamentos CVM ainda não foram importados para este ativo. Execute a atualização automática do universo de ações e a importação DFP em massa.",
+            detail="Fundamentos não localizados na BolsAI nem nos arquivos CVM importados.",
         )
 
-    quote_payload = await optional_brapi_get("/api/v2/stocks/quote", {"symbols": ticker})
-    quote_data = first_result_data(quote_payload)
-    quote = quote_data if isinstance(quote_data, dict) else {}
-    current = records[-1]
+    bolsai = bolsai if isinstance(bolsai, dict) else {}
+    current = records[-1] if records else {}
     previous = records[-2] if len(records) > 1 else None
     latest_interim = interim[-1] if interim else None
-    price = number(quote.get("regularMarketPrice"))
-    market_cap = number(quote.get("marketCap"))
-    eps = number(current.get("earnings_per_share"))
+    price = number(bolsai.get("close_price"))
+    market_cap = number(bolsai.get("market_cap"))
+    eps = number(bolsai.get("lpa")) or number(current.get("earnings_per_share"))
     equity = number(current.get("equity"))
     net_income = number(current.get("net_income"))
     previous_equity = number(previous.get("equity")) if previous else None
     average_equity = (equity + previous_equity) / 2 if equity is not None and previous_equity is not None else None
-    roe = net_income / average_equity * 100 if net_income is not None and average_equity and average_equity > 0 else None
-    price_to_earnings = price / eps if price is not None and eps is not None and eps > 0 else None
-    price_to_book = market_cap / equity if market_cap is not None and equity is not None and equity > 0 else None
+    roe_annual = net_income / average_equity * 100 if net_income is not None and average_equity and average_equity > 0 else None
+    # BolsAI calcula os múltiplos no ticker/classe consultado. Não recriamos
+    # P/VP com preço de uma classe multiplicado por todas as ações da companhia.
+    price_to_earnings = number(bolsai.get("pl"))
+    price_to_book = number(bolsai.get("pvp"))
 
     metrics = {
         "price": price,
+        "market_cap": market_cap,
         "price_to_earnings": price_to_earnings,
         "price_to_book": price_to_book,
-        "roe_percent": roe,
+        "roe_percent": number(bolsai.get("roe")),
+        "roe_percent_annual_cvm": roe_annual,
         "earnings_per_share": eps,
+        "book_value_per_share": number(bolsai.get("vpa")),
+        "ev_ebitda": number(bolsai.get("ev_ebitda")),
+        "net_debt_ebitda": number(bolsai.get("net_debt_ebitda")),
+        "net_margin_percent": number(bolsai.get("net_margin")),
+        "roic_percent": number(bolsai.get("roic")),
         "revenue_last_annual": number(current.get("revenue")),
         "net_income_last_annual": net_income,
         "equity": equity,
@@ -409,37 +381,53 @@ async def fundamentals(ticker: str, _: None = Depends(require_api_key)) -> Funda
         "annual_shares_outstanding": number((current.get("capital_composition") or {}).get("shares_outstanding")),
         "dividends_per_share_ttm": None,
         "payout_percent_ttm": None,
-        "dividend_yield_percent_ttm": None,
+        "dividend_yield_percent_ttm": number(bolsai.get("dividend_yield")),
         "latest_interim_revenue_year_to_date": number(latest_interim.get("revenue_year_to_date")) if latest_interim else None,
         "latest_interim_net_income_year_to_date": number(latest_interim.get("net_income_year_to_date")) if latest_interim else None,
         "latest_interim_equity": number(latest_interim.get("equity")) if latest_interim else None,
         "latest_interim_cash": number(latest_interim.get("cash_and_equivalents")) if latest_interim else None,
     }
     status_by_source = {
-        "quote": payload_status(quote_payload, quote_data),
-        "cvm_dfp": "ok: demonstrações anuais públicas importadas",
+        "bolsai_fundamentals": payload_status(bolsai_payload, bolsai),
+        "cvm_dfp": "ok: demonstrações anuais públicas importadas" if records else "não importado para o ativo",
         "cvm_itr": "ok: ITR público mais recente importado" if latest_interim else "não integrado ou não disponível para o ativo",
-        "dividends": "não integrado: fonte gratuita de proventos será adicionada em etapa posterior",
+        "dividends": "consulte getAssetDividends para histórico, eventos e valores por ação.",
     }
-    current_year = current["year"]
+    current_year = current.get("year")
     return FundamentalsResponse(
         asset=ticker,
         as_of=datetime.now(timezone.utc).isoformat(),
-        period_start=f"{current_year}-01-01",
-        period_end=f"{current_year}-12-31",
+        period_start=f"{current_year}-01-01" if current_year else "",
+        period_end=f"{current_year}-12-31" if current_year else "",
         metrics=metrics,
         formulas={
-            "price_to_earnings": "cotação atual ÷ lucro por ação anual divulgado no DFP",
-            "price_to_book": "valor de mercado da cotação BRAPI ÷ patrimônio líquido anual divulgado no DFP",
-            "roe_percent": "lucro líquido anual ÷ patrimônio líquido médio de dois exercícios × 100",
+            "price_to_earnings": "múltiplo P/L informado pela BolsAI para o ticker/classe consultado",
+            "price_to_book": "múltiplo P/VP informado pela BolsAI para o ticker/classe consultado",
+            "roe_percent": "ROE informado pela BolsAI; roe_percent_annual_cvm usa lucro anual ÷ patrimônio líquido médio × 100",
         },
         source_status=status_by_source,
         raw_data={
-            "quote": quote_payload,
+            "bolsai_fundamentals": bolsai_payload,
             "cvm_financials": snapshot,
             "cvm_itr": interim_snapshot,
         },
     )
+
+
+@app.get(
+    "/v1/assets/{ticker}/dividends",
+    tags=["Proventos"],
+    operation_id="getAssetDividends",
+    summary="Consultar dividendos e JCP de uma ação",
+    response_model=DividendsResponse,
+)
+async def dividends(ticker: str, _: None = Depends(require_api_key)) -> DividendsResponse:
+    ticker = validate_ticker(ticker)
+    if demo_mode():
+        raw_data = {"ticker": ticker, "notice": "Proventos indisponíveis no modo demonstração."}
+    else:
+        raw_data = await bolsai_get(f"/dividends/{ticker}")
+    return DividendsResponse(asset=ticker, source=source_metadata(), raw_data=raw_data)
 
 
 @app.get(
@@ -457,16 +445,22 @@ async def dossier(
     if demo_mode():
         quote_data = demo_quote(ticker)
         history_data = {"ticker": ticker, "years": years, "items": []}
+        fundamentals_data = {}
+        dividends_data = {}
     else:
-        quote_data = await brapi_get("/api/v2/stocks/quote", {"symbols": ticker})
-        history_data = await brapi_get("/api/v2/stocks/historical", historical_params(ticker, years))
+        quote_data = await bolsai_get(f"/stocks/{ticker}/quote")
+        # Histórico, dividendos e demonstrações podem depender do plano da
+        # BolsAI. Um bloqueio de plano não deve inutilizar o dossiê inteiro.
+        history_data = await optional_bolsai_get(f"/stocks/{ticker}/history", historical_params(years))
+        fundamentals_data = await optional_bolsai_get(f"/fundamentals/{ticker}")
+        dividends_data = await optional_bolsai_get(f"/dividends/{ticker}")
     return DossierResponse(
         asset=ticker,
         years_requested=years,
         source=source_metadata(),
-        market_data={"quote": quote_data, "history": history_data},
+        market_data={"quote": quote_data, "history": history_data, "fundamentals": fundamentals_data, "dividends": dividends_data},
         reports={"status": "not_integrated", "message": "Relatórios oficiais ainda exigem integração com RI, CVM e administradores."},
-        data_quality={"do_not_infer_missing_values": True, "note": "Dados retornados diretamente pela BRAPI."},
+        data_quality={"do_not_infer_missing_values": True, "note": "Dados de mercado e indicadores retornados pela BolsAI; demonstrações CVM e documentos oficiais devem prevalecer em divergências."},
     )
 
 
