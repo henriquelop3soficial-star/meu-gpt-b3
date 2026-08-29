@@ -123,10 +123,39 @@ def account_value(rows: list[dict[str, str]], account_code: str | None, monetary
     return scale_to_brl(value, matches[0].get("ESCALA_MOEDA")) if monetary else value
 
 
-def make_record(asset: dict[str, str], year: int, dre: dict[str, list[dict[str, str]]], bpp: dict[str, list[dict[str, str]]], bpa: dict[str, list[dict[str, str]]]) -> dict[str, Any]:
+def latest_capital_by_cnpj(rows: list[dict[str, str]]) -> dict[str, dict[str, str]]:
+    grouped: dict[str, dict[str, str]] = {}
+    for row in rows:
+        cnpj = re.sub(r"\D", "", row.get("CNPJ_CIA", ""))
+        if not cnpj:
+            continue
+        previous = grouped.get(cnpj)
+        if previous is None or (row.get("VERSAO", "0"), row.get("DT_REFER", "")) >= (previous.get("VERSAO", "0"), previous.get("DT_REFER", "")):
+            grouped[cnpj] = row
+    return grouped
+
+
+def share_count(value: str | None) -> float | None:
+    try:
+        return float((value or "").strip())
+    except ValueError:
+        return None
+
+
+def make_record(
+    asset: dict[str, str],
+    year: int,
+    dre: dict[str, list[dict[str, str]]],
+    bpp: dict[str, list[dict[str, str]]],
+    bpa: dict[str, list[dict[str, str]]],
+    capital: dict[str, dict[str, str]],
+) -> dict[str, Any]:
     profile = asset.get("accounting_profile") or "non_financial"
     mapping = ACCOUNT_MAPPINGS.get(profile, ACCOUNT_MAPPINGS["non_financial"])
     cvm_code = normalize_cvm_code(asset["cvm_code"])
+    capital_row = capital.get(re.sub(r"\D", "", asset.get("cnpj", "")), {})
+    total = share_count(capital_row.get("QT_ACAO_TOTAL_CAP_INTEGR"))
+    treasury = share_count(capital_row.get("QT_ACAO_TOTAL_TESOURO"))
     return {
         "year": year,
         "accounting_profile": profile,
@@ -137,6 +166,15 @@ def make_record(asset: dict[str, str], year: int, dre: dict[str, list[dict[str, 
         "cash_and_equivalents": account_value(bpa.get(cvm_code, []), mapping["cash_and_equivalents"]),
         "short_term_debt": account_value(bpp.get(cvm_code, []), mapping["short_term_debt"]),
         "long_term_debt": account_value(bpp.get(cvm_code, []), mapping["long_term_debt"]),
+        "capital_composition": {
+            "ordinary_shares": share_count(capital_row.get("QT_ACAO_ORDIN_CAP_INTEGR")),
+            "preferred_shares": share_count(capital_row.get("QT_ACAO_PREF_CAP_INTEGR")),
+            "total_shares": total,
+            "treasury_shares": treasury,
+            "shares_outstanding": total - treasury if total is not None and treasury is not None else None,
+            "reference_date": capital_row.get("DT_REFER") or None,
+            "source": "DFP - Composição do Capital",
+        },
         "source": {"provider": "CVM Dados Abertos", "dataset": "DFP - Demonstrações Financeiras Padronizadas", "url": CVM_URL.format(year=year)},
         "notes": [
             "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
@@ -146,7 +184,7 @@ def make_record(asset: dict[str, str], year: int, dre: dict[str, list[dict[str, 
     }
 
 
-def load_year(year: int) -> tuple[dict[str, list[dict[str, str]]], dict[str, list[dict[str, str]]], dict[str, list[dict[str, str]]]]:
+def load_year(year: int) -> tuple[dict[str, list[dict[str, str]]], dict[str, list[dict[str, str]]], dict[str, list[dict[str, str]]], dict[str, dict[str, str]]]:
     temporary = download_archive(year)
     try:
         with zipfile.ZipFile(temporary) as archive:
@@ -154,6 +192,7 @@ def load_year(year: int) -> tuple[dict[str, list[dict[str, str]]], dict[str, lis
                 latest_rows_by_company(read_csv_from_zip(archive, f"dfp_cia_aberta_DRE_con_{year}.csv")),
                 latest_rows_by_company(read_csv_from_zip(archive, f"dfp_cia_aberta_BPP_con_{year}.csv")),
                 latest_rows_by_company(read_csv_from_zip(archive, f"dfp_cia_aberta_BPA_con_{year}.csv")),
+                latest_capital_by_cnpj(read_csv_from_zip(archive, f"dfp_cia_aberta_composicao_capital_{year}.csv")),
             )
     finally:
         temporary.unlink(missing_ok=True)
@@ -169,7 +208,7 @@ def main() -> None:
     assets = load_assets()
     if not assets:
         raise SystemExit("Nenhuma ação vinculada à CVM foi encontrada em data/assets.csv.")
-    source_by_year: dict[int, tuple[dict[str, list[dict[str, str]]], dict[str, list[dict[str, str]]], dict[str, list[dict[str, str]]]]] = {}
+    source_by_year: dict[int, tuple[Any, Any, Any, Any]] = {}
     year_errors: dict[str, str] = {}
     for year in arguments.years:
         try:
