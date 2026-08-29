@@ -1,1 +1,36 @@
+name: Atualizar universo e fundamentos de ações
 
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "20 8 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      BRAPI_TOKEN: ${{ secrets.BRAPI_TOKEN }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Atualizar ações e Units vinculados à CVM
+        run: python scripts/import_stock_universe.py
+
+      - name: Importar DFPs para todo o universo
+        run: python scripts/import_cvm_dfp_bulk.py --years 2023 2024 2025
+
+      - name: Salvar dados atualizados
+        run: |
+          git config user.name "coletor-b3-bot"
+          git config user.email "actions@github.com"
+          git add data/assets.csv data/assets_unresolved.csv data/universe_import_report.json data/dfp_import_report.json data/fundamentals
+          git diff --cached --quiet || git commit -m "Atualiza universo e fundamentos de ações"
+          git push
