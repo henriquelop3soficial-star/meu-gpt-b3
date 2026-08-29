@@ -4,7 +4,7 @@
   "issuer_name": "BANCO DO BRASIL S.A.",
   "cnpj": "00000000000191",
   "cvm_code": "1023",
-  "updated_at": "2026-08-29T01:16:41.749097+00:00",
+  "updated_at": "2026-08-29T01:35:07.237834+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 54999815000.0,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 2865417020.0,
+        "preferred_shares": 0.0,
+        "total_shares": 2865417020.0,
+        "treasury_shares": 11640980.0,
+        "shares_outstanding": 2853776040.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -37,6 +46,15 @@
       "cash_and_equivalents": 83167243000.0,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 5730834040.0,
+        "preferred_shares": 0.0,
+        "total_shares": 5730834040.0,
+        "treasury_shares": 22786568.0,
+        "shares_outstanding": 5708047472.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -58,6 +76,15 @@
       "cash_and_equivalents": 59635525000.0,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 5730834040.0,
+        "preferred_shares": 0.0,
+        "total_shares": 5730834040.0,
+        "treasury_shares": 22370399.0,
+        "shares_outstanding": 5708463641.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

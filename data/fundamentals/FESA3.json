@@ -4,7 +4,7 @@
   "issuer_name": "CIA FERRO LIGAS BAHIA FERBASA",
   "cnpj": "15141799000103",
   "cvm_code": "3069",
-  "updated_at": "2026-08-29T01:16:41.800819+00:00",
+  "updated_at": "2026-08-29T01:35:07.298084+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 341787000.0,
       "short_term_debt": 72221000.0,
       "long_term_debt": 199164000.0,
+      "capital_composition": {
+        "ordinary_shares": 29440000.0,
+        "preferred_shares": 58880000.0,
+        "total_shares": 88320000.0,
+        "treasury_shares": 3223300.0,
+        "shares_outstanding": 85096700.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 464086000.0,
       "short_term_debt": 260788000.0,
       "long_term_debt": 159768000.0,
+      "capital_composition": {
+        "ordinary_shares": 117725000.0,
+        "preferred_shares": 235450000.0,
+        "total_shares": 353175000.0,
+        "treasury_shares": 12788200.0,
+        "shares_outstanding": 340386800.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 372724000.0,
       "short_term_debt": 31632000.0,
       "long_term_debt": 332621000.0,
+      "capital_composition": {
+        "ordinary_shares": 117725000.0,
+        "preferred_shares": 235450000.0,
+        "total_shares": 353175000.0,
+        "treasury_shares": 14307400.0,
+        "shares_outstanding": 338867600.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

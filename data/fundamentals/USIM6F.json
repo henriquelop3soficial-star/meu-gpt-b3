@@ -4,7 +4,7 @@
   "issuer_name": "USINAS SID DE MINAS GERAIS S.A.-USIMINAS",
   "cnpj": "60894730000105",
   "cvm_code": "14320",
-  "updated_at": "2026-08-29T01:16:41.927841+00:00",
+  "updated_at": "2026-08-29T01:35:07.450566+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 5323851000.0,
       "short_term_debt": 122887000.0,
       "long_term_debt": 5793223000.0,
+      "capital_composition": {
+        "ordinary_shares": 705260684.0,
+        "preferred_shares": 547818424.0,
+        "total_shares": 1253079108.0,
+        "treasury_shares": 22136448.0,
+        "shares_outstanding": 1230942660.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 5200342000.0,
       "short_term_debt": 150743000.0,
       "long_term_debt": 6617591000.0,
+      "capital_composition": {
+        "ordinary_shares": 705260684.0,
+        "preferred_shares": 547818424.0,
+        "total_shares": 1253079108.0,
+        "treasury_shares": 22136448.0,
+        "shares_outstanding": 1230942660.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 5141617000.0,
       "short_term_debt": 184291000.0,
       "long_term_debt": 6205848000.0,
+      "capital_composition": {
+        "ordinary_shares": 705260684.0,
+        "preferred_shares": 547818424.0,
+        "total_shares": 1253079108.0,
+        "treasury_shares": 22136448.0,
+        "shares_outstanding": 1230942660.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

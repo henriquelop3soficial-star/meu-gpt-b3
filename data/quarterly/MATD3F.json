@@ -1,0 +1,111 @@
+{
+  "ticker": "MATD3F",
+  "asset_type": "stock",
+  "issuer_name": "HOSPITAL MATER DEI S.A.",
+  "cnpj": "16676520000159",
+  "cvm_code": "25690",
+  "updated_at": "2026-08-29T01:35:20.615095+00:00",
+  "interim_financials": [
+    {
+      "reference_date": "2025-03-31",
+      "period_start": "2025-01-01",
+      "period_end": "2025-03-31",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 499318000.0,
+      "net_income_year_to_date": 20173000.0,
+      "equity": 1485017000.0,
+      "cash_and_equivalents": 616113000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2025-06-30",
+      "period_start": "2025-01-01",
+      "period_end": "2025-06-30",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 545807000.0,
+      "net_income_year_to_date": 27091000.0,
+      "equity": 1481032000.0,
+      "cash_and_equivalents": 613537000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2025-09-30",
+      "period_start": "2025-01-01",
+      "period_end": "2025-09-30",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 567857000.0,
+      "net_income_year_to_date": 27482000.0,
+      "equity": 1492682000.0,
+      "cash_and_equivalents": 654027000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2026-03-31",
+      "period_start": "2026-01-01",
+      "period_end": "2026-03-31",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 574958000.0,
+      "net_income_year_to_date": 32566000.0,
+      "equity": 1511700000.0,
+      "cash_and_equivalents": 556803000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2026.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2026-06-30",
+      "period_start": "2026-01-01",
+      "period_end": "2026-06-30",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 613633000.0,
+      "net_income_year_to_date": 44987000.0,
+      "equity": 1507288000.0,
+      "cash_and_equivalents": 599902000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2026.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    }
+  ],
+  "errors": []
+}

@@ -4,7 +4,7 @@
   "issuer_name": "MRV ENGENHARIA E PARTICIPAÇÕES S/A",
   "cnpj": "08343492000120",
   "cvm_code": "20915",
-  "updated_at": "2026-08-29T01:16:41.848810+00:00",
+  "updated_at": "2026-08-29T01:35:07.354393+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 406767000.0,
       "short_term_debt": 1365635000.0,
       "long_term_debt": 6481636000.0,
+      "capital_composition": {
+        "ordinary_shares": 561971.0,
+        "preferred_shares": 0.0,
+        "total_shares": 561971.0,
+        "treasury_shares": 1.0,
+        "shares_outstanding": 561970.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 414563000.0,
       "short_term_debt": 3177766000.0,
       "long_term_debt": 6602852000.0,
+      "capital_composition": {
+        "ordinary_shares": 562827.0,
+        "preferred_shares": 0.0,
+        "total_shares": 562827.0,
+        "treasury_shares": 1.0,
+        "shares_outstanding": 562826.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 255863000.0,
       "short_term_debt": 1237427000.0,
       "long_term_debt": 7364579000.0,
+      "capital_composition": {
+        "ordinary_shares": 562827.0,
+        "preferred_shares": 0.0,
+        "total_shares": 562827.0,
+        "treasury_shares": 1.0,
+        "shares_outstanding": 562826.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

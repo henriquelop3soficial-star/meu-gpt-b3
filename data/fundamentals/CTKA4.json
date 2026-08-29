@@ -4,7 +4,7 @@
   "issuer_name": "KARSTEN SA",
   "cnpj": "82640558000104",
   "cvm_code": "4146",
-  "updated_at": "2026-08-29T01:16:41.777350+00:00",
+  "updated_at": "2026-08-29T01:35:07.270305+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 6158000.0,
       "short_term_debt": 60889000.0,
       "long_term_debt": 441125000.0,
+      "capital_composition": {
+        "ordinary_shares": 2878.0,
+        "preferred_shares": 3327.0,
+        "total_shares": 6205.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 6205.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 10650000.0,
       "short_term_debt": 38692000.0,
       "long_term_debt": 400317000.0,
+      "capital_composition": {
+        "ordinary_shares": 2878.0,
+        "preferred_shares": 3327.0,
+        "total_shares": 6205.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 6205.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 14337000.0,
       "short_term_debt": 30733000.0,
       "long_term_debt": 379040000.0,
+      "capital_composition": {
+        "ordinary_shares": 2878.0,
+        "preferred_shares": 3327.0,
+        "total_shares": 6205.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 6205.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

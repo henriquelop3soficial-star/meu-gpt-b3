@@ -4,7 +4,7 @@
   "issuer_name": "LOG COMMERCIAL PROPERTIES E PARTICIPAÇÕES",
   "cnpj": "09041168000110",
   "cvm_code": "23272",
-  "updated_at": "2026-08-29T01:16:41.833787+00:00",
+  "updated_at": "2026-08-29T01:35:07.337009+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 396515000.0,
       "short_term_debt": 240843000.0,
       "long_term_debt": 1656894000.0,
+      "capital_composition": {
+        "ordinary_shares": 102159.0,
+        "preferred_shares": 0.0,
+        "total_shares": 102159.0,
+        "treasury_shares": 1719.0,
+        "shares_outstanding": 100440.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 226237000.0,
       "short_term_debt": 243042000.0,
       "long_term_debt": 1823160000.0,
+      "capital_composition": {
+        "ordinary_shares": 87859.0,
+        "preferred_shares": 0.0,
+        "total_shares": 87859.0,
+        "treasury_shares": 828.0,
+        "shares_outstanding": 87031.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 6050000.0,
       "short_term_debt": 478364000.0,
       "long_term_debt": 1760393000.0,
+      "capital_composition": {
+        "ordinary_shares": 87859.0,
+        "preferred_shares": 0.0,
+        "total_shares": 87859.0,
+        "treasury_shares": 434.0,
+        "shares_outstanding": 87425.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

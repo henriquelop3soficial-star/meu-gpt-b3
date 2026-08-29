@@ -1,0 +1,111 @@
+{
+  "ticker": "SANB3",
+  "asset_type": "stock",
+  "issuer_name": "BANCO SANTANDER (BRASIL) S.A.",
+  "cnpj": "90400888000142",
+  "cvm_code": "20532",
+  "updated_at": "2026-08-29T01:35:20.828655+00:00",
+  "interim_financials": [
+    {
+      "reference_date": "2025-03-31",
+      "period_start": "2025-01-01",
+      "period_end": "2025-03-31",
+      "period_type": "year_to_date",
+      "accounting_profile": "bank",
+      "revenue_year_to_date": 38750552000.0,
+      "net_income_year_to_date": null,
+      "equity": 0.0,
+      "cash_and_equivalents": 26989437000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2025-06-30",
+      "period_start": "2025-01-01",
+      "period_end": "2025-06-30",
+      "period_type": "year_to_date",
+      "accounting_profile": "bank",
+      "revenue_year_to_date": 40645279000.0,
+      "net_income_year_to_date": null,
+      "equity": 0.0,
+      "cash_and_equivalents": 24371817000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2025-09-30",
+      "period_start": "2025-01-01",
+      "period_end": "2025-09-30",
+      "period_type": "year_to_date",
+      "accounting_profile": "bank",
+      "revenue_year_to_date": 40505744000.0,
+      "net_income_year_to_date": null,
+      "equity": 0.0,
+      "cash_and_equivalents": 21583905000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2026-03-31",
+      "period_start": "2026-01-01",
+      "period_end": "2026-03-31",
+      "period_type": "year_to_date",
+      "accounting_profile": "bank",
+      "revenue_year_to_date": 42434402000.0,
+      "net_income_year_to_date": null,
+      "equity": 0.0,
+      "cash_and_equivalents": 25247371000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2026.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2026-06-30",
+      "period_start": "2026-01-01",
+      "period_end": "2026-06-30",
+      "period_type": "year_to_date",
+      "accounting_profile": "bank",
+      "revenue_year_to_date": 43039312000.0,
+      "net_income_year_to_date": null,
+      "equity": 0.0,
+      "cash_and_equivalents": 28089594000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2026.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    }
+  ],
+  "errors": []
+}

@@ -4,7 +4,7 @@
   "issuer_name": "GRENDENE SA",
   "cnpj": "89850341000160",
   "cvm_code": "19615",
-  "updated_at": "2026-08-29T01:16:41.811538+00:00",
+  "updated_at": "2026-08-29T01:35:07.310830+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 73735000.0,
       "short_term_debt": 94202000.0,
       "long_term_debt": 22225000.0,
+      "capital_composition": {
+        "ordinary_shares": 902157.0,
+        "preferred_shares": 0.0,
+        "total_shares": 902157.0,
+        "treasury_shares": 3.0,
+        "shares_outstanding": 902154.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 76109000.0,
       "short_term_debt": 65488000.0,
       "long_term_debt": 23336000.0,
+      "capital_composition": {
+        "ordinary_shares": 902160.0,
+        "preferred_shares": 0.0,
+        "total_shares": 902160.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 902160.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 70158000.0,
       "short_term_debt": 56916000.0,
       "long_term_debt": 13651000.0,
+      "capital_composition": {
+        "ordinary_shares": 902160.0,
+        "preferred_shares": 0.0,
+        "total_shares": 902160.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 902160.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

@@ -4,7 +4,7 @@
   "issuer_name": "MOVIDA PARTICIPAÇÕES S.A.",
   "cnpj": "21314559000166",
   "cvm_code": "23825",
-  "updated_at": "2026-08-29T01:16:41.847959+00:00",
+  "updated_at": "2026-08-29T01:35:07.353401+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 133394000.0,
       "short_term_debt": 1281459000.0,
       "long_term_debt": 14017987000.0,
+      "capital_composition": {
+        "ordinary_shares": 362302086.0,
+        "preferred_shares": 0.0,
+        "total_shares": 362302086.0,
+        "treasury_shares": 4521816.0,
+        "shares_outstanding": 357780270.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 677895000.0,
       "short_term_debt": 2376606000.0,
       "long_term_debt": 18114908000.0,
+      "capital_composition": {
+        "ordinary_shares": 362302086.0,
+        "preferred_shares": 0.0,
+        "total_shares": 362302086.0,
+        "treasury_shares": 5189833.0,
+        "shares_outstanding": 357112253.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 1322044000.0,
       "short_term_debt": 4302680000.0,
       "long_term_debt": 17607242000.0,
+      "capital_composition": {
+        "ordinary_shares": 347931466.0,
+        "preferred_shares": 0.0,
+        "total_shares": 347931466.0,
+        "treasury_shares": 8775700.0,
+        "shares_outstanding": 339155766.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

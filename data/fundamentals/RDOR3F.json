@@ -4,7 +4,7 @@
   "issuer_name": "REDE D'OR SÃO LUIZ S.A.",
   "cnpj": "06047087000139",
   "cvm_code": "24821",
-  "updated_at": "2026-08-29T01:16:41.880073+00:00",
+  "updated_at": "2026-08-29T01:35:07.406442+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 3267408000.0,
       "short_term_debt": 2918435000.0,
       "long_term_debt": 31667514000.0,
+      "capital_composition": {
+        "ordinary_shares": 2289292590.0,
+        "preferred_shares": 0.0,
+        "total_shares": 2289292590.0,
+        "treasury_shares": 34685880.0,
+        "shares_outstanding": 2254606710.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 6570751000.0,
       "short_term_debt": 3915191000.0,
       "long_term_debt": 34955408000.0,
+      "capital_composition": {
+        "ordinary_shares": 2289292590.0,
+        "preferred_shares": 0.0,
+        "total_shares": 2289292590.0,
+        "treasury_shares": 69172994.0,
+        "shares_outstanding": 2220119596.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 3705415000.0,
       "short_term_debt": 1712740000.0,
       "long_term_debt": 44521391000.0,
+      "capital_composition": {
+        "ordinary_shares": 2289292590.0,
+        "preferred_shares": 0.0,
+        "total_shares": 2289292590.0,
+        "treasury_shares": 82882567.0,
+        "shares_outstanding": 2206410023.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

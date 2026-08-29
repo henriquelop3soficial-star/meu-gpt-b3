@@ -4,7 +4,7 @@
   "issuer_name": "BRASKEM S.A.",
   "cnpj": "42150391000170",
   "cvm_code": "4820",
-  "updated_at": "2026-08-29T01:16:41.761525+00:00",
+  "updated_at": "2026-08-29T01:35:07.252741+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 14187000000.0,
       "short_term_debt": 2029000000.0,
       "long_term_debt": 40207000000.0,
+      "capital_composition": {
+        "ordinary_shares": 451668652.0,
+        "preferred_shares": 345539182.0,
+        "total_shares": 797207834.0,
+        "treasury_shares": 27.0,
+        "shares_outstanding": 797207807.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 14986000000.0,
       "short_term_debt": 2278000000.0,
       "long_term_debt": 50954000000.0,
+      "capital_composition": {
+        "ordinary_shares": 451668652.0,
+        "preferred_shares": 345539155.0,
+        "total_shares": 797207807.0,
+        "treasury_shares": 27.0,
+        "shares_outstanding": 797207780.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 10501000000.0,
       "short_term_debt": 8268000000.0,
       "long_term_debt": 43553000000.0,
+      "capital_composition": {
+        "ordinary_shares": 451668652.0,
+        "preferred_shares": 345539155.0,
+        "total_shares": 797207807.0,
+        "treasury_shares": 27.0,
+        "shares_outstanding": 797207780.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

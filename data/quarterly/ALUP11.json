@@ -1,0 +1,111 @@
+{
+  "ticker": "ALUP11",
+  "asset_type": "stock",
+  "issuer_name": "ALUPAR INVESTIMENTO S/A",
+  "cnpj": "08364948000138",
+  "cvm_code": "21490",
+  "updated_at": "2026-08-29T01:35:20.120915+00:00",
+  "interim_financials": [
+    {
+      "reference_date": "2025-03-31",
+      "period_start": "2025-01-01",
+      "period_end": "2025-03-31",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 1223731000.0,
+      "net_income_year_to_date": 485300000.0,
+      "equity": 12183248000.0,
+      "cash_and_equivalents": 957628000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2025-06-30",
+      "period_start": "2025-01-01",
+      "period_end": "2025-06-30",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 1047140000.0,
+      "net_income_year_to_date": 283833000.0,
+      "equity": 12053549000.0,
+      "cash_and_equivalents": 754650000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2025-09-30",
+      "period_start": "2025-01-01",
+      "period_end": "2025-09-30",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 963353000.0,
+      "net_income_year_to_date": 532596000.0,
+      "equity": 12360272000.0,
+      "cash_and_equivalents": 569032000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2026-03-31",
+      "period_start": "2026-01-01",
+      "period_end": "2026-03-31",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 1255635000.0,
+      "net_income_year_to_date": 337846000.0,
+      "equity": 12829858000.0,
+      "cash_and_equivalents": 792531000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2026.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2026-06-30",
+      "period_start": "2026-01-01",
+      "period_end": "2026-06-30",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 1627285000.0,
+      "net_income_year_to_date": 712471000.0,
+      "equity": 13378882000.0,
+      "cash_and_equivalents": 759240000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2026.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    }
+  ],
+  "errors": []
+}

@@ -4,7 +4,7 @@
   "issuer_name": "DIAGNOSTICOS DA AMERICA SA",
   "cnpj": "61486650000183",
   "cvm_code": "19623",
-  "updated_at": "2026-08-29T01:16:41.782036+00:00",
+  "updated_at": "2026-08-29T01:35:07.275875+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 1585194000.0,
       "short_term_debt": 1518796000.0,
       "long_term_debt": 9132641000.0,
+      "capital_composition": {
+        "ordinary_shares": 752799844.0,
+        "preferred_shares": 0.0,
+        "total_shares": 752799844.0,
+        "treasury_shares": 5751757.0,
+        "shares_outstanding": 747048087.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 1742762000.0,
       "short_term_debt": 937851000.0,
       "long_term_debt": 9459158000.0,
+      "capital_composition": {
+        "ordinary_shares": 1255006644.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1255006644.0,
+        "treasury_shares": 5361750.0,
+        "shares_outstanding": 1249644894.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 2665170000.0,
       "short_term_debt": 1902059000.0,
       "long_term_debt": 5732463000.0,
+      "capital_composition": {
+        "ordinary_shares": 1255007048.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1255007048.0,
+        "treasury_shares": 5232506.0,
+        "shares_outstanding": 1249774542.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

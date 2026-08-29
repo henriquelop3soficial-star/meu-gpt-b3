@@ -4,7 +4,7 @@
   "issuer_name": "EVEN CONSTRUTORA E INCORPORADORA S/A",
   "cnpj": "43470988000165",
   "cvm_code": "20524",
-  "updated_at": "2026-08-29T01:16:41.799641+00:00",
+  "updated_at": "2026-08-29T01:35:07.296717+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 31072000.0,
       "short_term_debt": 236286000.0,
       "long_term_debt": 1095086000.0,
+      "capital_composition": {
+        "ordinary_shares": 200000000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 200000000.0,
+        "treasury_shares": 1346976.0,
+        "shares_outstanding": 198653024.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 18337000.0,
       "short_term_debt": 276311000.0,
       "long_term_debt": 900510000.0,
+      "capital_composition": {
+        "ordinary_shares": 200000000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 200000000.0,
+        "treasury_shares": 3143749.0,
+        "shares_outstanding": 196856251.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 11034000.0,
       "short_term_debt": 221346000.0,
       "long_term_debt": 1269564000.0,
+      "capital_composition": {
+        "ordinary_shares": 200000000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 200000000.0,
+        "treasury_shares": 3979536.0,
+        "shares_outstanding": 196020464.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

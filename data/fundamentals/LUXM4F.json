@@ -4,7 +4,7 @@
   "issuer_name": "TREVISA  INVESTIMENTOS SA",
   "cnpj": "92660570000126",
   "cvm_code": "8192",
-  "updated_at": "2026-08-29T01:16:41.837463+00:00",
+  "updated_at": "2026-08-29T01:35:07.341486+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 13612000.0,
       "short_term_debt": 2937000.0,
       "long_term_debt": 245000.0,
+      "capital_composition": {
+        "ordinary_shares": 9192.0,
+        "preferred_shares": 11592.0,
+        "total_shares": 20784.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 20784.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 10877000.0,
       "short_term_debt": 844000.0,
       "long_term_debt": 4445000.0,
+      "capital_composition": {
+        "ordinary_shares": 9192.0,
+        "preferred_shares": 11592.0,
+        "total_shares": 20784.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 20784.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 28108000.0,
       "short_term_debt": 1667000.0,
       "long_term_debt": 16687000.0,
+      "capital_composition": {
+        "ordinary_shares": 18384.0,
+        "preferred_shares": 23184.0,
+        "total_shares": 41568.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 41568.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

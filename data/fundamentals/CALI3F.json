@@ -4,7 +4,7 @@
   "issuer_name": "CONSTRUTORA ADOLPHO LINDENBERG S.A.",
   "cnpj": "61022042000118",
   "cvm_code": "4723",
-  "updated_at": "2026-08-29T01:16:41.763791+00:00",
+  "updated_at": "2026-08-29T01:35:07.255354+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 7435000.0,
       "short_term_debt": 17293000.0,
       "long_term_debt": 27243000.0,
+      "capital_composition": {
+        "ordinary_shares": 3720971.0,
+        "preferred_shares": 0.0,
+        "total_shares": 3720971.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 3720971.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 6868000.0,
       "short_term_debt": 27757000.0,
       "long_term_debt": 42475000.0,
+      "capital_composition": {
+        "ordinary_shares": 3721065.0,
+        "preferred_shares": 0.0,
+        "total_shares": 3721065.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 3721065.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 159049000.0,
       "short_term_debt": 23845000.0,
       "long_term_debt": 279933000.0,
+      "capital_composition": {
+        "ordinary_shares": 6988800.0,
+        "preferred_shares": 0.0,
+        "total_shares": 6988800.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 6988800.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

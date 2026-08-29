@@ -4,7 +4,7 @@
   "issuer_name": "VULCABRAS S.A.",
   "cnpj": "50926955000142",
   "cvm_code": "11762",
-  "updated_at": "2026-08-29T01:16:41.935489+00:00",
+  "updated_at": "2026-08-29T01:35:07.460229+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 361020000.0,
       "short_term_debt": 234497000.0,
       "long_term_debt": 203253000.0,
+      "capital_composition": {
+        "ordinary_shares": 245916.0,
+        "preferred_shares": 0.0,
+        "total_shares": 245916.0,
+        "treasury_shares": 766.0,
+        "shares_outstanding": 245150.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 307660000.0,
       "short_term_debt": 200209000.0,
       "long_term_debt": 136643000.0,
+      "capital_composition": {
+        "ordinary_shares": 274656.0,
+        "preferred_shares": 0.0,
+        "total_shares": 274656.0,
+        "treasury_shares": 3107.0,
+        "shares_outstanding": 271549.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 203970000.0,
       "short_term_debt": 331926000.0,
       "long_term_debt": 644343000.0,
+      "capital_composition": {
+        "ordinary_shares": 316502.0,
+        "preferred_shares": 0.0,
+        "total_shares": 316502.0,
+        "treasury_shares": 3869.0,
+        "shares_outstanding": 312633.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

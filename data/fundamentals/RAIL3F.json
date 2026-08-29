@@ -4,7 +4,7 @@
   "issuer_name": "RUMO S.A.",
   "cnpj": "02387241000160",
   "cvm_code": "17450",
-  "updated_at": "2026-08-29T01:16:41.875322+00:00",
+  "updated_at": "2026-08-29T01:35:07.400502+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 7233993000.0,
       "short_term_debt": 1356905000.0,
       "long_term_debt": 17607936000.0,
+      "capital_composition": {
+        "ordinary_shares": 1854868949.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1854868949.0,
+        "treasury_shares": 5365279.0,
+        "shares_outstanding": 1849503670.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 7461618000.0,
       "short_term_debt": 1241113000.0,
       "long_term_debt": 17882105000.0,
+      "capital_composition": {
+        "ordinary_shares": 1854868949.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1854868949.0,
+        "treasury_shares": 4172689.0,
+        "shares_outstanding": 1850696260.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 7018132000.0,
       "short_term_debt": 846430000.0,
       "long_term_debt": 22277407000.0,
+      "capital_composition": {
+        "ordinary_shares": 1858828617.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1858828617.0,
+        "treasury_shares": 3042509.0,
+        "shares_outstanding": 1855786108.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

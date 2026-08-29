@@ -4,7 +4,7 @@
   "issuer_name": "AMBIPAR PARTICIPAÇÕES E EMPREENDIMENTOS S.A.",
   "cnpj": "12648266000124",
   "cvm_code": "24961",
-  "updated_at": "2026-08-29T01:16:41.735847+00:00",
+  "updated_at": "2026-08-29T01:35:07.221173+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 2739836000.0,
       "short_term_debt": 1015094000.0,
       "long_term_debt": 6120658000.0,
+      "capital_composition": {
+        "ordinary_shares": 167041869.0,
+        "preferred_shares": 0.0,
+        "total_shares": 167041869.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 167041869.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 2293127000.0,
       "short_term_debt": 714551000.0,
       "long_term_debt": 8104279000.0,
+      "capital_composition": {
+        "ordinary_shares": 167041869.0,
+        "preferred_shares": 0.0,
+        "total_shares": 167041869.0,
+        "treasury_shares": 244100.0,
+        "shares_outstanding": 166797769.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": null,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": null,
+        "preferred_shares": null,
+        "total_shares": null,
+        "treasury_shares": null,
+        "shares_outstanding": null,
+        "reference_date": null,
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

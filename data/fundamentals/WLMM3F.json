@@ -4,7 +4,7 @@
   "issuer_name": "WLM PART. E COMÉRCIO DE MÁQUINAS E VEÍCULOS S.A.",
   "cnpj": "33228024000151",
   "cvm_code": "11070",
-  "updated_at": "2026-08-29T01:16:41.940448+00:00",
+  "updated_at": "2026-08-29T01:35:07.466414+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 42069000.0,
       "short_term_debt": 127376000.0,
       "long_term_debt": 13105000.0,
+      "capital_composition": {
+        "ordinary_shares": 16571220.0,
+        "preferred_shares": 19843450.0,
+        "total_shares": 36414670.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 36414670.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 38618000.0,
       "short_term_debt": 216821000.0,
       "long_term_debt": 154490000.0,
+      "capital_composition": {
+        "ordinary_shares": 16571220.0,
+        "preferred_shares": 19843450.0,
+        "total_shares": 36414670.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 36414670.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 122259000.0,
       "short_term_debt": 234726000.0,
       "long_term_debt": 215805000.0,
+      "capital_composition": {
+        "ordinary_shares": 16571220.0,
+        "preferred_shares": 19843450.0,
+        "total_shares": 36414670.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 36414670.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

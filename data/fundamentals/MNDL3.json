@@ -4,7 +4,7 @@
   "issuer_name": "MUNDIAL S.A - PRODUTOS DE CONSUMO",
   "cnpj": "88610191000154",
   "cvm_code": "5312",
-  "updated_at": "2026-08-29T01:16:41.845500+00:00",
+  "updated_at": "2026-08-29T01:35:07.350568+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 1531000.0,
       "short_term_debt": 399753000.0,
       "long_term_debt": 30256000.0,
+      "capital_composition": {
+        "ordinary_shares": 2480260.0,
+        "preferred_shares": 0.0,
+        "total_shares": 2480260.0,
+        "treasury_shares": 780.0,
+        "shares_outstanding": 2479480.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 1728000.0,
       "short_term_debt": 468169000.0,
       "long_term_debt": 32314000.0,
+      "capital_composition": {
+        "ordinary_shares": 9921040.0,
+        "preferred_shares": 0.0,
+        "total_shares": 9921040.0,
+        "treasury_shares": 3064.0,
+        "shares_outstanding": 9917976.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 2929000.0,
       "short_term_debt": 509650000.0,
       "long_term_debt": 32860000.0,
+      "capital_composition": {
+        "ordinary_shares": 9921040.0,
+        "preferred_shares": 0.0,
+        "total_shares": 9921040.0,
+        "treasury_shares": 3064.0,
+        "shares_outstanding": 9917976.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

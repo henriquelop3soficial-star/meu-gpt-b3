@@ -4,7 +4,7 @@
   "issuer_name": "ENERGISA SA",
   "cnpj": "00864214000106",
   "cvm_code": "15253",
-  "updated_at": "2026-08-29T01:16:41.792588+00:00",
+  "updated_at": "2026-08-29T01:35:07.288352+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 1298424000.0,
       "short_term_debt": 6910613000.0,
       "long_term_debt": 25466758000.0,
+      "capital_composition": {
+        "ordinary_shares": 800898864.0,
+        "preferred_shares": 1238187676.0,
+        "total_shares": 2039086540.0,
+        "treasury_shares": 3772375.0,
+        "shares_outstanding": 2035314165.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 899139000.0,
       "short_term_debt": 6321362000.0,
       "long_term_debt": 28796199000.0,
+      "capital_composition": {
+        "ordinary_shares": 887231247.0,
+        "preferred_shares": 1402193416.0,
+        "total_shares": 2289424663.0,
+        "treasury_shares": 3772375.0,
+        "shares_outstanding": 2285652288.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 1386005000.0,
       "short_term_debt": 6193651000.0,
       "long_term_debt": 38369066000.0,
+      "capital_composition": {
+        "ordinary_shares": 975954372.0,
+        "preferred_shares": 1542412758.0,
+        "total_shares": 2518367130.0,
+        "treasury_shares": 4149610.0,
+        "shares_outstanding": 2514217520.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

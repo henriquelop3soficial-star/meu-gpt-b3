@@ -4,7 +4,7 @@
   "issuer_name": "UNIFIQUE TELECOMUNICAÇÕES S.A.",
   "cnpj": "02255187000108",
   "cvm_code": "26050",
-  "updated_at": "2026-08-29T01:16:41.802469+00:00",
+  "updated_at": "2026-08-29T01:35:07.300106+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 272267000.0,
       "short_term_debt": 108430000.0,
       "long_term_debt": 215303000.0,
+      "capital_composition": {
+        "ordinary_shares": 362049609.0,
+        "preferred_shares": 0.0,
+        "total_shares": 362049609.0,
+        "treasury_shares": 9000041.0,
+        "shares_outstanding": 353049568.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 447756000.0,
       "short_term_debt": 109000000.0,
       "long_term_debt": 440337000.0,
+      "capital_composition": {
+        "ordinary_shares": 362049609.0,
+        "preferred_shares": 0.0,
+        "total_shares": 362049609.0,
+        "treasury_shares": 9000041.0,
+        "shares_outstanding": 353049568.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 212960000.0,
       "short_term_debt": 143113000.0,
       "long_term_debt": 395828000.0,
+      "capital_composition": {
+        "ordinary_shares": 399086646.0,
+        "preferred_shares": 0.0,
+        "total_shares": 399086646.0,
+        "treasury_shares": 9860102.0,
+        "shares_outstanding": 389226544.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

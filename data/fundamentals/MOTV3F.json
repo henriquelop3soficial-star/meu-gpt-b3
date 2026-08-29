@@ -4,7 +4,7 @@
   "issuer_name": "MOTIVA INFRAESTRUTURA DE MOBILIDADE S.A.",
   "cnpj": "02846056000197",
   "cvm_code": "18821",
-  "updated_at": "2026-08-29T01:16:41.847525+00:00",
+  "updated_at": "2026-08-29T01:35:07.352900+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 4548717000.0,
       "short_term_debt": 4170768000.0,
       "long_term_debt": 26483501000.0,
+      "capital_composition": {
+        "ordinary_shares": 2020000000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 2020000000.0,
+        "treasury_shares": 3081575.0,
+        "shares_outstanding": 2016918425.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 4187905000.0,
       "short_term_debt": 1450930000.0,
       "long_term_debt": 32427813000.0,
+      "capital_composition": {
+        "ordinary_shares": 2020000000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 2020000000.0,
+        "treasury_shares": 9884118.0,
+        "shares_outstanding": 2010115882.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 3651544000.0,
       "short_term_debt": 1857013000.0,
       "long_term_debt": 35383678000.0,
+      "capital_composition": {
+        "ordinary_shares": 2020000000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 2020000000.0,
+        "treasury_shares": 9512335.0,
+        "shares_outstanding": 2010487665.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

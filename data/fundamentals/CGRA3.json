@@ -4,7 +4,7 @@
   "issuer_name": "GRAZZIOTIN SA",
   "cnpj": "92012467000170",
   "cvm_code": "4537",
-  "updated_at": "2026-08-29T01:16:41.767535+00:00",
+  "updated_at": "2026-08-29T01:35:07.259744+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 168715000.0,
       "short_term_debt": 0.0,
       "long_term_debt": 0.0,
+      "capital_composition": {
+        "ordinary_shares": 8347011.0,
+        "preferred_shares": 11735604.0,
+        "total_shares": 20082615.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 20082615.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 207188000.0,
       "short_term_debt": 0.0,
       "long_term_debt": 0.0,
+      "capital_composition": {
+        "ordinary_shares": 8651752.0,
+        "preferred_shares": 12207058.0,
+        "total_shares": 20858810.0,
+        "treasury_shares": 72100.0,
+        "shares_outstanding": 20786710.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 147062000.0,
       "short_term_debt": 0.0,
       "long_term_debt": 0.0,
+      "capital_composition": {
+        "ordinary_shares": 10007950.0,
+        "preferred_shares": 13949369.0,
+        "total_shares": 23957319.0,
+        "treasury_shares": 413601.0,
+        "shares_outstanding": 23543718.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

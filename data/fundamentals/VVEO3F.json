@@ -4,7 +4,7 @@
   "issuer_name": "CM HOSPITALAR S.A",
   "cnpj": "12420164000157",
   "cvm_code": "25682",
-  "updated_at": "2026-08-29T01:16:41.936387+00:00",
+  "updated_at": "2026-08-29T01:35:07.461163+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 472702000.0,
       "short_term_debt": 391746000.0,
       "long_term_debt": 2835178000.0,
+      "capital_composition": {
+        "ordinary_shares": 322820608.0,
+        "preferred_shares": 0.0,
+        "total_shares": 322820608.0,
+        "treasury_shares": 2773600.0,
+        "shares_outstanding": 320047008.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 543666000.0,
       "short_term_debt": 402752000.0,
       "long_term_debt": 3469652000.0,
+      "capital_composition": {
+        "ordinary_shares": 322820608.0,
+        "preferred_shares": 0.0,
+        "total_shares": 322820608.0,
+        "treasury_shares": 7012300.0,
+        "shares_outstanding": 315808308.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 573643000.0,
       "short_term_debt": 997921000.0,
       "long_term_debt": 2442465000.0,
+      "capital_composition": {
+        "ordinary_shares": 322820608.0,
+        "preferred_shares": 0.0,
+        "total_shares": 322820608.0,
+        "treasury_shares": 7012300.0,
+        "shares_outstanding": 315808308.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

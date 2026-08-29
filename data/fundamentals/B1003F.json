@@ -4,7 +4,7 @@
   "issuer_name": "B100 S.A.",
   "cnpj": "52270350000171",
   "cvm_code": "27634",
-  "updated_at": "2026-08-29T01:16:41.746733+00:00",
+  "updated_at": "2026-08-29T01:35:07.234906+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": null,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 1000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1000.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 1000.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": null,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 94000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 94000.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 94000.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 21000.0,
       "short_term_debt": 0.0,
       "long_term_debt": 0.0,
+      "capital_composition": {
+        "ordinary_shares": 5834014.0,
+        "preferred_shares": 0.0,
+        "total_shares": 5834014.0,
+        "treasury_shares": 1918.0,
+        "shares_outstanding": 5832096.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

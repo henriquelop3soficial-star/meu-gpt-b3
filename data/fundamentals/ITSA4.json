@@ -4,7 +4,7 @@
   "issuer_name": "ITAUSA S.A.",
   "cnpj": "61532644000115",
   "cvm_code": "7617",
-  "updated_at": "2026-08-29T01:16:41.823574+00:00",
+  "updated_at": "2026-08-29T01:35:07.325076+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 5977000000.0,
       "short_term_debt": 1109000000.0,
       "long_term_debt": 9663000000.0,
+      "capital_composition": {
+        "ordinary_shares": 3549302.0,
+        "preferred_shares": 6778847.0,
+        "total_shares": 10328149.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 10328149.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 4852000000.0,
       "short_term_debt": 1373000000.0,
       "long_term_debt": 9739000000.0,
+      "capital_composition": {
+        "ordinary_shares": 3726767.0,
+        "preferred_shares": 7117790.0,
+        "total_shares": 10844557.0,
+        "treasury_shares": 2890.0,
+        "shares_outstanding": 10841667.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 4039000000.0,
       "short_term_debt": 694000000.0,
       "long_term_debt": 10091000000.0,
+      "capital_composition": {
+        "ordinary_shares": 3853634.0,
+        "preferred_shares": 7360053.0,
+        "total_shares": 11213687.0,
+        "treasury_shares": 2340.0,
+        "shares_outstanding": 11211347.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

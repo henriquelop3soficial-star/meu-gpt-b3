@@ -4,7 +4,7 @@
   "issuer_name": "ALPARGATAS SA",
   "cnpj": "61079117000105",
   "cvm_code": "10456",
-  "updated_at": "2026-08-29T01:16:41.731073+00:00",
+  "updated_at": "2026-08-29T01:35:07.216372+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 922525000.0,
       "short_term_debt": 127437000.0,
       "long_term_debt": 1358168000.0,
+      "capital_composition": {
+        "ordinary_shares": 339510689.0,
+        "preferred_shares": 343551533.0,
+        "total_shares": 683062222.0,
+        "treasury_shares": 7925654.0,
+        "shares_outstanding": 675136568.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 1488511000.0,
       "short_term_debt": 251373000.0,
       "long_term_debt": 1172151000.0,
+      "capital_composition": {
+        "ordinary_shares": 339510689.0,
+        "preferred_shares": 343551533.0,
+        "total_shares": 683062222.0,
+        "treasury_shares": 6632564.0,
+        "shares_outstanding": 676429658.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 555595000.0,
       "short_term_debt": 380547000.0,
       "long_term_debt": 854986000.0,
+      "capital_composition": {
+        "ordinary_shares": 339510689.0,
+        "preferred_shares": 343551533.0,
+        "total_shares": 683062222.0,
+        "treasury_shares": 5209498.0,
+        "shares_outstanding": 677852724.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

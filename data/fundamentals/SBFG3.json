@@ -4,7 +4,7 @@
   "issuer_name": "GRUPO SBF S.A.",
   "cnpj": "13217485000111",
   "cvm_code": "24694",
-  "updated_at": "2026-08-29T01:16:41.888898+00:00",
+  "updated_at": "2026-08-29T01:35:07.417252+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 875914000.0,
       "short_term_debt": 624004000.0,
       "long_term_debt": 2384462000.0,
+      "capital_composition": {
+        "ordinary_shares": 243688980.0,
+        "preferred_shares": 0.0,
+        "total_shares": 243688980.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 243688980.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 996713000.0,
       "short_term_debt": 703448000.0,
       "long_term_debt": 2213862000.0,
+      "capital_composition": {
+        "ordinary_shares": 240408980.0,
+        "preferred_shares": 0.0,
+        "total_shares": 240408980.0,
+        "treasury_shares": 3604000.0,
+        "shares_outstanding": 236804980.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 679969000.0,
       "short_term_debt": 680464000.0,
       "long_term_debt": 2257373000.0,
+      "capital_composition": {
+        "ordinary_shares": 230265713.0,
+        "preferred_shares": 0.0,
+        "total_shares": 230265713.0,
+        "treasury_shares": 14289617.0,
+        "shares_outstanding": 215976096.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

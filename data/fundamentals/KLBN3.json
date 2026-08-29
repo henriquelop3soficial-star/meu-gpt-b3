@@ -4,7 +4,7 @@
   "issuer_name": "KLABIN S.A.",
   "cnpj": "89637490000145",
   "cvm_code": "12653",
-  "updated_at": "2026-08-29T01:16:41.829260+00:00",
+  "updated_at": "2026-08-29T01:35:07.331758+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 9558829000.0,
       "short_term_debt": 1560843000.0,
       "long_term_debt": 29780401000.0,
+      "capital_composition": {
+        "ordinary_shares": 2081728595.0,
+        "preferred_shares": 3536164161.0,
+        "total_shares": 5617892756.0,
+        "treasury_shares": 101312385.0,
+        "shares_outstanding": 5516580371.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 6736171000.0,
       "short_term_debt": 1813049000.0,
       "long_term_debt": 37891188000.0,
+      "capital_composition": {
+        "ordinary_shares": 2289901455.0,
+        "preferred_shares": 3889780576.0,
+        "total_shares": 6179682031.0,
+        "treasury_shares": 100400464.0,
+        "shares_outstanding": 6079281567.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 10106016000.0,
       "short_term_debt": 1770665000.0,
       "long_term_debt": 34950377000.0,
+      "capital_composition": {
+        "ordinary_shares": 2312800469.0,
+        "preferred_shares": 3928678381.0,
+        "total_shares": 6241478850.0,
+        "treasury_shares": 106051185.0,
+        "shares_outstanding": 6135427665.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

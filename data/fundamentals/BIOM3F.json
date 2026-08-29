@@ -4,7 +4,7 @@
   "issuer_name": "BIOMM SA",
   "cnpj": "04752991000110",
   "cvm_code": "19305",
-  "updated_at": "2026-08-29T01:16:41.754334+00:00",
+  "updated_at": "2026-08-29T01:35:07.243908+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 25998000.0,
       "short_term_debt": 47660000.0,
       "long_term_debt": 105940000.0,
+      "capital_composition": {
+        "ordinary_shares": 89100324.0,
+        "preferred_shares": 0.0,
+        "total_shares": 89100324.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 89100324.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 77620000.0,
       "short_term_debt": 44503000.0,
       "long_term_debt": 76880000.0,
+      "capital_composition": {
+        "ordinary_shares": 126841481.0,
+        "preferred_shares": 0.0,
+        "total_shares": 126841481.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 126841481.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 22304000.0,
       "short_term_debt": 45693000.0,
       "long_term_debt": 50911000.0,
+      "capital_composition": {
+        "ordinary_shares": 136841532.0,
+        "preferred_shares": 0.0,
+        "total_shares": 136841532.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 136841532.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

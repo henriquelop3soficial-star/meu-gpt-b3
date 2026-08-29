@@ -4,7 +4,7 @@
   "issuer_name": "FRASLE MOBILITY S.A.",
   "cnpj": "88610126000129",
   "cvm_code": "6211",
-  "updated_at": "2026-08-29T01:16:41.804365+00:00",
+  "updated_at": "2026-08-29T01:35:07.302219+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 1050412000.0,
       "short_term_debt": 304819000.0,
       "long_term_debt": 573323000.0,
+      "capital_composition": {
+        "ordinary_shares": 270016.0,
+        "preferred_shares": 0.0,
+        "total_shares": 270016.0,
+        "treasury_shares": 3000.0,
+        "shares_outstanding": 267016.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 844881000.0,
       "short_term_debt": 388411000.0,
       "long_term_debt": 722767000.0,
+      "capital_composition": {
+        "ordinary_shares": 267016.0,
+        "preferred_shares": 0.0,
+        "total_shares": 267016.0,
+        "treasury_shares": 3000.0,
+        "shares_outstanding": 264016.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 1316248000.0,
       "short_term_debt": 255782000.0,
       "long_term_debt": 2493018000.0,
+      "capital_composition": {
+        "ordinary_shares": 277335.0,
+        "preferred_shares": 0.0,
+        "total_shares": 277335.0,
+        "treasury_shares": 3000.0,
+        "shares_outstanding": 274335.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

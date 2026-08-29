@@ -4,7 +4,7 @@
   "issuer_name": "EMPREENDIMENTOS PAGUE MENOS SA",
   "cnpj": "06626253000151",
   "cvm_code": "22608",
-  "updated_at": "2026-08-29T01:16:41.864680+00:00",
+  "updated_at": "2026-08-29T01:35:07.387325+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 438500000.0,
       "short_term_debt": 430286000.0,
       "long_term_debt": 1205139000.0,
+      "capital_composition": {
+        "ordinary_shares": 541780460.0,
+        "preferred_shares": 0.0,
+        "total_shares": 541780460.0,
+        "treasury_shares": 2802806.0,
+        "shares_outstanding": 538977654.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 149126000.0,
       "short_term_debt": 369751000.0,
       "long_term_debt": 1046625000.0,
+      "capital_composition": {
+        "ordinary_shares": 569249470.0,
+        "preferred_shares": 0.0,
+        "total_shares": 569249470.0,
+        "treasury_shares": 7353440.0,
+        "shares_outstanding": 561896030.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 185757000.0,
       "short_term_debt": 188701000.0,
       "long_term_debt": 1544416000.0,
+      "capital_composition": {
+        "ordinary_shares": 662673160.0,
+        "preferred_shares": 0.0,
+        "total_shares": 662673160.0,
+        "treasury_shares": 3065072.0,
+        "shares_outstanding": 659608088.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

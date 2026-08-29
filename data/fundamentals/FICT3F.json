@@ -4,7 +4,7 @@
   "issuer_name": "FICTOR ALIMENTOS S.A. - EM RECUPERAÇÃO JUDICIAL",
   "cnpj": "00359742000108",
   "cvm_code": "15423",
-  "updated_at": "2026-08-29T01:16:41.801511+00:00",
+  "updated_at": "2026-08-29T01:35:07.298946+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 19559000.0,
       "short_term_debt": 0.0,
       "long_term_debt": 0.0,
+      "capital_composition": {
+        "ordinary_shares": 23805.0,
+        "preferred_shares": 0.0,
+        "total_shares": 23805.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 23805.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": null,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 23804898.0,
+        "preferred_shares": 0.0,
+        "total_shares": 23804898.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 23804898.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 661000.0,
       "short_term_debt": 13250000.0,
       "long_term_debt": 0.0,
+      "capital_composition": {
+        "ordinary_shares": 43862205.0,
+        "preferred_shares": 0.0,
+        "total_shares": 43862205.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 43862205.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

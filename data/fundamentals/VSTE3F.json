@@ -4,7 +4,7 @@
   "issuer_name": "VESTE SA ESTILO",
   "cnpj": "49669856000143",
   "cvm_code": "21440",
-  "updated_at": "2026-08-29T01:16:41.934021+00:00",
+  "updated_at": "2026-08-29T01:35:07.458345+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 31208000.0,
       "short_term_debt": 56153000.0,
       "long_term_debt": 258638000.0,
+      "capital_composition": {
+        "ordinary_shares": 113427.0,
+        "preferred_shares": 0.0,
+        "total_shares": 113427.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 113427.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 35290000.0,
       "short_term_debt": 107806000.0,
       "long_term_debt": 240088000.0,
+      "capital_composition": {
+        "ordinary_shares": 114001.0,
+        "preferred_shares": 0.0,
+        "total_shares": 114001.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 114001.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 40503000.0,
       "short_term_debt": 95191000.0,
       "long_term_debt": 218953000.0,
+      "capital_composition": {
+        "ordinary_shares": 114334.0,
+        "preferred_shares": 0.0,
+        "total_shares": 114334.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 114334.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

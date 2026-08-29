@@ -4,7 +4,7 @@
   "issuer_name": "ECONOMATICA S.A.",
   "cnpj": "26345998000150",
   "cvm_code": "26077",
-  "updated_at": "2026-08-29T01:16:41.787116+00:00",
+  "updated_at": "2026-08-29T01:35:07.281898+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 83457000.0,
       "short_term_debt": 547000.0,
       "long_term_debt": 0.0,
+      "capital_composition": {
+        "ordinary_shares": 280147.0,
+        "preferred_shares": 0.0,
+        "total_shares": 280147.0,
+        "treasury_shares": 4712.0,
+        "shares_outstanding": 275435.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 33112000.0,
       "short_term_debt": 775000.0,
       "long_term_debt": 1835000.0,
+      "capital_composition": {
+        "ordinary_shares": 40021.0,
+        "preferred_shares": 0.0,
+        "total_shares": 40021.0,
+        "treasury_shares": 592.0,
+        "shares_outstanding": 39429.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 9140000.0,
       "short_term_debt": 78000.0,
       "long_term_debt": 28000.0,
+      "capital_composition": {
+        "ordinary_shares": 40021.0,
+        "preferred_shares": 0.0,
+        "total_shares": 40021.0,
+        "treasury_shares": 388.0,
+        "shares_outstanding": 39633.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

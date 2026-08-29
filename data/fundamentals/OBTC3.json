@@ -4,7 +4,7 @@
   "issuer_name": "ORANJEBTC S.A. - EDUCAÇÃO E INVESTIMENTO",
   "cnpj": "59693110000129",
   "cvm_code": "27910",
-  "updated_at": "2026-08-29T01:16:41.854350+00:00",
+  "updated_at": "2026-08-29T01:35:07.361057+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": null,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": null,
+        "preferred_shares": null,
+        "total_shares": null,
+        "treasury_shares": null,
+        "shares_outstanding": null,
+        "reference_date": null,
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": null,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": null,
+        "preferred_shares": null,
+        "total_shares": null,
+        "treasury_shares": null,
+        "shares_outstanding": null,
+        "reference_date": null,
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 19237000.0,
       "short_term_debt": 0.0,
       "long_term_debt": 123587000.0,
+      "capital_composition": {
+        "ordinary_shares": 168608200.0,
+        "preferred_shares": 149005540.0,
+        "total_shares": 317613740.0,
+        "treasury_shares": 26797700.0,
+        "shares_outstanding": 290816040.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

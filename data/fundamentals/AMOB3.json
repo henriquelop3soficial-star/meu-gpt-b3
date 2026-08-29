@@ -4,7 +4,7 @@
   "issuer_name": "AUTOMOB PARTICIPAÇÕES S.A.",
   "cnpj": "35654688000108",
   "cvm_code": "27707",
-  "updated_at": "2026-08-29T01:16:41.736875+00:00",
+  "updated_at": "2026-08-29T01:35:07.222354+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 24251000.0,
       "short_term_debt": 56042000.0,
       "long_term_debt": 781596000.0,
+      "capital_composition": {
+        "ordinary_shares": 1044661577.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1044661577.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 1044661577.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 78741000.0,
       "short_term_debt": 661560000.0,
       "long_term_debt": 2691783000.0,
+      "capital_composition": {
+        "ordinary_shares": 1894302852.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1894302852.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 1894302852.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 264820000.0,
       "short_term_debt": 247452000.0,
       "long_term_debt": 2692831000.0,
+      "capital_composition": {
+        "ordinary_shares": 37886057.0,
+        "preferred_shares": 0.0,
+        "total_shares": 37886057.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 37886057.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

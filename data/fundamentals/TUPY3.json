@@ -4,7 +4,7 @@
   "issuer_name": "TUPY SA",
   "cnpj": "84683374000149",
   "cvm_code": "6343",
-  "updated_at": "2026-08-29T01:16:41.922368+00:00",
+  "updated_at": "2026-08-29T01:35:07.443602+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 1593098000.0,
       "short_term_debt": 662933000.0,
       "long_term_debt": 3127748000.0,
+      "capital_composition": {
+        "ordinary_shares": 144178.0,
+        "preferred_shares": 0.0,
+        "total_shares": 144178.0,
+        "treasury_shares": 184.0,
+        "shares_outstanding": 143994.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 2376203000.0,
       "short_term_debt": 638123000.0,
       "long_term_debt": 4132189000.0,
+      "capital_composition": {
+        "ordinary_shares": 144178.0,
+        "preferred_shares": 0.0,
+        "total_shares": 144178.0,
+        "treasury_shares": 7711.0,
+        "shares_outstanding": 136467.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 1853156000.0,
       "short_term_debt": 212756000.0,
       "long_term_debt": 3881960000.0,
+      "capital_composition": {
+        "ordinary_shares": 132450.0,
+        "preferred_shares": 0.0,
+        "total_shares": 132450.0,
+        "treasury_shares": 1373.0,
+        "shares_outstanding": 131077.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

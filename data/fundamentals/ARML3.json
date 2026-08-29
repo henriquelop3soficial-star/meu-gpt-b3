@@ -4,7 +4,7 @@
   "issuer_name": "ARMAC LOCAÇÃO, LOGÍSTICA E SERVIÇOS S.A.",
   "cnpj": "00242184000104",
   "cvm_code": "26069",
-  "updated_at": "2026-08-29T01:16:41.738365+00:00",
+  "updated_at": "2026-08-29T01:35:07.224132+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": null,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 346016041.0,
+        "preferred_shares": 0.0,
+        "total_shares": 346016041.0,
+        "treasury_shares": 406229.0,
+        "shares_outstanding": 345609812.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 210912000.0,
       "short_term_debt": 81793000.0,
       "long_term_debt": 2397246000.0,
+      "capital_composition": {
+        "ordinary_shares": 346494097.0,
+        "preferred_shares": 0.0,
+        "total_shares": 346494097.0,
+        "treasury_shares": 293444.0,
+        "shares_outstanding": 346200653.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 239639000.0,
       "short_term_debt": 72691000.0,
       "long_term_debt": 2902327000.0,
+      "capital_composition": {
+        "ordinary_shares": 346494097.0,
+        "preferred_shares": 0.0,
+        "total_shares": 346494097.0,
+        "treasury_shares": 93898.0,
+        "shares_outstanding": 346400199.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

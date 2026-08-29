@@ -4,7 +4,7 @@
   "issuer_name": "WETZEL S.A.",
   "cnpj": "84683671000194",
   "cvm_code": "11991",
-  "updated_at": "2026-08-29T01:16:41.850815+00:00",
+  "updated_at": "2026-08-29T01:35:07.356757+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 303000.0,
       "short_term_debt": 43660000.0,
       "long_term_debt": 36499000.0,
+      "capital_composition": {
+        "ordinary_shares": 686.0,
+        "preferred_shares": 1372.0,
+        "total_shares": 2058.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 2058.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 526000.0,
       "short_term_debt": 59052000.0,
       "long_term_debt": 25372000.0,
+      "capital_composition": {
+        "ordinary_shares": 686.0,
+        "preferred_shares": 1372.0,
+        "total_shares": 2058.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 2058.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 35000.0,
       "short_term_debt": 73926000.0,
       "long_term_debt": 37900000.0,
+      "capital_composition": {
+        "ordinary_shares": 686.0,
+        "preferred_shares": 1372.0,
+        "total_shares": 2058.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 2058.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

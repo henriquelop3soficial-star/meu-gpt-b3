@@ -4,7 +4,7 @@
   "issuer_name": "HOSPITAL MATER DEI S.A.",
   "cnpj": "16676520000159",
   "cvm_code": "25690",
-  "updated_at": "2026-08-29T01:16:41.839053+00:00",
+  "updated_at": "2026-08-29T01:35:07.343384+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 227302000.0,
       "short_term_debt": 52205000.0,
       "long_term_debt": 1202660000.0,
+      "capital_composition": {
+        "ordinary_shares": 382329821.0,
+        "preferred_shares": 0.0,
+        "total_shares": 382329821.0,
+        "treasury_shares": 286400.0,
+        "shares_outstanding": 382043421.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 622581000.0,
       "short_term_debt": 75897000.0,
       "long_term_debt": 1347024000.0,
+      "capital_composition": {
+        "ordinary_shares": 345157525.0,
+        "preferred_shares": 0.0,
+        "total_shares": 345157525.0,
+        "treasury_shares": 3686100.0,
+        "shares_outstanding": 341471425.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 599130000.0,
       "short_term_debt": 112332000.0,
       "long_term_debt": 1290122000.0,
+      "capital_composition": {
+        "ordinary_shares": 333548825.0,
+        "preferred_shares": 0.0,
+        "total_shares": 333548825.0,
+        "treasury_shares": 1422400.0,
+        "shares_outstanding": 332126425.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

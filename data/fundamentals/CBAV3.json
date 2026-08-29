@@ -4,7 +4,7 @@
   "issuer_name": "COMPANHIA BRASILEIRA DE ALUMINIO",
   "cnpj": "61409892000173",
   "cvm_code": "25984",
-  "updated_at": "2026-08-29T01:16:41.766053+00:00",
+  "updated_at": "2026-08-29T01:35:07.258004+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 1350229000.0,
       "short_term_debt": 123689000.0,
       "long_term_debt": 4269276000.0,
+      "capital_composition": {
+        "ordinary_shares": 645477321.0,
+        "preferred_shares": 0.0,
+        "total_shares": 645477321.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 645477321.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 1141965000.0,
       "short_term_debt": 159680000.0,
       "long_term_debt": 4653424000.0,
+      "capital_composition": {
+        "ordinary_shares": 651073.0,
+        "preferred_shares": 0.0,
+        "total_shares": 651073.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 651073.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 1268235000.0,
       "short_term_debt": 186633000.0,
       "long_term_debt": 4308296000.0,
+      "capital_composition": {
+        "ordinary_shares": 651073.0,
+        "preferred_shares": 0.0,
+        "total_shares": 651073.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 651073.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

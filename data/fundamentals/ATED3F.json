@@ -4,7 +4,7 @@
   "issuer_name": "ATOM EDUCAÇÃO E EDITORA S.A.",
   "cnpj": "23994857000170",
   "cvm_code": "27677",
-  "updated_at": "2026-08-29T01:16:41.739700+00:00",
+  "updated_at": "2026-08-29T01:35:07.225794+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": null,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": null,
+        "preferred_shares": null,
+        "total_shares": null,
+        "treasury_shares": null,
+        "shares_outstanding": null,
+        "reference_date": null,
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 4384000.0,
       "short_term_debt": 312000.0,
       "long_term_debt": 983000.0,
+      "capital_composition": {
+        "ordinary_shares": 23804.0,
+        "preferred_shares": 0.0,
+        "total_shares": 23804.0,
+        "treasury_shares": 1318.0,
+        "shares_outstanding": 22486.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 3132000.0,
       "short_term_debt": 458000.0,
       "long_term_debt": 896000.0,
+      "capital_composition": {
+        "ordinary_shares": 23804.0,
+        "preferred_shares": 0.0,
+        "total_shares": 23804.0,
+        "treasury_shares": 1318.0,
+        "shares_outstanding": 22486.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

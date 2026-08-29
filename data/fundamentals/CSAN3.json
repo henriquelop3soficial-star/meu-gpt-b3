@@ -4,7 +4,7 @@
   "issuer_name": "COSAN S.A.",
   "cnpj": "50746577000115",
   "cvm_code": "19836",
-  "updated_at": "2026-08-29T01:16:41.773942+00:00",
+  "updated_at": "2026-08-29T01:35:07.266298+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 14658481000.0,
       "short_term_debt": 5615461000.0,
       "long_term_debt": 56564987000.0,
+      "capital_composition": {
+        "ordinary_shares": 1874070932.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1874070932.0,
+        "treasury_shares": 6514511.0,
+        "shares_outstanding": 1867556421.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 16903542000.0,
       "short_term_debt": 5410681000.0,
       "long_term_debt": 67554498000.0,
+      "capital_composition": {
+        "ordinary_shares": 1866570932.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1866570932.0,
+        "treasury_shares": 3747965.0,
+        "shares_outstanding": 1862822967.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 27243683000.0,
       "short_term_debt": 4901711000.0,
       "long_term_debt": 65738220000.0,
+      "capital_composition": {
+        "ordinary_shares": 3966570932.0,
+        "preferred_shares": 0.0,
+        "total_shares": 3966570932.0,
+        "treasury_shares": 7142335.0,
+        "shares_outstanding": 3959428597.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

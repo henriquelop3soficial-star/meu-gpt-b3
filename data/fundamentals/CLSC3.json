@@ -4,7 +4,7 @@
   "issuer_name": "CENTRAIS ELETRICAS DE SANTA CATARINA S.A",
   "cnpj": "83878892000155",
   "cvm_code": "2461",
-  "updated_at": "2026-08-29T01:16:41.769811+00:00",
+  "updated_at": "2026-08-29T01:35:07.261326+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 906196000.0,
       "short_term_debt": 522329000.0,
       "long_term_debt": 2648942000.0,
+      "capital_composition": {
+        "ordinary_shares": 15527.0,
+        "preferred_shares": 23044.0,
+        "total_shares": 38571.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 38571.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 1019482000.0,
       "short_term_debt": 416104000.0,
       "long_term_debt": 3786903000.0,
+      "capital_composition": {
+        "ordinary_shares": 15527.0,
+        "preferred_shares": 23044.0,
+        "total_shares": 38571.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 38571.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 418813000.0,
       "short_term_debt": 473238000.0,
       "long_term_debt": 4532508000.0,
+      "capital_composition": {
+        "ordinary_shares": 15527.0,
+        "preferred_shares": 23044.0,
+        "total_shares": 38571.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 38571.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

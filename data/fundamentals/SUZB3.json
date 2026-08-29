@@ -4,7 +4,7 @@
   "issuer_name": "SUZANO S.A.",
   "cnpj": "16404287000155",
   "cvm_code": "13986",
-  "updated_at": "2026-08-29T01:16:41.910501+00:00",
+  "updated_at": "2026-08-29T01:35:07.428150+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 8345871000.0,
       "short_term_debt": 4758247000.0,
       "long_term_debt": 72414445000.0,
+      "capital_composition": {
+        "ordinary_shares": 1324117615.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1324117615.0,
+        "treasury_shares": 34765600.0,
+        "shares_outstanding": 1289352015.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 9018818000.0,
       "short_term_debt": 10501387000.0,
       "long_term_debt": 90934144000.0,
+      "capital_composition": {
+        "ordinary_shares": 1264117615.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1264117615.0,
+        "treasury_shares": 24875787.0,
+        "shares_outstanding": 1239241828.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 15179753000.0,
       "short_term_debt": 3004905000.0,
       "long_term_debt": 91796352000.0,
+      "capital_composition": {
+        "ordinary_shares": 1264117615.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1264117615.0,
+        "treasury_shares": 28208827.0,
+        "shares_outstanding": 1235908788.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

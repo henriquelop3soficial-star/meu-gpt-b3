@@ -4,7 +4,7 @@
   "issuer_name": "BB SEGURIDADE PARTICIPAÇÕES S.A.",
   "cnpj": "17344597000194",
   "cvm_code": "23159",
-  "updated_at": "2026-08-29T01:16:41.750245+00:00",
+  "updated_at": "2026-08-29T01:35:07.239070+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 4752742000.0,
       "short_term_debt": 0.0,
       "long_term_debt": 2978034000.0,
+      "capital_composition": {
+        "ordinary_shares": 2000000000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 2000000000.0,
+        "treasury_shares": 23133332.0,
+        "shares_outstanding": 1976866668.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 7789875000.0,
       "short_term_debt": 0.0,
       "long_term_debt": 3642282000.0,
+      "capital_composition": {
+        "ordinary_shares": 2000000000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 2000000000.0,
+        "treasury_shares": 58813981.0,
+        "shares_outstanding": 1941186019.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 8855104000.0,
       "short_term_debt": 0.0,
       "long_term_debt": 3806319000.0,
+      "capital_composition": {
+        "ordinary_shares": 2000000000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 2000000000.0,
+        "treasury_shares": 58785091.0,
+        "shares_outstanding": 1941214909.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

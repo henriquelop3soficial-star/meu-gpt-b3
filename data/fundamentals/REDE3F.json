@@ -4,7 +4,7 @@
   "issuer_name": "REDE ENERGIA PARTICIPAÇÕES S.A.",
   "cnpj": "61584140000149",
   "cvm_code": "3190",
-  "updated_at": "2026-08-29T01:16:41.881899+00:00",
+  "updated_at": "2026-08-29T01:35:07.408397+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 376132000.0,
       "short_term_debt": 2737004000.0,
       "long_term_debt": 9710812000.0,
+      "capital_composition": {
+        "ordinary_shares": 2110323374.0,
+        "preferred_shares": 0.0,
+        "total_shares": 2110323374.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 2110323374.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 225695000.0,
       "short_term_debt": 2560510000.0,
       "long_term_debt": 13185089000.0,
+      "capital_composition": {
+        "ordinary_shares": 2110323374.0,
+        "preferred_shares": 0.0,
+        "total_shares": 2110323374.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 2110323374.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 352971000.0,
       "short_term_debt": 1896919000.0,
       "long_term_debt": 17152724000.0,
+      "capital_composition": {
+        "ordinary_shares": 2568204239.0,
+        "preferred_shares": 0.0,
+        "total_shares": 2568204239.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 2568204239.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

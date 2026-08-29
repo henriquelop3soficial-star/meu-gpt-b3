@@ -4,7 +4,7 @@
   "issuer_name": "BANCO SANTANDER (BRASIL) S.A.",
   "cnpj": "90400888000142",
   "cvm_code": "20532",
-  "updated_at": "2026-08-29T01:16:41.887595+00:00",
+  "updated_at": "2026-08-29T01:35:07.415553+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 23122550000.0,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 3818695.0,
+        "preferred_shares": 3679836.0,
+        "total_shares": 7498531.0,
+        "treasury_shares": 54386.0,
+        "shares_outstanding": 7444145.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -37,6 +46,15 @@
       "cash_and_equivalents": 37084254000.0,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 3818695.0,
+        "preferred_shares": 3679836.0,
+        "total_shares": 7498531.0,
+        "treasury_shares": 38904.0,
+        "shares_outstanding": 7459627.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -58,6 +76,15 @@
       "cash_and_equivalents": 20232729000.0,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 3818695.0,
+        "preferred_shares": 3679836.0,
+        "total_shares": 7498531.0,
+        "treasury_shares": 27331.0,
+        "shares_outstanding": 7471200.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

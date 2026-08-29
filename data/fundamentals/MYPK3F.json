@@ -4,7 +4,7 @@
   "issuer_name": "IOCHPE MAXION SA",
   "cnpj": "61156113000175",
   "cvm_code": "11932",
-  "updated_at": "2026-08-29T01:16:41.852237+00:00",
+  "updated_at": "2026-08-29T01:35:07.358464+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 2962366000.0,
       "short_term_debt": 1631599000.0,
       "long_term_debt": 5133934000.0,
+      "capital_composition": {
+        "ordinary_shares": 153720.0,
+        "preferred_shares": 0.0,
+        "total_shares": 153720.0,
+        "treasury_shares": 3450.0,
+        "shares_outstanding": 150270.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 2463475000.0,
       "short_term_debt": 614709000.0,
       "long_term_debt": 5774050000.0,
+      "capital_composition": {
+        "ordinary_shares": 153720.0,
+        "preferred_shares": 0.0,
+        "total_shares": 153720.0,
+        "treasury_shares": 3950.0,
+        "shares_outstanding": 149770.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 1599733000.0,
       "short_term_debt": 356196000.0,
       "long_term_debt": 5275350000.0,
+      "capital_composition": {
+        "ordinary_shares": 153720.0,
+        "preferred_shares": 0.0,
+        "total_shares": 153720.0,
+        "treasury_shares": 3950.0,
+        "shares_outstanding": 149770.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

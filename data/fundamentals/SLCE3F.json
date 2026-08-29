@@ -4,7 +4,7 @@
   "issuer_name": "SLC AGRICOLA SA",
   "cnpj": "89096457000155",
   "cvm_code": "20745",
-  "updated_at": "2026-08-29T01:16:41.906987+00:00",
+  "updated_at": "2026-08-29T01:35:07.423898+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 1613703000.0,
       "short_term_debt": 1413552000.0,
       "long_term_debt": 2979827000.0,
+      "capital_composition": {
+        "ordinary_shares": 443329716.0,
+        "preferred_shares": 0.0,
+        "total_shares": 443329716.0,
+        "treasury_shares": 3184086.0,
+        "shares_outstanding": 440145630.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 1979575000.0,
       "short_term_debt": 1685130000.0,
       "long_term_debt": 3913274000.0,
+      "capital_composition": {
+        "ordinary_shares": 443329716.0,
+        "preferred_shares": 0.0,
+        "total_shares": 443329716.0,
+        "treasury_shares": 2612586.0,
+        "shares_outstanding": 440717130.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 2647586000.0,
       "short_term_debt": 1591681000.0,
       "long_term_debt": 6136603000.0,
+      "capital_composition": {
+        "ordinary_shares": 498745930.0,
+        "preferred_shares": 0.0,
+        "total_shares": 498745930.0,
+        "treasury_shares": 1925172.0,
+        "shares_outstanding": 496820758.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

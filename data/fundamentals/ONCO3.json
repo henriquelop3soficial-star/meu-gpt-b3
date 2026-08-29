@@ -4,7 +4,7 @@
   "issuer_name": "ONCOCLÍNICAS DO BRASIL SERVIÇOS MÉDICOS S.A.",
   "cnpj": "12104241000402",
   "cvm_code": "26123",
-  "updated_at": "2026-08-29T01:16:41.856492+00:00",
+  "updated_at": "2026-08-29T01:35:07.363754+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 550704000.0,
       "short_term_debt": 474249000.0,
       "long_term_debt": 4081226000.0,
+      "capital_composition": {
+        "ordinary_shares": 527481598.0,
+        "preferred_shares": 0.0,
+        "total_shares": 527481598.0,
+        "treasury_shares": 19196692.0,
+        "shares_outstanding": 508284906.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 550744000.0,
       "short_term_debt": 813957000.0,
       "long_term_debt": 4664442000.0,
+      "capital_composition": {
+        "ordinary_shares": 651756313.0,
+        "preferred_shares": 0.0,
+        "total_shares": 651756313.0,
+        "treasury_shares": 18963632.0,
+        "shares_outstanding": 632792681.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 509549000.0,
       "short_term_debt": 3224499000.0,
       "long_term_debt": 574317000.0,
+      "capital_composition": {
+        "ordinary_shares": 1132929494.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1132929494.0,
+        "treasury_shares": 14727103.0,
+        "shares_outstanding": 1118202391.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

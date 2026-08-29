@@ -4,7 +4,7 @@
   "issuer_name": "NEXPE PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL",
   "cnpj": "08613550000198",
   "cvm_code": "21180",
-  "updated_at": "2026-08-29T01:16:41.853588+00:00",
+  "updated_at": "2026-08-29T01:35:07.359915+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 7925000.0,
       "short_term_debt": 37118000.0,
       "long_term_debt": 23841000.0,
+      "capital_composition": {
+        "ordinary_shares": 2655569.0,
+        "preferred_shares": 0.0,
+        "total_shares": 2655569.0,
+        "treasury_shares": 11808.0,
+        "shares_outstanding": 2643761.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 6363000.0,
       "short_term_debt": 0.0,
       "long_term_debt": 1562000.0,
+      "capital_composition": {
+        "ordinary_shares": 2655.0,
+        "preferred_shares": 0.0,
+        "total_shares": 2655.0,
+        "treasury_shares": 1.0,
+        "shares_outstanding": 2654.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 565000.0,
       "short_term_debt": 0.0,
       "long_term_debt": 417000.0,
+      "capital_composition": {
+        "ordinary_shares": 2655569.0,
+        "preferred_shares": 0.0,
+        "total_shares": 2655569.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 2655569.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

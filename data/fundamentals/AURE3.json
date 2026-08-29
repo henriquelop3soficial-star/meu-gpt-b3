@@ -4,7 +4,7 @@
   "issuer_name": "AUREN ENERGIA S.A",
   "cnpj": "28594234000123",
   "cvm_code": "26620",
-  "updated_at": "2026-08-29T01:16:41.741057+00:00",
+  "updated_at": "2026-08-29T01:35:07.227368+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 3238394000.0,
       "short_term_debt": 857866000.0,
       "long_term_debt": 5560697000.0,
+      "capital_composition": {
+        "ordinary_shares": 1000000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1000000.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 1000000.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 7200549000.0,
       "short_term_debt": 2709622000.0,
       "long_term_debt": 24505677000.0,
+      "capital_composition": {
+        "ordinary_shares": 1050378.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1050378.0,
+        "treasury_shares": 5400.0,
+        "shares_outstanding": 1044978.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 3826127000.0,
       "short_term_debt": 1949605000.0,
       "long_term_debt": 22735718000.0,
+      "capital_composition": {
+        "ordinary_shares": 1050378.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1050378.0,
+        "treasury_shares": 5850.0,
+        "shares_outstanding": 1044528.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

@@ -4,7 +4,7 @@
   "issuer_name": "BIOMA EDUCAÇÃO S.A.",
   "cnpj": "45987245000192",
   "cvm_code": "701",
-  "updated_at": "2026-08-29T01:16:41.753623+00:00",
+  "updated_at": "2026-08-29T01:35:07.243066+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 36972000.0,
       "short_term_debt": 45573000.0,
       "long_term_debt": 75003000.0,
+      "capital_composition": {
+        "ordinary_shares": 26390582.0,
+        "preferred_shares": 0.0,
+        "total_shares": 26390582.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 26390582.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 15715000.0,
       "short_term_debt": 11929000.0,
       "long_term_debt": 45037000.0,
+      "capital_composition": {
+        "ordinary_shares": 26390582.0,
+        "preferred_shares": 0.0,
+        "total_shares": 26390582.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 26390582.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 12088000.0,
       "short_term_debt": 11755000.0,
       "long_term_debt": 34067000.0,
+      "capital_composition": {
+        "ordinary_shares": 26633197.0,
+        "preferred_shares": 0.0,
+        "total_shares": 26633197.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 26633197.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

@@ -4,7 +4,7 @@
   "issuer_name": "TRÊS TENTOS AGROINDUSTRIAL S.A.",
   "cnpj": "94813102000170",
   "cvm_code": "25950",
-  "updated_at": "2026-08-29T01:16:41.921954+00:00",
+  "updated_at": "2026-08-29T01:35:07.443096+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 1028483000.0,
       "short_term_debt": 562129000.0,
       "long_term_debt": 710383000.0,
+      "capital_composition": {
+        "ordinary_shares": 498298.0,
+        "preferred_shares": 0.0,
+        "total_shares": 498298.0,
+        "treasury_shares": 135.0,
+        "shares_outstanding": 498163.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 1696858000.0,
       "short_term_debt": 921068000.0,
       "long_term_debt": 1145811000.0,
+      "capital_composition": {
+        "ordinary_shares": 498297647.0,
+        "preferred_shares": 0.0,
+        "total_shares": 498297647.0,
+        "treasury_shares": 110000.0,
+        "shares_outstanding": 498187647.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 2560066000.0,
       "short_term_debt": 2344340000.0,
       "long_term_debt": 2316623000.0,
+      "capital_composition": {
+        "ordinary_shares": 499497647.0,
+        "preferred_shares": 0.0,
+        "total_shares": 499497647.0,
+        "treasury_shares": 17200.0,
+        "shares_outstanding": 499480447.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

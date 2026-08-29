@@ -4,7 +4,7 @@
   "issuer_name": "PBG S/A",
   "cnpj": "83475913000191",
   "cvm_code": "13773",
-  "updated_at": "2026-08-29T01:16:41.872684+00:00",
+  "updated_at": "2026-08-29T01:35:07.397214+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 486472000.0,
       "short_term_debt": 463636000.0,
       "long_term_debt": 915598000.0,
+      "capital_composition": {
+        "ordinary_shares": 140987.0,
+        "preferred_shares": 0.0,
+        "total_shares": 140987.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 140987.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 79440000.0,
       "short_term_debt": 406014000.0,
       "long_term_debt": 757689000.0,
+      "capital_composition": {
+        "ordinary_shares": 140987.0,
+        "preferred_shares": 0.0,
+        "total_shares": 140987.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 140987.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 171306000.0,
       "short_term_debt": 219270000.0,
       "long_term_debt": 1068046000.0,
+      "capital_composition": {
+        "ordinary_shares": 140987.0,
+        "preferred_shares": 0.0,
+        "total_shares": 140987.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 140987.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

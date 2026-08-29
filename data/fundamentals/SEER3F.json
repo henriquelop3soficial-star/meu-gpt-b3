@@ -4,7 +4,7 @@
   "issuer_name": "SER EDUCACIONAL S.A.",
   "cnpj": "04986320000113",
   "cvm_code": "23221",
-  "updated_at": "2026-08-29T01:16:41.903942+00:00",
+  "updated_at": "2026-08-29T01:35:07.420097+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 215267000.0,
       "short_term_debt": 241164000.0,
       "long_term_debt": 613392000.0,
+      "capital_composition": {
+        "ordinary_shares": 128721560.0,
+        "preferred_shares": 0.0,
+        "total_shares": 128721560.0,
+        "treasury_shares": 386800.0,
+        "shares_outstanding": 128334760.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 370728000.0,
       "short_term_debt": 292483000.0,
       "long_term_debt": 671850000.0,
+      "capital_composition": {
+        "ordinary_shares": 128721560.0,
+        "preferred_shares": 0.0,
+        "total_shares": 128721560.0,
+        "treasury_shares": 2100900.0,
+        "shares_outstanding": 126620660.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 261932000.0,
       "short_term_debt": 251665000.0,
       "long_term_debt": 464770000.0,
+      "capital_composition": {
+        "ordinary_shares": 128721560.0,
+        "preferred_shares": 0.0,
+        "total_shares": 128721560.0,
+        "treasury_shares": 1106923.0,
+        "shares_outstanding": 127614637.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

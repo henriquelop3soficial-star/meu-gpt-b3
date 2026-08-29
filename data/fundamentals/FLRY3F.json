@@ -4,7 +4,7 @@
   "issuer_name": "FLEURY SA",
   "cnpj": "60840055000131",
   "cvm_code": "21881",
-  "updated_at": "2026-08-29T01:16:41.803545+00:00",
+  "updated_at": "2026-08-29T01:35:07.301367+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 21920000.0,
       "short_term_debt": 580162000.0,
       "long_term_debt": 3660887000.0,
+      "capital_composition": {
+        "ordinary_shares": 547191026.0,
+        "preferred_shares": 0.0,
+        "total_shares": 547191026.0,
+        "treasury_shares": 2150089.0,
+        "shares_outstanding": 545040937.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 21788000.0,
       "short_term_debt": 497611000.0,
       "long_term_debt": 4893951000.0,
+      "capital_composition": {
+        "ordinary_shares": 547191026.0,
+        "preferred_shares": 0.0,
+        "total_shares": 547191026.0,
+        "treasury_shares": 2911287.0,
+        "shares_outstanding": 544279739.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 21772000.0,
       "short_term_debt": 550835000.0,
       "long_term_debt": 4720608000.0,
+      "capital_composition": {
+        "ordinary_shares": 547191026.0,
+        "preferred_shares": 0.0,
+        "total_shares": 547191026.0,
+        "treasury_shares": 2175555.0,
+        "shares_outstanding": 545015471.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

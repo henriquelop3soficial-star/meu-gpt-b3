@@ -4,7 +4,7 @@
   "issuer_name": "INTERNATIONAL MEAL COMPANY ALIMENTAÇÃO S.A.",
   "cnpj": "17314329000120",
   "cvm_code": "23574",
-  "updated_at": "2026-08-29T01:16:41.841263+00:00",
+  "updated_at": "2026-08-29T01:35:07.345931+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 229159000.0,
       "short_term_debt": 76883000.0,
       "long_term_debt": 452867000.0,
+      "capital_composition": {
+        "ordinary_shares": 286369530.0,
+        "preferred_shares": 0.0,
+        "total_shares": 286369530.0,
+        "treasury_shares": 926500.0,
+        "shares_outstanding": 285443030.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 217796000.0,
       "short_term_debt": 159762000.0,
       "long_term_debt": 419259000.0,
+      "capital_composition": {
+        "ordinary_shares": 286369530.0,
+        "preferred_shares": 0.0,
+        "total_shares": 286369530.0,
+        "treasury_shares": 926500.0,
+        "shares_outstanding": 285443030.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 171189000.0,
       "short_term_debt": 234894000.0,
       "long_term_debt": 235097000.0,
+      "capital_composition": {
+        "ordinary_shares": 2863695300.0,
+        "preferred_shares": 2863695300.0,
+        "total_shares": 5727390600.0,
+        "treasury_shares": 18530000.0,
+        "shares_outstanding": 5708860600.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

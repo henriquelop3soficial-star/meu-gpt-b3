@@ -4,7 +4,7 @@
   "issuer_name": "GERDAU S.A.",
   "cnpj": "33611500000119",
   "cvm_code": "3980",
-  "updated_at": "2026-08-29T01:16:41.807998+00:00",
+  "updated_at": "2026-08-29T01:35:07.306603+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 3005645000.0,
       "short_term_debt": 1797622000.0,
       "long_term_debt": 9095686000.0,
+      "capital_composition": {
+        "ordinary_shares": 600526442.0,
+        "preferred_shares": 1156540608.0,
+        "total_shares": 1757067050.0,
+        "treasury_shares": 7544641.0,
+        "shares_outstanding": 1749522409.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 7767813000.0,
       "short_term_debt": 735037000.0,
       "long_term_debt": 12901447000.0,
+      "capital_composition": {
+        "ordinary_shares": 719956830.0,
+        "preferred_shares": 1358848730.0,
+        "total_shares": 2078805560.0,
+        "treasury_shares": 37512079.0,
+        "shares_outstanding": 2041293481.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 5929170000.0,
       "short_term_debt": 941904000.0,
       "long_term_debt": 13240247000.0,
+      "capital_composition": {
+        "ordinary_shares": 717782619.0,
+        "preferred_shares": 1283097330.0,
+        "total_shares": 2000879949.0,
+        "treasury_shares": 25736058.0,
+        "shares_outstanding": 1975143891.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

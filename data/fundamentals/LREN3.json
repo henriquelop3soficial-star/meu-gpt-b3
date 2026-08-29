@@ -4,7 +4,7 @@
   "issuer_name": "LOJAS RENNER SA",
   "cnpj": "92754738000162",
   "cvm_code": "8133",
-  "updated_at": "2026-08-29T01:16:41.835696+00:00",
+  "updated_at": "2026-08-29T01:35:07.339374+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 2532187000.0,
       "short_term_debt": 1090731000.0,
       "long_term_debt": 836169000.0,
+      "capital_composition": {
+        "ordinary_shares": 963227.0,
+        "preferred_shares": 0.0,
+        "total_shares": 963227.0,
+        "treasury_shares": 7626.0,
+        "shares_outstanding": 955601.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 1926110000.0,
       "short_term_debt": 931760000.0,
       "long_term_debt": 13740000.0,
+      "capital_composition": {
+        "ordinary_shares": 1059550.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1059550.0,
+        "treasury_shares": 7818.0,
+        "shares_outstanding": 1051732.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 978066000.0,
       "short_term_debt": 21087000.0,
       "long_term_debt": 358788000.0,
+      "capital_composition": {
+        "ordinary_shares": 1006845.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1006845.0,
+        "treasury_shares": 24646.0,
+        "shares_outstanding": 982199.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

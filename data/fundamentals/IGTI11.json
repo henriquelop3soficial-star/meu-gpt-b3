@@ -4,7 +4,7 @@
   "issuer_name": "IGUATEMI S.A.",
   "cnpj": "60543816000193",
   "cvm_code": "8672",
-  "updated_at": "2026-08-29T01:16:41.817928+00:00",
+  "updated_at": "2026-08-29T01:35:07.318342+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 59473000.0,
       "short_term_debt": 695028000.0,
       "long_term_debt": 2671980000.0,
+      "capital_composition": {
+        "ordinary_shares": 797612750.0,
+        "preferred_shares": 435494160.0,
+        "total_shares": 1233106910.0,
+        "treasury_shares": 6008477.0,
+        "shares_outstanding": 1227098433.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 49040000.0,
       "short_term_debt": 262026000.0,
       "long_term_debt": 3174173000.0,
+      "capital_composition": {
+        "ordinary_shares": 774849080.0,
+        "preferred_shares": 443082050.0,
+        "total_shares": 1217931130.0,
+        "treasury_shares": 11569945.0,
+        "shares_outstanding": 1206361185.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 36013000.0,
       "short_term_debt": 386040000.0,
       "long_term_debt": 3578010000.0,
+      "capital_composition": {
+        "ordinary_shares": 770992429.0,
+        "preferred_shares": 435368756.0,
+        "total_shares": 1206361185.0,
+        "treasury_shares": 84159.0,
+        "shares_outstanding": 1206277026.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

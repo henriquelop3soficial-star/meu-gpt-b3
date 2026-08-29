@@ -4,7 +4,7 @@
   "issuer_name": "SAO CARLOS EMPREEND E PARTICIPACOES S.A.",
   "cnpj": "29780061000109",
   "cvm_code": "13781",
-  "updated_at": "2026-08-29T01:16:41.903230+00:00",
+  "updated_at": "2026-08-29T01:35:07.419130+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 126672000.0,
       "short_term_debt": 155187000.0,
       "long_term_debt": 1401061000.0,
+      "capital_composition": {
+        "ordinary_shares": 57737.0,
+        "preferred_shares": 0.0,
+        "total_shares": 57737.0,
+        "treasury_shares": 629.0,
+        "shares_outstanding": 57108.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 7292000.0,
       "short_term_debt": 130081000.0,
       "long_term_debt": 1032834000.0,
+      "capital_composition": {
+        "ordinary_shares": 57737.0,
+        "preferred_shares": 0.0,
+        "total_shares": 57737.0,
+        "treasury_shares": 430.0,
+        "shares_outstanding": 57307.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 1039000.0,
       "short_term_debt": 133277000.0,
       "long_term_debt": 892632000.0,
+      "capital_composition": {
+        "ordinary_shares": 57737.0,
+        "preferred_shares": 0.0,
+        "total_shares": 57737.0,
+        "treasury_shares": 535.0,
+        "shares_outstanding": 57202.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

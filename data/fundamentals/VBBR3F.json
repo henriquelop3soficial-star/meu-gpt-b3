@@ -4,7 +4,7 @@
   "issuer_name": "VIBRA ENERGIA S/A",
   "cnpj": "34274233000102",
   "cvm_code": "24295",
-  "updated_at": "2026-08-29T01:16:41.929803+00:00",
+  "updated_at": "2026-08-29T01:35:07.453090+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 6666000000.0,
       "short_term_debt": 1470000000.0,
       "long_term_debt": 14048000000.0,
+      "capital_composition": {
+        "ordinary_shares": 1165000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1165000.0,
+        "treasury_shares": 50040.0,
+        "shares_outstanding": 1114960.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 10480000000.0,
       "short_term_debt": 2775000000.0,
       "long_term_debt": 18033000000.0,
+      "capital_composition": {
+        "ordinary_shares": 1119000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1119000.0,
+        "treasury_shares": 4489.0,
+        "shares_outstanding": 1114511.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 3647000000.0,
       "short_term_debt": 1235000000.0,
       "long_term_debt": 21981000000.0,
+      "capital_composition": {
+        "ordinary_shares": 1198000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1198000.0,
+        "treasury_shares": 6026.0,
+        "shares_outstanding": 1191974.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

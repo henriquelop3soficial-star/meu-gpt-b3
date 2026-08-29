@@ -4,7 +4,7 @@
   "issuer_name": "PORTO SEGURO SA",
   "cnpj": "02149205000169",
   "cvm_code": "16659",
-  "updated_at": "2026-08-29T01:16:41.871871+00:00",
+  "updated_at": "2026-08-29T01:35:07.396236+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 1105403000.0,
       "short_term_debt": 0.0,
       "long_term_debt": 0.0,
+      "capital_composition": {
+        "ordinary_shares": 646586.0,
+        "preferred_shares": 0.0,
+        "total_shares": 646586.0,
+        "treasury_shares": 5495.0,
+        "shares_outstanding": 641091.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 2191494000.0,
       "short_term_debt": 0.0,
       "long_term_debt": 0.0,
+      "capital_composition": {
+        "ordinary_shares": 646586.0,
+        "preferred_shares": 0.0,
+        "total_shares": 646586.0,
+        "treasury_shares": 6118.0,
+        "shares_outstanding": 640468.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 1897923000.0,
       "short_term_debt": 0.0,
       "long_term_debt": 0.0,
+      "capital_composition": {
+        "ordinary_shares": 646586.0,
+        "preferred_shares": 0.0,
+        "total_shares": 646586.0,
+        "treasury_shares": 6226.0,
+        "shares_outstanding": 640360.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

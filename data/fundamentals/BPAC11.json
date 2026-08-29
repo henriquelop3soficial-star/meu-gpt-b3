@@ -4,7 +4,7 @@
   "issuer_name": "BANCO BTG PACTUAL S/A",
   "cnpj": "30306294000145",
   "cvm_code": "22616",
-  "updated_at": "2026-08-29T01:16:41.757026+00:00",
+  "updated_at": "2026-08-29T01:35:07.247236+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 2439095000.0,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 7244165568.0,
+        "preferred_shares": 4261954360.0,
+        "total_shares": 11506119928.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 11506119928.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -37,6 +46,15 @@
       "cash_and_equivalents": 4709224000.0,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 7244165569.0,
+        "preferred_shares": 4261954360.0,
+        "total_shares": 11506119929.0,
+        "treasury_shares": 82408800.0,
+        "shares_outstanding": 11423711129.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -58,6 +76,15 @@
       "cash_and_equivalents": 5815072000.0,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 7298813414.0,
+        "preferred_shares": 4371250052.0,
+        "total_shares": 11670063466.0,
+        "treasury_shares": 82408800.0,
+        "shares_outstanding": 11587654666.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

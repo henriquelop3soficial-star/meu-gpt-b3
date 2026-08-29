@@ -4,7 +4,7 @@
   "issuer_name": "CSU DIGITAL S.A.",
   "cnpj": "01896779000138",
   "cvm_code": "20044",
-  "updated_at": "2026-08-29T01:16:41.776613+00:00",
+  "updated_at": "2026-08-29T01:35:07.269431+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 75290000.0,
       "short_term_debt": 26729000.0,
       "long_term_debt": 42022000.0,
+      "capital_composition": {
+        "ordinary_shares": 41800.0,
+        "preferred_shares": 0.0,
+        "total_shares": 41800.0,
+        "treasury_shares": 544.0,
+        "shares_outstanding": 41256.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 96197000.0,
       "short_term_debt": 34317000.0,
       "long_term_debt": 36224000.0,
+      "capital_composition": {
+        "ordinary_shares": 41800.0,
+        "preferred_shares": 0.0,
+        "total_shares": 41800.0,
+        "treasury_shares": 519.0,
+        "shares_outstanding": 41281.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 75674000.0,
       "short_term_debt": 19687000.0,
       "long_term_debt": 103908000.0,
+      "capital_composition": {
+        "ordinary_shares": 41800.0,
+        "preferred_shares": 0.0,
+        "total_shares": 41800.0,
+        "treasury_shares": 451.0,
+        "shares_outstanding": 41349.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

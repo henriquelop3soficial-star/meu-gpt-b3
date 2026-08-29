@@ -4,7 +4,7 @@
   "issuer_name": "MITRE REALTY EMPREENDIMENTOS E PARTICIPAÇÕES S.A.",
   "cnpj": "07882930000165",
   "cvm_code": "24902",
-  "updated_at": "2026-08-29T01:16:41.849570+00:00",
+  "updated_at": "2026-08-29T01:35:07.355274+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 198786000.0,
       "short_term_debt": 305188000.0,
       "long_term_debt": 351479000.0,
+      "capital_composition": {
+        "ordinary_shares": 105774820.0,
+        "preferred_shares": 0.0,
+        "total_shares": 105774820.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 105774820.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 236730000.0,
       "short_term_debt": 371435000.0,
       "long_term_debt": 255067000.0,
+      "capital_composition": {
+        "ordinary_shares": 105774820.0,
+        "preferred_shares": 0.0,
+        "total_shares": 105774820.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 105774820.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 206924000.0,
       "short_term_debt": 234708000.0,
       "long_term_debt": 440139000.0,
+      "capital_composition": {
+        "ordinary_shares": 105774820.0,
+        "preferred_shares": 0.0,
+        "total_shares": 105774820.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 105774820.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

@@ -4,7 +4,7 @@
   "issuer_name": "VALE S.A.",
   "cnpj": "33592510000154",
   "cvm_code": "4170",
-  "updated_at": "2026-08-29T01:16:41.928613+00:00",
+  "updated_at": "2026-08-29T01:35:07.451631+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 17474000000.0,
       "short_term_debt": 4940000000.0,
       "long_term_debt": 62464000000.0,
+      "capital_composition": {
+        "ordinary_shares": 4539007.0,
+        "preferred_shares": 0.0,
+        "total_shares": 4539007.0,
+        "treasury_shares": 239153.0,
+        "shares_outstanding": 4299854.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 30671000000.0,
       "short_term_debt": 7223000000.0,
       "long_term_debt": 88789000000.0,
+      "capital_composition": {
+        "ordinary_shares": 4539008.0,
+        "preferred_shares": 0.0,
+        "total_shares": 4539008.0,
+        "treasury_shares": 270288.0,
+        "shares_outstanding": 4268720.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 40563000000.0,
       "short_term_debt": 3731000000.0,
       "long_term_debt": 99726000000.0,
+      "capital_composition": {
+        "ordinary_shares": 4539007.0,
+        "preferred_shares": 0.0,
+        "total_shares": 4539007.0,
+        "treasury_shares": 270228.0,
+        "shares_outstanding": 4268779.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

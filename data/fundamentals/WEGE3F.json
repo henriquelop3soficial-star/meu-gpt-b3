@@ -4,7 +4,7 @@
   "issuer_name": "WEG SA",
   "cnpj": "84429695000111",
   "cvm_code": "5410",
-  "updated_at": "2026-08-29T01:16:41.937550+00:00",
+  "updated_at": "2026-08-29T01:35:07.462734+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 6488454000.0,
       "short_term_debt": 2170324000.0,
       "long_term_debt": 664737000.0,
+      "capital_composition": {
+        "ordinary_shares": 4197317998.0,
+        "preferred_shares": 0.0,
+        "total_shares": 4197317998.0,
+        "treasury_shares": 2083696.0,
+        "shares_outstanding": 4195234302.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 7347599000.0,
       "short_term_debt": 2850956000.0,
       "long_term_debt": 744281000.0,
+      "capital_composition": {
+        "ordinary_shares": 4197317998.0,
+        "preferred_shares": 0.0,
+        "total_shares": 4197317998.0,
+        "treasury_shares": 1780620.0,
+        "shares_outstanding": 4195537378.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 6296498000.0,
       "short_term_debt": 3549314000.0,
       "long_term_debt": 1041508000.0,
+      "capital_composition": {
+        "ordinary_shares": 4197317998.0,
+        "preferred_shares": 0.0,
+        "total_shares": 4197317998.0,
+        "treasury_shares": 1622025.0,
+        "shares_outstanding": 4195695973.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

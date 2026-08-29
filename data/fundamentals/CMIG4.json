@@ -4,7 +4,7 @@
   "issuer_name": "CIA ENERG MINAS GERAIS - CEMIG",
   "cnpj": "17155730000164",
   "cvm_code": "2453",
-  "updated_at": "2026-08-29T01:16:41.770607+00:00",
+  "updated_at": "2026-08-29T01:35:07.262371+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 1537482000.0,
       "short_term_debt": 2629708000.0,
       "long_term_debt": 7201431000.0,
+      "capital_composition": {
+        "ordinary_shares": 735848.0,
+        "preferred_shares": 1465523.0,
+        "total_shares": 2201371.0,
+        "treasury_shares": 846.0,
+        "shares_outstanding": 2200525.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 1898224000.0,
       "short_term_debt": 2876548000.0,
       "long_term_debt": 9402752000.0,
+      "capital_composition": {
+        "ordinary_shares": 956602.0,
+        "preferred_shares": 1905180.0,
+        "total_shares": 2861782.0,
+        "treasury_shares": 1100.0,
+        "shares_outstanding": 2860682.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 1901636000.0,
       "short_term_debt": 3051643000.0,
       "long_term_debt": 16413688000.0,
+      "capital_composition": {
+        "ordinary_shares": 956602.0,
+        "preferred_shares": 1905180.0,
+        "total_shares": 2861782.0,
+        "treasury_shares": 1100.0,
+        "shares_outstanding": 2860682.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

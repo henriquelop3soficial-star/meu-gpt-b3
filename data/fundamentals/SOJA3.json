@@ -4,7 +4,7 @@
   "issuer_name": "BOA SAFRA SEMENTES S.A",
   "cnpj": "10807374000177",
   "cvm_code": "25704",
-  "updated_at": "2026-08-29T01:16:41.908557+00:00",
+  "updated_at": "2026-08-29T01:35:07.425885+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 465589000.0,
       "short_term_debt": 38533000.0,
       "long_term_debt": 535057000.0,
+      "capital_composition": {
+        "ordinary_shares": 117140326.0,
+        "preferred_shares": 0.0,
+        "total_shares": 117140326.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 117140326.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 238527000.0,
       "short_term_debt": 140956000.0,
       "long_term_debt": 273051000.0,
+      "capital_composition": {
+        "ordinary_shares": 135322144.0,
+        "preferred_shares": 0.0,
+        "total_shares": 135322144.0,
+        "treasury_shares": 801800.0,
+        "shares_outstanding": 134520344.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 526878000.0,
       "short_term_debt": 61572000.0,
       "long_term_debt": 1256636000.0,
+      "capital_composition": {
+        "ordinary_shares": 141902688.0,
+        "preferred_shares": 0.0,
+        "total_shares": 141902688.0,
+        "treasury_shares": 840790.0,
+        "shares_outstanding": 141061898.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

@@ -4,7 +4,7 @@
   "issuer_name": "UNIPAR CARBOCLORO S.A.",
   "cnpj": "33958695000178",
   "cvm_code": "11592",
-  "updated_at": "2026-08-29T01:16:41.925760+00:00",
+  "updated_at": "2026-08-29T01:35:07.447998+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 1343204000.0,
       "short_term_debt": 416359000.0,
       "long_term_debt": 1645028000.0,
+      "capital_composition": {
+        "ordinary_shares": 35989867.0,
+        "preferred_shares": 67521571.0,
+        "total_shares": 103511438.0,
+        "treasury_shares": 346599.0,
+        "shares_outstanding": 103164839.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 845342000.0,
       "short_term_debt": 96941000.0,
       "long_term_debt": 2221041000.0,
+      "capital_composition": {
+        "ordinary_shares": 39059883.0,
+        "preferred_shares": 74113382.0,
+        "total_shares": 113173265.0,
+        "treasury_shares": 450424.0,
+        "shares_outstanding": 112722841.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 520271000.0,
       "short_term_debt": 229582000.0,
       "long_term_debt": 3296985000.0,
+      "capital_composition": {
+        "ordinary_shares": 39059883.0,
+        "preferred_shares": 74113382.0,
+        "total_shares": 113173265.0,
+        "treasury_shares": 1551112.0,
+        "shares_outstanding": 111622153.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

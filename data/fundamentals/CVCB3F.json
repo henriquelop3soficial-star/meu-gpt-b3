@@ -4,7 +4,7 @@
   "issuer_name": "CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS SA",
   "cnpj": "10760260000119",
   "cvm_code": "23310",
-  "updated_at": "2026-08-29T01:16:41.779236+00:00",
+  "updated_at": "2026-08-29T01:35:07.272379+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 482830000.0,
       "short_term_debt": 161497000.0,
       "long_term_debt": 628514000.0,
+      "capital_composition": {
+        "ordinary_shares": 525591097.0,
+        "preferred_shares": 0.0,
+        "total_shares": 525591097.0,
+        "treasury_shares": 8326.0,
+        "shares_outstanding": 525582771.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 400233000.0,
       "short_term_debt": 9450000.0,
       "long_term_debt": 532871000.0,
+      "capital_composition": {
+        "ordinary_shares": 525591097.0,
+        "preferred_shares": 0.0,
+        "total_shares": 525591097.0,
+        "treasury_shares": 8326.0,
+        "shares_outstanding": 525582771.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 286727000.0,
       "short_term_debt": 86015000.0,
       "long_term_debt": 309320000.0,
+      "capital_composition": {
+        "ordinary_shares": 525591097.0,
+        "preferred_shares": 0.0,
+        "total_shares": 525591097.0,
+        "treasury_shares": 4792509.0,
+        "shares_outstanding": 520798588.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

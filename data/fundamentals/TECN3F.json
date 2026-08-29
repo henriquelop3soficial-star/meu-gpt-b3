@@ -4,7 +4,7 @@
   "issuer_name": "TECHNOS SA",
   "cnpj": "09295063000197",
   "cvm_code": "22519",
-  "updated_at": "2026-08-29T01:16:41.915991+00:00",
+  "updated_at": "2026-08-29T01:35:07.435451+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 125152000.0,
       "short_term_debt": 16060000.0,
       "long_term_debt": 77759000.0,
+      "capital_composition": {
+        "ordinary_shares": 70906215.0,
+        "preferred_shares": 0.0,
+        "total_shares": 70906215.0,
+        "treasury_shares": 2323809.0,
+        "shares_outstanding": 68582406.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 119913000.0,
       "short_term_debt": 53985000.0,
       "long_term_debt": 53778000.0,
+      "capital_composition": {
+        "ordinary_shares": 64106215.0,
+        "preferred_shares": 0.0,
+        "total_shares": 64106215.0,
+        "treasury_shares": 748266.0,
+        "shares_outstanding": 63357949.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 37264000.0,
       "short_term_debt": 6357000.0,
       "long_term_debt": 40705000.0,
+      "capital_composition": {
+        "ordinary_shares": 60906215.0,
+        "preferred_shares": 0.0,
+        "total_shares": 60906215.0,
+        "treasury_shares": 18588.0,
+        "shares_outstanding": 60887627.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

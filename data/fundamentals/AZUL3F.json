@@ -4,7 +4,7 @@
   "issuer_name": "AZUL S.A.",
   "cnpj": "09305994000129",
   "cvm_code": "24112",
-  "updated_at": "2026-08-29T01:16:41.744616+00:00",
+  "updated_at": "2026-08-29T01:35:07.232242+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 1897336000.0,
       "short_term_debt": 4813250000.0,
       "long_term_debt": 20057880000.0,
+      "capital_composition": {
+        "ordinary_shares": 928965058.0,
+        "preferred_shares": 335747796.0,
+        "total_shares": 1264712854.0,
+        "treasury_shares": 499999.0,
+        "shares_outstanding": 1264212855.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 1210009000.0,
       "short_term_debt": 8645741000.0,
       "long_term_debt": 27838844000.0,
+      "capital_composition": {
+        "ordinary_shares": 928965058.0,
+        "preferred_shares": 335750796.0,
+        "total_shares": 1264715854.0,
+        "treasury_shares": 264495.0,
+        "shares_outstanding": 1264451359.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 991644000.0,
       "short_term_debt": 17225756000.0,
       "long_term_debt": 18633907000.0,
+      "capital_composition": {
+        "ordinary_shares": 2128965121.0,
+        "preferred_shares": 896039753.0,
+        "total_shares": 3025004874.0,
+        "treasury_shares": 88679.0,
+        "shares_outstanding": 3024916195.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

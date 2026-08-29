@@ -4,7 +4,7 @@
   "issuer_name": "TAURUS ARMAS S.A.",
   "cnpj": "92781335000102",
   "cvm_code": "6173",
-  "updated_at": "2026-08-29T01:16:41.914253+00:00",
+  "updated_at": "2026-08-29T01:35:07.433173+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 83362000.0,
       "short_term_debt": 412994000.0,
       "long_term_debt": 115983000.0,
+      "capital_composition": {
+        "ordinary_shares": 46445314.0,
+        "preferred_shares": 80189120.0,
+        "total_shares": 126634434.0,
+        "treasury_shares": 440900.0,
+        "shares_outstanding": 126193534.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 112614000.0,
       "short_term_debt": 554318000.0,
       "long_term_debt": 193220000.0,
+      "capital_composition": {
+        "ordinary_shares": 46445314.0,
+        "preferred_shares": 80189120.0,
+        "total_shares": 126634434.0,
+        "treasury_shares": 323100.0,
+        "shares_outstanding": 126311334.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 67547000.0,
       "short_term_debt": 662127000.0,
       "long_term_debt": 245168000.0,
+      "capital_composition": {
+        "ordinary_shares": 51089845.0,
+        "preferred_shares": 88208032.0,
+        "total_shares": 139297877.0,
+        "treasury_shares": 98273.0,
+        "shares_outstanding": 139199604.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

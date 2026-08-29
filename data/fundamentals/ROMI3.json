@@ -4,7 +4,7 @@
   "issuer_name": "ROMI S.A.",
   "cnpj": "56720428000163",
   "cvm_code": "7510",
-  "updated_at": "2026-08-29T01:16:41.885707+00:00",
+  "updated_at": "2026-08-29T01:35:07.413025+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 282418000.0,
       "short_term_debt": 339249000.0,
       "long_term_debt": 445932000.0,
+      "capital_composition": {
+        "ordinary_shares": 88734045.0,
+        "preferred_shares": 0.0,
+        "total_shares": 88734045.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 88734045.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 262220000.0,
       "short_term_debt": 343995000.0,
       "long_term_debt": 511489000.0,
+      "capital_composition": {
+        "ordinary_shares": 93170747.0,
+        "preferred_shares": 0.0,
+        "total_shares": 93170747.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 93170747.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 376534000.0,
       "short_term_debt": 286092000.0,
       "long_term_debt": 735374000.0,
+      "capital_composition": {
+        "ordinary_shares": 93170747.0,
+        "preferred_shares": 0.0,
+        "total_shares": 93170747.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 93170747.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

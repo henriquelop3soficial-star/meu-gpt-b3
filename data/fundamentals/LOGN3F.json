@@ -4,7 +4,7 @@
   "issuer_name": "LOG-IN LOGISTICA INTERMODAL SA",
   "cnpj": "42278291000124",
   "cvm_code": "20710",
-  "updated_at": "2026-08-29T01:16:41.834541+00:00",
+  "updated_at": "2026-08-29T01:35:07.337895+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 436406000.0,
       "short_term_debt": 259725000.0,
       "long_term_debt": 1366765000.0,
+      "capital_composition": {
+        "ordinary_shares": 107058818.0,
+        "preferred_shares": 0.0,
+        "total_shares": 107058818.0,
+        "treasury_shares": 1218772.0,
+        "shares_outstanding": 105840046.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 289792000.0,
       "short_term_debt": 317133000.0,
       "long_term_debt": 1372012000.0,
+      "capital_composition": {
+        "ordinary_shares": 107306486.0,
+        "preferred_shares": 0.0,
+        "total_shares": 107306486.0,
+        "treasury_shares": 1218772.0,
+        "shares_outstanding": 106087714.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 300109000.0,
       "short_term_debt": 326022000.0,
       "long_term_debt": 1373705000.0,
+      "capital_composition": {
+        "ordinary_shares": 107306486.0,
+        "preferred_shares": 0.0,
+        "total_shares": 107306486.0,
+        "treasury_shares": 1218772.0,
+        "shares_outstanding": 106087714.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

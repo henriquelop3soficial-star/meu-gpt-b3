@@ -4,7 +4,7 @@
   "issuer_name": "JALLES MACHADO S.A.",
   "cnpj": "02635522000195",
   "cvm_code": "25496",
-  "updated_at": "2026-08-29T01:16:41.825408+00:00",
+  "updated_at": "2026-08-29T01:35:07.327131+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 999121000.0,
       "short_term_debt": 343985000.0,
       "long_term_debt": 3005099000.0,
+      "capital_composition": {
+        "ordinary_shares": 294697091.0,
+        "preferred_shares": 0.0,
+        "total_shares": 294697091.0,
+        "treasury_shares": 1994200.0,
+        "shares_outstanding": 292702891.0,
+        "reference_date": "2023-03-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 1049863000.0,
       "short_term_debt": 386646000.0,
       "long_term_debt": 3629833000.0,
+      "capital_composition": {
+        "ordinary_shares": 303541864.0,
+        "preferred_shares": 0.0,
+        "total_shares": 303541864.0,
+        "treasury_shares": 1994200.0,
+        "shares_outstanding": 301547664.0,
+        "reference_date": "2024-03-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 1237342000.0,
       "short_term_debt": 753722000.0,
       "long_term_debt": 3793978000.0,
+      "capital_composition": {
+        "ordinary_shares": 303541864.0,
+        "preferred_shares": 0.0,
+        "total_shares": 303541864.0,
+        "treasury_shares": 1994200.0,
+        "shares_outstanding": 301547664.0,
+        "reference_date": "2025-03-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

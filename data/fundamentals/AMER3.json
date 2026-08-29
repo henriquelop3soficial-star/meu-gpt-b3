@@ -4,7 +4,7 @@
   "issuer_name": "AMERICANAS S.A. - EM RECUPERAÇÃO JUDICIAL",
   "cnpj": "00776574000156",
   "cvm_code": "20990",
-  "updated_at": "2026-08-29T01:16:41.736368+00:00",
+  "updated_at": "2026-08-29T01:35:07.221767+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 1758000000.0,
       "short_term_debt": 23523000000.0,
       "long_term_debt": 0.0,
+      "capital_composition": {
+        "ordinary_shares": 902529503.0,
+        "preferred_shares": 0.0,
+        "total_shares": 902529503.0,
+        "treasury_shares": 7416.0,
+        "shares_outstanding": 902522087.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 1129000000.0,
       "short_term_debt": 49000000.0,
       "long_term_debt": 1733000000.0,
+      "capital_composition": {
+        "ordinary_shares": 200244252.0,
+        "preferred_shares": 0.0,
+        "total_shares": 200244252.0,
+        "treasury_shares": 74.0,
+        "shares_outstanding": 200244178.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 879000000.0,
       "short_term_debt": 0.0,
       "long_term_debt": 1995000000.0,
+      "capital_composition": {
+        "ordinary_shares": 200244998.0,
+        "preferred_shares": 0.0,
+        "total_shares": 200244998.0,
+        "treasury_shares": 73.0,
+        "shares_outstanding": 200244925.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

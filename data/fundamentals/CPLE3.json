@@ -4,7 +4,7 @@
   "issuer_name": "COMPANHIA PARANAENSE DE ENERGIA COPEL",
   "cnpj": "76483817000120",
   "cvm_code": "14311",
-  "updated_at": "2026-08-29T01:16:41.773442+00:00",
+  "updated_at": "2026-08-29T01:35:07.265705+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 5634623000.0,
       "short_term_debt": 1901629000.0,
       "long_term_debt": 13060694000.0,
+      "capital_composition": {
+        "ordinary_shares": 1300347300.0,
+        "preferred_shares": 1682463291.0,
+        "total_shares": 2982810591.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 2982810591.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 4161939000.0,
       "short_term_debt": 3256315000.0,
       "long_term_debt": 13989844000.0,
+      "capital_composition": {
+        "ordinary_shares": 1300347300.0,
+        "preferred_shares": 1682463291.0,
+        "total_shares": 2982810591.0,
+        "treasury_shares": 5698400.0,
+        "shares_outstanding": 2977112191.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 3130363000.0,
       "short_term_debt": 2068365000.0,
       "long_term_debt": 17946978000.0,
+      "capital_composition": {
+        "ordinary_shares": 2982810590.0,
+        "preferred_shares": 1.0,
+        "total_shares": 2982810591.0,
+        "treasury_shares": 12740266.0,
+        "shares_outstanding": 2970070325.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

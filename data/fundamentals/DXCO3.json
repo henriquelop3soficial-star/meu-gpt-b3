@@ -4,7 +4,7 @@
   "issuer_name": "DEXCO S.A.",
   "cnpj": "97837181000147",
   "cvm_code": "21091",
-  "updated_at": "2026-08-29T01:16:41.785979+00:00",
+  "updated_at": "2026-08-29T01:35:07.280570+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 2785454000.0,
       "short_term_debt": 1091758000.0,
       "long_term_debt": 5872773000.0,
+      "capital_composition": {
+        "ordinary_shares": 820566.0,
+        "preferred_shares": 0.0,
+        "total_shares": 820566.0,
+        "treasury_shares": 12424.0,
+        "shares_outstanding": 808142.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 1231419000.0,
       "short_term_debt": 1263794000.0,
       "long_term_debt": 5215800000.0,
+      "capital_composition": {
+        "ordinary_shares": 820566.0,
+        "preferred_shares": 0.0,
+        "total_shares": 820566.0,
+        "treasury_shares": 12202.0,
+        "shares_outstanding": 808364.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 2178462000.0,
       "short_term_debt": 514544000.0,
       "long_term_debt": 7067100000.0,
+      "capital_composition": {
+        "ordinary_shares": 919034.0,
+        "preferred_shares": 0.0,
+        "total_shares": 919034.0,
+        "treasury_shares": 11381.0,
+        "shares_outstanding": 907653.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

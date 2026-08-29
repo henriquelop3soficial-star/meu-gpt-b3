@@ -4,7 +4,7 @@
   "issuer_name": "COMPASS GÁS E ENERGIA S.A.",
   "cnpj": "21389501000181",
   "cvm_code": "25127",
-  "updated_at": "2026-08-29T01:16:41.858255+00:00",
+  "updated_at": "2026-08-29T01:35:07.365895+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 3931532000.0,
       "short_term_debt": 2101034000.0,
       "long_term_debt": 9553059000.0,
+      "capital_composition": {
+        "ordinary_shares": 628487691.0,
+        "preferred_shares": 85702404.0,
+        "total_shares": 714190095.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 714190095.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 5271256000.0,
       "short_term_debt": 2921556000.0,
       "long_term_debt": 13649783000.0,
+      "capital_composition": {
+        "ordinary_shares": 628487691.0,
+        "preferred_shares": 85702404.0,
+        "total_shares": 714190095.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 714190095.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 3430108000.0,
       "short_term_debt": 2170720000.0,
       "long_term_debt": 15080306000.0,
+      "capital_composition": {
+        "ordinary_shares": 628487691.0,
+        "preferred_shares": 85702404.0,
+        "total_shares": 714190095.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 714190095.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

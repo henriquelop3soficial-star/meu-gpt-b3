@@ -4,7 +4,7 @@
   "issuer_name": "LUPATECH S.A.",
   "cnpj": "89463822000112",
   "cvm_code": "20060",
-  "updated_at": "2026-08-29T01:16:41.836442+00:00",
+  "updated_at": "2026-08-29T01:35:07.340262+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 19907000.0,
       "short_term_debt": 50633000.0,
       "long_term_debt": 95027000.0,
+      "capital_composition": {
+        "ordinary_shares": 41037776.0,
+        "preferred_shares": 0.0,
+        "total_shares": 41037776.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 41037776.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 3515000.0,
       "short_term_debt": 56264000.0,
       "long_term_debt": 123437000.0,
+      "capital_composition": {
+        "ordinary_shares": 42130719.0,
+        "preferred_shares": 0.0,
+        "total_shares": 42130719.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 42130719.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 384000.0,
       "short_term_debt": 61703000.0,
       "long_term_debt": 116445000.0,
+      "capital_composition": {
+        "ordinary_shares": 46687694.0,
+        "preferred_shares": 0.0,
+        "total_shares": 46687694.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 46687694.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

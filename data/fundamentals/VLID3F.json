@@ -4,7 +4,7 @@
   "issuer_name": "VALID SOLUÇÕES S.A.",
   "cnpj": "33113309000147",
   "cvm_code": "20028",
-  "updated_at": "2026-08-29T01:16:41.933294+00:00",
+  "updated_at": "2026-08-29T01:35:07.457412+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 422029000.0,
       "short_term_debt": 172061000.0,
       "long_term_debt": 537893000.0,
+      "capital_composition": {
+        "ordinary_shares": 81836375.0,
+        "preferred_shares": 0.0,
+        "total_shares": 81836375.0,
+        "treasury_shares": 1708072.0,
+        "shares_outstanding": 80128303.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 569472000.0,
       "short_term_debt": 116131000.0,
       "long_term_debt": 483085000.0,
+      "capital_composition": {
+        "ordinary_shares": 81836375.0,
+        "preferred_shares": 0.0,
+        "total_shares": 81836375.0,
+        "treasury_shares": 2691878.0,
+        "shares_outstanding": 79144497.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 699196000.0,
       "short_term_debt": 167070000.0,
       "long_term_debt": 617524000.0,
+      "capital_composition": {
+        "ordinary_shares": 81836375.0,
+        "preferred_shares": 0.0,
+        "total_shares": 81836375.0,
+        "treasury_shares": 3376430.0,
+        "shares_outstanding": 78459945.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

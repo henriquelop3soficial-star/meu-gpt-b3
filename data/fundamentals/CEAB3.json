@@ -4,7 +4,7 @@
   "issuer_name": "C&A MODAS S.A.",
   "cnpj": "45242914000105",
   "cvm_code": "24848",
-  "updated_at": "2026-08-29T01:16:41.766556+00:00",
+  "updated_at": "2026-08-29T01:35:07.258584+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 1155588000.0,
       "short_term_debt": 511427000.0,
       "long_term_debt": 1176427000.0,
+      "capital_composition": {
+        "ordinary_shares": 308245068.0,
+        "preferred_shares": 0.0,
+        "total_shares": 308245068.0,
+        "treasury_shares": 2650500.0,
+        "shares_outstanding": 305594568.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 1403225000.0,
       "short_term_debt": 456541000.0,
       "long_term_debt": 1041472000.0,
+      "capital_composition": {
+        "ordinary_shares": 308245068.0,
+        "preferred_shares": 0.0,
+        "total_shares": 308245068.0,
+        "treasury_shares": 3624126.0,
+        "shares_outstanding": 304620942.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 774521000.0,
       "short_term_debt": 139796000.0,
       "long_term_debt": 820676000.0,
+      "capital_composition": {
+        "ordinary_shares": 308245068.0,
+        "preferred_shares": 0.0,
+        "total_shares": 308245068.0,
+        "treasury_shares": 5330734.0,
+        "shares_outstanding": 302914334.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

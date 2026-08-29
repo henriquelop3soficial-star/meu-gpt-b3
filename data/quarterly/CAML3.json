@@ -1,0 +1,91 @@
+{
+  "ticker": "CAML3",
+  "asset_type": "stock",
+  "issuer_name": "CAMIL ALIMENTOS S/A",
+  "cnpj": "64904295000103",
+  "cvm_code": "24228",
+  "updated_at": "2026-08-29T01:35:20.268001+00:00",
+  "interim_financials": [
+    {
+      "reference_date": "2025-05-31",
+      "period_start": "2025-03-01",
+      "period_end": "2025-05-31",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 2687327000.0,
+      "net_income_year_to_date": 66000000.0,
+      "equity": 3489154000.0,
+      "cash_and_equivalents": 1624333000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2025-08-31",
+      "period_start": "2025-03-01",
+      "period_end": "2025-08-31",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 2979669000.0,
+      "net_income_year_to_date": 78708000.0,
+      "equity": 3430036000.0,
+      "cash_and_equivalents": 1907191000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2025-11-30",
+      "period_start": "2025-03-01",
+      "period_end": "2025-11-30",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 2945251000.0,
+      "net_income_year_to_date": 44072000.0,
+      "equity": 3448474000.0,
+      "cash_and_equivalents": 2531821000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2026-05-31",
+      "period_start": "2026-03-01",
+      "period_end": "2026-05-31",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 2667975000.0,
+      "net_income_year_to_date": 27971000.0,
+      "equity": 2989107000.0,
+      "cash_and_equivalents": 1430714000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2026.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    }
+  ],
+  "errors": []
+}

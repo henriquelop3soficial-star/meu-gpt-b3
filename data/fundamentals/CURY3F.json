@@ -4,7 +4,7 @@
   "issuer_name": "CURY CONSTRUTORA E INCORPORADORA S.A.",
   "cnpj": "08797760000183",
   "cvm_code": "25100",
-  "updated_at": "2026-08-29T01:16:41.778497+00:00",
+  "updated_at": "2026-08-29T01:35:07.271533+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 643630000.0,
       "short_term_debt": 124271000.0,
       "long_term_debt": 489081000.0,
+      "capital_composition": {
+        "ordinary_shares": 291875088.0,
+        "preferred_shares": 0.0,
+        "total_shares": 291875088.0,
+        "treasury_shares": 1990800.0,
+        "shares_outstanding": 289884288.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 975224000.0,
       "short_term_debt": 208869000.0,
       "long_term_debt": 777513000.0,
+      "capital_composition": {
+        "ordinary_shares": 291875088.0,
+        "preferred_shares": 0.0,
+        "total_shares": 291875088.0,
+        "treasury_shares": 1990800.0,
+        "shares_outstanding": 289884288.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 1355394000.0,
       "short_term_debt": 299859000.0,
       "long_term_debt": 1175028000.0,
+      "capital_composition": {
+        "ordinary_shares": 308047594.0,
+        "preferred_shares": 0.0,
+        "total_shares": 308047594.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 308047594.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

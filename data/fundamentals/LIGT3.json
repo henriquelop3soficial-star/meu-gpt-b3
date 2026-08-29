@@ -4,7 +4,7 @@
   "issuer_name": "LIGHT S.A. - EM RECUPERAÇÃO JUDICIAL",
   "cnpj": "03378521000175",
   "cvm_code": "19879",
-  "updated_at": "2026-08-29T01:16:41.832506+00:00",
+  "updated_at": "2026-08-29T01:35:07.335671+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 292066000.0,
       "short_term_debt": 10645470000.0,
       "long_term_debt": 0.0,
+      "capital_composition": {
+        "ordinary_shares": 372555324.0,
+        "preferred_shares": 0.0,
+        "total_shares": 372555324.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 372555324.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 185797000.0,
       "short_term_debt": 703993000.0,
       "long_term_debt": 8801850000.0,
+      "capital_composition": {
+        "ordinary_shares": 372555324.0,
+        "preferred_shares": 0.0,
+        "total_shares": 372555324.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 372555324.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 110772000.0,
       "short_term_debt": 1221426000.0,
       "long_term_debt": 8490932000.0,
+      "capital_composition": {
+        "ordinary_shares": 372555324.0,
+        "preferred_shares": 0.0,
+        "total_shares": 372555324.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 372555324.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

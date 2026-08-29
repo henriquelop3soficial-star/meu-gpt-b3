@@ -4,7 +4,7 @@
   "issuer_name": "METALFRIO SOLUTIONS S/A",
   "cnpj": "04821041000108",
   "cvm_code": "20613",
-  "updated_at": "2026-08-29T01:16:41.804781+00:00",
+  "updated_at": "2026-08-29T01:35:07.302745+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 121413000.0,
       "short_term_debt": 1279866000.0,
       "long_term_debt": 218516000.0,
+      "capital_composition": {
+        "ordinary_shares": 4106754.0,
+        "preferred_shares": 0.0,
+        "total_shares": 4106754.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 4106754.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 166091000.0,
       "short_term_debt": 513482000.0,
       "long_term_debt": 342377000.0,
+      "capital_composition": {
+        "ordinary_shares": 6286293.0,
+        "preferred_shares": 0.0,
+        "total_shares": 6286293.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 6286293.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 160353000.0,
       "short_term_debt": 524263000.0,
       "long_term_debt": 270980000.0,
+      "capital_composition": {
+        "ordinary_shares": 6382377.0,
+        "preferred_shares": 0.0,
+        "total_shares": 6382377.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 6382377.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

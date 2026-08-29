@@ -4,7 +4,7 @@
   "issuer_name": "ALUPAR INVESTIMENTO S/A",
   "cnpj": "08364948000138",
   "cvm_code": "21490",
-  "updated_at": "2026-08-29T01:16:41.734791+00:00",
+  "updated_at": "2026-08-29T01:35:07.219891+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 823209000.0,
       "short_term_debt": 2143632000.0,
       "long_term_debt": 9676884000.0,
+      "capital_composition": {
+        "ordinary_shares": 620834207.0,
+        "preferred_shares": 293441497.0,
+        "total_shares": 914275704.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 914275704.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 807229000.0,
       "short_term_debt": 1978464000.0,
       "long_term_debt": 10751162000.0,
+      "capital_composition": {
+        "ordinary_shares": 645667575.0,
+        "preferred_shares": 305179157.0,
+        "total_shares": 950846732.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 950846732.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 685881000.0,
       "short_term_debt": 1450642000.0,
       "long_term_debt": 11160793000.0,
+      "capital_composition": {
+        "ordinary_shares": 671494278.0,
+        "preferred_shares": 317386323.0,
+        "total_shares": 988880601.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 988880601.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

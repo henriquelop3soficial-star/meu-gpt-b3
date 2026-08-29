@@ -4,7 +4,7 @@
   "issuer_name": "TECNISA S/A",
   "cnpj": "08065557000112",
   "cvm_code": "20435",
-  "updated_at": "2026-08-29T01:16:41.914957+00:00",
+  "updated_at": "2026-08-29T01:35:07.434100+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 83865000.0,
       "short_term_debt": 226318000.0,
       "long_term_debt": 493119000.0,
+      "capital_composition": {
+        "ordinary_shares": 73619.0,
+        "preferred_shares": 0.0,
+        "total_shares": 73619.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 73619.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 130821000.0,
       "short_term_debt": 222060000.0,
       "long_term_debt": 456418000.0,
+      "capital_composition": {
+        "ordinary_shares": 73619.0,
+        "preferred_shares": 0.0,
+        "total_shares": 73619.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 73619.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 199508000.0,
       "short_term_debt": 206148000.0,
       "long_term_debt": 504914000.0,
+      "capital_composition": {
+        "ordinary_shares": 73619.0,
+        "preferred_shares": 0.0,
+        "total_shares": 73619.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 73619.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

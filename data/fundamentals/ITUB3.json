@@ -4,7 +4,7 @@
   "issuer_name": "ITAÚ UNIBANCO HOLDING S.A.",
   "cnpj": "60872504000123",
   "cvm_code": "19348",
-  "updated_at": "2026-08-29T01:16:41.824219+00:00",
+  "updated_at": "2026-08-29T01:35:07.325854+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 32001000000.0,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 4958290.0,
+        "preferred_shares": 4845845.0,
+        "total_shares": 9804135.0,
+        "treasury_shares": 436.0,
+        "shares_outstanding": 9803699.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -37,6 +46,15 @@
       "cash_and_equivalents": 36127000000.0,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 4958290.0,
+        "preferred_shares": 4817814.0,
+        "total_shares": 9776104.0,
+        "treasury_shares": 28031.0,
+        "shares_outstanding": 9748073.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -58,6 +76,15 @@
       "cash_and_equivalents": 37144000000.0,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 5617743.0,
+        "preferred_shares": 5409126.0,
+        "total_shares": 11026869.0,
+        "treasury_shares": 345.0,
+        "shares_outstanding": 11026524.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

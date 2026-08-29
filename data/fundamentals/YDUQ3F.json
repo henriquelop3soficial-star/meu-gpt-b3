@@ -4,7 +4,7 @@
   "issuer_name": "YDUQS PARTICIPACOES S.A.",
   "cnpj": "08807432000110",
   "cvm_code": "21016",
-  "updated_at": "2026-08-29T01:16:41.941838+00:00",
+  "updated_at": "2026-08-29T01:35:07.468203+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 501971000.0,
       "short_term_debt": 807918000.0,
       "long_term_debt": 4335161000.0,
+      "capital_composition": {
+        "ordinary_shares": 309089.0,
+        "preferred_shares": 0.0,
+        "total_shares": 309089.0,
+        "treasury_shares": 17735.0,
+        "shares_outstanding": 291354.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 677472000.0,
       "short_term_debt": 697769000.0,
       "long_term_debt": 4908203000.0,
+      "capital_composition": {
+        "ordinary_shares": 289089.0,
+        "preferred_shares": 0.0,
+        "total_shares": 289089.0,
+        "treasury_shares": 11371.0,
+        "shares_outstanding": 277718.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 982314000.0,
       "short_term_debt": 1216911000.0,
       "long_term_debt": 4509260000.0,
+      "capital_composition": {
+        "ordinary_shares": 274089.0,
+        "preferred_shares": 0.0,
+        "total_shares": 274089.0,
+        "treasury_shares": 10535.0,
+        "shares_outstanding": 263554.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

@@ -4,7 +4,7 @@
   "issuer_name": "RANDONCORP S.A.",
   "cnpj": "89086144000116",
   "cvm_code": "14109",
-  "updated_at": "2026-08-29T01:16:41.877279+00:00",
+  "updated_at": "2026-08-29T01:35:07.402876+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 2864807000.0,
       "short_term_debt": 1217464000.0,
       "long_term_debt": 4121368000.0,
+      "capital_composition": {
+        "ordinary_shares": 116516.0,
+        "preferred_shares": 212815.0,
+        "total_shares": 329331.0,
+        "treasury_shares": 1037.0,
+        "shares_outstanding": 328294.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 2252138000.0,
       "short_term_debt": 1524655000.0,
       "long_term_debt": 5208157000.0,
+      "capital_composition": {
+        "ordinary_shares": 116516.0,
+        "preferred_shares": 212815.0,
+        "total_shares": 329331.0,
+        "treasury_shares": 1037.0,
+        "shares_outstanding": 328294.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 3821860000.0,
       "short_term_debt": 1530379000.0,
       "long_term_debt": 8076979000.0,
+      "capital_composition": {
+        "ordinary_shares": 223882733.0,
+        "preferred_shares": 125841938.0,
+        "total_shares": 349724671.0,
+        "treasury_shares": 1036900.0,
+        "shares_outstanding": 348687771.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

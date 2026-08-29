@@ -4,7 +4,7 @@
   "issuer_name": "COGNA EDUCAÇÃO S.A.",
   "cnpj": "02800026000140",
   "cvm_code": "17973",
-  "updated_at": "2026-08-29T01:16:41.771818+00:00",
+  "updated_at": "2026-08-29T01:35:07.263822+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 624483000.0,
       "short_term_debt": 1610571000.0,
       "long_term_debt": 6165025000.0,
+      "capital_composition": {
+        "ordinary_shares": 1876606210.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1876606210.0,
+        "treasury_shares": 4650087.0,
+        "shares_outstanding": 1871956123.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 94965000.0,
       "short_term_debt": 844476000.0,
       "long_term_debt": 6028736000.0,
+      "capital_composition": {
+        "ordinary_shares": 1876606210.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1876606210.0,
+        "treasury_shares": 32264869.0,
+        "shares_outstanding": 1844341341.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 78452000.0,
       "short_term_debt": 594505000.0,
       "long_term_debt": 6055319000.0,
+      "capital_composition": {
+        "ordinary_shares": 2064266831.0,
+        "preferred_shares": 0.0,
+        "total_shares": 2064266831.0,
+        "treasury_shares": 68678656.0,
+        "shares_outstanding": 1995588175.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

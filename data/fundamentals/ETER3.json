@@ -4,7 +4,7 @@
   "issuer_name": "ETERNIT S.A.",
   "cnpj": "61092037000181",
   "cvm_code": "5762",
-  "updated_at": "2026-08-29T01:16:41.797503+00:00",
+  "updated_at": "2026-08-29T01:35:07.294077+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 11131000.0,
       "short_term_debt": 82746000.0,
       "long_term_debt": 59551000.0,
+      "capital_composition": {
+        "ordinary_shares": 61777.0,
+        "preferred_shares": 0.0,
+        "total_shares": 61777.0,
+        "treasury_shares": 55.0,
+        "shares_outstanding": 61722.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 16132000.0,
       "short_term_debt": 69163000.0,
       "long_term_debt": 57094000.0,
+      "capital_composition": {
+        "ordinary_shares": 61777.0,
+        "preferred_shares": 0.0,
+        "total_shares": 61777.0,
+        "treasury_shares": 126.0,
+        "shares_outstanding": 61651.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 24850000.0,
       "short_term_debt": 115744000.0,
       "long_term_debt": 38881000.0,
+      "capital_composition": {
+        "ordinary_shares": 61777.0,
+        "preferred_shares": 0.0,
+        "total_shares": 61777.0,
+        "treasury_shares": 12.0,
+        "shares_outstanding": 61765.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

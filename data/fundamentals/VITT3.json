@@ -4,7 +4,7 @@
   "issuer_name": "VITTIA S.A.",
   "cnpj": "45365558000109",
   "cvm_code": "25763",
-  "updated_at": "2026-08-29T01:16:41.930229+00:00",
+  "updated_at": "2026-08-29T01:35:07.453608+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 82829000.0,
       "short_term_debt": 172147000.0,
       "long_term_debt": 27391000.0,
+      "capital_composition": {
+        "ordinary_shares": 143049107.0,
+        "preferred_shares": 0.0,
+        "total_shares": 143049107.0,
+        "treasury_shares": 823312.0,
+        "shares_outstanding": 142225795.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 54473000.0,
       "short_term_debt": 136936000.0,
       "long_term_debt": 96242000.0,
+      "capital_composition": {
+        "ordinary_shares": 150314018.0,
+        "preferred_shares": 0.0,
+        "total_shares": 150314018.0,
+        "treasury_shares": 304779.0,
+        "shares_outstanding": 150009239.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 47963000.0,
       "short_term_debt": 131886000.0,
       "long_term_debt": 48627000.0,
+      "capital_composition": {
+        "ordinary_shares": 147314018.0,
+        "preferred_shares": 0.0,
+        "total_shares": 147314018.0,
+        "treasury_shares": 555436.0,
+        "shares_outstanding": 146758582.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

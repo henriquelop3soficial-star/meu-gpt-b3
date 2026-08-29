@@ -4,7 +4,7 @@
   "issuer_name": "SIMPAR S.A.",
   "cnpj": "07415333000120",
   "cvm_code": "25003",
-  "updated_at": "2026-08-29T01:16:41.906277+00:00",
+  "updated_at": "2026-08-29T01:35:07.422990+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 1345475000.0,
       "short_term_debt": 4182392000.0,
       "long_term_debt": 41120430000.0,
+      "capital_composition": {
+        "ordinary_shares": 838407909.0,
+        "preferred_shares": 0.0,
+        "total_shares": 838407909.0,
+        "treasury_shares": 11366364.0,
+        "shares_outstanding": 827041545.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 1903850000.0,
       "short_term_debt": 7544068000.0,
       "long_term_debt": 49853850000.0,
+      "capital_composition": {
+        "ordinary_shares": 873040533.0,
+        "preferred_shares": 0.0,
+        "total_shares": 873040533.0,
+        "treasury_shares": 13080182.0,
+        "shares_outstanding": 859960351.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 3029953000.0,
       "short_term_debt": 9611881000.0,
       "long_term_debt": 49461546000.0,
+      "capital_composition": {
+        "ordinary_shares": 873040533.0,
+        "preferred_shares": 0.0,
+        "total_shares": 873040533.0,
+        "treasury_shares": 19445017.0,
+        "shares_outstanding": 853595516.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

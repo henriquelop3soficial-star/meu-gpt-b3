@@ -4,7 +4,7 @@
   "issuer_name": "LWSA S/A",
   "cnpj": "02351877000152",
   "cvm_code": "24910",
-  "updated_at": "2026-08-29T01:16:41.837944+00:00",
+  "updated_at": "2026-08-29T01:35:07.342055+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 1188223000.0,
       "short_term_debt": 13754000.0,
       "long_term_debt": 63675000.0,
+      "capital_composition": {
+        "ordinary_shares": 595764158.0,
+        "preferred_shares": 0.0,
+        "total_shares": 595764158.0,
+        "treasury_shares": 6228472.0,
+        "shares_outstanding": 589535686.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 447378000.0,
       "short_term_debt": 14512000.0,
       "long_term_debt": 59915000.0,
+      "capital_composition": {
+        "ordinary_shares": 562886478.0,
+        "preferred_shares": 0.0,
+        "total_shares": 562886478.0,
+        "treasury_shares": 4550829.0,
+        "shares_outstanding": 558335649.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 371931000.0,
       "short_term_debt": 18769000.0,
       "long_term_debt": 56704000.0,
+      "capital_composition": {
+        "ordinary_shares": 568561350.0,
+        "preferred_shares": 0.0,
+        "total_shares": 568561350.0,
+        "treasury_shares": 18129533.0,
+        "shares_outstanding": 550431817.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

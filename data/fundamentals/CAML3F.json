@@ -4,7 +4,7 @@
   "issuer_name": "CAMIL ALIMENTOS S/A",
   "cnpj": "64904295000103",
   "cvm_code": "24228",
-  "updated_at": "2026-08-29T01:16:41.765193+00:00",
+  "updated_at": "2026-08-29T01:35:07.257041+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 1225614000.0,
       "short_term_debt": 1178555000.0,
       "long_term_debt": 2998087000.0,
+      "capital_composition": {
+        "ordinary_shares": 350000000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 350000000.0,
+        "treasury_shares": 486500.0,
+        "shares_outstanding": 349513500.0,
+        "reference_date": "2023-02-28",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 2800256000.0,
       "short_term_debt": 1717267000.0,
       "long_term_debt": 4037027000.0,
+      "capital_composition": {
+        "ordinary_shares": 350000000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 350000000.0,
+        "treasury_shares": 8928768.0,
+        "shares_outstanding": 341071232.0,
+        "reference_date": "2024-02-28",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 2530204000.0,
       "short_term_debt": 2159665000.0,
       "long_term_debt": 3353081000.0,
+      "capital_composition": {
+        "ordinary_shares": 350000000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 350000000.0,
+        "treasury_shares": 8928768.0,
+        "shares_outstanding": 341071232.0,
+        "reference_date": "2025-02-28",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

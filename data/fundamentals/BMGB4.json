@@ -4,7 +4,7 @@
   "issuer_name": "BANCO BMG S/A",
   "cnpj": "61186680000174",
   "cvm_code": "24600",
-  "updated_at": "2026-08-29T01:16:41.755704+00:00",
+  "updated_at": "2026-08-29T01:35:07.245590+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 874654000.0,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 372696198.0,
+        "preferred_shares": 210536213.0,
+        "total_shares": 583232411.0,
+        "treasury_shares": 158999.0,
+        "shares_outstanding": 583073412.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -37,6 +46,15 @@
       "cash_and_equivalents": 1704903000.0,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 372696198.0,
+        "preferred_shares": 210536213.0,
+        "total_shares": 583232411.0,
+        "treasury_shares": 2750309.0,
+        "shares_outstanding": 580482102.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -58,6 +76,15 @@
       "cash_and_equivalents": 568013000.0,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 382836779.0,
+        "preferred_shares": 216251515.0,
+        "total_shares": 599088294.0,
+        "treasury_shares": 2601348.0,
+        "shares_outstanding": 596486946.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

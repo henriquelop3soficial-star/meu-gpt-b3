@@ -4,7 +4,7 @@
   "issuer_name": "PRIO S.A.",
   "cnpj": "10629105000168",
   "cvm_code": "22187",
-  "updated_at": "2026-08-29T01:16:41.870138+00:00",
+  "updated_at": "2026-08-29T01:35:07.394169+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 2335403000.0,
       "short_term_debt": 1476564000.0,
       "long_term_debt": 8077838000.0,
+      "capital_composition": {
+        "ordinary_shares": 887229147.0,
+        "preferred_shares": 0.0,
+        "total_shares": 887229147.0,
+        "treasury_shares": 52697965.0,
+        "shares_outstanding": 834531182.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 3993359000.0,
       "short_term_debt": 578893000.0,
       "long_term_debt": 21854784000.0,
+      "capital_composition": {
+        "ordinary_shares": 892059934.0,
+        "preferred_shares": 0.0,
+        "total_shares": 892059934.0,
+        "treasury_shares": 75058542.0,
+        "shares_outstanding": 817001392.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 3398291000.0,
       "short_term_debt": 1773324000.0,
       "long_term_debt": 26664962000.0,
+      "capital_composition": {
+        "ordinary_shares": 869455788.0,
+        "preferred_shares": 0.0,
+        "total_shares": 869455788.0,
+        "treasury_shares": 59533057.0,
+        "shares_outstanding": 809922731.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

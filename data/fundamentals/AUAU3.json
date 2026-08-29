@@ -4,7 +4,7 @@
   "issuer_name": "UNIÃO PET PARTICIPAÇÕES S.A.",
   "cnpj": "53153938000108",
   "cvm_code": "27766",
-  "updated_at": "2026-08-29T01:16:41.740281+00:00",
+  "updated_at": "2026-08-29T01:35:07.226427+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 98385000.0,
       "short_term_debt": 0.0,
       "long_term_debt": 0.0,
+      "capital_composition": {
+        "ordinary_shares": 3686823.0,
+        "preferred_shares": 0.0,
+        "total_shares": 3686823.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 3686823.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 183445000.0,
       "short_term_debt": 0.0,
       "long_term_debt": 0.0,
+      "capital_composition": {
+        "ordinary_shares": 3686823.0,
+        "preferred_shares": 0.0,
+        "total_shares": 3686823.0,
+        "treasury_shares": 11611.0,
+        "shares_outstanding": 3675212.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 451624000.0,
       "short_term_debt": 0.0,
       "long_term_debt": 0.0,
+      "capital_composition": {
+        "ordinary_shares": 409653901.0,
+        "preferred_shares": 0.0,
+        "total_shares": 409653901.0,
+        "treasury_shares": 3686823.0,
+        "shares_outstanding": 405967078.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

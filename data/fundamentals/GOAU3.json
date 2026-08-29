@@ -4,7 +4,7 @@
   "issuer_name": "METALURGICA GERDAU SA",
   "cnpj": "92690783000109",
   "cvm_code": "8656",
-  "updated_at": "2026-08-29T01:16:41.810187+00:00",
+  "updated_at": "2026-08-29T01:35:07.309223+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 3005688000.0,
       "short_term_debt": 1797622000.0,
       "long_term_debt": 9095686000.0,
+      "capital_composition": {
+        "ordinary_shares": 365111201.0,
+        "preferred_shares": 667594603.0,
+        "total_shares": 1032705804.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 1032705804.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 7861818000.0,
       "short_term_debt": 735037000.0,
       "long_term_debt": 12901447000.0,
+      "capital_composition": {
+        "ordinary_shares": 365111201.0,
+        "preferred_shares": 649238303.0,
+        "total_shares": 1014349504.0,
+        "treasury_shares": 9936900.0,
+        "shares_outstanding": 1004412604.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 5958028000.0,
       "short_term_debt": 941904000.0,
       "long_term_debt": 13240247000.0,
+      "capital_composition": {
+        "ordinary_shares": 486802764.0,
+        "preferred_shares": 838105184.0,
+        "total_shares": 1324907948.0,
+        "treasury_shares": 2683.0,
+        "shares_outstanding": 1324905265.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

@@ -4,7 +4,7 @@
   "issuer_name": "T4F ENTRETENIMENTO SA",
   "cnpj": "02860694000162",
   "cvm_code": "22454",
-  "updated_at": "2026-08-29T01:16:41.904421+00:00",
+  "updated_at": "2026-08-29T01:35:07.420687+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 146200000.0,
       "short_term_debt": 42172000.0,
       "long_term_debt": 13140000.0,
+      "capital_composition": {
+        "ordinary_shares": 67413.0,
+        "preferred_shares": 0.0,
+        "total_shares": 67413.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 67413.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 111913000.0,
       "short_term_debt": 78807000.0,
       "long_term_debt": 10382000.0,
+      "capital_composition": {
+        "ordinary_shares": 67413.0,
+        "preferred_shares": 0.0,
+        "total_shares": 67413.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 67413.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 71440000.0,
       "short_term_debt": 41519000.0,
       "long_term_debt": 8441000.0,
+      "capital_composition": {
+        "ordinary_shares": 6741262.0,
+        "preferred_shares": 0.0,
+        "total_shares": 6741262.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 6741262.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

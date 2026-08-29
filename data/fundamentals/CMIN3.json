@@ -4,7 +4,7 @@
   "issuer_name": "CSN MINERAÇÃO S.A.",
   "cnpj": "08902291000115",
   "cvm_code": "25585",
-  "updated_at": "2026-08-29T01:16:41.771012+00:00",
+  "updated_at": "2026-08-29T01:35:07.262864+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 9795878000.0,
       "short_term_debt": 445182000.0,
       "long_term_debt": 7733799000.0,
+      "capital_composition": {
+        "ordinary_shares": 5485338838.0,
+        "preferred_shares": 0.0,
+        "total_shares": 5485338838.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 5485338838.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 15185928000.0,
       "short_term_debt": 1340018000.0,
       "long_term_debt": 8788702000.0,
+      "capital_composition": {
+        "ordinary_shares": 5485338835.0,
+        "preferred_shares": 0.0,
+        "total_shares": 5485338835.0,
+        "treasury_shares": 53294297.0,
+        "shares_outstanding": 5432044538.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 8871892000.0,
       "short_term_debt": 1650923000.0,
       "long_term_debt": 7535494000.0,
+      "capital_composition": {
+        "ordinary_shares": 54320445380.0,
+        "preferred_shares": 0.0,
+        "total_shares": 54320445380.0,
+        "treasury_shares": 53294297.0,
+        "shares_outstanding": 54267151083.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

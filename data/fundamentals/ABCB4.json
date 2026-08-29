@@ -4,7 +4,7 @@
   "issuer_name": "BANCO ABC BRASIL S/A",
   "cnpj": "28195667000106",
   "cvm_code": "20958",
-  "updated_at": "2026-08-29T01:16:41.726193+00:00",
+  "updated_at": "2026-08-29T01:35:07.210290+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 647009000.0,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 119010510.0,
+        "preferred_shares": 117925586.0,
+        "total_shares": 236936096.0,
+        "treasury_shares": 4385728.0,
+        "shares_outstanding": 232550368.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -37,6 +46,15 @@
       "cash_and_equivalents": null,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 122961704.0,
+        "preferred_shares": 121695153.0,
+        "total_shares": 244656857.0,
+        "treasury_shares": 4360960.0,
+        "shares_outstanding": 240295897.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -58,6 +76,15 @@
       "cash_and_equivalents": null,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 122961704.0,
+        "preferred_shares": 121695153.0,
+        "total_shares": 244656857.0,
+        "treasury_shares": 3493826.0,
+        "shares_outstanding": 241163031.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

@@ -4,7 +4,7 @@
   "issuer_name": "JSL S.A.",
   "cnpj": "52548435000179",
   "cvm_code": "22020",
-  "updated_at": "2026-08-29T01:16:41.827155+00:00",
+  "updated_at": "2026-08-29T01:35:07.329251+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 610869000.0,
       "short_term_debt": 1118637000.0,
       "long_term_debt": 6330585000.0,
+      "capital_composition": {
+        "ordinary_shares": 286431078.0,
+        "preferred_shares": 0.0,
+        "total_shares": 286431078.0,
+        "treasury_shares": 1896022.0,
+        "shares_outstanding": 284535056.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 442823000.0,
       "short_term_debt": 1666803000.0,
       "long_term_debt": 6439800000.0,
+      "capital_composition": {
+        "ordinary_shares": 286431078.0,
+        "preferred_shares": 0.0,
+        "total_shares": 286431078.0,
+        "treasury_shares": 1916372.0,
+        "shares_outstanding": 284514706.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 241424000.0,
       "short_term_debt": 1526691000.0,
       "long_term_debt": 6419933000.0,
+      "capital_composition": {
+        "ordinary_shares": 286431078.0,
+        "preferred_shares": 0.0,
+        "total_shares": 286431078.0,
+        "treasury_shares": 1986132.0,
+        "shares_outstanding": 284444946.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

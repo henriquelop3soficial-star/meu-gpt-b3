@@ -4,7 +4,7 @@
   "issuer_name": "INEPAR S.A. INDUSTRIA E CONSTRUCOES EM RECUPERACAO JUDICIAL",
   "cnpj": "76627504000106",
   "cvm_code": "7595",
-  "updated_at": "2026-08-29T01:16:41.819943+00:00",
+  "updated_at": "2026-08-29T01:35:07.320763+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 1874000.0,
       "short_term_debt": 400946000.0,
       "long_term_debt": 475146000.0,
+      "capital_composition": {
+        "ordinary_shares": 31685.0,
+        "preferred_shares": 12627.0,
+        "total_shares": 44312.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 44312.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 126000.0,
       "short_term_debt": 443353000.0,
       "long_term_debt": 484159000.0,
+      "capital_composition": {
+        "ordinary_shares": 31979.0,
+        "preferred_shares": 12627.0,
+        "total_shares": 44606.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 44606.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 85000.0,
       "short_term_debt": 343085000.0,
       "long_term_debt": 485667000.0,
+      "capital_composition": {
+        "ordinary_shares": 36324.0,
+        "preferred_shares": 12627.0,
+        "total_shares": 48951.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 48951.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

@@ -4,7 +4,7 @@
   "issuer_name": "BRB BANCO DE BRASILIA SA",
   "cnpj": "00000208000100",
   "cvm_code": "14206",
-  "updated_at": "2026-08-29T01:16:41.763381+00:00",
+  "updated_at": "2026-08-29T01:35:07.254887+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 201195000.0,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 280146500.0,
+        "preferred_shares": 82900000.0,
+        "total_shares": 363046500.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 363046500.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -37,6 +46,15 @@
       "cash_and_equivalents": 2029253000.0,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 284785449.0,
+        "preferred_shares": 113056415.0,
+        "total_shares": 397841864.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 397841864.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -58,6 +76,15 @@
       "cash_and_equivalents": null,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": null,
+        "preferred_shares": null,
+        "total_shares": null,
+        "treasury_shares": null,
+        "shares_outstanding": null,
+        "reference_date": null,
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

@@ -4,7 +4,7 @@
   "issuer_name": "CYRELA BRAZIL REALTY S.A.EMPREEND E PART",
   "cnpj": "73178600000118",
   "cvm_code": "14460",
-  "updated_at": "2026-08-29T01:16:41.780702+00:00",
+  "updated_at": "2026-08-29T01:35:07.274257+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 241792000.0,
       "short_term_debt": 1406200000.0,
       "long_term_debt": 3752068000.0,
+      "capital_composition": {
+        "ordinary_shares": 399743.0,
+        "preferred_shares": 0.0,
+        "total_shares": 399743.0,
+        "treasury_shares": 24822.0,
+        "shares_outstanding": 374921.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 531729000.0,
       "short_term_debt": 1005064000.0,
       "long_term_debt": 4969516000.0,
+      "capital_composition": {
+        "ordinary_shares": 384000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 384000.0,
+        "treasury_shares": 17468.0,
+        "shares_outstanding": 366532.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 726554000.0,
       "short_term_debt": 1502490000.0,
       "long_term_debt": 7214779000.0,
+      "capital_composition": {
+        "ordinary_shares": 384000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 384000.0,
+        "treasury_shares": 17689.0,
+        "shares_outstanding": 366311.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

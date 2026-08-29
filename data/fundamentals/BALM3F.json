@@ -4,7 +4,7 @@
   "issuer_name": "BAUMER SA",
   "cnpj": "61374161000130",
   "cvm_code": "1562",
-  "updated_at": "2026-08-29T01:16:41.748136+00:00",
+  "updated_at": "2026-08-29T01:35:07.236623+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 13859000.0,
       "short_term_debt": 3961000.0,
       "long_term_debt": 16340000.0,
+      "capital_composition": {
+        "ordinary_shares": 4900000.0,
+        "preferred_shares": 4900000.0,
+        "total_shares": 9800000.0,
+        "treasury_shares": 15490.0,
+        "shares_outstanding": 9784510.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 16862000.0,
       "short_term_debt": 2724000.0,
       "long_term_debt": 14001000.0,
+      "capital_composition": {
+        "ordinary_shares": 4900000.0,
+        "preferred_shares": 4900000.0,
+        "total_shares": 9800000.0,
+        "treasury_shares": 15490.0,
+        "shares_outstanding": 9784510.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 16140000.0,
       "short_term_debt": 2835000.0,
       "long_term_debt": 18662000.0,
+      "capital_composition": {
+        "ordinary_shares": 4900000.0,
+        "preferred_shares": 4900000.0,
+        "total_shares": 9800000.0,
+        "treasury_shares": 15490.0,
+        "shares_outstanding": 9784510.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

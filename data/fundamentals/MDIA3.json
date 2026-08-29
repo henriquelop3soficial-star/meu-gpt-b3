@@ -4,7 +4,7 @@
   "issuer_name": "M. DIAS BRANCO SA IND E COM DE ALIMENTOS",
   "cnpj": "07206816000115",
   "cvm_code": "20338",
-  "updated_at": "2026-08-29T01:16:41.840035+00:00",
+  "updated_at": "2026-08-29T01:35:07.344544+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 2267837000.0,
       "short_term_debt": 522487000.0,
       "long_term_debt": 1648569000.0,
+      "capital_composition": {
+        "ordinary_shares": 339000000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 339000000.0,
+        "treasury_shares": 2675111.0,
+        "shares_outstanding": 336324889.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 2152587000.0,
       "short_term_debt": 1103540000.0,
       "long_term_debt": 1286149000.0,
+      "capital_composition": {
+        "ordinary_shares": 339000000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 339000000.0,
+        "treasury_shares": 3773296.0,
+        "shares_outstanding": 335226704.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 1888270000.0,
       "short_term_debt": 69645000.0,
       "long_term_debt": 1350320000.0,
+      "capital_composition": {
+        "ordinary_shares": 339000000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 339000000.0,
+        "treasury_shares": 3616747.0,
+        "shares_outstanding": 335383253.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

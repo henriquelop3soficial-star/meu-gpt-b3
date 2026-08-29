@@ -4,7 +4,7 @@
   "issuer_name": "AZEVEDO & TRAVASSOS SA",
   "cnpj": "61351532000168",
   "cvm_code": "11975",
-  "updated_at": "2026-08-29T01:16:41.743226+00:00",
+  "updated_at": "2026-08-29T01:35:07.229761+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 2090000.0,
       "short_term_debt": 29816000.0,
       "long_term_debt": 9287000.0,
+      "capital_composition": {
+        "ordinary_shares": 57401341.0,
+        "preferred_shares": 110409124.0,
+        "total_shares": 167810465.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 167810465.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 3151000.0,
       "short_term_debt": 75361000.0,
       "long_term_debt": 34085000.0,
+      "capital_composition": {
+        "ordinary_shares": 67326343.0,
+        "preferred_shares": 130259128.0,
+        "total_shares": 197585471.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 197585471.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 30070000.0,
       "short_term_debt": 203124000.0,
       "long_term_debt": 37100000.0,
+      "capital_composition": {
+        "ordinary_shares": 201978758.0,
+        "preferred_shares": 390776842.0,
+        "total_shares": 592755600.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 592755600.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

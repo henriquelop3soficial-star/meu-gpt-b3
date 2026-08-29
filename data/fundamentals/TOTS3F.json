@@ -4,7 +4,7 @@
   "issuer_name": "TOTVS S.A",
   "cnpj": "53113791000122",
   "cvm_code": "19992",
-  "updated_at": "2026-08-29T01:16:41.920079+00:00",
+  "updated_at": "2026-08-29T01:35:07.440713+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 3129162000.0,
       "short_term_debt": 145909000.0,
       "long_term_debt": 1598158000.0,
+      "capital_composition": {
+        "ordinary_shares": 617183181.0,
+        "preferred_shares": 0.0,
+        "total_shares": 617183181.0,
+        "treasury_shares": 13376899.0,
+        "shares_outstanding": 603806282.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 1942162000.0,
       "short_term_debt": 120978000.0,
       "long_term_debt": 1540571000.0,
+      "capital_composition": {
+        "ordinary_shares": 599401581.0,
+        "preferred_shares": 0.0,
+        "total_shares": 599401581.0,
+        "treasury_shares": 13512321.0,
+        "shares_outstanding": 585889260.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 1785703000.0,
       "short_term_debt": 142572000.0,
       "long_term_debt": 1693710000.0,
+      "capital_composition": {
+        "ordinary_shares": 599401581.0,
+        "preferred_shares": 0.0,
+        "total_shares": 599401581.0,
+        "treasury_shares": 11758500.0,
+        "shares_outstanding": 587643081.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

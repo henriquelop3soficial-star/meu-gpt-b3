@@ -4,7 +4,7 @@
   "issuer_name": "EZ TEC EMPREEND. E PARTICIPAÇÕES S/A",
   "cnpj": "08312229000173",
   "cvm_code": "20770",
-  "updated_at": "2026-08-29T01:16:41.800388+00:00",
+  "updated_at": "2026-08-29T01:35:07.297594+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 84186000.0,
       "short_term_debt": 136471000.0,
       "long_term_debt": 719700000.0,
+      "capital_composition": {
+        "ordinary_shares": 220989103.0,
+        "preferred_shares": 0.0,
+        "total_shares": 220989103.0,
+        "treasury_shares": 2863400.0,
+        "shares_outstanding": 218125703.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 71381000.0,
       "short_term_debt": 85958000.0,
       "long_term_debt": 1050424000.0,
+      "capital_composition": {
+        "ordinary_shares": 220989103.0,
+        "preferred_shares": 0.0,
+        "total_shares": 220989103.0,
+        "treasury_shares": 2863400.0,
+        "shares_outstanding": 218125703.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 66575000.0,
       "short_term_debt": 148795000.0,
       "long_term_debt": 1557190000.0,
+      "capital_composition": {
+        "ordinary_shares": 281000000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 281000000.0,
+        "treasury_shares": 3640973.0,
+        "shares_outstanding": 277359027.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

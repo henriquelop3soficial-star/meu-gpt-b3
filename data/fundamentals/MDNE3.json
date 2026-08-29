@@ -4,7 +4,7 @@
   "issuer_name": "MOURA DUBEUX ENGENHARIA S/A",
   "cnpj": "12049631000184",
   "cvm_code": "21067",
-  "updated_at": "2026-08-29T01:16:41.840504+00:00",
+  "updated_at": "2026-08-29T01:35:07.345047+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 257113000.0,
       "short_term_debt": 93050000.0,
       "long_term_debt": 245895000.0,
+      "capital_composition": {
+        "ordinary_shares": 84909375.0,
+        "preferred_shares": 0.0,
+        "total_shares": 84909375.0,
+        "treasury_shares": 1153611.0,
+        "shares_outstanding": 83755764.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 331069000.0,
       "short_term_debt": 171000.0,
       "long_term_debt": 511241000.0,
+      "capital_composition": {
+        "ordinary_shares": 84909375.0,
+        "preferred_shares": 0.0,
+        "total_shares": 84909375.0,
+        "treasury_shares": 1096048.0,
+        "shares_outstanding": 83813327.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 309111000.0,
       "short_term_debt": 160863000.0,
       "long_term_debt": 715127000.0,
+      "capital_composition": {
+        "ordinary_shares": 84909375.0,
+        "preferred_shares": 0.0,
+        "total_shares": 84909375.0,
+        "treasury_shares": 426382.0,
+        "shares_outstanding": 84482993.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

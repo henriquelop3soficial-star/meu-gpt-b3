@@ -4,7 +4,7 @@
   "issuer_name": "ELECTRO AÇO ALTONA S/A",
   "cnpj": "82643537000134",
   "cvm_code": "5380",
-  "updated_at": "2026-08-29T01:16:41.786720+00:00",
+  "updated_at": "2026-08-29T01:35:07.281403+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 14899000.0,
       "short_term_debt": 70555000.0,
       "long_term_debt": 56799000.0,
+      "capital_composition": {
+        "ordinary_shares": 9750.0,
+        "preferred_shares": 12750.0,
+        "total_shares": 22500.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 22500.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 12904000.0,
       "short_term_debt": 83773000.0,
       "long_term_debt": 37169000.0,
+      "capital_composition": {
+        "ordinary_shares": 9750.0,
+        "preferred_shares": 12750.0,
+        "total_shares": 22500.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 22500.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 30061000.0,
       "short_term_debt": 44145000.0,
       "long_term_debt": 63085000.0,
+      "capital_composition": {
+        "ordinary_shares": 12750.0,
+        "preferred_shares": 9750.0,
+        "total_shares": 22500.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 22500.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

@@ -4,7 +4,7 @@
   "issuer_name": "ALPHAVILLE S.A.",
   "cnpj": "16811931000100",
   "cvm_code": "25275",
-  "updated_at": "2026-08-29T01:16:41.742107+00:00",
+  "updated_at": "2026-08-29T01:35:07.228649+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 3390000.0,
       "short_term_debt": 268106000.0,
       "long_term_debt": 929013000.0,
+      "capital_composition": {
+        "ordinary_shares": 28615213.0,
+        "preferred_shares": 0.0,
+        "total_shares": 28615213.0,
+        "treasury_shares": 295.0,
+        "shares_outstanding": 28614918.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 220103000.0,
       "short_term_debt": 38818000.0,
       "long_term_debt": 584111000.0,
+      "capital_composition": {
+        "ordinary_shares": 195330061.0,
+        "preferred_shares": 0.0,
+        "total_shares": 195330061.0,
+        "treasury_shares": 295.0,
+        "shares_outstanding": 195329766.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 163813000.0,
       "short_term_debt": 63278000.0,
       "long_term_debt": 688369000.0,
+      "capital_composition": {
+        "ordinary_shares": 195330061.0,
+        "preferred_shares": 0.0,
+        "total_shares": 195330061.0,
+        "treasury_shares": 295.0,
+        "shares_outstanding": 195329766.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

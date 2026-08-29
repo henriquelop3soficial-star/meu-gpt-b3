@@ -4,7 +4,7 @@
   "issuer_name": "ALLPARK EMPREENDIMENTOS, PARTICIPAÇÕES E SERVIÇOS S.A.",
   "cnpj": "60537263000166",
   "cvm_code": "24953",
-  "updated_at": "2026-08-29T01:16:41.731796+00:00",
+  "updated_at": "2026-08-29T01:35:07.217257+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 189524000.0,
       "short_term_debt": 328150000.0,
       "long_term_debt": 1083822000.0,
+      "capital_composition": {
+        "ordinary_shares": 217024025.0,
+        "preferred_shares": 0.0,
+        "total_shares": 217024025.0,
+        "treasury_shares": 1258600.0,
+        "shares_outstanding": 215765425.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 217996000.0,
       "short_term_debt": 304785000.0,
       "long_term_debt": 1157963000.0,
+      "capital_composition": {
+        "ordinary_shares": 217024025.0,
+        "preferred_shares": 0.0,
+        "total_shares": 217024025.0,
+        "treasury_shares": 1858045.0,
+        "shares_outstanding": 215165980.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 245313000.0,
       "short_term_debt": 326025000.0,
       "long_term_debt": 1126777000.0,
+      "capital_composition": {
+        "ordinary_shares": 219305733.0,
+        "preferred_shares": 0.0,
+        "total_shares": 219305733.0,
+        "treasury_shares": 1420945.0,
+        "shares_outstanding": 217884788.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

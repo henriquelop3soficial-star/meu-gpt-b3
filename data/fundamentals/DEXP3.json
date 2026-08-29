@@ -4,7 +4,7 @@
   "issuer_name": "DEXXOS PARTICIPAÇÕES S.A.",
   "cnpj": "02193750000152",
   "cvm_code": "16632",
-  "updated_at": "2026-08-29T01:16:41.783261+00:00",
+  "updated_at": "2026-08-29T01:35:07.277272+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 452932000.0,
       "short_term_debt": 104459000.0,
       "long_term_debt": 196351000.0,
+      "capital_composition": {
+        "ordinary_shares": 88241730.0,
+        "preferred_shares": 5771805.0,
+        "total_shares": 94013535.0,
+        "treasury_shares": 365381.0,
+        "shares_outstanding": 93648154.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 341761000.0,
       "short_term_debt": 64798000.0,
       "long_term_debt": 214321000.0,
+      "capital_composition": {
+        "ordinary_shares": 103538833.0,
+        "preferred_shares": 5771805.0,
+        "total_shares": 109310638.0,
+        "treasury_shares": 623560.0,
+        "shares_outstanding": 108687078.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 395276000.0,
       "short_term_debt": 46100000.0,
       "long_term_debt": 246738000.0,
+      "capital_composition": {
+        "ordinary_shares": 116481187.0,
+        "preferred_shares": 6493280.0,
+        "total_shares": 122974467.0,
+        "treasury_shares": 2275378.0,
+        "shares_outstanding": 120699089.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

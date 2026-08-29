@@ -4,7 +4,7 @@
   "issuer_name": "CONSERVAS ODERICH SA",
   "cnpj": "97191902000194",
   "cvm_code": "4693",
-  "updated_at": "2026-08-29T01:16:41.854972+00:00",
+  "updated_at": "2026-08-29T01:35:07.361870+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 74064000.0,
       "short_term_debt": 58978000.0,
       "long_term_debt": 192483000.0,
+      "capital_composition": {
+        "ordinary_shares": 9858.0,
+        "preferred_shares": 1428.0,
+        "total_shares": 11286.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 11286.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 101282000.0,
       "short_term_debt": 172458000.0,
       "long_term_debt": 152994000.0,
+      "capital_composition": {
+        "ordinary_shares": 9858.0,
+        "preferred_shares": 1428.0,
+        "total_shares": 11286.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 11286.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 110220000.0,
       "short_term_debt": 121750000.0,
       "long_term_debt": 260948000.0,
+      "capital_composition": {
+        "ordinary_shares": 9858.0,
+        "preferred_shares": 1428.0,
+        "total_shares": 11286.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 11286.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

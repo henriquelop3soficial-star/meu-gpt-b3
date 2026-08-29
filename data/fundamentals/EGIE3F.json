@@ -4,7 +4,7 @@
   "issuer_name": "ENGIE BRASIL ENERGIA S.A.",
   "cnpj": "02474103000119",
   "cvm_code": "17329",
-  "updated_at": "2026-08-29T01:16:41.788872+00:00",
+  "updated_at": "2026-08-29T01:35:07.283949+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 5255767000.0,
       "short_term_debt": 2455032000.0,
       "long_term_debt": 17651224000.0,
+      "capital_composition": {
+        "ordinary_shares": 815927740.0,
+        "preferred_shares": 0.0,
+        "total_shares": 815927740.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 815927740.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 3958758000.0,
       "short_term_debt": 2610790000.0,
       "long_term_debt": 21036859000.0,
+      "capital_composition": {
+        "ordinary_shares": 815927740.0,
+        "preferred_shares": 0.0,
+        "total_shares": 815927740.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 815927740.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 3358552000.0,
       "short_term_debt": 2941959000.0,
       "long_term_debt": 25717397000.0,
+      "capital_composition": {
+        "ordinary_shares": 1142298836.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1142298836.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 1142298836.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

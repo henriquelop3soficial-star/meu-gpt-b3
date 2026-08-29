@@ -4,7 +4,7 @@
   "issuer_name": "RAÍZEN S.A.",
   "cnpj": "33453598000123",
   "cvm_code": "25917",
-  "updated_at": "2026-08-29T01:16:41.875759+00:00",
+  "updated_at": "2026-08-29T01:35:07.401019+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 8733396000.0,
       "short_term_debt": 7513914000.0,
       "long_term_debt": 32755533000.0,
+      "capital_composition": {
+        "ordinary_shares": 8993572584.0,
+        "preferred_shares": 1358936900.0,
+        "total_shares": 10352509484.0,
+        "treasury_shares": 34284534.0,
+        "shares_outstanding": 10318224950.0,
+        "reference_date": "2023-03-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 14819906000.0,
       "short_term_debt": 9538597000.0,
       "long_term_debt": 37626160000.0,
+      "capital_composition": {
+        "ordinary_shares": 8993572584.0,
+        "preferred_shares": 1358936900.0,
+        "total_shares": 10352509484.0,
+        "treasury_shares": 26394646.0,
+        "shares_outstanding": 10326114838.0,
+        "reference_date": "2024-03-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 21721393000.0,
       "short_term_debt": 7184030000.0,
       "long_term_debt": 61232239000.0,
+      "capital_composition": {
+        "ordinary_shares": 8993572584.0,
+        "preferred_shares": 1358936900.0,
+        "total_shares": 10352509484.0,
+        "treasury_shares": 18263674.0,
+        "shares_outstanding": 10334245810.0,
+        "reference_date": "2025-03-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

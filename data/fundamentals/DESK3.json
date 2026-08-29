@@ -4,7 +4,7 @@
   "issuer_name": "DESKTOP S.A",
   "cnpj": "08170849000115",
   "cvm_code": "26026",
-  "updated_at": "2026-08-29T01:16:41.782483+00:00",
+  "updated_at": "2026-08-29T01:35:07.276360+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 329655000.0,
       "short_term_debt": 129765000.0,
       "long_term_debt": 1038602000.0,
+      "capital_composition": {
+        "ordinary_shares": 115265345.0,
+        "preferred_shares": 0.0,
+        "total_shares": 115265345.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 115265345.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 290953000.0,
       "short_term_debt": 10321000.0,
       "long_term_debt": 1337018000.0,
+      "capital_composition": {
+        "ordinary_shares": 115625360.0,
+        "preferred_shares": 0.0,
+        "total_shares": 115625360.0,
+        "treasury_shares": 116094.0,
+        "shares_outstanding": 115509266.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 464637000.0,
       "short_term_debt": 59011000.0,
       "long_term_debt": 1567252000.0,
+      "capital_composition": {
+        "ordinary_shares": 115965768.0,
+        "preferred_shares": 0.0,
+        "total_shares": 115965768.0,
+        "treasury_shares": 12471.0,
+        "shares_outstanding": 115953297.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

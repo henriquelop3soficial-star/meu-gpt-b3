@@ -4,7 +4,7 @@
   "issuer_name": "BRASILAGRO CIA BRAS DE PROP AGRICOLAS",
   "cnpj": "07628528000159",
   "cvm_code": "20036",
-  "updated_at": "2026-08-29T01:16:41.728187+00:00",
+  "updated_at": "2026-08-29T01:35:07.212837+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 383837000.0,
       "short_term_debt": 253715000.0,
       "long_term_debt": 618256000.0,
+      "capital_composition": {
+        "ordinary_shares": 102377008.0,
+        "preferred_shares": 0.0,
+        "total_shares": 102377008.0,
+        "treasury_shares": 3571179.0,
+        "shares_outstanding": 98805829.0,
+        "reference_date": "2023-06-30",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 170953000.0,
       "short_term_debt": 254767000.0,
       "long_term_debt": 789231000.0,
+      "capital_composition": {
+        "ordinary_shares": 102683444.0,
+        "preferred_shares": 0.0,
+        "total_shares": 102683444.0,
+        "treasury_shares": 3067987.0,
+        "shares_outstanding": 99615457.0,
+        "reference_date": "2024-06-30",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 142908000.0,
       "short_term_debt": 438171000.0,
       "long_term_debt": 873132000.0,
+      "capital_composition": {
+        "ordinary_shares": 102683444.0,
+        "preferred_shares": 0.0,
+        "total_shares": 102683444.0,
+        "treasury_shares": 3067987.0,
+        "shares_outstanding": 99615457.0,
+        "reference_date": "2025-06-30",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

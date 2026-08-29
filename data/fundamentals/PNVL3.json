@@ -4,7 +4,7 @@
   "issuer_name": "DIMED SA DISTRIBUIDORA DE MEDICAMENTOS",
   "cnpj": "92665611000177",
   "cvm_code": "9342",
-  "updated_at": "2026-08-29T01:16:41.867330+00:00",
+  "updated_at": "2026-08-29T01:35:07.390570+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 27953000.0,
       "short_term_debt": 266896000.0,
       "long_term_debt": 755791000.0,
+      "capital_composition": {
+        "ordinary_shares": 150377481.0,
+        "preferred_shares": 0.0,
+        "total_shares": 150377481.0,
+        "treasury_shares": 1525357.0,
+        "shares_outstanding": 148852124.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 79995000.0,
       "short_term_debt": 292728000.0,
       "long_term_debt": 943077000.0,
+      "capital_composition": {
+        "ordinary_shares": 150377841.0,
+        "preferred_shares": 0.0,
+        "total_shares": 150377841.0,
+        "treasury_shares": 1584230.0,
+        "shares_outstanding": 148793611.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 43745000.0,
       "short_term_debt": 328704000.0,
       "long_term_debt": 1177561000.0,
+      "capital_composition": {
+        "ordinary_shares": 150377481.0,
+        "preferred_shares": 0.0,
+        "total_shares": 150377481.0,
+        "treasury_shares": 1692866.0,
+        "shares_outstanding": 148684615.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

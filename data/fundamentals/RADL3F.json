@@ -4,7 +4,7 @@
   "issuer_name": "RAIA DROGASIL S.A.",
   "cnpj": "61585865000151",
   "cvm_code": "5258",
-  "updated_at": "2026-08-29T01:16:41.874496+00:00",
+  "updated_at": "2026-08-29T01:35:07.399422+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 412321000.0,
       "short_term_debt": 604601000.0,
       "long_term_debt": 2526102000.0,
+      "capital_composition": {
+        "ordinary_shares": 1718007200.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1718007200.0,
+        "treasury_shares": 3624842.0,
+        "shares_outstanding": 1714382358.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 528002000.0,
       "short_term_debt": 637110000.0,
       "long_term_debt": 2656820000.0,
+      "capital_composition": {
+        "ordinary_shares": 1718007200.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1718007200.0,
+        "treasury_shares": 6012572.0,
+        "shares_outstanding": 1711994628.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 509619000.0,
       "short_term_debt": 508137000.0,
       "long_term_debt": 3359618000.0,
+      "capital_composition": {
+        "ordinary_shares": 1752367344.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1752367344.0,
+        "treasury_shares": 5103450.0,
+        "shares_outstanding": 1747263894.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

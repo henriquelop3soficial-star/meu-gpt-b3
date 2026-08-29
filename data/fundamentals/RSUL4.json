@@ -4,7 +4,7 @@
   "issuer_name": "METALURGICA RIOSULENSE SA",
   "cnpj": "85778074000106",
   "cvm_code": "13439",
-  "updated_at": "2026-08-29T01:16:41.886496+00:00",
+  "updated_at": "2026-08-29T01:35:07.414051+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 6475000.0,
       "short_term_debt": 3678000.0,
       "long_term_debt": 3118000.0,
+      "capital_composition": {
+        "ordinary_shares": 3576903.0,
+        "preferred_shares": 2495225.0,
+        "total_shares": 6072128.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 6072128.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 1351000.0,
       "short_term_debt": 5785000.0,
       "long_term_debt": 11861000.0,
+      "capital_composition": {
+        "ordinary_shares": 3576903.0,
+        "preferred_shares": 2495225.0,
+        "total_shares": 6072128.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 6072128.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 2392000.0,
       "short_term_debt": 2974000.0,
       "long_term_debt": 29180000.0,
+      "capital_composition": {
+        "ordinary_shares": 3576903.0,
+        "preferred_shares": 2495225.0,
+        "total_shares": 6072128.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 6072128.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

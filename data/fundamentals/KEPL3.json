@@ -4,7 +4,7 @@
   "issuer_name": "KEPLER WEBER SA",
   "cnpj": "91983056000169",
   "cvm_code": "7870",
-  "updated_at": "2026-08-29T01:16:41.827890+00:00",
+  "updated_at": "2026-08-29T01:35:07.330126+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 322923000.0,
       "short_term_debt": 129987000.0,
       "long_term_debt": 66787000.0,
+      "capital_composition": {
+        "ordinary_shares": 179720.0,
+        "preferred_shares": 0.0,
+        "total_shares": 179720.0,
+        "treasury_shares": 2960.0,
+        "shares_outstanding": 176760.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 389817000.0,
       "short_term_debt": 94449000.0,
       "long_term_debt": 234773000.0,
+      "capital_composition": {
+        "ordinary_shares": 179720.0,
+        "preferred_shares": 0.0,
+        "total_shares": 179720.0,
+        "treasury_shares": 6353.0,
+        "shares_outstanding": 173367.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 316431000.0,
       "short_term_debt": 157839000.0,
       "long_term_debt": 175323000.0,
+      "capital_composition": {
+        "ordinary_shares": 179720.0,
+        "preferred_shares": 0.0,
+        "total_shares": 179720.0,
+        "treasury_shares": 6388.0,
+        "shares_outstanding": 173332.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

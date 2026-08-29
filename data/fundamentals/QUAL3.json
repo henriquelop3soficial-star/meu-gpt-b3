@@ -4,7 +4,7 @@
   "issuer_name": "QUALICORP CONSULTORIA E CORRETORA DE SEGUROS S.A.",
   "cnpj": "11992680000193",
   "cvm_code": "22497",
-  "updated_at": "2026-08-29T01:16:41.873429+00:00",
+  "updated_at": "2026-08-29T01:35:07.398142+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 394589000.0,
       "short_term_debt": 579706000.0,
       "long_term_debt": 1657507000.0,
+      "capital_composition": {
+        "ordinary_shares": 284014325.0,
+        "preferred_shares": 0.0,
+        "total_shares": 284014325.0,
+        "treasury_shares": 4766013.0,
+        "shares_outstanding": 279248312.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 322307000.0,
       "short_term_debt": 573412000.0,
       "long_term_debt": 1308439000.0,
+      "capital_composition": {
+        "ordinary_shares": 284014325.0,
+        "preferred_shares": 0.0,
+        "total_shares": 284014325.0,
+        "treasury_shares": 2690749.0,
+        "shares_outstanding": 281323576.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 222668000.0,
       "short_term_debt": 666163000.0,
       "long_term_debt": 1096159000.0,
+      "capital_composition": {
+        "ordinary_shares": 284014325.0,
+        "preferred_shares": 0.0,
+        "total_shares": 284014325.0,
+        "treasury_shares": 891867.0,
+        "shares_outstanding": 283122458.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

@@ -4,7 +4,7 @@
   "issuer_name": "ORIZON VALORIZAÇÃO DE RESÍDUOS S.A.",
   "cnpj": "11421994000136",
   "cvm_code": "25550",
-  "updated_at": "2026-08-29T01:16:41.857374+00:00",
+  "updated_at": "2026-08-29T01:35:07.364830+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 289426000.0,
       "short_term_debt": 45583000.0,
       "long_term_debt": 1079806000.0,
+      "capital_composition": {
+        "ordinary_shares": 82951.0,
+        "preferred_shares": 0.0,
+        "total_shares": 82951.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 82951.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 493299000.0,
       "short_term_debt": 140957000.0,
       "long_term_debt": 1726341000.0,
+      "capital_composition": {
+        "ordinary_shares": 82951.0,
+        "preferred_shares": 0.0,
+        "total_shares": 82951.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 82951.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 851334000.0,
       "short_term_debt": 178483000.0,
       "long_term_debt": 1943929000.0,
+      "capital_composition": {
+        "ordinary_shares": 96127.0,
+        "preferred_shares": 0.0,
+        "total_shares": 96127.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 96127.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

@@ -4,7 +4,7 @@
   "issuer_name": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
   "cnpj": "33000167000101",
   "cvm_code": "9512",
-  "updated_at": "2026-08-29T01:16:41.863159+00:00",
+  "updated_at": "2026-08-29T01:35:07.371801+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 61613000000.0,
       "short_term_debt": 55781000000.0,
       "long_term_debt": 247281000000.0,
+      "capital_composition": {
+        "ordinary_shares": 7442454142.0,
+        "preferred_shares": 5602042788.0,
+        "total_shares": 13044496930.0,
+        "treasury_shares": 104359669.0,
+        "shares_outstanding": 12940137261.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 20254000000.0,
       "short_term_debt": 68783000000.0,
       "long_term_debt": 304684000000.0,
+      "capital_composition": {
+        "ordinary_shares": 7442454142.0,
+        "preferred_shares": 5602042788.0,
+        "total_shares": 13044496930.0,
+        "treasury_shares": 155764169.0,
+        "shares_outstanding": 12888732761.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 35608000000.0,
       "short_term_debt": 67253000000.0,
       "long_term_debt": 316772000000.0,
+      "capital_composition": {
+        "ordinary_shares": 7442231382.0,
+        "preferred_shares": 5446501379.0,
+        "total_shares": 12888732761.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 12888732761.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

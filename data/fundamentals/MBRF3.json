@@ -4,7 +4,7 @@
   "issuer_name": "BRF S.A.",
   "cnpj": "01838723000127",
   "cvm_code": "16292",
-  "updated_at": "2026-08-29T01:16:41.839596+00:00",
+  "updated_at": "2026-08-29T01:35:07.344016+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 9264664000.0,
       "short_term_debt": 2451838000.0,
       "long_term_debt": 17643710000.0,
+      "capital_composition": {
+        "ordinary_shares": 1682473246.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1682473246.0,
+        "treasury_shares": 3817179.0,
+        "shares_outstanding": 1678656067.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 11165364000.0,
       "short_term_debt": 1230273000.0,
       "long_term_debt": 19510275000.0,
+      "capital_composition": {
+        "ordinary_shares": 1682473246.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1682473246.0,
+        "treasury_shares": 61629171.0,
+        "shares_outstanding": 1620844075.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 14447697000.0,
       "short_term_debt": 4212117000.0,
       "long_term_debt": 25771697000.0,
+      "capital_composition": {
+        "ordinary_shares": 1592192459.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1592192459.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 1592192459.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

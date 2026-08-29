@@ -4,7 +4,7 @@
   "issuer_name": "ENEVA S.A.",
   "cnpj": "04423567000121",
   "cvm_code": "21237",
-  "updated_at": "2026-08-29T01:16:41.790698+00:00",
+  "updated_at": "2026-08-29T01:35:07.286094+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 2342061000.0,
       "short_term_debt": 2119696000.0,
       "long_term_debt": 17581041000.0,
+      "capital_composition": {
+        "ordinary_shares": 1584572.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1584572.0,
+        "treasury_shares": 1900.0,
+        "shares_outstanding": 1582672.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 3194255000.0,
       "short_term_debt": 1369143000.0,
       "long_term_debt": 16017296000.0,
+      "capital_composition": {
+        "ordinary_shares": 1932592.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1932592.0,
+        "treasury_shares": 1202.0,
+        "shares_outstanding": 1931390.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 2148312000.0,
       "short_term_debt": 1281782000.0,
       "long_term_debt": 18324018000.0,
+      "capital_composition": {
+        "ordinary_shares": 1936974.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1936974.0,
+        "treasury_shares": 21169.0,
+        "shares_outstanding": 1915805.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

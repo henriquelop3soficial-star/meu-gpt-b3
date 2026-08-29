@@ -4,7 +4,7 @@
   "issuer_name": "IRANI PAPEL E EMBALAGEM S.A.",
   "cnpj": "92791243000103",
   "cvm_code": "2429",
-  "updated_at": "2026-08-29T01:16:41.876499+00:00",
+  "updated_at": "2026-08-29T01:35:07.401940+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 484152000.0,
       "short_term_debt": 55831000.0,
       "long_term_debt": 1570322000.0,
+      "capital_composition": {
+        "ordinary_shares": 246359.0,
+        "preferred_shares": 0.0,
+        "total_shares": 246359.0,
+        "treasury_shares": 6529.0,
+        "shares_outstanding": 239830.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 604232000.0,
       "short_term_debt": 185281000.0,
       "long_term_debt": 1500833000.0,
+      "capital_composition": {
+        "ordinary_shares": 239830.0,
+        "preferred_shares": 0.0,
+        "total_shares": 239830.0,
+        "treasury_shares": 6301.0,
+        "shares_outstanding": 233529.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 839834000.0,
       "short_term_debt": 233566000.0,
       "long_term_debt": 1676145000.0,
+      "capital_composition": {
+        "ordinary_shares": 230501.0,
+        "preferred_shares": 0.0,
+        "total_shares": 230501.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 230501.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

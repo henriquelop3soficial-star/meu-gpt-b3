@@ -4,7 +4,7 @@
   "issuer_name": "CAMBUCI SA",
   "cnpj": "61088894000108",
   "cvm_code": "2100",
-  "updated_at": "2026-08-29T01:16:41.764505+00:00",
+  "updated_at": "2026-08-29T01:35:07.256202+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 2080000.0,
       "short_term_debt": 7113000.0,
       "long_term_debt": 3095000.0,
+      "capital_composition": {
+        "ordinary_shares": 42275080.0,
+        "preferred_shares": 0.0,
+        "total_shares": 42275080.0,
+        "treasury_shares": 346807.0,
+        "shares_outstanding": 41928273.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 1684000.0,
       "short_term_debt": 1254000.0,
       "long_term_debt": 1979000.0,
+      "capital_composition": {
+        "ordinary_shares": 42275080.0,
+        "preferred_shares": 0.0,
+        "total_shares": 42275080.0,
+        "treasury_shares": 435507.0,
+        "shares_outstanding": 41839573.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 813000.0,
       "short_term_debt": 1048000.0,
       "long_term_debt": 924000.0,
+      "capital_composition": {
+        "ordinary_shares": 42275080.0,
+        "preferred_shares": 0.0,
+        "total_shares": 42275080.0,
+        "treasury_shares": 435507.0,
+        "shares_outstanding": 41839573.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

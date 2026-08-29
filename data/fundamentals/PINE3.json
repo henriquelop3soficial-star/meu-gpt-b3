@@ -4,7 +4,7 @@
   "issuer_name": "BANCO PINE S/A",
   "cnpj": "62144175000120",
   "cvm_code": "20567",
-  "updated_at": "2026-08-29T01:16:41.864977+00:00",
+  "updated_at": "2026-08-29T01:35:07.387745+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 205863000.0,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 98007123.0,
+        "preferred_shares": 88769028.0,
+        "total_shares": 186776151.0,
+        "treasury_shares": 3911584.0,
+        "shares_outstanding": 182864567.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -37,6 +46,15 @@
       "cash_and_equivalents": 2327961000.0,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 115953618.0,
+        "preferred_shares": 113794003.0,
+        "total_shares": 229747621.0,
+        "treasury_shares": 4675742.0,
+        "shares_outstanding": 225071879.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -58,6 +76,15 @@
       "cash_and_equivalents": 657173000.0,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 119162783.0,
+        "preferred_shares": 113288564.0,
+        "total_shares": 232451347.0,
+        "treasury_shares": 823248.0,
+        "shares_outstanding": 231628099.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

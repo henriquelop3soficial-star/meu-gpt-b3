@@ -4,7 +4,7 @@
   "issuer_name": "GUARARAPES CONFECÇÕES SA",
   "cnpj": "08402943000152",
   "cvm_code": "4669",
-  "updated_at": "2026-08-29T01:16:41.883775+00:00",
+  "updated_at": "2026-08-29T01:35:07.410731+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 1285983000.0,
       "short_term_debt": 1028604000.0,
       "long_term_debt": 2480252000.0,
+      "capital_composition": {
+        "ordinary_shares": 499200000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 499200000.0,
+        "treasury_shares": 2560.0,
+        "shares_outstanding": 499197440.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 1158206000.0,
       "short_term_debt": 691399000.0,
       "long_term_debt": 1279597000.0,
+      "capital_composition": {
+        "ordinary_shares": 499200000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 499200000.0,
+        "treasury_shares": 2560.0,
+        "shares_outstanding": 499197440.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 1415443000.0,
       "short_term_debt": 497730000.0,
       "long_term_debt": 1965516000.0,
+      "capital_composition": {
+        "ordinary_shares": 500058238.0,
+        "preferred_shares": 0.0,
+        "total_shares": 500058238.0,
+        "treasury_shares": 2560.0,
+        "shares_outstanding": 500055678.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

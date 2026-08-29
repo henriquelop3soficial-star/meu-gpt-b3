@@ -4,7 +4,7 @@
   "issuer_name": "HAGA S.A. INDÚSTRIA E COMÉRCIO",
   "cnpj": "30540991000166",
   "cvm_code": "13366",
-  "updated_at": "2026-08-29T01:16:41.812661+00:00",
+  "updated_at": "2026-08-29T01:35:07.312154+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 22722.0,
       "short_term_debt": 20754086.0,
       "long_term_debt": 0.0,
+      "capital_composition": {
+        "ordinary_shares": 3966667.0,
+        "preferred_shares": 7933333.0,
+        "total_shares": 11900000.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 11900000.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 28104.0,
       "short_term_debt": 20754086.0,
       "long_term_debt": 0.0,
+      "capital_composition": {
+        "ordinary_shares": 3966667.0,
+        "preferred_shares": 7933333.0,
+        "total_shares": 11900000.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 11900000.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 17413.0,
       "short_term_debt": 20754086.0,
       "long_term_debt": 0.0,
+      "capital_composition": {
+        "ordinary_shares": 3966667.0,
+        "preferred_shares": 7933333.0,
+        "total_shares": 11900000.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 11900000.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

@@ -4,7 +4,7 @@
   "issuer_name": "MAGAZINE LUIZA SA",
   "cnpj": "47960950000121",
   "cvm_code": "22470",
-  "updated_at": "2026-08-29T01:16:41.843871+00:00",
+  "updated_at": "2026-08-29T01:35:07.348581+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 2593346000.0,
       "short_term_debt": 2954347000.0,
       "long_term_debt": 4400508000.0,
+      "capital_composition": {
+        "ordinary_shares": 6748926848.0,
+        "preferred_shares": 0.0,
+        "total_shares": 6748926848.0,
+        "treasury_shares": 57015634.0,
+        "shares_outstanding": 6691911214.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 1827197000.0,
       "short_term_debt": 1402168000.0,
       "long_term_debt": 3179992000.0,
+      "capital_composition": {
+        "ordinary_shares": 738995248.0,
+        "preferred_shares": 0.0,
+        "total_shares": 738995248.0,
+        "treasury_shares": 2935027.0,
+        "shares_outstanding": 736060221.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 1575837000.0,
       "short_term_debt": 998359000.0,
       "long_term_debt": 3946177000.0,
+      "capital_composition": {
+        "ordinary_shares": 775945010.0,
+        "preferred_shares": 0.0,
+        "total_shares": 775945010.0,
+        "treasury_shares": 1343449.0,
+        "shares_outstanding": 774601561.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

@@ -4,7 +4,7 @@
   "issuer_name": "AMBEV S.A.",
   "cnpj": "07526557000100",
   "cvm_code": "23264",
-  "updated_at": "2026-08-29T01:16:41.726996+00:00",
+  "updated_at": "2026-08-29T01:35:07.211313+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 16059003000.0,
       "short_term_debt": 1298091000.0,
       "long_term_debt": 2202975000.0,
+      "capital_composition": {
+        "ordinary_shares": 15753833.0,
+        "preferred_shares": 0.0,
+        "total_shares": 15753833.0,
+        "treasury_shares": 4384.0,
+        "shares_outstanding": 15749449.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 28595666000.0,
       "short_term_debt": 1276391000.0,
       "long_term_debt": 2176337000.0,
+      "capital_composition": {
+        "ordinary_shares": 15757657.0,
+        "preferred_shares": 0.0,
+        "total_shares": 15757657.0,
+        "treasury_shares": 29807.0,
+        "shares_outstanding": 15727850.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 18638228000.0,
       "short_term_debt": 1167325000.0,
       "long_term_debt": 2219599000.0,
+      "capital_composition": {
+        "ordinary_shares": 15761639.0,
+        "preferred_shares": 0.0,
+        "total_shares": 15761639.0,
+        "treasury_shares": 145113.0,
+        "shares_outstanding": 15616526.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

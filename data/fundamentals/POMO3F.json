@@ -4,7 +4,7 @@
   "issuer_name": "MARCOPOLO SA",
   "cnpj": "88611835000129",
   "cvm_code": "8451",
-  "updated_at": "2026-08-29T01:16:41.868341+00:00",
+  "updated_at": "2026-08-29T01:35:07.391823+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 1536121000.0,
       "short_term_debt": 720506000.0,
       "long_term_debt": 1699078000.0,
+      "capital_composition": {
+        "ordinary_shares": 341625744.0,
+        "preferred_shares": 605267138.0,
+        "total_shares": 946892882.0,
+        "treasury_shares": 5380139.0,
+        "shares_outstanding": 941512743.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 2093398000.0,
       "short_term_debt": 1169327000.0,
       "long_term_debt": 2086659000.0,
+      "capital_composition": {
+        "ordinary_shares": 409950893.0,
+        "preferred_shares": 726320565.0,
+        "total_shares": 1136271458.0,
+        "treasury_shares": 10208000.0,
+        "shares_outstanding": 1126063458.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 2221811000.0,
       "short_term_debt": 1193030000.0,
       "long_term_debt": 2499504000.0,
+      "capital_composition": {
+        "ordinary_shares": 450945982.0,
+        "preferred_shares": 798952621.0,
+        "total_shares": 1249898603.0,
+        "treasury_shares": 9306656.0,
+        "shares_outstanding": 1240591947.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

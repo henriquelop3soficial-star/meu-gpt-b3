@@ -4,7 +4,7 @@
   "issuer_name": "MRS LOGÍSTICA S/A",
   "cnpj": "01417222000177",
   "cvm_code": "17949",
-  "updated_at": "2026-08-29T01:16:41.848363+00:00",
+  "updated_at": "2026-08-29T01:35:07.353894+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": null,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 187210.0,
+        "preferred_shares": 150767.0,
+        "total_shares": 337977.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 337977.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 4144613000.0,
       "short_term_debt": 556333000.0,
       "long_term_debt": 7612425000.0,
+      "capital_composition": {
+        "ordinary_shares": 187210.0,
+        "preferred_shares": 150767.0,
+        "total_shares": 337977.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 337977.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 4377047000.0,
       "short_term_debt": 1019211000.0,
       "long_term_debt": 8643109000.0,
+      "capital_composition": {
+        "ordinary_shares": 187210.0,
+        "preferred_shares": 150767.0,
+        "total_shares": 337977.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 337977.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

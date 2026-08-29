@@ -4,7 +4,7 @@
   "issuer_name": "AGROGALAXY PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL",
   "cnpj": "21240146000184",
   "cvm_code": "25658",
-  "updated_at": "2026-08-29T01:16:41.728592+00:00",
+  "updated_at": "2026-08-29T01:35:07.213289+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 738306000.0,
       "short_term_debt": 1543887000.0,
       "long_term_debt": 96115000.0,
+      "capital_composition": {
+        "ordinary_shares": 170824989.0,
+        "preferred_shares": 0.0,
+        "total_shares": 170824989.0,
+        "treasury_shares": 3395679.0,
+        "shares_outstanding": 167429310.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 475482000.0,
       "short_term_debt": 1493520000.0,
       "long_term_debt": 48487000.0,
+      "capital_composition": {
+        "ordinary_shares": 254543576.0,
+        "preferred_shares": 0.0,
+        "total_shares": 254543576.0,
+        "treasury_shares": 3395679.0,
+        "shares_outstanding": 251147897.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": null,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": null,
+        "preferred_shares": null,
+        "total_shares": null,
+        "treasury_shares": null,
+        "shares_outstanding": null,
+        "reference_date": null,
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

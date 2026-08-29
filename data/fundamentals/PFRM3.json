@@ -4,7 +4,7 @@
   "issuer_name": "PROFARMA DISTRIB PROD FARMACEUTICOS S.A.",
   "cnpj": "45453214000151",
   "cvm_code": "20346",
-  "updated_at": "2026-08-29T01:16:41.863625+00:00",
+  "updated_at": "2026-08-29T01:35:07.372332+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 193743000.0,
       "short_term_debt": 206276000.0,
       "long_term_debt": 573628000.0,
+      "capital_composition": {
+        "ordinary_shares": 123813.0,
+        "preferred_shares": 0.0,
+        "total_shares": 123813.0,
+        "treasury_shares": 1202.0,
+        "shares_outstanding": 122611.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 229552000.0,
       "short_term_debt": 248539000.0,
       "long_term_debt": 551180000.0,
+      "capital_composition": {
+        "ordinary_shares": 123813.0,
+        "preferred_shares": 0.0,
+        "total_shares": 123813.0,
+        "treasury_shares": 1202.0,
+        "shares_outstanding": 122611.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 235121000.0,
       "short_term_debt": 311139000.0,
       "long_term_debt": 563531000.0,
+      "capital_composition": {
+        "ordinary_shares": 123813.0,
+        "preferred_shares": 0.0,
+        "total_shares": 123813.0,
+        "treasury_shares": 1202.0,
+        "shares_outstanding": 122611.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

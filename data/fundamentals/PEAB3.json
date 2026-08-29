@@ -4,7 +4,7 @@
   "issuer_name": "CIA DE PARTICIPAÇÕES ALIANÇA DA BAHIA",
   "cnpj": "01938783000111",
   "cvm_code": "18708",
-  "updated_at": "2026-08-29T01:16:41.862179+00:00",
+  "updated_at": "2026-08-29T01:35:07.370849+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 3383000.0,
       "short_term_debt": 4896000.0,
       "long_term_debt": 109472000.0,
+      "capital_composition": {
+        "ordinary_shares": 6425139.0,
+        "preferred_shares": 6425139.0,
+        "total_shares": 12850278.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 12850278.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 3712000.0,
       "short_term_debt": 12894000.0,
       "long_term_debt": 100431000.0,
+      "capital_composition": {
+        "ordinary_shares": 9495733.0,
+        "preferred_shares": 9412283.0,
+        "total_shares": 18908016.0,
+        "treasury_shares": 2621.0,
+        "shares_outstanding": 18905395.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 10625000.0,
       "short_term_debt": 18935000.0,
       "long_term_debt": 134103000.0,
+      "capital_composition": {
+        "ordinary_shares": 9317262.0,
+        "preferred_shares": 8821712.0,
+        "total_shares": 18138974.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 18138974.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

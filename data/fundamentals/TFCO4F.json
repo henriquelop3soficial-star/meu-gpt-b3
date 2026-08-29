@@ -4,7 +4,7 @@
   "issuer_name": "TRACK & FIELD CO S.A",
   "cnpj": "59418806000147",
   "cvm_code": "25208",
-  "updated_at": "2026-08-29T01:16:41.917562+00:00",
+  "updated_at": "2026-08-29T01:35:07.437432+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 54477000.0,
       "short_term_debt": 17682000.0,
       "long_term_debt": 84245000.0,
+      "capital_composition": {
+        "ordinary_shares": 877251375.0,
+        "preferred_shares": 71992864.0,
+        "total_shares": 949244239.0,
+        "treasury_shares": 4185047.0,
+        "shares_outstanding": 945059192.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 23410000.0,
       "short_term_debt": 15890000.0,
       "long_term_debt": 135394000.0,
+      "capital_composition": {
+        "ordinary_shares": 877251375.0,
+        "preferred_shares": 68992864.0,
+        "total_shares": 946244239.0,
+        "treasury_shares": 3899373.0,
+        "shares_outstanding": 942344866.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 35255000.0,
       "short_term_debt": 17004000.0,
       "long_term_debt": 153919000.0,
+      "capital_composition": {
+        "ordinary_shares": 877251375.0,
+        "preferred_shares": 65492864.0,
+        "total_shares": 942744239.0,
+        "treasury_shares": 1730117.0,
+        "shares_outstanding": 941014122.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

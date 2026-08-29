@@ -4,7 +4,7 @@
   "issuer_name": "AERIS IND. E COM. DE EQUIP. PARA GER. DE ENG. S.A.",
   "cnpj": "12528708000107",
   "cvm_code": "25283",
-  "updated_at": "2026-08-29T01:16:41.727443+00:00",
+  "updated_at": "2026-08-29T01:35:07.211847+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 1063522000.0,
       "short_term_debt": 549362000.0,
       "long_term_debt": 1146231000.0,
+      "capital_composition": {
+        "ordinary_shares": 1242403933.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1242403933.0,
+        "treasury_shares": 17944088.0,
+        "shares_outstanding": 1224459845.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 345841000.0,
       "short_term_debt": 1473872000.0,
       "long_term_debt": 82945000.0,
+      "capital_composition": {
+        "ordinary_shares": 62120196.0,
+        "preferred_shares": 0.0,
+        "total_shares": 62120196.0,
+        "treasury_shares": 823306.0,
+        "shares_outstanding": 61296890.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 28741000.0,
       "short_term_debt": 131763000.0,
       "long_term_debt": 1686425000.0,
+      "capital_composition": {
+        "ordinary_shares": 62120196.0,
+        "preferred_shares": 0.0,
+        "total_shares": 62120196.0,
+        "treasury_shares": 732772.0,
+        "shares_outstanding": 61387424.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

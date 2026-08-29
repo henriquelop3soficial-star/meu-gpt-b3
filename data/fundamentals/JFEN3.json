@@ -4,7 +4,7 @@
   "issuer_name": "JOAO FORTES ENGENHARIA SA - EM RECUPERAÇÃO JUDICIAL",
   "cnpj": "33035536000100",
   "cvm_code": "7811",
-  "updated_at": "2026-08-29T01:16:41.825823+00:00",
+  "updated_at": "2026-08-29T01:35:07.327749+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 20845000.0,
       "short_term_debt": 497630000.0,
       "long_term_debt": 112175000.0,
+      "capital_composition": {
+        "ordinary_shares": 21040763.0,
+        "preferred_shares": 0.0,
+        "total_shares": 21040763.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 21040763.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 8363000.0,
       "short_term_debt": 121444000.0,
       "long_term_debt": 143444000.0,
+      "capital_composition": {
+        "ordinary_shares": 12318720.0,
+        "preferred_shares": 0.0,
+        "total_shares": 12318720.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 12318720.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 3335000.0,
       "short_term_debt": 127575000.0,
       "long_term_debt": 220855000.0,
+      "capital_composition": {
+        "ordinary_shares": 12802745.0,
+        "preferred_shares": 0.0,
+        "total_shares": 12802745.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 12802745.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

@@ -4,7 +4,7 @@
   "issuer_name": "LOCALIZA RENT A CAR SA",
   "cnpj": "16670085000155",
   "cvm_code": "19739",
-  "updated_at": "2026-08-29T01:16:41.882348+00:00",
+  "updated_at": "2026-08-29T01:35:07.408976+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 2000897000.0,
       "short_term_debt": 7226535000.0,
       "long_term_debt": 33381098000.0,
+      "capital_composition": {
+        "ordinary_shares": 1068095319.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1068095319.0,
+        "treasury_shares": 10530456.0,
+        "shares_outstanding": 1057564863.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 3568636000.0,
       "short_term_debt": 5295928000.0,
       "long_term_debt": 39470609000.0,
+      "capital_composition": {
+        "ordinary_shares": 1082620720.0,
+        "preferred_shares": 0.0,
+        "total_shares": 1082620720.0,
+        "treasury_shares": 28869532.0,
+        "shares_outstanding": 1053751188.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 1705451000.0,
       "short_term_debt": 4585163000.0,
       "long_term_debt": 39010175000.0,
+      "capital_composition": {
+        "ordinary_shares": 1082620720.0,
+        "preferred_shares": 41638625.0,
+        "total_shares": 1124259345.0,
+        "treasury_shares": 29218474.0,
+        "shares_outstanding": 1095040871.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

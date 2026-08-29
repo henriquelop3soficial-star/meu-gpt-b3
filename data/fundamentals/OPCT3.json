@@ -4,7 +4,7 @@
   "issuer_name": "OCEANPACT SERVIÇOS MARÍTIMOS S.A.",
   "cnpj": "09114805000130",
   "cvm_code": "25534",
-  "updated_at": "2026-08-29T01:16:41.856922+00:00",
+  "updated_at": "2026-08-29T01:35:07.364284+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 214287000.0,
       "short_term_debt": 267480000.0,
       "long_term_debt": 914344000.0,
+      "capital_composition": {
+        "ordinary_shares": 199959554.0,
+        "preferred_shares": 0.0,
+        "total_shares": 199959554.0,
+        "treasury_shares": 1973951.0,
+        "shares_outstanding": 197985603.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 515103000.0,
       "short_term_debt": 273985000.0,
       "long_term_debt": 1424523000.0,
+      "capital_composition": {
+        "ordinary_shares": 199959554.0,
+        "preferred_shares": 0.0,
+        "total_shares": 199959554.0,
+        "treasury_shares": 1703621.0,
+        "shares_outstanding": 198255933.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 696563000.0,
       "short_term_debt": 179739000.0,
       "long_term_debt": 1903932000.0,
+      "capital_composition": {
+        "ordinary_shares": 199959554.0,
+        "preferred_shares": 0.0,
+        "total_shares": 199959554.0,
+        "treasury_shares": 612201.0,
+        "shares_outstanding": 199347353.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

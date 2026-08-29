@@ -4,7 +4,7 @@
   "issuer_name": "BANCO BRADESCO S.A.",
   "cnpj": "60746948000112",
   "cvm_code": "906",
-  "updated_at": "2026-08-29T01:16:41.749799+00:00",
+  "updated_at": "2026-08-29T01:35:07.238580+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 186790580000.0,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 5330305.0,
+        "preferred_shares": 5311865.0,
+        "total_shares": 10642170.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 10642170.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -37,6 +46,15 @@
       "cash_and_equivalents": 208023801000.0,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 5330304681.0,
+        "preferred_shares": 5311865547.0,
+        "total_shares": 10642170228.0,
+        "treasury_shares": 45187300.0,
+        "shares_outstanding": 10596982928.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -58,6 +76,15 @@
       "cash_and_equivalents": 193516834000.0,
       "short_term_debt": null,
       "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 5303870781.0,
+        "preferred_shares": 5288141247.0,
+        "total_shares": 10592012028.0,
+        "treasury_shares": 15000000.0,
+        "shares_outstanding": 10577012028.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

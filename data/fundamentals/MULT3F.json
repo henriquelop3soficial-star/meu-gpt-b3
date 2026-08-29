@@ -4,7 +4,7 @@
   "issuer_name": "MULTIPLAN - EMPREEND IMOBILIARIOS S.A.",
   "cnpj": "07816890000153",
   "cvm_code": "20982",
-  "updated_at": "2026-08-29T01:16:41.850355+00:00",
+  "updated_at": "2026-08-29T01:35:07.356236+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 157158000.0,
       "short_term_debt": 470495000.0,
       "long_term_debt": 2695802000.0,
+      "capital_composition": {
+        "ordinary_shares": 600760875.0,
+        "preferred_shares": 0.0,
+        "total_shares": 600760875.0,
+        "treasury_shares": 18713710.0,
+        "shares_outstanding": 582047165.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 49603000.0,
       "short_term_debt": 579020000.0,
       "long_term_debt": 4851912000.0,
+      "capital_composition": {
+        "ordinary_shares": 519163701.0,
+        "preferred_shares": 0.0,
+        "total_shares": 519163701.0,
+        "treasury_shares": 30485455.0,
+        "shares_outstanding": 488678246.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 191102000.0,
       "short_term_debt": 727136000.0,
       "long_term_debt": 4712863000.0,
+      "capital_composition": {
+        "ordinary_shares": 513163701.0,
+        "preferred_shares": 0.0,
+        "total_shares": 513163701.0,
+        "treasury_shares": 23835034.0,
+        "shares_outstanding": 489328667.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

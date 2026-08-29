@@ -4,7 +4,7 @@
   "issuer_name": "SONDOTECNICA ENGENHARIA SOLOS S.A.",
   "cnpj": "33386210000119",
   "cvm_code": "10880",
-  "updated_at": "2026-08-29T01:16:41.909589+00:00",
+  "updated_at": "2026-08-29T01:35:07.427208+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 9176000.0,
       "short_term_debt": 0.0,
       "long_term_debt": 0.0,
+      "capital_composition": {
+        "ordinary_shares": 856.0,
+        "preferred_shares": 1602.0,
+        "total_shares": 2458.0,
+        "treasury_shares": 27.0,
+        "shares_outstanding": 2431.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 13275000.0,
       "short_term_debt": 3186000.0,
       "long_term_debt": 0.0,
+      "capital_composition": {
+        "ordinary_shares": 856.0,
+        "preferred_shares": 1602.0,
+        "total_shares": 2458.0,
+        "treasury_shares": 27.0,
+        "shares_outstanding": 2431.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 16682000.0,
       "short_term_debt": 882000.0,
       "long_term_debt": 0.0,
+      "capital_composition": {
+        "ordinary_shares": 856.0,
+        "preferred_shares": 1602.0,
+        "total_shares": 2458.0,
+        "treasury_shares": 27.0,
+        "shares_outstanding": 2431.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

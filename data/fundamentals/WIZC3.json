@@ -4,7 +4,7 @@
   "issuer_name": "WIZ CO PARTICIPAÇÕES E CORRETAGEM DE SEGUROS S.A.",
   "cnpj": "42278473000103",
   "cvm_code": "23590",
-  "updated_at": "2026-08-29T01:16:41.939345+00:00",
+  "updated_at": "2026-08-29T01:35:07.465016+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 35566000.0,
       "short_term_debt": 37132000.0,
       "long_term_debt": 318983000.0,
+      "capital_composition": {
+        "ordinary_shares": 159907282.0,
+        "preferred_shares": 0.0,
+        "total_shares": 159907282.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 159907282.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 19161000.0,
       "short_term_debt": 160949000.0,
       "long_term_debt": 185257000.0,
+      "capital_composition": {
+        "ordinary_shares": 159907282.0,
+        "preferred_shares": 0.0,
+        "total_shares": 159907282.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 159907282.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 19174000.0,
       "short_term_debt": 56173000.0,
       "long_term_debt": 332414000.0,
+      "capital_composition": {
+        "ordinary_shares": 159907282.0,
+        "preferred_shares": 0.0,
+        "total_shares": 159907282.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 159907282.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

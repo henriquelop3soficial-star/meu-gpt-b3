@@ -4,7 +4,7 @@
   "issuer_name": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
   "cnpj": "07859971000130",
   "cvm_code": "20257",
-  "updated_at": "2026-08-29T01:16:41.912626+00:00",
+  "updated_at": "2026-08-29T01:35:07.431017+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 1306121000.0,
       "short_term_debt": 1155364000.0,
       "long_term_debt": 8547276000.0,
+      "capital_composition": {
+        "ordinary_shares": 590714.0,
+        "preferred_shares": 442783.0,
+        "total_shares": 1033497.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 1033497.0,
+        "reference_date": "2023-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 750976000.0,
       "short_term_debt": 1483414000.0,
       "long_term_debt": 8316451000.0,
+      "capital_composition": {
+        "ordinary_shares": 590714.0,
+        "preferred_shares": 442783.0,
+        "total_shares": 1033497.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 1033497.0,
+        "reference_date": "2024-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 741596000.0,
       "short_term_debt": 1340773000.0,
       "long_term_debt": 9633669000.0,
+      "capital_composition": {
+        "ordinary_shares": 590714.0,
+        "preferred_shares": 442783.0,
+        "total_shares": 1033497.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 1033497.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",

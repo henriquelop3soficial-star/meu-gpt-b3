@@ -4,7 +4,7 @@
   "issuer_name": "SÃO MARTINHO SA",
   "cnpj": "51466860000156",
   "cvm_code": "20516",
-  "updated_at": "2026-08-29T01:16:41.908123+00:00",
+  "updated_at": "2026-08-29T01:35:07.425370+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -16,6 +16,15 @@
       "cash_and_equivalents": 273408000.0,
       "short_term_debt": 1714218000.0,
       "long_term_debt": 7951436000.0,
+      "capital_composition": {
+        "ordinary_shares": 354011329.0,
+        "preferred_shares": 0.0,
+        "total_shares": 354011329.0,
+        "treasury_shares": 7636263.0,
+        "shares_outstanding": 346375066.0,
+        "reference_date": "2023-03-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -36,6 +45,15 @@
       "cash_and_equivalents": 204560000.0,
       "short_term_debt": 1759317000.0,
       "long_term_debt": 7652261000.0,
+      "capital_composition": {
+        "ordinary_shares": 346375066.0,
+        "preferred_shares": 0.0,
+        "total_shares": 346375066.0,
+        "treasury_shares": 544400.0,
+        "shares_outstanding": 345830666.0,
+        "reference_date": "2024-03-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
@@ -56,6 +74,15 @@
       "cash_and_equivalents": 898588000.0,
       "short_term_debt": 1596787000.0,
       "long_term_debt": 9323127000.0,
+      "capital_composition": {
+        "ordinary_shares": 332435391.0,
+        "preferred_shares": 0.0,
+        "total_shares": 332435391.0,
+        "treasury_shares": 3857600.0,
+        "shares_outstanding": 328577791.0,
+        "reference_date": "2025-03-31",
+        "source": "DFP - Composição do Capital"
+      },
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
