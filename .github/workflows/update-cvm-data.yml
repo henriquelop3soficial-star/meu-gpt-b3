@@ -11,6 +11,7 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+
     env:
       BRAPI_TOKEN: ${{ secrets.BRAPI_TOKEN }}
 
@@ -27,10 +28,13 @@ jobs:
       - name: Importar DFPs para todo o universo
         run: python scripts/import_cvm_dfp_bulk.py --years 2023 2024 2025
 
+      - name: Importar ITRs mais recentes para todo o universo
+        run: python scripts/import_cvm_itr_bulk.py --years 2025 2026
+
       - name: Salvar dados atualizados
         run: |
           git config user.name "coletor-b3-bot"
           git config user.email "actions@github.com"
-          git add data/assets.csv data/assets_unresolved.csv data/universe_import_report.json data/dfp_import_report.json data/fundamentals
-          git diff --cached --quiet || git commit -m "Atualiza universo e fundamentos de ações"
+          git add data/assets.csv data/assets_unresolved.csv data/universe_import_report.json data/dfp_import_report.json data/itr_import_report.json data/fundamentals data/quarterly
+          git diff --cached --quiet || git commit -m "Atualiza universo, DFP e ITR de ações"
           git push
