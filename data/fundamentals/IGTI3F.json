@@ -1,0 +1,71 @@
+{
+  "ticker": "IGTI3F",
+  "asset_type": "stock",
+  "issuer_name": "IGUATEMI S.A.",
+  "cnpj": "60543816000193",
+  "cvm_code": "8672",
+  "updated_at": "2026-08-29T01:16:41.818889+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 1157163000.0,
+      "net_income": 308934000.0,
+      "earnings_per_share": 0.0,
+      "equity": 4177518000.0,
+      "cash_and_equivalents": 59473000.0,
+      "short_term_debt": 695028000.0,
+      "long_term_debt": 2671980000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 1236345000.0,
+      "net_income": 399876000.0,
+      "earnings_per_share": 0.0,
+      "equity": 4310020000.0,
+      "cash_and_equivalents": 49040000.0,
+      "short_term_debt": 262026000.0,
+      "long_term_debt": 3174173000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 1486833000.0,
+      "net_income": 582576000.0,
+      "earnings_per_share": 0.0,
+      "equity": 4651864000.0,
+      "cash_and_equivalents": 36013000.0,
+      "short_term_debt": 386040000.0,
+      "long_term_debt": 3578010000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,71 @@
+{
+  "ticker": "BHIA3F",
+  "asset_type": "stock",
+  "issuer_name": "GRUPO CASAS BAHIA S.A.",
+  "cnpj": "33041260065290",
+  "cvm_code": "6505",
+  "updated_at": "2026-08-29T01:16:41.752882+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 28847000000.0,
+      "net_income": -2625000000.0,
+      "earnings_per_share": 0.0,
+      "equity": 3454000000.0,
+      "cash_and_equivalents": 2573000000.0,
+      "short_term_debt": 6795000000.0,
+      "long_term_debt": 2164000000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 27206000000.0,
+      "net_income": -1045000000.0,
+      "earnings_per_share": 0.0,
+      "equity": 2477000000.0,
+      "cash_and_equivalents": 2131000000.0,
+      "short_term_debt": 5224000000.0,
+      "long_term_debt": 4222000000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 29197000000.0,
+      "net_income": -2988000000.0,
+      "earnings_per_share": 0.0,
+      "equity": 2774000000.0,
+      "cash_and_equivalents": 1225000000.0,
+      "short_term_debt": 5613000000.0,
+      "long_term_debt": 685000000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

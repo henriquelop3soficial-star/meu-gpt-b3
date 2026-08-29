@@ -1,0 +1,71 @@
+{
+  "ticker": "CGRA4F",
+  "asset_type": "stock",
+  "issuer_name": "GRAZZIOTIN SA",
+  "cnpj": "92012467000170",
+  "cvm_code": "4537",
+  "updated_at": "2026-08-29T01:16:41.769381+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 676829000.0,
+      "net_income": 95652000.0,
+      "earnings_per_share": 0.0,
+      "equity": 884239000.0,
+      "cash_and_equivalents": 168715000.0,
+      "short_term_debt": 0.0,
+      "long_term_debt": 0.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 728592000.0,
+      "net_income": 104649000.0,
+      "earnings_per_share": 0.0,
+      "equity": 952978000.0,
+      "cash_and_equivalents": 207188000.0,
+      "short_term_debt": 0.0,
+      "long_term_debt": 0.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 744815000.0,
+      "net_income": 83855000.0,
+      "earnings_per_share": 0.0,
+      "equity": 878113000.0,
+      "cash_and_equivalents": 147062000.0,
+      "short_term_debt": 0.0,
+      "long_term_debt": 0.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

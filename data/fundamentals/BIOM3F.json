@@ -1,0 +1,71 @@
+{
+  "ticker": "BIOM3F",
+  "asset_type": "stock",
+  "issuer_name": "BIOMM SA",
+  "cnpj": "04752991000110",
+  "cvm_code": "19305",
+  "updated_at": "2026-08-29T01:16:41.754334+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 118194000.0,
+      "net_income": -81141000.0,
+      "earnings_per_share": 0.0,
+      "equity": 122940000.0,
+      "cash_and_equivalents": 25998000.0,
+      "short_term_debt": 47660000.0,
+      "long_term_debt": 105940000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 142905000.0,
+      "net_income": -77238000.0,
+      "earnings_per_share": 0.0,
+      "equity": 262784000.0,
+      "cash_and_equivalents": 77620000.0,
+      "short_term_debt": 44503000.0,
+      "long_term_debt": 76880000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 269299000.0,
+      "net_income": -6687000.0,
+      "earnings_per_share": 0.0,
+      "equity": 313508000.0,
+      "cash_and_equivalents": 22304000.0,
+      "short_term_debt": 45693000.0,
+      "long_term_debt": 50911000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

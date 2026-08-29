@@ -1,0 +1,71 @@
+{
+  "ticker": "MGEL4",
+  "asset_type": "stock",
+  "issuer_name": "MANGELS INDUSTRIAL S.A.",
+  "cnpj": "61065298000102",
+  "cvm_code": "8397",
+  "updated_at": "2026-08-29T01:16:41.842669+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 927871000.0,
+      "net_income": 34047000.0,
+      "earnings_per_share": 0.0,
+      "equity": 40978000.0,
+      "cash_and_equivalents": 34448000.0,
+      "short_term_debt": 125446000.0,
+      "long_term_debt": 488134000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 948038000.0,
+      "net_income": -41575000.0,
+      "earnings_per_share": 0.0,
+      "equity": 553000.0,
+      "cash_and_equivalents": 12596000.0,
+      "short_term_debt": 105872000.0,
+      "long_term_debt": 527194000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 1063608000.0,
+      "net_income": 48022000.0,
+      "earnings_per_share": 0.0,
+      "equity": 46969000.0,
+      "cash_and_equivalents": 30105000.0,
+      "short_term_debt": 530883000.0,
+      "long_term_debt": 3352000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

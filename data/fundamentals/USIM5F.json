@@ -1,0 +1,71 @@
+{
+  "ticker": "USIM5F",
+  "asset_type": "stock",
+  "issuer_name": "USINAS SID DE MINAS GERAIS S.A.-USIMINAS",
+  "cnpj": "60894730000105",
+  "cvm_code": "14320",
+  "updated_at": "2026-08-29T01:16:41.927244+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 27638348000.0,
+      "net_income": 1640368000.0,
+      "earnings_per_share": 0.0,
+      "equity": 26549437000.0,
+      "cash_and_equivalents": 5323851000.0,
+      "short_term_debt": 122887000.0,
+      "long_term_debt": 5793223000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 25869799000.0,
+      "net_income": 3362000.0,
+      "earnings_per_share": 0.0,
+      "equity": 26683688000.0,
+      "cash_and_equivalents": 5200342000.0,
+      "short_term_debt": 150743000.0,
+      "long_term_debt": 6617591000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 26263450000.0,
+      "net_income": -2910034000.0,
+      "earnings_per_share": 0.0,
+      "equity": 23701381000.0,
+      "cash_and_equivalents": 5141617000.0,
+      "short_term_debt": 184291000.0,
+      "long_term_debt": 6205848000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

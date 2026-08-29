@@ -1,0 +1,71 @@
+{
+  "ticker": "TUPY3F",
+  "asset_type": "stock",
+  "issuer_name": "TUPY SA",
+  "cnpj": "84683374000149",
+  "cvm_code": "6343",
+  "updated_at": "2026-08-29T01:16:41.922662+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 11368190000.0,
+      "net_income": 517013000.0,
+      "earnings_per_share": 0.0,
+      "equity": 3327842000.0,
+      "cash_and_equivalents": 1593098000.0,
+      "short_term_debt": 662933000.0,
+      "long_term_debt": 3127748000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 10665110000.0,
+      "net_income": 82440000.0,
+      "earnings_per_share": 0.0,
+      "equity": 3499347000.0,
+      "cash_and_equivalents": 2376203000.0,
+      "short_term_debt": 638123000.0,
+      "long_term_debt": 4132189000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 9692948000.0,
+      "net_income": -654552000.0,
+      "earnings_per_share": 0.0,
+      "equity": 2513376000.0,
+      "cash_and_equivalents": 1853156000.0,
+      "short_term_debt": 212756000.0,
+      "long_term_debt": 3881960000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

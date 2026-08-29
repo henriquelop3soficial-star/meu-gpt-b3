@@ -1,0 +1,71 @@
+{
+  "ticker": "BEEF3",
+  "asset_type": "stock",
+  "issuer_name": "MINERVA S/A",
+  "cnpj": "67620377000114",
+  "cvm_code": "20931",
+  "updated_at": "2026-08-29T01:16:41.751507+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 26891609000.0,
+      "net_income": 395533000.0,
+      "earnings_per_share": 0.0,
+      "equity": 659550000.0,
+      "cash_and_equivalents": 4009951000.0,
+      "short_term_debt": 3794555000.0,
+      "long_term_debt": 17762327000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 34068866000.0,
+      "net_income": -1563806000.0,
+      "earnings_per_share": 0.0,
+      "equity": 87217000.0,
+      "cash_and_equivalents": 7550512000.0,
+      "short_term_debt": 5109420000.0,
+      "long_term_debt": 24972689000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 54830072000.0,
+      "net_income": 848260000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1893220000.0,
+      "cash_and_equivalents": 10202560000.0,
+      "short_term_debt": 5306024000.0,
+      "long_term_debt": 22480845000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

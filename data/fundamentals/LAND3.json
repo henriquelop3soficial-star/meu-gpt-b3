@@ -1,0 +1,71 @@
+{
+  "ticker": "LAND3",
+  "asset_type": "stock",
+  "issuer_name": "TERRA SANTA PROPRIEDADES AGRÍCOLAS S.A.",
+  "cnpj": "40337136000106",
+  "cvm_code": "26000",
+  "updated_at": "2026-08-29T01:16:41.830587+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 91726000.0,
+      "net_income": 35214000.0,
+      "earnings_per_share": 0.0,
+      "equity": 714421000.0,
+      "cash_and_equivalents": 2084000.0,
+      "short_term_debt": 45663000.0,
+      "long_term_debt": 64772000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 68332000.0,
+      "net_income": 7332000.0,
+      "earnings_per_share": 0.0,
+      "equity": 713751000.0,
+      "cash_and_equivalents": 8832000.0,
+      "short_term_debt": 56887000.0,
+      "long_term_debt": 42409000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 96574000.0,
+      "net_income": 4745000.0,
+      "earnings_per_share": 0.0,
+      "equity": 658747000.0,
+      "cash_and_equivalents": 11639000.0,
+      "short_term_debt": 47535000.0,
+      "long_term_debt": 21269000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

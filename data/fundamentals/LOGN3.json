@@ -1,0 +1,71 @@
+{
+  "ticker": "LOGN3",
+  "asset_type": "stock",
+  "issuer_name": "LOG-IN LOGISTICA INTERMODAL SA",
+  "cnpj": "42278291000124",
+  "cvm_code": "20710",
+  "updated_at": "2026-08-29T01:16:41.834239+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 2338625000.0,
+      "net_income": 60172000.0,
+      "earnings_per_share": 0.0,
+      "equity": 939147000.0,
+      "cash_and_equivalents": 436406000.0,
+      "short_term_debt": 259725000.0,
+      "long_term_debt": 1366765000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 2795756000.0,
+      "net_income": 53703000.0,
+      "earnings_per_share": 0.0,
+      "equity": 968854000.0,
+      "cash_and_equivalents": 289792000.0,
+      "short_term_debt": 317133000.0,
+      "long_term_debt": 1372012000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 3081024000.0,
+      "net_income": 93675000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1089675000.0,
+      "cash_and_equivalents": 300109000.0,
+      "short_term_debt": 326022000.0,
+      "long_term_debt": 1373705000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

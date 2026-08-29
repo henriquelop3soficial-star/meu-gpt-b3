@@ -1,10 +1,10 @@
 {
   "ticker": "BBAS3",
   "asset_type": "stock",
-  "issuer_name": "Banco do Brasil S.A.",
+  "issuer_name": "BANCO DO BRASIL S.A.",
   "cnpj": "00000000000191",
-  "cvm_code": "00102-3",
-  "updated_at": "2026-08-23T18:52:07.370974+00:00",
+  "cvm_code": "1023",
+  "updated_at": "2026-08-29T01:16:41.749097+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -22,9 +22,9 @@
         "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
       },
       "notes": [
-        "Valores monetários são divulgados no DFP consolidado e normalizados para reais (BRL).",
-        "Campos nulos não foram estimados; exigem validação do plano de contas da companhia.",
-        "Dívida de banco não é calculada: depósitos e captações não são equivalentes à dívida corporativa de uma empresa não financeira."
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados.",
+        "Dívida de banco não é calculada: depósitos e captações não equivalem à dívida corporativa de empresa não financeira."
       ]
     },
     {
@@ -43,9 +43,9 @@
         "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
       },
       "notes": [
-        "Valores monetários são divulgados no DFP consolidado e normalizados para reais (BRL).",
-        "Campos nulos não foram estimados; exigem validação do plano de contas da companhia.",
-        "Dívida de banco não é calculada: depósitos e captações não são equivalentes à dívida corporativa de uma empresa não financeira."
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados.",
+        "Dívida de banco não é calculada: depósitos e captações não equivalem à dívida corporativa de empresa não financeira."
       ]
     },
     {
@@ -64,9 +64,9 @@
         "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
       },
       "notes": [
-        "Valores monetários são divulgados no DFP consolidado e normalizados para reais (BRL).",
-        "Campos nulos não foram estimados; exigem validação do plano de contas da companhia.",
-        "Dívida de banco não é calculada: depósitos e captações não são equivalentes à dívida corporativa de uma empresa não financeira."
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados.",
+        "Dívida de banco não é calculada: depósitos e captações não equivalem à dívida corporativa de empresa não financeira."
       ]
     }
   ],

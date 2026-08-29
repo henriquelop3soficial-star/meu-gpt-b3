@@ -1,0 +1,71 @@
+{
+  "ticker": "TOKY3",
+  "asset_type": "stock",
+  "issuer_name": "GRUPO TOKY S.A. - EM RECUPERAÇÃO JUDICIAL",
+  "cnpj": "31553627000101",
+  "cvm_code": "25461",
+  "updated_at": "2026-08-29T01:16:41.919357+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 541944000.0,
+      "net_income": -85145000.0,
+      "earnings_per_share": 0.0,
+      "equity": 471027000.0,
+      "cash_and_equivalents": 152632000.0,
+      "short_term_debt": 36042000.0,
+      "long_term_debt": 0.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 811197000.0,
+      "net_income": -164081000.0,
+      "earnings_per_share": 0.0,
+      "equity": 193669000.0,
+      "cash_and_equivalents": 23036000.0,
+      "short_term_debt": 0.0,
+      "long_term_debt": 357833000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 1445029000.0,
+      "net_income": -146886000.0,
+      "earnings_per_share": 0.0,
+      "equity": 222151000.0,
+      "cash_and_equivalents": 30718000.0,
+      "short_term_debt": 25840000.0,
+      "long_term_debt": 481518000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

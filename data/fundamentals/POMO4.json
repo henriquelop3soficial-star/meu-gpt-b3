@@ -1,0 +1,71 @@
+{
+  "ticker": "POMO4",
+  "asset_type": "stock",
+  "issuer_name": "MARCOPOLO SA",
+  "cnpj": "88611835000129",
+  "cvm_code": "8451",
+  "updated_at": "2026-08-29T01:16:41.868645+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 6683218000.0,
+      "net_income": 810811000.0,
+      "earnings_per_share": 0.0,
+      "equity": 3587709000.0,
+      "cash_and_equivalents": 1536121000.0,
+      "short_term_debt": 720506000.0,
+      "long_term_debt": 1699078000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 8593837000.0,
+      "net_income": 1222377000.0,
+      "earnings_per_share": 0.0,
+      "equity": 4082336000.0,
+      "cash_and_equivalents": 2093398000.0,
+      "short_term_debt": 1169327000.0,
+      "long_term_debt": 2086659000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 9057548000.0,
+      "net_income": 1235508000.0,
+      "earnings_per_share": 0.0,
+      "equity": 3895529000.0,
+      "cash_and_equivalents": 2221811000.0,
+      "short_term_debt": 1193030000.0,
+      "long_term_debt": 2499504000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

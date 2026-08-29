@@ -1,0 +1,71 @@
+{
+  "ticker": "ARML3",
+  "asset_type": "stock",
+  "issuer_name": "ARMAC LOCAÇÃO, LOGÍSTICA E SERVIÇOS S.A.",
+  "cnpj": "00242184000104",
+  "cvm_code": "26069",
+  "updated_at": "2026-08-29T01:16:41.738365+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": null,
+      "net_income": null,
+      "earnings_per_share": null,
+      "equity": null,
+      "cash_and_equivalents": null,
+      "short_term_debt": null,
+      "long_term_debt": null,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 1765969000.0,
+      "net_income": 175639000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1311017000.0,
+      "cash_and_equivalents": 210912000.0,
+      "short_term_debt": 81793000.0,
+      "long_term_debt": 2397246000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 1887757000.0,
+      "net_income": 73771000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1330338000.0,
+      "cash_and_equivalents": 239639000.0,
+      "short_term_debt": 72691000.0,
+      "long_term_debt": 2902327000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

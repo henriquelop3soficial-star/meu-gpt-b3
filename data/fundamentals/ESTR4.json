@@ -1,0 +1,71 @@
+{
+  "ticker": "ESTR4",
+  "asset_type": "stock",
+  "issuer_name": "MANUFATURA DE  BRINQUEDOS ESTRELA SA",
+  "cnpj": "61082004000150",
+  "cvm_code": "8427",
+  "updated_at": "2026-08-29T01:16:41.796636+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 160572000.0,
+      "net_income": -21811000.0,
+      "earnings_per_share": 0.0,
+      "equity": -529326000.0,
+      "cash_and_equivalents": 606000.0,
+      "short_term_debt": 82481000.0,
+      "long_term_debt": 0.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 154454000.0,
+      "net_income": -24261000.0,
+      "earnings_per_share": 0.0,
+      "equity": -553740000.0,
+      "cash_and_equivalents": 339000.0,
+      "short_term_debt": 101031000.0,
+      "long_term_debt": 0.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 150810000.0,
+      "net_income": 142138000.0,
+      "earnings_per_share": 0.0,
+      "equity": -226654000.0,
+      "cash_and_equivalents": 453000.0,
+      "short_term_debt": 126282000.0,
+      "long_term_debt": 0.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

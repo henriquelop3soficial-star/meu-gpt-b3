@@ -1,0 +1,71 @@
+{
+  "ticker": "ODER4F",
+  "asset_type": "stock",
+  "issuer_name": "CONSERVAS ODERICH SA",
+  "cnpj": "97191902000194",
+  "cvm_code": "4693",
+  "updated_at": "2026-08-29T01:16:41.854972+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 777726000.0,
+      "net_income": 90998000.0,
+      "earnings_per_share": 0.0,
+      "equity": 507709000.0,
+      "cash_and_equivalents": 74064000.0,
+      "short_term_debt": 58978000.0,
+      "long_term_debt": 192483000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 733020000.0,
+      "net_income": 36713000.0,
+      "earnings_per_share": 0.0,
+      "equity": 533417000.0,
+      "cash_and_equivalents": 101282000.0,
+      "short_term_debt": 172458000.0,
+      "long_term_debt": 152994000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 828048000.0,
+      "net_income": 75539000.0,
+      "earnings_per_share": 0.0,
+      "equity": 588922000.0,
+      "cash_and_equivalents": 110220000.0,
+      "short_term_debt": 121750000.0,
+      "long_term_debt": 260948000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

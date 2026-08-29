@@ -1,0 +1,71 @@
+{
+  "ticker": "INTB3",
+  "asset_type": "stock",
+  "issuer_name": "INTELBRAS S.A. IND. DE TELECOMUNICAÇÃO ELETRÔNICA BRASILEIRA",
+  "cnpj": "82901000000127",
+  "cvm_code": "25453",
+  "updated_at": "2026-08-29T01:16:41.820369+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 4103676000.0,
+      "net_income": 545558000.0,
+      "earnings_per_share": 0.0,
+      "equity": 2623522000.0,
+      "cash_and_equivalents": 1303169000.0,
+      "short_term_debt": 125652000.0,
+      "long_term_debt": 801675000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 4756146000.0,
+      "net_income": 528412000.0,
+      "earnings_per_share": 0.0,
+      "equity": 2966536000.0,
+      "cash_and_equivalents": 887969000.0,
+      "short_term_debt": 218100000.0,
+      "long_term_debt": 723630000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 4460379000.0,
+      "net_income": 483733000.0,
+      "earnings_per_share": 0.0,
+      "equity": 3014171000.0,
+      "cash_and_equivalents": 1070774000.0,
+      "short_term_debt": 261076000.0,
+      "long_term_debt": 628151000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

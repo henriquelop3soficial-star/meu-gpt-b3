@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-08-29T01:16:41.942006+00:00",
+  "years_requested": [
+    2023,
+    2024,
+    2025
+  ],
+  "assets_eligible": 587,
+  "snapshots_generated": 533,
+  "assets_without_matching_dfp": 54,
+  "year_errors": {},
+  "source": "CVM Dados Abertos - DFP"
+}

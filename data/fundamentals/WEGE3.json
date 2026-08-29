@@ -1,0 +1,71 @@
+{
+  "ticker": "WEGE3",
+  "asset_type": "stock",
+  "issuer_name": "WEG SA",
+  "cnpj": "84429695000111",
+  "cvm_code": "5410",
+  "updated_at": "2026-08-29T01:16:41.937250+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 32503601000.0,
+      "net_income": 5867615000.0,
+      "earnings_per_share": 0.0,
+      "equity": 17854776000.0,
+      "cash_and_equivalents": 6488454000.0,
+      "short_term_debt": 2170324000.0,
+      "long_term_debt": 664737000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 37986941000.0,
+      "net_income": 6318763000.0,
+      "earnings_per_share": 0.0,
+      "equity": 23125217000.0,
+      "cash_and_equivalents": 7347599000.0,
+      "short_term_debt": 2850956000.0,
+      "long_term_debt": 744281000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 40804110000.0,
+      "net_income": 6775958000.0,
+      "earnings_per_share": 0.0,
+      "equity": 18553364000.0,
+      "cash_and_equivalents": 6296498000.0,
+      "short_term_debt": 3549314000.0,
+      "long_term_debt": 1041508000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

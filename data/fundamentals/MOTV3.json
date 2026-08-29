@@ -1,0 +1,71 @@
+{
+  "ticker": "MOTV3",
+  "asset_type": "stock",
+  "issuer_name": "MOTIVA INFRAESTRUTURA DE MOBILIDADE S.A.",
+  "cnpj": "02846056000197",
+  "cvm_code": "18821",
+  "updated_at": "2026-08-29T01:16:41.847130+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 18932725000.0,
+      "net_income": 1854501000.0,
+      "earnings_per_share": 0.0,
+      "equity": 13077229000.0,
+      "cash_and_equivalents": 4548717000.0,
+      "short_term_debt": 4170768000.0,
+      "long_term_debt": 26483501000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 21783791000.0,
+      "net_income": 1311615000.0,
+      "earnings_per_share": 0.0,
+      "equity": 14002086000.0,
+      "cash_and_equivalents": 4187905000.0,
+      "short_term_debt": 1450930000.0,
+      "long_term_debt": 32427813000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 18850645000.0,
+      "net_income": 3503497000.0,
+      "earnings_per_share": 0.0,
+      "equity": 16282437000.0,
+      "cash_and_equivalents": 3651544000.0,
+      "short_term_debt": 1857013000.0,
+      "long_term_debt": 35383678000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

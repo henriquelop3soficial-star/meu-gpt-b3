@@ -1,0 +1,71 @@
+{
+  "ticker": "SMTO3",
+  "asset_type": "stock",
+  "issuer_name": "SÃO MARTINHO SA",
+  "cnpj": "51466860000156",
+  "cvm_code": "20516",
+  "updated_at": "2026-08-29T01:16:41.908123+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 6627566000.0,
+      "net_income": 1015744000.0,
+      "earnings_per_share": 0.0,
+      "equity": 5912363000.0,
+      "cash_and_equivalents": 273408000.0,
+      "short_term_debt": 1714218000.0,
+      "long_term_debt": 7951436000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 6891738000.0,
+      "net_income": 1476279000.0,
+      "earnings_per_share": 0.0,
+      "equity": 6862371000.0,
+      "cash_and_equivalents": 204560000.0,
+      "short_term_debt": 1759317000.0,
+      "long_term_debt": 7652261000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 7162034000.0,
+      "net_income": 556731000.0,
+      "earnings_per_share": 0.0,
+      "equity": 6699362000.0,
+      "cash_and_equivalents": 898588000.0,
+      "short_term_debt": 1596787000.0,
+      "long_term_debt": 9323127000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,71 @@
+{
+  "ticker": "WDCN3",
+  "asset_type": "stock",
+  "issuer_name": "LIVETECH DA BAHIA INDÚSTRIA E COMÉRCIO S.A.",
+  "cnpj": "05917486000140",
+  "cvm_code": "25895",
+  "updated_at": "2026-08-29T01:16:41.936811+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 900717000.0,
+      "net_income": -11876000.0,
+      "earnings_per_share": 0.0,
+      "equity": 635111000.0,
+      "cash_and_equivalents": 101959000.0,
+      "short_term_debt": 0.0,
+      "long_term_debt": 0.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 837881000.0,
+      "net_income": 28657000.0,
+      "earnings_per_share": 0.0,
+      "equity": 665846000.0,
+      "cash_and_equivalents": 102030000.0,
+      "short_term_debt": 0.0,
+      "long_term_debt": 0.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 871847000.0,
+      "net_income": -191446000.0,
+      "earnings_per_share": 0.0,
+      "equity": 466360000.0,
+      "cash_and_equivalents": 171983000.0,
+      "short_term_debt": 0.0,
+      "long_term_debt": 0.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

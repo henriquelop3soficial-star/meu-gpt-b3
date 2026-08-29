@@ -1,0 +1,71 @@
+{
+  "ticker": "DEXP3",
+  "asset_type": "stock",
+  "issuer_name": "DEXXOS PARTICIPAÇÕES S.A.",
+  "cnpj": "02193750000152",
+  "cvm_code": "16632",
+  "updated_at": "2026-08-29T01:16:41.783261+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 1745275000.0,
+      "net_income": 211286000.0,
+      "earnings_per_share": 0.0,
+      "equity": 858921000.0,
+      "cash_and_equivalents": 452932000.0,
+      "short_term_debt": 104459000.0,
+      "long_term_debt": 196351000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 1810394000.0,
+      "net_income": 153199000.0,
+      "earnings_per_share": 0.0,
+      "equity": 951170000.0,
+      "cash_and_equivalents": 341761000.0,
+      "short_term_debt": 64798000.0,
+      "long_term_debt": 214321000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 2136828000.0,
+      "net_income": 143653000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1001959000.0,
+      "cash_and_equivalents": 395276000.0,
+      "short_term_debt": 46100000.0,
+      "long_term_debt": 246738000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

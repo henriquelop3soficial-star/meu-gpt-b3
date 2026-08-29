@@ -1,0 +1,71 @@
+{
+  "ticker": "AGXY3",
+  "asset_type": "stock",
+  "issuer_name": "AGROGALAXY PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL",
+  "cnpj": "21240146000184",
+  "cvm_code": "25658",
+  "updated_at": "2026-08-29T01:16:41.728592+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 9399096000.0,
+      "net_income": -367292000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1136662000.0,
+      "cash_and_equivalents": 738306000.0,
+      "short_term_debt": 1543887000.0,
+      "long_term_debt": 96115000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 4612367000.0,
+      "net_income": -3020012000.0,
+      "earnings_per_share": 0.0,
+      "equity": -1745639000.0,
+      "cash_and_equivalents": 475482000.0,
+      "short_term_debt": 1493520000.0,
+      "long_term_debt": 48487000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": null,
+      "net_income": null,
+      "earnings_per_share": null,
+      "equity": null,
+      "cash_and_equivalents": null,
+      "short_term_debt": null,
+      "long_term_debt": null,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

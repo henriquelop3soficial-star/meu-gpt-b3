@@ -1,0 +1,71 @@
+{
+  "ticker": "TAEE4F",
+  "asset_type": "stock",
+  "issuer_name": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+  "cnpj": "07859971000130",
+  "cvm_code": "20257",
+  "updated_at": "2026-08-29T01:16:41.913256+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 3362116000.0,
+      "net_income": 1367834000.0,
+      "earnings_per_share": 0.0,
+      "equity": 6679310000.0,
+      "cash_and_equivalents": 1306121000.0,
+      "short_term_debt": 1155364000.0,
+      "long_term_debt": 8547276000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 3718138000.0,
+      "net_income": 1693915000.0,
+      "earnings_per_share": 0.0,
+      "equity": 6939504000.0,
+      "cash_and_equivalents": 750976000.0,
+      "short_term_debt": 1483414000.0,
+      "long_term_debt": 8316451000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 4624113000.0,
+      "net_income": 1579863000.0,
+      "earnings_per_share": 0.0,
+      "equity": 7608982000.0,
+      "cash_and_equivalents": 741596000.0,
+      "short_term_debt": 1340773000.0,
+      "long_term_debt": 9633669000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

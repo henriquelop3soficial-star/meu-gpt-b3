@@ -1,0 +1,71 @@
+{
+  "ticker": "FRAS3",
+  "asset_type": "stock",
+  "issuer_name": "FRASLE MOBILITY S.A.",
+  "cnpj": "88610126000129",
+  "cvm_code": "6211",
+  "updated_at": "2026-08-29T01:16:41.804039+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 3388657000.0,
+      "net_income": 388732000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1861114000.0,
+      "cash_and_equivalents": 1050412000.0,
+      "short_term_debt": 304819000.0,
+      "long_term_debt": 573323000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 3965776000.0,
+      "net_income": 374703000.0,
+      "earnings_per_share": 0.0,
+      "equity": 2251485000.0,
+      "cash_and_equivalents": 844881000.0,
+      "short_term_debt": 388411000.0,
+      "long_term_debt": 722767000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 5490878000.0,
+      "net_income": 283166000.0,
+      "earnings_per_share": 0.0,
+      "equity": 2481481000.0,
+      "cash_and_equivalents": 1316248000.0,
+      "short_term_debt": 255782000.0,
+      "long_term_debt": 2493018000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

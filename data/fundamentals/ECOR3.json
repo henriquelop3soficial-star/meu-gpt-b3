@@ -1,0 +1,71 @@
+{
+  "ticker": "ECOR3",
+  "asset_type": "stock",
+  "issuer_name": "ECORODOVIAS INFRAESTRUTURA E LOGÍSTICA S.A.",
+  "cnpj": "04149454000180",
+  "cvm_code": "19453",
+  "updated_at": "2026-08-29T01:16:41.787722+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 8845179000.0,
+      "net_income": 596632000.0,
+      "earnings_per_share": 0.0,
+      "equity": 2986260000.0,
+      "cash_and_equivalents": 3524241000.0,
+      "short_term_debt": 3709547000.0,
+      "long_term_debt": 14445382000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 9872372000.0,
+      "net_income": 913451000.0,
+      "earnings_per_share": 0.0,
+      "equity": 3690546000.0,
+      "cash_and_equivalents": 2337602000.0,
+      "short_term_debt": 5465536000.0,
+      "long_term_debt": 14569385000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 11521073000.0,
+      "net_income": 866818000.0,
+      "earnings_per_share": 0.0,
+      "equity": 4374396000.0,
+      "cash_and_equivalents": 1186197000.0,
+      "short_term_debt": 1769052000.0,
+      "long_term_debt": 24594575000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

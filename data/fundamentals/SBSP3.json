@@ -1,0 +1,71 @@
+{
+  "ticker": "SBSP3",
+  "asset_type": "stock",
+  "issuer_name": "CIA SANEAMENTO BÁSICO ESTADO SÃO PAULO",
+  "cnpj": "43776517000180",
+  "cvm_code": "14443",
+  "updated_at": "2026-08-29T01:16:41.889644+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 25572056000.0,
+      "net_income": 3523531000.0,
+      "earnings_per_share": 0.0,
+      "equity": 29857376000.0,
+      "cash_and_equivalents": 838484000.0,
+      "short_term_debt": 2616406000.0,
+      "long_term_debt": 16919944000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 36145477000.0,
+      "net_income": 9579563000.0,
+      "earnings_per_share": 0.0,
+      "equity": 36928054000.0,
+      "cash_and_equivalents": 1682606000.0,
+      "short_term_debt": 3133850000.0,
+      "long_term_debt": 22124447000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 38092050000.0,
+      "net_income": 8462059000.0,
+      "earnings_per_share": 0.0,
+      "equity": 42401124000.0,
+      "cash_and_equivalents": 4663226000.0,
+      "short_term_debt": 5092816000.0,
+      "long_term_debt": 35049531000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

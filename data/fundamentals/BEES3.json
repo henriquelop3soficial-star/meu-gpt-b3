@@ -1,0 +1,74 @@
+{
+  "ticker": "BEES3",
+  "asset_type": "stock",
+  "issuer_name": "BANESTES SA BANCO DO ESTADO DO ESPIRITO SANTO",
+  "cnpj": "28127603000178",
+  "cvm_code": "1155",
+  "updated_at": "2026-08-29T01:16:41.752121+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "bank",
+      "revenue": 5130679000.0,
+      "net_income": 323803000.0,
+      "earnings_per_share": 1.025,
+      "equity": 2120818000.0,
+      "cash_and_equivalents": 1814140000.0,
+      "short_term_debt": null,
+      "long_term_debt": null,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados.",
+        "Dívida de banco não é calculada: depósitos e captações não equivalem à dívida corporativa de empresa não financeira."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "bank",
+      "revenue": 4626262000.0,
+      "net_income": 428634000.0,
+      "earnings_per_share": 1.357,
+      "equity": 2313548000.0,
+      "cash_and_equivalents": 4290352000.0,
+      "short_term_debt": null,
+      "long_term_debt": null,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados.",
+        "Dívida de banco não é calculada: depósitos e captações não equivalem à dívida corporativa de empresa não financeira."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "bank",
+      "revenue": 5458473000.0,
+      "net_income": 339919000.0,
+      "earnings_per_share": 1.956,
+      "equity": 2423231000.0,
+      "cash_and_equivalents": 5595399000.0,
+      "short_term_debt": null,
+      "long_term_debt": null,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados.",
+        "Dívida de banco não é calculada: depósitos e captações não equivalem à dívida corporativa de empresa não financeira."
+      ]
+    }
+  ],
+  "errors": []
+}

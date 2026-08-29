@@ -1,0 +1,71 @@
+{
+  "ticker": "KEPL3F",
+  "asset_type": "stock",
+  "issuer_name": "KEPLER WEBER SA",
+  "cnpj": "91983056000169",
+  "cvm_code": "7870",
+  "updated_at": "2026-08-29T01:16:41.828190+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 1512134000.0,
+      "net_income": 245214000.0,
+      "earnings_per_share": 0.0,
+      "equity": 726203000.0,
+      "cash_and_equivalents": 322923000.0,
+      "short_term_debt": 129987000.0,
+      "long_term_debt": 66787000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 1607297000.0,
+      "net_income": 199183000.0,
+      "earnings_per_share": 0.0,
+      "equity": 740781000.0,
+      "cash_and_equivalents": 389817000.0,
+      "short_term_debt": 94449000.0,
+      "long_term_debt": 234773000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 1490300000.0,
+      "net_income": 156270000.0,
+      "earnings_per_share": 0.0,
+      "equity": 774231000.0,
+      "cash_and_equivalents": 316431000.0,
+      "short_term_debt": 157839000.0,
+      "long_term_debt": 175323000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

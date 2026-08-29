@@ -1,0 +1,71 @@
+{
+  "ticker": "RNEW4",
+  "asset_type": "stock",
+  "issuer_name": "RENOVA ENERGIA S.A.",
+  "cnpj": "08534605000174",
+  "cvm_code": "21636",
+  "updated_at": "2026-08-29T01:16:41.884955+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 227838000.0,
+      "net_income": -9238000.0,
+      "earnings_per_share": 0.0,
+      "equity": 933020000.0,
+      "cash_and_equivalents": 17600000.0,
+      "short_term_debt": 172754000.0,
+      "long_term_debt": 901872000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 259226000.0,
+      "net_income": -117069000.0,
+      "earnings_per_share": 0.0,
+      "equity": 815951000.0,
+      "cash_and_equivalents": 144216000.0,
+      "short_term_debt": 33691000.0,
+      "long_term_debt": 1110499000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 514958000.0,
+      "net_income": -162231000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1190207000.0,
+      "cash_and_equivalents": 35730000.0,
+      "short_term_debt": 44249000.0,
+      "long_term_debt": 693193000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

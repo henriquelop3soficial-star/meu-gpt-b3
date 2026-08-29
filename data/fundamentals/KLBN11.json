@@ -1,0 +1,71 @@
+{
+  "ticker": "KLBN11",
+  "asset_type": "stock",
+  "issuer_name": "KLABIN S.A.",
+  "cnpj": "89637490000145",
+  "cvm_code": "12653",
+  "updated_at": "2026-08-29T01:16:41.828646+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 18023749000.0,
+      "net_income": 2847388000.0,
+      "earnings_per_share": 0.0,
+      "equity": 13732531000.0,
+      "cash_and_equivalents": 9558829000.0,
+      "short_term_debt": 1560843000.0,
+      "long_term_debt": 29780401000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 19645264000.0,
+      "net_income": 2046945000.0,
+      "earnings_per_share": 0.0,
+      "equity": 8637200000.0,
+      "cash_and_equivalents": 6736171000.0,
+      "short_term_debt": 1813049000.0,
+      "long_term_debt": 37891188000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 20697507000.0,
+      "net_income": 1678211000.0,
+      "earnings_per_share": 0.0,
+      "equity": 14401101000.0,
+      "cash_and_equivalents": 10106016000.0,
+      "short_term_debt": 1770665000.0,
+      "long_term_debt": 34950377000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

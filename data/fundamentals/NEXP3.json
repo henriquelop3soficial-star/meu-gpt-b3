@@ -1,0 +1,71 @@
+{
+  "ticker": "NEXP3",
+  "asset_type": "stock",
+  "issuer_name": "NEXPE PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL",
+  "cnpj": "08613550000198",
+  "cvm_code": "21180",
+  "updated_at": "2026-08-29T01:16:41.853588+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 115384000.0,
+      "net_income": -48006000.0,
+      "earnings_per_share": 0.0,
+      "equity": -137498000.0,
+      "cash_and_equivalents": 7925000.0,
+      "short_term_debt": 37118000.0,
+      "long_term_debt": 23841000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 114309000.0,
+      "net_income": -48496000.0,
+      "earnings_per_share": 0.0,
+      "equity": -185994000.0,
+      "cash_and_equivalents": 6363000.0,
+      "short_term_debt": 0.0,
+      "long_term_debt": 1562000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 659000.0,
+      "net_income": 107550000.0,
+      "earnings_per_share": 0.0,
+      "equity": -102952000.0,
+      "cash_and_equivalents": 565000.0,
+      "short_term_debt": 0.0,
+      "long_term_debt": 417000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

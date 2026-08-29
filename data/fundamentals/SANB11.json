@@ -1,0 +1,74 @@
+{
+  "ticker": "SANB11",
+  "asset_type": "stock",
+  "issuer_name": "BANCO SANTANDER (BRASIL) S.A.",
+  "cnpj": "90400888000142",
+  "cvm_code": "20532",
+  "updated_at": "2026-08-29T01:16:41.887595+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "bank",
+      "revenue": 128282707000.0,
+      "net_income": 9498812000.0,
+      "earnings_per_share": 0.0,
+      "equity": 114856354000.0,
+      "cash_and_equivalents": 23122550000.0,
+      "short_term_debt": null,
+      "long_term_debt": null,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados.",
+        "Dívida de banco não é calculada: depósitos e captações não equivalem à dívida corporativa de empresa não financeira."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "bank",
+      "revenue": 137183478000.0,
+      "net_income": 13413763000.0,
+      "earnings_per_share": 0.0,
+      "equity": 119827132000.0,
+      "cash_and_equivalents": 37084254000.0,
+      "short_term_debt": null,
+      "long_term_debt": null,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados.",
+        "Dívida de banco não é calculada: depósitos e captações não equivalem à dívida corporativa de empresa não financeira."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "bank",
+      "revenue": 162494639000.0,
+      "net_income": 12965123000.0,
+      "earnings_per_share": 0.0,
+      "equity": 126553144000.0,
+      "cash_and_equivalents": 20232729000.0,
+      "short_term_debt": null,
+      "long_term_debt": null,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados.",
+        "Dívida de banco não é calculada: depósitos e captações não equivalem à dívida corporativa de empresa não financeira."
+      ]
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,71 @@
+{
+  "ticker": "AMBP3",
+  "asset_type": "stock",
+  "issuer_name": "AMBIPAR PARTICIPAÇÕES E EMPREENDIMENTOS S.A.",
+  "cnpj": "12648266000124",
+  "cvm_code": "24961",
+  "updated_at": "2026-08-29T01:16:41.735847+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 4872707000.0,
+      "net_income": 56649000.0,
+      "earnings_per_share": 0.0,
+      "equity": 2613335000.0,
+      "cash_and_equivalents": 2739836000.0,
+      "short_term_debt": 1015094000.0,
+      "long_term_debt": 6120658000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 6413676000.0,
+      "net_income": -172178000.0,
+      "earnings_per_share": 0.0,
+      "equity": 2732554000.0,
+      "cash_and_equivalents": 2293127000.0,
+      "short_term_debt": 714551000.0,
+      "long_term_debt": 8104279000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": null,
+      "net_income": null,
+      "earnings_per_share": null,
+      "equity": null,
+      "cash_and_equivalents": null,
+      "short_term_debt": null,
+      "long_term_debt": null,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

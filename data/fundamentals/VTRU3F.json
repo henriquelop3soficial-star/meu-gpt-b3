@@ -1,0 +1,71 @@
+{
+  "ticker": "VTRU3F",
+  "asset_type": "stock",
+  "issuer_name": "VITRU EDUCAÇÃO S.A.",
+  "cnpj": "20512706000140",
+  "cvm_code": "27057",
+  "updated_at": "2026-08-29T01:16:41.934746+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 1962525000.0,
+      "net_income": 122671000.0,
+      "earnings_per_share": 0.0,
+      "equity": 2250233000.0,
+      "cash_and_equivalents": 12971000.0,
+      "short_term_debt": 1505191000.0,
+      "long_term_debt": 676628000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 2141809000.0,
+      "net_income": 288752000.0,
+      "earnings_per_share": 0.0,
+      "equity": 2558217000.0,
+      "cash_and_equivalents": 21553000.0,
+      "short_term_debt": 14024000.0,
+      "long_term_debt": 2336558000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 2259078000.0,
+      "net_income": 369891000.0,
+      "earnings_per_share": 0.0,
+      "equity": 2925765000.0,
+      "cash_and_equivalents": 69510000.0,
+      "short_term_debt": 132419000.0,
+      "long_term_debt": 2218275000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

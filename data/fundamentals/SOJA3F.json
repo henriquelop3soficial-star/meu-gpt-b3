@@ -1,0 +1,71 @@
+{
+  "ticker": "SOJA3F",
+  "asset_type": "stock",
+  "issuer_name": "BOA SAFRA SEMENTES S.A",
+  "cnpj": "10807374000177",
+  "cvm_code": "25704",
+  "updated_at": "2026-08-29T01:16:41.908862+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 2078749000.0,
+      "net_income": 344952000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1472507000.0,
+      "cash_and_equivalents": 465589000.0,
+      "short_term_debt": 38533000.0,
+      "long_term_debt": 535057000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 1841052000.0,
+      "net_income": 160508000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1954270000.0,
+      "cash_and_equivalents": 238527000.0,
+      "short_term_debt": 140956000.0,
+      "long_term_debt": 273051000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 2622416000.0,
+      "net_income": 101130000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1967730000.0,
+      "cash_and_equivalents": 526878000.0,
+      "short_term_debt": 61572000.0,
+      "long_term_debt": 1256636000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

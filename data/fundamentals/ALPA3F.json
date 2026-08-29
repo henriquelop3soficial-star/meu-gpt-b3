@@ -1,0 +1,71 @@
+{
+  "ticker": "ALPA3F",
+  "asset_type": "stock",
+  "issuer_name": "ALPARGATAS SA",
+  "cnpj": "61079117000105",
+  "cvm_code": "10456",
+  "updated_at": "2026-08-29T01:16:41.730783+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 3734146000.0,
+      "net_income": -1867484000.0,
+      "earnings_per_share": 0.0,
+      "equity": 3727467000.0,
+      "cash_and_equivalents": 922525000.0,
+      "short_term_debt": 127437000.0,
+      "long_term_debt": 1358168000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 4108311000.0,
+      "net_income": 107397000.0,
+      "earnings_per_share": 0.0,
+      "equity": 4036379000.0,
+      "cash_and_equivalents": 1488511000.0,
+      "short_term_debt": 251373000.0,
+      "long_term_debt": 1172151000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 4564874000.0,
+      "net_income": 567926000.0,
+      "earnings_per_share": 0.0,
+      "equity": 3323759000.0,
+      "cash_and_equivalents": 555595000.0,
+      "short_term_debt": 380547000.0,
+      "long_term_debt": 854986000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

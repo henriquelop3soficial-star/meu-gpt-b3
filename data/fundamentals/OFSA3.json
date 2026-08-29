@@ -1,0 +1,71 @@
+{
+  "ticker": "OFSA3",
+  "asset_type": "stock",
+  "issuer_name": "OUROFINO S.A.",
+  "cnpj": "20258278000170",
+  "cvm_code": "23507",
+  "updated_at": "2026-08-29T01:16:41.855411+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 943281000.0,
+      "net_income": -49976000.0,
+      "earnings_per_share": 0.0,
+      "equity": 689395000.0,
+      "cash_and_equivalents": 304029000.0,
+      "short_term_debt": 98852000.0,
+      "long_term_debt": 333122000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 1024792000.0,
+      "net_income": 134329000.0,
+      "earnings_per_share": 0.0,
+      "equity": 756419000.0,
+      "cash_and_equivalents": 233957000.0,
+      "short_term_debt": 56890000.0,
+      "long_term_debt": 302464000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 1224992000.0,
+      "net_income": 222311000.0,
+      "earnings_per_share": 0.0,
+      "equity": 796857000.0,
+      "cash_and_equivalents": 250821000.0,
+      "short_term_debt": 52144000.0,
+      "long_term_debt": 437439000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

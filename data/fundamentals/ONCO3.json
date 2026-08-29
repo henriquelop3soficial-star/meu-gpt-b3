@@ -1,0 +1,71 @@
+{
+  "ticker": "ONCO3",
+  "asset_type": "stock",
+  "issuer_name": "ONCOCLÍNICAS DO BRASIL SERVIÇOS MÉDICOS S.A.",
+  "cnpj": "12104241000402",
+  "cvm_code": "26123",
+  "updated_at": "2026-08-29T01:16:41.856492+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 5488776000.0,
+      "net_income": 312562000.0,
+      "earnings_per_share": 0.0,
+      "equity": 2679371000.0,
+      "cash_and_equivalents": 550704000.0,
+      "short_term_debt": 474249000.0,
+      "long_term_debt": 4081226000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 6227227000.0,
+      "net_income": -717425000.0,
+      "earnings_per_share": 0.0,
+      "equity": 3382425000.0,
+      "cash_and_equivalents": 550744000.0,
+      "short_term_debt": 813957000.0,
+      "long_term_debt": 4664442000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 5739367000.0,
+      "net_income": -3671107000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1062407000.0,
+      "cash_and_equivalents": 509549000.0,
+      "short_term_debt": 3224499000.0,
+      "long_term_debt": 574317000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,71 @@
+{
+  "ticker": "UCAS3F",
+  "asset_type": "stock",
+  "issuer_name": "UNICASA INDÚSTRIA DE MÓVEIS S.A.",
+  "cnpj": "90441460000148",
+  "cvm_code": "22780",
+  "updated_at": "2026-08-29T01:16:41.923358+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 217397000.0,
+      "net_income": 15167000.0,
+      "earnings_per_share": 0.0,
+      "equity": 189995000.0,
+      "cash_and_equivalents": 26100000.0,
+      "short_term_debt": 7888000.0,
+      "long_term_debt": 69930000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 226559000.0,
+      "net_income": 12449000.0,
+      "earnings_per_share": 0.0,
+      "equity": 192382000.0,
+      "cash_and_equivalents": 10341000.0,
+      "short_term_debt": 5900000.0,
+      "long_term_debt": 94207000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 238958000.0,
+      "net_income": -11549000.0,
+      "earnings_per_share": 0.0,
+      "equity": 180413000.0,
+      "cash_and_equivalents": 38944000.0,
+      "short_term_debt": 15795000.0,
+      "long_term_debt": 140216000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

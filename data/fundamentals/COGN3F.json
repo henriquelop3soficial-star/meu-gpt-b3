@@ -1,0 +1,71 @@
+{
+  "ticker": "COGN3F",
+  "asset_type": "stock",
+  "issuer_name": "COGNA EDUCAÇÃO S.A.",
+  "cnpj": "02800026000140",
+  "cvm_code": "17973",
+  "updated_at": "2026-08-29T01:16:41.772137+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 5814798000.0,
+      "net_income": -511353000.0,
+      "earnings_per_share": 0.0,
+      "equity": 12706279000.0,
+      "cash_and_equivalents": 624483000.0,
+      "short_term_debt": 1610571000.0,
+      "long_term_debt": 6165025000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 6390593000.0,
+      "net_income": 991631000.0,
+      "earnings_per_share": 0.0,
+      "equity": 13545135000.0,
+      "cash_and_equivalents": 94965000.0,
+      "short_term_debt": 844476000.0,
+      "long_term_debt": 6028736000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 7016663000.0,
+      "net_income": 586035000.0,
+      "earnings_per_share": 0.0,
+      "equity": 13454750000.0,
+      "cash_and_equivalents": 78452000.0,
+      "short_term_debt": 594505000.0,
+      "long_term_debt": 6055319000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

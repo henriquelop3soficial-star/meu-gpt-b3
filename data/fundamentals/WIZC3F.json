@@ -1,0 +1,71 @@
+{
+  "ticker": "WIZC3F",
+  "asset_type": "stock",
+  "issuer_name": "WIZ CO PARTICIPAÇÕES E CORRETAGEM DE SEGUROS S.A.",
+  "cnpj": "42278473000103",
+  "cvm_code": "23590",
+  "updated_at": "2026-08-29T01:16:41.939642+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 1121480000.0,
+      "net_income": 235903000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1155579000.0,
+      "cash_and_equivalents": 35566000.0,
+      "short_term_debt": 37132000.0,
+      "long_term_debt": 318983000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 1257265000.0,
+      "net_income": 296766000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1157387000.0,
+      "cash_and_equivalents": 19161000.0,
+      "short_term_debt": 160949000.0,
+      "long_term_debt": 185257000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 1382973000.0,
+      "net_income": 367710000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1296137000.0,
+      "cash_and_equivalents": 19174000.0,
+      "short_term_debt": 56173000.0,
+      "long_term_debt": 332414000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

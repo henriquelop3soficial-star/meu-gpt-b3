@@ -1,0 +1,71 @@
+{
+  "ticker": "SMFT3",
+  "asset_type": "stock",
+  "issuer_name": "SMARTFIT ESCOLA DE GINÁSTICA E DANÇA S.A.",
+  "cnpj": "07594978000178",
+  "cvm_code": "24260",
+  "updated_at": "2026-08-29T01:16:41.907415+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 4244743000.0,
+      "net_income": 1044176000.0,
+      "earnings_per_share": 1.7681,
+      "equity": 5095634000.0,
+      "cash_and_equivalents": 1103433000.0,
+      "short_term_debt": 594402000.0,
+      "long_term_debt": 3225497000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 5580304000.0,
+      "net_income": 440576000.0,
+      "earnings_per_share": 0.7445,
+      "equity": 5471778000.0,
+      "cash_and_equivalents": 1490624000.0,
+      "short_term_debt": 759724000.0,
+      "long_term_debt": 5154890000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 7241694000.0,
+      "net_income": 640534000.0,
+      "earnings_per_share": 1.0731,
+      "equity": 5663406000.0,
+      "cash_and_equivalents": 1330801000.0,
+      "short_term_debt": 939130000.0,
+      "long_term_debt": 6538069000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

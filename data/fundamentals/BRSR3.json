@@ -1,0 +1,74 @@
+{
+  "ticker": "BRSR3",
+  "asset_type": "stock",
+  "issuer_name": "BANCO DO ESTADO DO RIO GRANDE DO SUL SA",
+  "cnpj": "92702067000196",
+  "cvm_code": "1210",
+  "updated_at": "2026-08-29T01:16:41.762191+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "bank",
+      "revenue": 14904839000.0,
+      "net_income": 1012434000.0,
+      "earnings_per_share": 15.22,
+      "equity": 9865773000.0,
+      "cash_and_equivalents": 5665478000.0,
+      "short_term_debt": null,
+      "long_term_debt": null,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados.",
+        "Dívida de banco não é calculada: depósitos e captações não equivalem à dívida corporativa de empresa não financeira."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "bank",
+      "revenue": 16420211000.0,
+      "net_income": 727798000.0,
+      "earnings_per_share": 10.8,
+      "equity": 10418753000.0,
+      "cash_and_equivalents": 1792236000.0,
+      "short_term_debt": null,
+      "long_term_debt": null,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados.",
+        "Dívida de banco não é calculada: depósitos e captações não equivalem à dívida corporativa de empresa não financeira."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "bank",
+      "revenue": 21714138000.0,
+      "net_income": 1714551000.0,
+      "earnings_per_share": 25.94,
+      "equity": 11465151000.0,
+      "cash_and_equivalents": 3992788000.0,
+      "short_term_debt": null,
+      "long_term_debt": null,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados.",
+        "Dívida de banco não é calculada: depósitos e captações não equivalem à dívida corporativa de empresa não financeira."
+      ]
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,71 @@
+{
+  "ticker": "RADL3",
+  "asset_type": "stock",
+  "issuer_name": "RAIA DROGASIL S.A.",
+  "cnpj": "61585865000151",
+  "cvm_code": "5258",
+  "updated_at": "2026-08-29T01:16:41.874166+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 33973790000.0,
+      "net_income": 1087143000.0,
+      "earnings_per_share": 0.0,
+      "equity": 6028301000.0,
+      "cash_and_equivalents": 412321000.0,
+      "short_term_debt": 604601000.0,
+      "long_term_debt": 2526102000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 38871522000.0,
+      "net_income": 1211373000.0,
+      "earnings_per_share": 0.0,
+      "equity": 6446887000.0,
+      "cash_and_equivalents": 528002000.0,
+      "short_term_debt": 637110000.0,
+      "long_term_debt": 2656820000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 44250449000.0,
+      "net_income": 1300243000.0,
+      "earnings_per_share": 0.0,
+      "equity": 7335968000.0,
+      "cash_and_equivalents": 509619000.0,
+      "short_term_debt": 508137000.0,
+      "long_term_debt": 3359618000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

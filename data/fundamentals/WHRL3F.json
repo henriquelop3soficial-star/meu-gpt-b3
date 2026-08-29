@@ -1,0 +1,71 @@
+{
+  "ticker": "WHRL3F",
+  "asset_type": "stock",
+  "issuer_name": "WHIRLPOOL S.A",
+  "cnpj": "59105999000186",
+  "cvm_code": "14346",
+  "updated_at": "2026-08-29T01:16:41.938296+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 11487988000.0,
+      "net_income": 254064000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1956516000.0,
+      "cash_and_equivalents": 2126109000.0,
+      "short_term_debt": 1391286000.0,
+      "long_term_debt": 5659000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 12931658000.0,
+      "net_income": 910783000.0,
+      "earnings_per_share": 0.0,
+      "equity": 2695721000.0,
+      "cash_and_equivalents": 3376540000.0,
+      "short_term_debt": 1086951000.0,
+      "long_term_debt": 4342000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 12561821000.0,
+      "net_income": 450784000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1833818000.0,
+      "cash_and_equivalents": 2632627000.0,
+      "short_term_debt": 2199538000.0,
+      "long_term_debt": 1896000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

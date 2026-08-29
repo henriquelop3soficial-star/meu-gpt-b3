@@ -1,0 +1,71 @@
+{
+  "ticker": "SBFG3",
+  "asset_type": "stock",
+  "issuer_name": "GRUPO SBF S.A.",
+  "cnpj": "13217485000111",
+  "cvm_code": "24694",
+  "updated_at": "2026-08-29T01:16:41.888898+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 6988671000.0,
+      "net_income": 168812000.0,
+      "earnings_per_share": 0.0,
+      "equity": 2541601000.0,
+      "cash_and_equivalents": 875914000.0,
+      "short_term_debt": 624004000.0,
+      "long_term_debt": 2384462000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 7151714000.0,
+      "net_income": 535834000.0,
+      "earnings_per_share": 0.0,
+      "equity": 3012344000.0,
+      "cash_and_equivalents": 996713000.0,
+      "short_term_debt": 703448000.0,
+      "long_term_debt": 2213862000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 7736413000.0,
+      "net_income": 327970000.0,
+      "earnings_per_share": 0.0,
+      "equity": 3059794000.0,
+      "cash_and_equivalents": 679969000.0,
+      "short_term_debt": 680464000.0,
+      "long_term_debt": 2257373000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

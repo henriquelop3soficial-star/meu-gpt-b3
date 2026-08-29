@@ -1,0 +1,71 @@
+{
+  "ticker": "CLSC3",
+  "asset_type": "stock",
+  "issuer_name": "CENTRAIS ELETRICAS DE SANTA CATARINA S.A",
+  "cnpj": "83878892000155",
+  "cvm_code": "2461",
+  "updated_at": "2026-08-29T01:16:41.769811+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 10402608000.0,
+      "net_income": 557034000.0,
+      "earnings_per_share": 0.0,
+      "equity": 2932567000.0,
+      "cash_and_equivalents": 906196000.0,
+      "short_term_debt": 522329000.0,
+      "long_term_debt": 2648942000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 10658858000.0,
+      "net_income": 715802000.0,
+      "earnings_per_share": 0.0,
+      "equity": 3671279000.0,
+      "cash_and_equivalents": 1019482000.0,
+      "short_term_debt": 416104000.0,
+      "long_term_debt": 3786903000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 11900276000.0,
+      "net_income": 729495000.0,
+      "earnings_per_share": 0.0,
+      "equity": 3968465000.0,
+      "cash_and_equivalents": 418813000.0,
+      "short_term_debt": 473238000.0,
+      "long_term_debt": 4532508000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

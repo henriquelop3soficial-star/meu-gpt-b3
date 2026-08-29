@@ -1,0 +1,71 @@
+{
+  "ticker": "PFRM3F",
+  "asset_type": "stock",
+  "issuer_name": "PROFARMA DISTRIB PROD FARMACEUTICOS S.A.",
+  "cnpj": "45453214000151",
+  "cvm_code": "20346",
+  "updated_at": "2026-08-29T01:16:41.863931+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 8661744000.0,
+      "net_income": 77858000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1539025000.0,
+      "cash_and_equivalents": 193743000.0,
+      "short_term_debt": 206276000.0,
+      "long_term_debt": 573628000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 10153623000.0,
+      "net_income": 122813000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1585820000.0,
+      "cash_and_equivalents": 229552000.0,
+      "short_term_debt": 248539000.0,
+      "long_term_debt": 551180000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 11450521000.0,
+      "net_income": 126013000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1635564000.0,
+      "cash_and_equivalents": 235121000.0,
+      "short_term_debt": 311139000.0,
+      "long_term_debt": 563531000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

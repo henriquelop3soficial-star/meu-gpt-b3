@@ -1,0 +1,71 @@
+{
+  "ticker": "MYPK3",
+  "asset_type": "stock",
+  "issuer_name": "IOCHPE MAXION SA",
+  "cnpj": "61156113000175",
+  "cvm_code": "11932",
+  "updated_at": "2026-08-29T01:16:41.851901+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 14955220000.0,
+      "net_income": 105891000.0,
+      "earnings_per_share": 0.0,
+      "equity": 4085029000.0,
+      "cash_and_equivalents": 2962366000.0,
+      "short_term_debt": 1631599000.0,
+      "long_term_debt": 5133934000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 15331813000.0,
+      "net_income": 380084000.0,
+      "earnings_per_share": 0.0,
+      "equity": 5070982000.0,
+      "cash_and_equivalents": 2463475000.0,
+      "short_term_debt": 614709000.0,
+      "long_term_debt": 5774050000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 15366537000.0,
+      "net_income": 217134000.0,
+      "earnings_per_share": 0.0,
+      "equity": 4851749000.0,
+      "cash_and_equivalents": 1599733000.0,
+      "short_term_debt": 356196000.0,
+      "long_term_debt": 5275350000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

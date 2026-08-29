@@ -1,0 +1,71 @@
+{
+  "ticker": "ATED3",
+  "asset_type": "stock",
+  "issuer_name": "ATOM EDUCAÇÃO E EDITORA S.A.",
+  "cnpj": "23994857000170",
+  "cvm_code": "27677",
+  "updated_at": "2026-08-29T01:16:41.739443+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": null,
+      "net_income": null,
+      "earnings_per_share": null,
+      "equity": null,
+      "cash_and_equivalents": null,
+      "short_term_debt": null,
+      "long_term_debt": null,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 34365000.0,
+      "net_income": 459000.0,
+      "earnings_per_share": 0.0,
+      "equity": 24147000.0,
+      "cash_and_equivalents": 4384000.0,
+      "short_term_debt": 312000.0,
+      "long_term_debt": 983000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 26465000.0,
+      "net_income": -3939000.0,
+      "earnings_per_share": 0.0,
+      "equity": 20208000.0,
+      "cash_and_equivalents": 3132000.0,
+      "short_term_debt": 458000.0,
+      "long_term_debt": 896000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

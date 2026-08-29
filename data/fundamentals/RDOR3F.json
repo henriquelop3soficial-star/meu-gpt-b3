@@ -1,0 +1,71 @@
+{
+  "ticker": "RDOR3F",
+  "asset_type": "stock",
+  "issuer_name": "REDE D'OR SÃO LUIZ S.A.",
+  "cnpj": "06047087000139",
+  "cvm_code": "24821",
+  "updated_at": "2026-08-29T01:16:41.880073+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 46508558000.0,
+      "net_income": 2113701000.0,
+      "earnings_per_share": 0.0,
+      "equity": 23835646000.0,
+      "cash_and_equivalents": 3267408000.0,
+      "short_term_debt": 2918435000.0,
+      "long_term_debt": 31667514000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 50571261000.0,
+      "net_income": 3934120000.0,
+      "earnings_per_share": 0.0,
+      "equity": 26701868000.0,
+      "cash_and_equivalents": 6570751000.0,
+      "short_term_debt": 3915191000.0,
+      "long_term_debt": 34955408000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 55725852000.0,
+      "net_income": 4843623000.0,
+      "earnings_per_share": 0.0,
+      "equity": 21621087000.0,
+      "cash_and_equivalents": 3705415000.0,
+      "short_term_debt": 1712740000.0,
+      "long_term_debt": 44521391000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

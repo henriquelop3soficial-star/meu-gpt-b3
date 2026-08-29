@@ -1,0 +1,71 @@
+{
+  "ticker": "LJQQ3",
+  "asset_type": "stock",
+  "issuer_name": "LOJAS QUERO QUERO S.A.",
+  "cnpj": "96418264021802",
+  "cvm_code": "25038",
+  "updated_at": "2026-08-29T01:16:41.832917+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 2398127000.0,
+      "net_income": 19679000.0,
+      "earnings_per_share": 0.0,
+      "equity": 533802000.0,
+      "cash_and_equivalents": 421357000.0,
+      "short_term_debt": 111282000.0,
+      "long_term_debt": 390008000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 2666330000.0,
+      "net_income": 146000.0,
+      "earnings_per_share": 0.0,
+      "equity": 545997000.0,
+      "cash_and_equivalents": 489905000.0,
+      "short_term_debt": 196132000.0,
+      "long_term_debt": 338390000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 2788412000.0,
+      "net_income": -161941000.0,
+      "earnings_per_share": 0.0,
+      "equity": 404936000.0,
+      "cash_and_equivalents": 438289000.0,
+      "short_term_debt": 95301000.0,
+      "long_term_debt": 486858000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

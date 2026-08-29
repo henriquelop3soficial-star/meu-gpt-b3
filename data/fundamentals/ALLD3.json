@@ -1,0 +1,71 @@
+{
+  "ticker": "ALLD3",
+  "asset_type": "stock",
+  "issuer_name": "ALLIED TECNOLOGIA S.A.",
+  "cnpj": "20247322000147",
+  "cvm_code": "25330",
+  "updated_at": "2026-08-29T01:16:41.729003+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 5854915000.0,
+      "net_income": 122444000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1599166000.0,
+      "cash_and_equivalents": 535620000.0,
+      "short_term_debt": 81660000.0,
+      "long_term_debt": 462053000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 5521381000.0,
+      "net_income": 145532000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1588986000.0,
+      "cash_and_equivalents": 427961000.0,
+      "short_term_debt": 123214000.0,
+      "long_term_debt": 382514000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 5504620000.0,
+      "net_income": 332712000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1551768000.0,
+      "cash_and_equivalents": 375871000.0,
+      "short_term_debt": 62785000.0,
+      "long_term_debt": 353667000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

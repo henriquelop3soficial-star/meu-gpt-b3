@@ -1,0 +1,71 @@
+{
+  "ticker": "JSLG3",
+  "asset_type": "stock",
+  "issuer_name": "JSL S.A.",
+  "cnpj": "52548435000179",
+  "cvm_code": "22020",
+  "updated_at": "2026-08-29T01:16:41.827155+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 7574644000.0,
+      "net_income": 351783000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1663443000.0,
+      "cash_and_equivalents": 610869000.0,
+      "short_term_debt": 1118637000.0,
+      "long_term_debt": 6330585000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 9056258000.0,
+      "net_income": 207312000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1770360000.0,
+      "cash_and_equivalents": 442823000.0,
+      "short_term_debt": 1666803000.0,
+      "long_term_debt": 6439800000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 9640608000.0,
+      "net_income": 81704000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1324556000.0,
+      "cash_and_equivalents": 241424000.0,
+      "short_term_debt": 1526691000.0,
+      "long_term_debt": 6419933000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,71 @@
+{
+  "ticker": "HBSA3",
+  "asset_type": "stock",
+  "issuer_name": "HIDROVIAS DO BRASIL S.A.",
+  "cnpj": "12648327000153",
+  "cvm_code": "22675",
+  "updated_at": "2026-08-29T01:16:41.814718+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 1924350000.0,
+      "net_income": 17599000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1383523000.0,
+      "cash_and_equivalents": 663919000.0,
+      "short_term_debt": 257553000.0,
+      "long_term_debt": 4038762000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 1352406000.0,
+      "net_income": -621699000.0,
+      "earnings_per_share": 0.0,
+      "equity": 948075000.0,
+      "cash_and_equivalents": 988450000.0,
+      "short_term_debt": 1404407000.0,
+      "long_term_debt": 3715260000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 2241099000.0,
+      "net_income": -140918000.0,
+      "earnings_per_share": 0.0,
+      "equity": 2162052000.0,
+      "cash_and_equivalents": 1083247000.0,
+      "short_term_debt": 90400000.0,
+      "long_term_debt": 3637737000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

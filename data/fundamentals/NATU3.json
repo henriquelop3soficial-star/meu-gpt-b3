@@ -1,0 +1,71 @@
+{
+  "ticker": "NATU3",
+  "asset_type": "stock",
+  "issuer_name": "NATURA COSMETICOS SA",
+  "cnpj": "71673990000177",
+  "cvm_code": "19550",
+  "updated_at": "2026-08-29T01:16:41.852664+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 14928231000.0,
+      "net_income": 6439948000.0,
+      "earnings_per_share": 0.0,
+      "equity": 9373002000.0,
+      "cash_and_equivalents": 1598054000.0,
+      "short_term_debt": 158692000.0,
+      "long_term_debt": 2353610000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 21271580000.0,
+      "net_income": 760639000.0,
+      "earnings_per_share": 0.0,
+      "equity": 9209915000.0,
+      "cash_and_equivalents": 1741187000.0,
+      "short_term_debt": 36345000.0,
+      "long_term_debt": 2353054000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 21823488000.0,
+      "net_income": -1785238000.0,
+      "earnings_per_share": 0.0,
+      "equity": 12976710000.0,
+      "cash_and_equivalents": 1490706000.0,
+      "short_term_debt": 100502000.0,
+      "long_term_debt": 6074890000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

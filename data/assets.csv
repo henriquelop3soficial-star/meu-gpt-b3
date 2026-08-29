@@ -1,2 +1,588 @@
-ticker,asset_type,accounting_profile,issuer_name,cnpj,cvm_code,status
-BBAS3,stock,bank,Banco do Brasil S.A.,00000000000191,00102-3,active
+ticker,asset_type,security_type,accounting_profile,issuer_name,cnpj,cvm_code,sector,industry,status
+AALR3,stock,stock,non_financial,ALLIANÇA SAÚDE E PARTICIPAÇÕES S.A.,42771949000135,24058,Saúde,Serv.Méd.Hospit..Análises e Diagnósticos,active
+AALR3F,stock,stock,non_financial,ALLIANÇA SAÚDE E PARTICIPAÇÕES S.A.,42771949000135,24058,Health Services,,active
+ABCB4,stock,stock,bank,BANCO ABC BRASIL S/A,28195667000106,20958,Serviços Financeiros,Bancos,active
+ABEV3,stock,stock,non_financial,AMBEV S.A.,07526557000100,23264,Consumo Não Cíclico,Cervejas e Refrigerantes,active
+ABEV3F,stock,stock,non_financial,AMBEV S.A.,07526557000100,23264,Consumer Non-Durables,,active
+AERI3,stock,stock,non_financial,AERIS IND. E COM. DE EQUIP. PARA GER. DE ENG. S.A.,12528708000107,25283,Bens Industriais,Máq. e Equip. Industriais,active
+AFLT3,stock,stock,non_financial,AFLUENTE TRANSMISSÃO DE ENERGIA ELETRICA S/A,10338320000100,22179,Energia,Energia Elétrica,active
+AGRO3,stock,stock,non_financial,BRASILAGRO CIA BRAS DE PROP AGRICOLAS,07628528000159,20036,Consumo Não Cíclico,Agricultura,active
+AGRO3F,stock,stock,non_financial,BRASILAGRO CIA BRAS DE PROP AGRICOLAS,07628528000159,20036,Finance,,active
+AGXY3,stock,stock,non_financial,AGROGALAXY PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL,21240146000184,25658,Consumo Não Cíclico,Agricultura,active
+ALLD3,stock,stock,non_financial,ALLIED TECNOLOGIA S.A.,20247322000147,25330,Consumo Cíclico,Eletrodomésticos,active
+ALLD3F,stock,stock,non_financial,ALLIED TECNOLOGIA S.A.,20247322000147,25330,Technology Services,,active
+ALOS3,stock,stock,non_financial,ALLOS S.A.,05878397000132,22357,Construção e Imobiliário,Exploração de Imóveis,active
+ALOS3F,stock,stock,non_financial,ALLOS S.A.,05878397000132,22357,Finance,,active
+ALPA3,stock,stock,non_financial,ALPARGATAS SA,61079117000105,10456,Consumo Cíclico,Calçados,active
+ALPA3F,stock,stock,non_financial,ALPARGATAS SA,61079117000105,10456,Consumer Non-Durables,,active
+ALPA4,stock,stock,non_financial,ALPARGATAS SA,61079117000105,10456,Consumer Non-Durables,,active
+ALPA4F,stock,stock,non_financial,ALPARGATAS SA,61079117000105,10456,Consumer Non-Durables,,active
+ALPK3,stock,stock,non_financial,"ALLPARK EMPREENDIMENTOS, PARTICIPAÇÕES E SERVIÇOS S.A.",60537263000166,24953,Serviços,Serviços Diversos,active
+ALUP11,stock,unit,non_financial,ALUPAR INVESTIMENTO S/A,08364948000138,21490,Utilities,,active
+ALUP11F,stock,stock,non_financial,ALUPAR INVESTIMENTO S/A,08364948000138,21490,Utilities,,active
+ALUP3,stock,stock,non_financial,ALUPAR INVESTIMENTO S/A,08364948000138,21490,Energia,Energia Elétrica,active
+ALUP3F,stock,stock,non_financial,ALUPAR INVESTIMENTO S/A,08364948000138,21490,Utilities,,active
+ALUP4,stock,stock,non_financial,ALUPAR INVESTIMENTO S/A,08364948000138,21490,Utilities,,active
+ALUP4F,stock,stock,non_financial,ALUPAR INVESTIMENTO S/A,08364948000138,21490,Utilities,,active
+AMAR3,stock,stock,non_financial,MARISA LOJAS SA,61189288000189,22055,Consumo Cíclico,Tecidos. Vestuário e Calçados,active
+AMAR3F,stock,stock,non_financial,MARISA LOJAS SA,61189288000189,22055,Retail Trade,,active
+AMBP3,stock,stock,non_financial,AMBIPAR PARTICIPAÇÕES E EMPREENDIMENTOS S.A.,12648266000124,24961,Saneamento,Água e Saneamento,active
+AMER3,stock,stock,non_financial,AMERICANAS S.A. - EM RECUPERAÇÃO JUDICIAL,00776574000156,20990,Consumo Cíclico,Produtos Diversos,active
+AMOB3,stock,stock,non_financial,AUTOMOB PARTICIPAÇÕES S.A.,35654688000108,27707,Consumo Cíclico,Automóveis e Motocicletas,active
+AMOB3F,stock,stock,non_financial,AUTOMOB PARTICIPAÇÕES S.A.,35654688000108,27707,Retail Trade,,active
+ANIM3,stock,stock,non_financial,ANIMA HOLDING S/A,09288252000132,23248,Educação,Serviços Educacionais,active
+ANIM3F,stock,stock,non_financial,ANIMA HOLDING S/A,09288252000132,23248,Consumer Services,,active
+ARML3,stock,stock,non_financial,"ARMAC LOCAÇÃO, LOGÍSTICA E SERVIÇOS S.A.",00242184000104,26069,Bens Industriais,Máq. e Equip. Industriais,active
+ARML3F,stock,stock,non_financial,"ARMAC LOCAÇÃO, LOGÍSTICA E SERVIÇOS S.A.",00242184000104,26069,Finance,,active
+ARND3,stock,stock,non_financial,ARANDU INVESTIMENTOS S.A.,14127813000151,25887,Emp. Adm. Part. - Intermediação Financeira,Emp. Adm. Part. - Intermediação Financeira,active
+ASAI3,stock,stock,non_financial,SENDAS DISTRIBUIDORA S.A.,06057223000171,25372,Consumo Não Cíclico,Alimentos,active
+ASAI3F,stock,stock,non_financial,SENDAS DISTRIBUIDORA S.A.,06057223000171,25372,Retail Trade,,active
+ATED3,stock,stock,non_financial,ATOM EDUCAÇÃO E EDITORA S.A.,23994857000170,27677,Educação,Serviços Educacionais,active
+ATED3F,stock,stock,non_financial,ATOM EDUCAÇÃO E EDITORA S.A.,23994857000170,27677,Technology Services,,active
+AUAU3,stock,stock,non_financial,UNIÃO PET PARTICIPAÇÕES S.A.,53153938000108,27766,Consumo Cíclico,Produtos Diversos,active
+AUAU3F,stock,stock,non_financial,UNIÃO PET PARTICIPAÇÕES S.A.,53153938000108,27766,Process Industries,,active
+AURE3,stock,stock,non_financial,AUREN ENERGIA S.A,28594234000123,26620,Energia,Energia Elétrica,active
+AURE3F,stock,stock,non_financial,AUREN ENERGIA S.A,28594234000123,26620,Utilities,,active
+AVLL3,stock,stock,non_financial,ALPHAVILLE S.A.,16811931000100,25275,Construção e Imobiliário,Incorporações,active
+AVLL3F,stock,stock,non_financial,ALPHAVILLE S.A.,16811931000100,25275,Finance,,active
+AXIA3,stock,stock,non_financial,AXIA ENERGIA S.A.,00001180000126,2437,Emp. Adm. Part. - Energia Elétrica,Emp. Adm. Part. - Energia Elétrica,active
+AZEV3,stock,stock,non_financial,AZEVEDO & TRAVASSOS SA,61351532000168,11975,Construção e Imobiliário,Construção Pesada,active
+AZTE3,stock,stock,non_financial,AZEVEDO & TRAVASSOS ENERGIA S.A.,52017473000103,27626,Energy Minerals,,active
+AZTE3F,stock,stock,non_financial,AZEVEDO & TRAVASSOS ENERGIA S.A.,52017473000103,27626,Energy Minerals,,active
+AZUL3,stock,stock,non_financial,AZUL S.A.,09305994000129,24112,Transportation,,active
+AZUL3F,stock,stock,non_financial,AZUL S.A.,09305994000129,24112,Transportation,,active
+AZUL97,stock,unit,non_financial,AZUL S.A.,09305994000129,24112,Transportation,,active
+AZUL98,stock,unit,non_financial,AZUL S.A.,09305994000129,24112,Transportation,,active
+AZUL99,stock,unit,non_financial,AZUL S.A.,09305994000129,24112,Transportation,,active
+AZZA3,stock,stock,non_financial,AZZAS 2154 S.A.,16590234000176,22349,Consumo Cíclico,"Tecidos, Vestuário e Calçados",active
+AZZA3F,stock,stock,non_financial,AZZAS 2154 S.A.,16590234000176,22349,Consumer Non-Durables,,active
+B1003,stock,stock,non_financial,B100 S.A.,52270350000171,27634,Finance,,active
+B1003F,stock,stock,non_financial,B100 S.A.,52270350000171,27634,Finance,,active
+B3SA3,stock,stock,non_financial,"B3 S.A. - BRASIL, BOLSA, BALCÃO",09346601000125,21610,Serviços Financeiros,Dados Financeiros e Bolsas de Valores,active
+B3SA3F,stock,stock,non_financial,"B3 S.A. - BRASIL, BOLSA, BALCÃO",09346601000125,21610,Finance,,active
+BALM3,stock,stock,non_financial,BAUMER SA,61374161000130,1562,Bens Industriais,Equipamentos,active
+BALM3F,stock,stock,non_financial,BAUMER SA,61374161000130,1562,Health Technology,,active
+BALM4,stock,stock,non_financial,BAUMER SA,61374161000130,1562,Health Technology,,active
+BALM4F,stock,stock,non_financial,BAUMER SA,61374161000130,1562,Health Technology,,active
+BAUH4F,stock,stock,non_financial,EXCELSIOR ALIMENTOS SA.,95426862000197,1570,Distribution Services,,active
+BAZA3,stock,stock,bank,BANCO DA AMAZÔNIA S.A.,04902979000144,922,Serviços Financeiros,Bancos,active
+BBAS3,stock,stock,bank,BANCO DO BRASIL S.A.,00000000000191,1023,Serviços Financeiros,Bancos Diversificados,active
+BBDC3,stock,stock,bank,BANCO BRADESCO S.A.,60746948000112,906,Serviços Financeiros,Bancos,active
+BBDC4,stock,stock,bank,BANCO BRADESCO S.A.,60746948000112,906,Serviços Financeiros,Bancos Diversificados,active
+BBSE3,stock,stock,non_financial,BB SEGURIDADE PARTICIPAÇÕES S.A.,17344597000194,23159,Serviços Financeiros,Seguradoras,active
+BBSE3F,stock,stock,non_financial,BB SEGURIDADE PARTICIPAÇÕES S.A.,17344597000194,23159,Finance,,active
+BDLL3,stock,stock,non_financial,BARDELLA S.A. INDUSTRIAS MECANICAS - EM RECUPERAÇÃO JUDICIAL,60851615000153,1520,Bens Industriais,Máq. e Equip. Industriais,active
+BEEF3,stock,stock,non_financial,MINERVA S/A,67620377000114,20931,Consumo Não Cíclico,Carnes e Derivados,active
+BEEF3F,stock,stock,non_financial,MINERVA S/A,67620377000114,20931,Distribution Services,,active
+BEES3,stock,stock,bank,BANESTES SA BANCO DO ESTADO DO ESPIRITO SANTO,28127603000178,1155,Serviços Financeiros,Bancos,active
+BHIA3,stock,stock,non_financial,GRUPO CASAS BAHIA S.A.,33041260065290,6505,Consumo Cíclico,Eletrodomésticos,active
+BHIA3F,stock,stock,non_financial,GRUPO CASAS BAHIA S.A.,33041260065290,6505,Retail Trade,,active
+BIED3,stock,stock,non_financial,BIOMA EDUCAÇÃO S.A.,45987245000192,701,Educação,Serviços Educacionais,active
+BIED3F,stock,stock,non_financial,BIOMA EDUCAÇÃO S.A.,45987245000192,701,Consumer Services,,active
+BIOM3,stock,stock,non_financial,BIOMM SA,04752991000110,19305,Consumo Não Cíclico,Medicamentos e Outros Produtos,active
+BIOM3F,stock,stock,non_financial,BIOMM SA,04752991000110,19305,Health Technology,,active
+BLAU3,stock,stock,non_financial,BLAU FARMACÊUTICA S.A.,58430828000160,24627,Consumo Não Cíclico,Medicamentos e Outros Produtos,active
+BLAU3F,stock,stock,non_financial,BLAU FARMACÊUTICA S.A.,58430828000160,24627,Health Technology,,active
+BMEB3,stock,stock,bank,BANCO MERCANTIL BRASIL SA,17184037000110,1325,Serviços Financeiros,Bancos,active
+BMGB4,stock,stock,bank,BANCO BMG S/A,61186680000174,24600,Serviços Financeiros,Bancos,active
+BMGB4F,stock,stock,non_financial,BANCO BMG S/A,61186680000174,24600,Finance,,active
+BMIN3,stock,stock,bank,BANCO MERCANTIL DE INVESTIMENTOS S.A.,34169557000172,1309,Serviços Financeiros,Bancos,active
+BMKS3,stock,stock,non_financial,BICICLETAS MONARK SA,56992423000190,1694,Consumo Cíclico,Bicicletas,active
+BMOB3,stock,stock,non_financial,BEMOBI MOBILE TECH S.A.,09042817000105,25500,Tecnologia,Programas e Serviços,active
+BMOB3F,stock,stock,non_financial,BEMOBI MOBILE TECH S.A.,09042817000105,25500,Technology Services,,active
+BNBR3,stock,stock,bank,BANCO DO NORDESTE DO BRASIL SA,07237373000120,1228,Serviços Financeiros,Bancos,active
+BPAC11,stock,unit,bank,BANCO BTG PACTUAL S/A,30306294000145,22616,Serviços Financeiros,Bancos,active
+BPAC3,stock,stock,bank,BANCO BTG PACTUAL S/A,30306294000145,22616,Serviços Financeiros,Bancos,active
+BRAP3,stock,stock,non_financial,BRADESPAR S/A,03847461000192,18724,Materiais Básicos,Minerais Metálicos,active
+BRAP3F,stock,stock,non_financial,BRADESPAR S/A,03847461000192,18724,Finance,,active
+BRAP4,stock,stock,non_financial,BRADESPAR S/A,03847461000192,18724,Finance,,active
+BRAP4F,stock,stock,non_financial,BRADESPAR S/A,03847461000192,18724,Finance,,active
+BRAV3,stock,stock,non_financial,BRAVA ENERGIA S.A.,12091809000155,25291,Energia,Exploração e Produção de Petróleo,active
+BRAV3F,stock,stock,non_financial,BRAVA ENERGIA S.A.,12091809000155,25291,Energy Minerals,,active
+BRBI11,stock,unit,bank,BRBI BR PARTNERS S.A,10739356000103,25860,Serviços Financeiros,Bancos,active
+BRBI11F,stock,stock,non_financial,BRBI BR PARTNERS S.A,10739356000103,25860,Finance,,active
+BRKM3,stock,stock,non_financial,BRASKEM S.A.,42150391000170,4820,Materiais Básicos,Petroquímicos,active
+BRKM3F,stock,stock,non_financial,BRASKEM S.A.,42150391000170,4820,Process Industries,,active
+BRKM5,stock,stock,non_financial,BRASKEM S.A.,42150391000170,4820,Materiais Básicos,Petroquímicos,active
+BRKM5F,stock,stock,non_financial,BRASKEM S.A.,42150391000170,4820,Process Industries,,active
+BRKM6,stock,stock,non_financial,BRASKEM S.A.,42150391000170,4820,Process Industries,,active
+BRKM6F,stock,stock,non_financial,BRASKEM S.A.,42150391000170,4820,Process Industries,,active
+BRSR3,stock,stock,bank,BANCO DO ESTADO DO RIO GRANDE DO SUL SA,92702067000196,1210,Serviços Financeiros,Bancos,active
+BRST3,stock,stock,non_financial,BRISANET SERVIÇOS DE TELECOMUNICAÇÕES S.A.,04601397000128,27693,Telecomunicações,Telecomunicações,active
+BRST3F,stock,stock,non_financial,BRISANET SERVIÇOS DE TELECOMUNICAÇÕES S.A.,04601397000128,27693,Communications,,active
+BSLI3,stock,stock,bank,BRB BANCO DE BRASILIA SA,00000208000100,14206,Serviços Financeiros,Bancos,active
+CALI3F,stock,stock,non_financial,CONSTRUTORA ADOLPHO LINDENBERG S.A.,61022042000118,4723,Industrial Services,,active
+CAMB3,stock,stock,non_financial,CAMBUCI SA,61088894000108,2100,Consumo Cíclico,Calçados,active
+CAMB3F,stock,stock,non_financial,CAMBUCI SA,61088894000108,2100,Consumer Non-Durables,,active
+CAML3,stock,stock,non_financial,CAMIL ALIMENTOS S/A,64904295000103,24228,Consumo Não Cíclico,Alimentos Diversos,active
+CAML3F,stock,stock,non_financial,CAMIL ALIMENTOS S/A,64904295000103,24228,Process Industries,,active
+CASH3,stock,stock,non_financial,MELIUZ S.A.,14110585000107,25232,Tecnologia,Programas e Serviços,active
+CBAV3,stock,stock,non_financial,COMPANHIA BRASILEIRA DE ALUMINIO,61409892000173,25984,Materiais Básicos,Minerais Metálicos,active
+CBEE3,stock,stock,non_financial,AMPLA ENERGIA E SERVIÇOS S.A.,33050071000158,3050,Energia,Energia Elétrica,active
+CCTY3,stock,stock,non_financial,BELORA RDVC CITY DESENVOLVIMENTO IMOBILIÁRIO S.A.,52805925000103,27570,Consumer Durables,,active
+CCTY3F,stock,stock,non_financial,BELORA RDVC CITY DESENVOLVIMENTO IMOBILIÁRIO S.A.,52805925000103,27570,Consumer Durables,,active
+CEAB3,stock,stock,non_financial,C&A MODAS S.A.,45242914000105,24848,Consumo Cíclico,Tecidos. Vestuário e Calçados,active
+CEBR3,stock,stock,non_financial,COMPANHIA ENERGÉTICA DE BRASÍLIA - CEB,00070698000111,14451,Energia,Energia Elétrica,active
+CEEB3,stock,stock,non_financial,CIA DE ELETRICIDADE DO ESTADO DA BAHIA - COELBA,15139629000194,14524,Energia,Energia Elétrica,active
+CEED3,stock,stock,non_financial,CIA ESTADUAL DE DISTRIBUIÇÃO DE ENERGIA ELETRICA,08467115000100,20648,Energia,Energia Elétrica,active
+CEGR3,stock,stock,non_financial,CIA. DISTRIB. DE GÁS DO RIO DE JANEIRO,33938119000169,16616,Energia,Gás,active
+CGAS3,stock,stock,non_financial,COMPANHIA DE GÁS DE SÃO PAULO - COMGÁS,61856571000117,15636,Energia,Gás,active
+CGRA3,stock,stock,non_financial,GRAZZIOTIN SA,92012467000170,4537,Consumo Cíclico,Tecidos. Vestuário e Calçados,active
+CGRA3F,stock,stock,non_financial,GRAZZIOTIN SA,92012467000170,4537,Retail Trade,,active
+CGRA4,stock,stock,non_financial,GRAZZIOTIN SA,92012467000170,4537,Retail Trade,,active
+CGRA4F,stock,stock,non_financial,GRAZZIOTIN SA,92012467000170,4537,Retail Trade,,active
+CLSC3,stock,stock,non_financial,CENTRAIS ELETRICAS DE SANTA CATARINA S.A,83878892000155,2461,Energia,Energia Elétrica,active
+CMIG3,stock,stock,non_financial,CIA ENERG MINAS GERAIS - CEMIG,17155730000164,2453,Energia,Energia Elétrica,active
+CMIG4,stock,stock,non_financial,CIA ENERG MINAS GERAIS - CEMIG,17155730000164,2453,Energia,Energia Elétrica,active
+CMIN3,stock,stock,non_financial,CSN MINERAÇÃO S.A.,08902291000115,25585,Materiais Básicos,Minerais Metálicos,active
+CMIN3F,stock,stock,non_financial,CSN MINERAÇÃO S.A.,08902291000115,25585,Non-Energy Minerals,,active
+COCE3,stock,stock,non_financial,CIA ENERG CEARA - COELCE,07047251000170,14869,Energia,Energia Elétrica,active
+COGN3,stock,stock,non_financial,COGNA EDUCAÇÃO S.A.,02800026000140,17973,Educação,Serviços Educacionais,active
+COGN3F,stock,stock,non_financial,COGNA EDUCAÇÃO S.A.,02800026000140,17973,Commercial Services,,active
+CPFE3,stock,stock,non_financial,CPFL ENERGIA SA,02429144000193,18660,Energia,Energia Elétrica,active
+CPFE3F,stock,stock,non_financial,CPFL ENERGIA SA,02429144000193,18660,Utilities,,active
+CPLE3,stock,stock,non_financial,COMPANHIA PARANAENSE DE ENERGIA COPEL,76483817000120,14311,Energia,Energia Elétrica,active
+CRPG5,stock,stock,non_financial,TRONOX PIGMENTOS DO BRASIL S.A.,15115504000124,11398,Process Industries,,active
+CRPG5F,stock,stock,non_financial,TRONOX PIGMENTOS DO BRASIL S.A.,15115504000124,11398,Process Industries,,active
+CRPG6,stock,stock,non_financial,TRONOX PIGMENTOS DO BRASIL S.A.,15115504000124,11398,Process Industries,,active
+CRPG6F,stock,stock,non_financial,TRONOX PIGMENTOS DO BRASIL S.A.,15115504000124,11398,Process Industries,,active
+CSAN3,stock,stock,non_financial,COSAN S.A.,50746577000115,19836,Energia,"Exploração, Refino e Distribuição",active
+CSAN3F,stock,stock,non_financial,COSAN S.A.,50746577000115,19836,Utilities,,active
+CSED3,stock,stock,non_financial,CRUZEIRO DO SUL EDUCACIONAL S.A.,62984091000102,25526,Educação,Serviços Educacionais,active
+CSED3F,stock,stock,non_financial,CRUZEIRO DO SUL EDUCACIONAL S.A.,62984091000102,25526,Consumer Services,,active
+CSMG3,stock,stock,non_financial,COMPANHIA DE SANEAMENTO DE MINAS GERAIS,17281106000103,19445,Saneamento,Água e Saneamento,active
+CSNA3,stock,stock,non_financial,CIA SIDERURGICA NACIONAL,33042730000104,4030,Materiais Básicos,Siderurgia,active
+CSNA3F,stock,stock,non_financial,CIA SIDERURGICA NACIONAL,33042730000104,4030,Non-Energy Minerals,,active
+CSUD3,stock,stock,non_financial,CSU DIGITAL S.A.,01896779000138,20044,Serviços Financeiros,Serviços Financeiros Diversos,active
+CSUD3F,stock,stock,non_financial,CSU DIGITAL S.A.,01896779000138,20044,Commercial Services,,active
+CTKA4,stock,stock,non_financial,KARSTEN SA,82640558000104,4146,Process Industries,,active
+CTKA4F,stock,stock,non_financial,KARSTEN SA,82640558000104,4146,Process Industries,,active
+CURY3,stock,stock,non_financial,CURY CONSTRUTORA E INCORPORADORA S.A.,08797760000183,25100,Construção e Imobiliário,Incorporações,active
+CURY3F,stock,stock,non_financial,CURY CONSTRUTORA E INCORPORADORA S.A.,08797760000183,25100,Finance,,active
+CVCB3,stock,stock,non_financial,CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS SA,10760260000119,23310,Consumo Cíclico,Viagens e Turismo,active
+CVCB3F,stock,stock,non_financial,CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS SA,10760260000119,23310,Consumer Services,,active
+CXSE3,stock,stock,non_financial,CAIXA SEGURIDADE PARTICIPAÇÕES S.A.,22543331000100,23795,Serviços Financeiros,Seguradoras,active
+CXSE3F,stock,stock,non_financial,CAIXA SEGURIDADE PARTICIPAÇÕES S.A.,22543331000100,23795,Finance,,active
+CYRE3,stock,stock,non_financial,CYRELA BRAZIL REALTY S.A.EMPREEND E PART,73178600000118,14460,Construção e Imobiliário,Incorporações,active
+CYRE3F,stock,stock,non_financial,CYRELA BRAZIL REALTY S.A.EMPREEND E PART,73178600000118,14460,Finance,,active
+CYRE4,stock,stock,non_financial,CYRELA BRAZIL REALTY S.A.EMPREEND E PART,73178600000118,14460,Finance,,active
+CYRE4F,stock,stock,non_financial,CYRELA BRAZIL REALTY S.A.EMPREEND E PART,73178600000118,14460,Finance,,active
+DASA3,stock,stock,non_financial,DIAGNOSTICOS DA AMERICA SA,61486650000183,19623,Saúde,Serv.Méd.Hospit..Análises e Diagnósticos,active
+DASA3F,stock,stock,non_financial,DIAGNOSTICOS DA AMERICA SA,61486650000183,19623,Health Services,,active
+DESK3,stock,stock,non_financial,DESKTOP S.A,08170849000115,26026,Telecomunicações,Telecomunicações,active
+DESK3F,stock,stock,non_financial,DESKTOP S.A,08170849000115,26026,Communications,,active
+DEXP3,stock,stock,non_financial,DEXXOS PARTICIPAÇÕES S.A.,02193750000152,16632,Materiais Básicos,Petroquímicos,active
+DIRR3,stock,stock,non_financial,DIRECIONAL ENGENHARIA SA,16614075000100,21350,Construção e Imobiliário,Incorporações,active
+DIRR3F,stock,stock,non_financial,DIRECIONAL ENGENHARIA SA,16614075000100,21350,Finance,,active
+DMVF3,stock,stock,non_financial,D1000 VAREJO FARMA PARTICIPAÇÕES S.A.,12108897000150,25046,Consumo Não Cíclico,Medicamentos e Outros Produtos,active
+DMVF3F,stock,stock,non_financial,D1000 VAREJO FARMA PARTICIPAÇÕES S.A.,12108897000150,25046,Distribution Services,,active
+DOHL3,stock,stock,non_financial,DOHLER S.A.,84683408000103,5207,Outros,Fios e Tecidos,active
+DOHL3F,stock,stock,non_financial,DOHLER S.A.,84683408000103,5207,Process Industries,,active
+DOHL4,stock,stock,non_financial,DOHLER S.A.,84683408000103,5207,Process Industries,,active
+DOHL4F,stock,stock,non_financial,DOHLER S.A.,84683408000103,5207,Process Industries,,active
+DOTZ3,stock,stock,non_financial,DOTZ S.A.,18174270000184,25836,Serviços,Programas de Fidelização,active
+DOTZ3F,stock,stock,non_financial,DOTZ S.A.,18174270000184,25836,Technology Services,,active
+DTCY3,stock,stock,non_financial,DTCOM - DIRECT TO COMPANY S.A.,03303999000136,18597,Serviços,Serviços Diversos,active
+DTCY3F,stock,stock,non_financial,DTCOM - DIRECT TO COMPANY S.A.,03303999000136,18597,Communications,,active
+DXCO3,stock,stock,non_financial,DEXCO S.A.,97837181000147,21091,Materiais Básicos,Madeira,active
+DXCO3F,stock,stock,non_financial,DEXCO S.A.,97837181000147,21091,Producer Manufacturing,,active
+EALT3,stock,stock,non_financial,ELECTRO AÇO ALTONA S/A,82643537000134,5380,Bens Industriais,Máq. e Equip. Industriais,active
+ECOM3,stock,stock,non_financial,ECONOMATICA S.A.,26345998000150,26077,Comunicação e Informática,Comunicação e Informática,active
+ECOR3,stock,stock,non_financial,ECORODOVIAS INFRAESTRUTURA E LOGÍSTICA S.A.,04149454000180,19453,Infraestrutura,Exploração de Rodovias,active
+ECOR3F,stock,stock,non_financial,ECORODOVIAS INFRAESTRUTURA E LOGÍSTICA S.A.,04149454000180,19453,Transportation,,active
+EGIE3,stock,stock,non_financial,ENGIE BRASIL ENERGIA S.A.,02474103000119,17329,Energia,Energia Elétrica,active
+EGIE3F,stock,stock,non_financial,ENGIE BRASIL ENERGIA S.A.,02474103000119,17329,Utilities,,active
+EKTR3F,stock,stock,non_financial,ELEKTRO REDES S.A.,02328280000197,17485,Utilities,,active
+EKTR4,stock,stock,non_financial,ELEKTRO REDES S.A.,02328280000197,17485,Utilities,,active
+EKTR4F,stock,stock,non_financial,ELEKTRO REDES S.A.,02328280000197,17485,Utilities,,active
+EMAE4,stock,stock,non_financial,EMAE - EMPRESA METROP.AGUAS ENERGIA S.A.,02302101000142,16993,Utilities,,active
+EMAE4F,stock,stock,non_financial,EMAE - EMPRESA METROP.AGUAS ENERGIA S.A.,02302101000142,16993,Utilities,,active
+EMBJ3,stock,stock,non_financial,EMBRAER S.A.,07689002000189,20087,"Máquinas, Equipamentos, Veículos e Peças","Máquinas, Equipamentos, Veículos e Peças",active
+ENEV3,stock,stock,non_financial,ENEVA S.A.,04423567000121,21237,Energia,Energia Elétrica,active
+ENEV3F,stock,stock,non_financial,ENEVA S.A.,04423567000121,21237,Utilities,,active
+ENGI11,stock,unit,non_financial,ENERGISA SA,00864214000106,15253,Energia,Energia Elétrica,active
+ENGI11F,stock,stock,non_financial,ENERGISA SA,00864214000106,15253,Utilities,,active
+ENGI3,stock,stock,non_financial,ENERGISA SA,00864214000106,15253,Energia,Energia Elétrica,active
+ENGI3F,stock,stock,non_financial,ENERGISA SA,00864214000106,15253,Utilities,,active
+ENGI4,stock,stock,non_financial,ENERGISA SA,00864214000106,15253,Utilities,,active
+ENGI4F,stock,stock,non_financial,ENERGISA SA,00864214000106,15253,Utilities,,active
+ENJU3,stock,stock,non_financial,ENJOEI S.A.,16922038000151,25259,Tecnologia,Programas e Serviços,active
+ENJU3F,stock,stock,non_financial,ENJOEI S.A.,16922038000151,25259,Retail Trade,,active
+ENMT3,stock,stock,non_financial,ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A,03467321000199,14605,Energia,Energia Elétrica,active
+ENMT3F,stock,stock,non_financial,ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A,03467321000199,14605,Utilities,,active
+ENMT4,stock,stock,non_financial,ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A,03467321000199,14605,Utilities,,active
+ENMT4F,stock,stock,non_financial,ENERGISA MATO GROSSO-DISTRIBUIDORA DE ENERGIA S/A,03467321000199,14605,Utilities,,active
+EPAR3,stock,stock,non_financial,EMBPAR PARTICIPAÇÕES S/A,42331462000131,15458,Consumo Cíclico,Material de Transporte,active
+EQMA3B,stock,stock,non_financial,EQUATORIAL MARANHÃO DISTRIBUIDORA DE ENERGIA S.A.,06272793000184,16608,Energia Elétrica,Energia Elétrica,active
+EQMA3BF,stock,stock,non_financial,EQUATORIAL MARANHÃO DISTRIBUIDORA DE ENERGIA S.A.,06272793000184,16608,Utilities,,active
+EQPA3,stock,stock,non_financial,EQUATORIAL PARÁ DISTRIBUIDORA DE ENERGIA S.A.,04895728000180,18309,Energia,Energia Elétrica,active
+EQTL3,stock,stock,non_financial,EQUATORIAL S.A.,03220438000173,20010,Energia,Energia Elétrica,active
+EQTL3F,stock,stock,non_financial,EQUATORIAL S.A.,03220438000173,20010,Utilities,,active
+ESPA3,stock,stock,non_financial,MPM CORPÓREOS S.A.,26659061000159,25445,Consumo Cíclico,Produtos Diversos,active
+ESPA3F,stock,stock,non_financial,MPM CORPÓREOS S.A.,26659061000159,25445,Consumer Services,,active
+ESTR4,stock,stock,non_financial,MANUFATURA DE  BRINQUEDOS ESTRELA SA,61082004000150,8427,Consumer Durables,,active
+ESTR4F,stock,stock,non_financial,MANUFATURA DE  BRINQUEDOS ESTRELA SA,61082004000150,8427,Consumer Durables,,active
+ETER3,stock,stock,non_financial,ETERNIT S.A.,61092037000181,5762,Construção e Imobiliário,Produtos para Construção,active
+ETER3F,stock,stock,non_financial,ETERNIT S.A.,61092037000181,5762,Non-Energy Minerals,,active
+EUCA3,stock,stock,non_financial,EUCATEX S.A. INDUSTRIA E COMERCIO,56643018000166,5770,Materiais Básicos,Madeira,active
+EUCA3F,stock,stock,non_financial,EUCATEX S.A. INDUSTRIA E COMERCIO,56643018000166,5770,Non-Energy Minerals,,active
+EUCA4,stock,stock,non_financial,EUCATEX S.A. INDUSTRIA E COMERCIO,56643018000166,5770,Non-Energy Minerals,,active
+EUCA4F,stock,stock,non_financial,EUCATEX S.A. INDUSTRIA E COMERCIO,56643018000166,5770,Non-Energy Minerals,,active
+EVEN3,stock,stock,non_financial,EVEN CONSTRUTORA E INCORPORADORA S/A,43470988000165,20524,Construção e Imobiliário,Incorporações,active
+EVEN3F,stock,stock,non_financial,EVEN CONSTRUTORA E INCORPORADORA S/A,43470988000165,20524,Finance,,active
+EZTC3,stock,stock,non_financial,EZ TEC EMPREEND. E PARTICIPAÇÕES S/A,08312229000173,20770,Construção e Imobiliário,Incorporações,active
+FESA3,stock,stock,non_financial,CIA FERRO LIGAS BAHIA FERBASA,15141799000103,3069,Materiais Básicos,Siderurgia,active
+FHER3,stock,stock,non_financial,FERTILIZANTES HERINGER S.A.,22266175000188,20621,Materiais Básicos,Fertilizantes e Defensivos,active
+FHER3F,stock,stock,non_financial,FERTILIZANTES HERINGER S.A.,22266175000188,20621,Process Industries,,active
+FICT3,stock,stock,non_financial,FICTOR ALIMENTOS S.A. - EM RECUPERAÇÃO JUDICIAL,00359742000108,15423,Outros,Outros,active
+FICT3F,stock,stock,non_financial,FICTOR ALIMENTOS S.A. - EM RECUPERAÇÃO JUDICIAL,00359742000108,15423,Commercial Services,,active
+FIEI3,stock,stock,non_financial,FICA EMPREENDIMENTOS IMOBILIARIOS S.A.,07820907000146,20630,Construção e Imobiliário,Incorporações,active
+FIGE4F,stock,stock,non_financial,INVESTIMENTOS BEMGE S.A.,01548981000179,6041,Finance,,active
+FIQE3,stock,stock,non_financial,UNIFIQUE TELECOMUNICAÇÕES S.A.,02255187000108,26050,Telecomunicações,Telecomunicações,active
+FIQE3F,stock,stock,non_financial,UNIFIQUE TELECOMUNICAÇÕES S.A.,02255187000108,26050,Communications,,active
+FLRY3,stock,stock,non_financial,FLEURY SA,60840055000131,21881,Saúde,Serviços Médicos Hospitalares,active
+FLRY3F,stock,stock,non_financial,FLEURY SA,60840055000131,21881,Health Services,,active
+FRAS3,stock,stock,non_financial,FRASLE MOBILITY S.A.,88610126000129,6211,Consumo Cíclico,Material Rodoviário,active
+FRAS3F,stock,stock,non_financial,FRASLE MOBILITY S.A.,88610126000129,6211,Producer Manufacturing,,active
+FRIO3F,stock,stock,non_financial,METALFRIO SOLUTIONS S/A,04821041000108,20613,Producer Manufacturing,,active
+GEPA3,stock,stock,non_financial,RIO PARANAPANEMA ENERGIA SA,02998301000181,18368,Energia,Energia Elétrica,active
+GEPA3F,stock,stock,non_financial,RIO PARANAPANEMA ENERGIA SA,02998301000181,18368,Utilities,,active
+GEPA4,stock,stock,non_financial,RIO PARANAPANEMA ENERGIA SA,02998301000181,18368,Utilities,,active
+GEPA4F,stock,stock,non_financial,RIO PARANAPANEMA ENERGIA SA,02998301000181,18368,Utilities,,active
+GFSA3,stock,stock,non_financial,GAFISA SA,01545826000107,16101,Construção e Imobiliário,Incorporações,active
+GFSA3F,stock,stock,non_financial,GAFISA SA,01545826000107,16101,Finance,,active
+GGBR3,stock,stock,non_financial,GERDAU S.A.,33611500000119,3980,Materiais Básicos,Siderurgia,active
+GGBR3F,stock,stock,non_financial,GERDAU S.A.,33611500000119,3980,Non-Energy Minerals,,active
+GGBR4,stock,stock,non_financial,GERDAU S.A.,33611500000119,3980,Materiais Básicos,Siderurgia,active
+GGBR4F,stock,stock,non_financial,GERDAU S.A.,33611500000119,3980,Non-Energy Minerals,,active
+GGPS3,stock,stock,non_financial,GPS PARTICIPAÇÕES E EMPREENDIMENTOS S/A,09229201000130,25712,Serviços,Serviços Diversos,active
+GMAT3,stock,stock,non_financial,GRUPO MATEUS S.A.,24990777000109,25186,Consumo Não Cíclico,Alimentos,active
+GMAT3F,stock,stock,non_financial,GRUPO MATEUS S.A.,24990777000109,25186,Retail Trade,,active
+GOAU3,stock,stock,non_financial,METALURGICA GERDAU SA,92690783000109,8656,Materiais Básicos,Siderurgia,active
+GOAU3F,stock,stock,non_financial,METALURGICA GERDAU SA,92690783000109,8656,Non-Energy Minerals,,active
+GOAU4,stock,stock,non_financial,METALURGICA GERDAU SA,92690783000109,8656,Materiais Básicos,Siderurgia,active
+GOAU4F,stock,stock,non_financial,METALURGICA GERDAU SA,92690783000109,8656,Non-Energy Minerals,,active
+GRND3,stock,stock,non_financial,GRENDENE SA,89850341000160,19615,Consumo Cíclico,Calçados,active
+GRND3F,stock,stock,non_financial,GRENDENE SA,89850341000160,19615,Consumer Non-Durables,,active
+GSHP3,stock,stock,non_financial,GENERAL SHOPPING E OUTLETS DO BRASIL BRASIL S.A.,08764621000153,21008,Construção e Imobiliário,Exploração de Imóveis,active
+HAGA3,stock,stock,non_financial,HAGA S.A. INDÚSTRIA E COMÉRCIO,30540991000166,13366,Construção e Imobiliário,Produtos para Construção,active
+HAPV3,stock,stock,non_financial,HAPVIDA PARTICIPAÇÕES E INVESTIMENTOS S.A.,05197443000138,24392,Saúde,Serviços Médicos Hospitalares,active
+HBOR3,stock,stock,non_financial,HELBOR EMPREENDIMENTOS S/A,49263189000102,20877,Construção e Imobiliário,Incorporações,active
+HBOR3F,stock,stock,non_financial,HELBOR EMPREENDIMENTOS S/A,49263189000102,20877,Consumer Durables,,active
+HBRE3,stock,stock,non_financial,HBR REALTY EMPREENDIMENTOS IMOBILIÁRIOS S.A.,14785152000151,25402,Construção e Imobiliário,Exploração de Imóveis,active
+HBSA3,stock,stock,non_financial,HIDROVIAS DO BRASIL S.A.,12648327000153,22675,Bens Industriais,Transporte Hidroviário,active
+HBSA3F,stock,stock,non_financial,HIDROVIAS DO BRASIL S.A.,12648327000153,22675,Transportation,,active
+HETA4F,stock,stock,non_financial,HERCULES S/A - FABRICA DE TALHERES,92749225000163,6629,Consumer Durables,,active
+HOOT4,stock,stock,non_financial,HOTEIS OTHON S.A. - EM RECUPERAÇÃO JUDICIAL,33200049000147,6700,Consumer Services,,active
+HOOT4F,stock,stock,non_financial,HOTEIS OTHON S.A. - EM RECUPERAÇÃO JUDICIAL,33200049000147,6700,Consumer Services,,active
+HYPE3,stock,stock,non_financial,HYPERA S/A,02932074000191,21431,Consumo Não Cíclico,Medicamentos e Outros Produtos,active
+HYPE3F,stock,stock,non_financial,HYPERA S/A,02932074000191,21431,Health Technology,,active
+IFCM3,stock,stock,non_financial,INFRACOMMERCE CXAAS S.A.,38456921000136,25747,Tecnologia,Programas e Serviços,active
+IFCM3F,stock,stock,non_financial,INFRACOMMERCE CXAAS S.A.,38456921000136,25747,Distribution Services,,active
+IGTI11,stock,unit,non_financial,IGUATEMI S.A.,60543816000193,8672,Construção e Imobiliário,Exploração de Imóveis,active
+IGTI11F,stock,stock,non_financial,IGUATEMI S.A.,60543816000193,8672,Finance,,active
+IGTI3,stock,stock,non_financial,IGUATEMI S.A.,60543816000193,8672,Construção e Imobiliário,Exploração de Imóveis,active
+IGTI3F,stock,stock,non_financial,IGUATEMI S.A.,60543816000193,8672,Finance,,active
+IGTI4,stock,stock,non_financial,IGUATEMI S.A.,60543816000193,8672,Finance,,active
+IGTI4F,stock,stock,non_financial,IGUATEMI S.A.,60543816000193,8672,Finance,,active
+INEP3,stock,stock,non_financial,INEPAR S.A. INDUSTRIA E CONSTRUCOES EM RECUPERACAO JUDICIAL,76627504000106,7595,Bens Industriais,Máq. e Equip. Industriais,active
+INTB3,stock,stock,non_financial,INTELBRAS S.A. IND. DE TELECOMUNICAÇÃO ELETRÔNICA BRASILEIRA,82901000000127,25453,Tecnologia,Computadores e Equipamentos,active
+IRBR3,stock,stock,non_financial,IRB - BRASIL RESSEGUROS S.A.,33376989000191,24180,Serviços Financeiros,Resseguradoras,active
+IRBR3F,stock,stock,non_financial,IRB - BRASIL RESSEGUROS S.A.,33376989000191,24180,Finance,,active
+ISAE3,stock,stock,non_financial,ISA ENERGIA BRASIL S.A.,02998611000104,18376,Energia,Energia Elétrica,active
+ISAE3F,stock,stock,non_financial,ISA ENERGIA BRASIL S.A.,02998611000104,18376,Utilities,,active
+ISAE4,stock,stock,non_financial,ISA ENERGIA BRASIL S.A.,02998611000104,18376,Energia,Energia Elétrica,active
+ISAE4F,stock,stock,non_financial,ISA ENERGIA BRASIL S.A.,02998611000104,18376,Utilities,,active
+ITSA3,stock,stock,non_financial,ITAUSA S.A.,61532644000115,7617,Holdings,Holdings Diversificadas,active
+ITSA3F,stock,stock,non_financial,ITAUSA S.A.,61532644000115,7617,Finance,,active
+ITSA4,stock,stock,non_financial,ITAUSA S.A.,61532644000115,7617,Finance,,active
+ITSA4F,stock,stock,non_financial,ITAUSA S.A.,61532644000115,7617,Finance,,active
+ITUB3,stock,stock,bank,ITAÚ UNIBANCO HOLDING S.A.,60872504000123,19348,Serviços Financeiros,Bancos,active
+ITUB4,stock,stock,bank,ITAÚ UNIBANCO HOLDING S.A.,60872504000123,19348,Serviços Financeiros,Bancos Diversificados,active
+JALL3,stock,stock,non_financial,JALLES MACHADO S.A.,02635522000195,25496,Consumo Não Cíclico,Açucar e Alcool,active
+JALL3F,stock,stock,non_financial,JALLES MACHADO S.A.,02635522000195,25496,Process Industries,,active
+JFEN3,stock,stock,non_financial,JOAO FORTES ENGENHARIA SA - EM RECUPERAÇÃO JUDICIAL,33035536000100,7811,Construção e Imobiliário,Incorporações,active
+JHSF3,stock,stock,non_financial,JHSF PARTICIPAÇÕES SA,08294224000165,20605,Construção e Imobiliário,Incorporações,active
+JOPA3F,stock,stock,non_financial,JOSAPAR-JOAQUIM OLIVEIRA S.A. - PARTICIP,87456562000122,13285,Process Industries,,active
+JSLG3,stock,stock,non_financial,JSL S.A.,52548435000179,22020,Bens Industriais,Transporte Rodoviário,active
+JSLG3F,stock,stock,non_financial,JSL S.A.,52548435000179,22020,Transportation,,active
+KEPL3,stock,stock,non_financial,KEPLER WEBER SA,91983056000169,7870,Bens Industriais,Máq. e Equip. Industriais,active
+KEPL3F,stock,stock,non_financial,KEPLER WEBER SA,91983056000169,7870,Producer Manufacturing,,active
+KLBN11,stock,unit,non_financial,KLABIN S.A.,89637490000145,12653,Materiais Básicos,Papel e Celulose,active
+KLBN11F,stock,stock,non_financial,KLABIN S.A.,89637490000145,12653,Non-Energy Minerals,,active
+KLBN3,stock,stock,non_financial,KLABIN S.A.,89637490000145,12653,Materiais Básicos,Papel e Celulose,active
+KLBN3F,stock,stock,non_financial,KLABIN S.A.,89637490000145,12653,Non-Energy Minerals,,active
+KLBN4,stock,stock,non_financial,KLABIN S.A.,89637490000145,12653,Non-Energy Minerals,,active
+KLBN4F,stock,stock,non_financial,KLABIN S.A.,89637490000145,12653,Non-Energy Minerals,,active
+LAND3,stock,stock,non_financial,TERRA SANTA PROPRIEDADES AGRÍCOLAS S.A.,40337136000106,26000,Consumo Não Cíclico,Agricultura,active
+LAVV3,stock,stock,non_financial,LAVVI EMPREENDIMENTOS IMOBILIÁRIOS S.A,26462693000128,25062,Construção e Imobiliário,Incorporações,active
+LAVV3F,stock,stock,non_financial,LAVVI EMPREENDIMENTOS IMOBILIÁRIOS S.A,26462693000128,25062,Finance,,active
+LEVE3,stock,stock,non_financial,MAHLE METAL LEVE S.A.,60476884000187,8575,Consumo Cíclico,Automóveis e Motocicletas,active
+LEVE3F,stock,stock,non_financial,MAHLE METAL LEVE S.A.,60476884000187,8575,Producer Manufacturing,,active
+LIGT3,stock,stock,non_financial,LIGHT S.A. - EM RECUPERAÇÃO JUDICIAL,03378521000175,19879,Energia,Energia Elétrica,active
+LJQQ3,stock,stock,non_financial,LOJAS QUERO QUERO S.A.,96418264021802,25038,Consumo Cíclico,Produtos Diversos,active
+LJQQ3F,stock,stock,non_financial,LOJAS QUERO QUERO S.A.,96418264021802,25038,Retail Trade,,active
+LOGG3,stock,stock,non_financial,LOG COMMERCIAL PROPERTIES E PARTICIPAÇÕES,09041168000110,23272,Construção e Imobiliário,Exploração de Imóveis,active
+LOGN3,stock,stock,non_financial,LOG-IN LOGISTICA INTERMODAL SA,42278291000124,20710,Bens Industriais,Transporte Hidroviário,active
+LOGN3F,stock,stock,non_financial,LOG-IN LOGISTICA INTERMODAL SA,42278291000124,20710,Transportation,,active
+LPSB3,stock,stock,non_financial,LPS BRASIL CONSULTORIA DE IMOVEIS S/A,08078847000109,20370,Construção e Imobiliário,Intermediação Imobiliária,active
+LPSB3F,stock,stock,non_financial,LPS BRASIL CONSULTORIA DE IMOVEIS S/A,08078847000109,20370,Commercial Services,,active
+LREN3,stock,stock,non_financial,LOJAS RENNER SA,92754738000162,8133,Consumo Cíclico,"Tecidos, Vestuário e Calçados",active
+LREN3F,stock,stock,non_financial,LOJAS RENNER SA,92754738000162,8133,Retail Trade,,active
+LUPA3,stock,stock,non_financial,LUPATECH S.A.,89463822000112,20060,Bens Industriais,Equipamentos e Serviços,active
+LUPA3F,stock,stock,non_financial,LUPATECH S.A.,89463822000112,20060,Producer Manufacturing,,active
+LUXM4,stock,stock,non_financial,TREVISA  INVESTIMENTOS SA,92660570000126,8192,Transportation,,active
+LUXM4F,stock,stock,non_financial,TREVISA  INVESTIMENTOS SA,92660570000126,8192,Transportation,,active
+LWSA3,stock,stock,non_financial,LWSA S/A,02351877000152,24910,Tecnologia,Programas e Serviços,active
+LWSA3F,stock,stock,non_financial,LWSA S/A,02351877000152,24910,Technology Services,,active
+MAPT3F,stock,stock,non_financial,CEMEPE INVESTIMENTOS SA,93828986000173,13854,Miscellaneous,,active
+MAPT4F,stock,stock,non_financial,CEMEPE INVESTIMENTOS SA,93828986000173,13854,Miscellaneous,,active
+MATD3,stock,stock,non_financial,HOSPITAL MATER DEI S.A.,16676520000159,25690,Saúde,Serv.Méd.Hospit..Análises e Diagnósticos,active
+MATD3F,stock,stock,non_financial,HOSPITAL MATER DEI S.A.,16676520000159,25690,Health Services,,active
+MBRF3,stock,stock,non_financial,BRF S.A.,01838723000127,16292,Emp. Adm. Part. - Alimentos,Emp. Adm. Part. - Alimentos,active
+MDIA3,stock,stock,non_financial,M. DIAS BRANCO SA IND E COM DE ALIMENTOS,07206816000115,20338,Consumo Não Cíclico,Alimentos Diversos,active
+MDNE3,stock,stock,non_financial,MOURA DUBEUX ENGENHARIA S/A,12049631000184,21067,Construção e Imobiliário,Incorporações,active
+MDNE3F,stock,stock,non_financial,MOURA DUBEUX ENGENHARIA S/A,12049631000184,21067,Finance,,active
+MEAL3,stock,stock,non_financial,INTERNATIONAL MEAL COMPANY ALIMENTAÇÃO S.A.,17314329000120,23574,Consumo Cíclico,Restaurante e Similares,active
+MELK3,stock,stock,non_financial,MELNICK DESENVOLVIMENTO IMOBILIÁRIO S.A.,12181987000177,25119,Construção e Imobiliário,Incorporações,active
+MELK3F,stock,stock,non_financial,MELNICK DESENVOLVIMENTO IMOBILIÁRIO S.A.,12181987000177,25119,Industrial Services,,active
+MGEL4,stock,stock,non_financial,MANGELS INDUSTRIAL S.A.,61065298000102,8397,Producer Manufacturing,,active
+MGEL4F,stock,stock,non_financial,MANGELS INDUSTRIAL S.A.,61065298000102,8397,Producer Manufacturing,,active
+MGLU3,stock,stock,non_financial,MAGAZINE LUIZA SA,47960950000121,22470,Consumo Cíclico,Varejo Especializado,active
+MGLU3F,stock,stock,non_financial,MAGAZINE LUIZA SA,47960950000121,22470,Retail Trade,,active
+MILS3,stock,stock,non_financial,"MILLS LOCAÇÃO, SERVIÇOS E LOGÍSTICA S.A.",27093558000115,22012,Bens Industriais,Máq. e Equip. Industriais,active
+MILS3F,stock,stock,non_financial,"MILLS LOCAÇÃO, SERVIÇOS E LOGÍSTICA S.A.",27093558000115,22012,Finance,,active
+MLAS3,stock,stock,non_financial,GRUPO MULTILASER S.A.,59717553000102,26034,Tecnologia,Computadores e Equipamentos,active
+MNDL3,stock,stock,non_financial,MUNDIAL S.A - PRODUTOS DE CONSUMO,88610191000154,5312,Consumo Cíclico,Acessórios,active
+MNDL3F,stock,stock,non_financial,MUNDIAL S.A - PRODUTOS DE CONSUMO,88610191000154,5312,Consumer Non-Durables,,active
+MNPR3,stock,stock,non_financial,MINUPAR PARTICIPACOES SA,90076886000140,13765,Consumo Não Cíclico,Carnes e Derivados,active
+MNPR3F,stock,stock,non_financial,MINUPAR PARTICIPACOES SA,90076886000140,13765,Process Industries,,active
+MOTV3,stock,stock,non_financial,MOTIVA INFRAESTRUTURA DE MOBILIDADE S.A.,02846056000197,18821,Infraestrutura,Exploração de Rodovias,active
+MOTV3F,stock,stock,non_financial,MOTIVA INFRAESTRUTURA DE MOBILIDADE S.A.,02846056000197,18821,Transportation,,active
+MOVI3,stock,stock,non_financial,MOVIDA PARTICIPAÇÕES S.A.,21314559000166,23825,Consumo Cíclico,Aluguel de carros,active
+MRSA3B,stock,stock,non_financial,MRS LOGÍSTICA S/A,01417222000177,17949,Serviços Transporte e Logística,Serviços Transporte e Logística,active
+MRVE3,stock,stock,non_financial,MRV ENGENHARIA E PARTICIPAÇÕES S/A,08343492000120,20915,Construção e Imobiliário,Incorporações,active
+MTRE3,stock,stock,non_financial,MITRE REALTY EMPREENDIMENTOS E PARTICIPAÇÕES S.A.,07882930000165,24902,Construção e Imobiliário,Incorporações,active
+MTRE3F,stock,stock,non_financial,MITRE REALTY EMPREENDIMENTOS E PARTICIPAÇÕES S.A.,07882930000165,24902,Finance,,active
+MULT3,stock,stock,non_financial,MULTIPLAN - EMPREEND IMOBILIARIOS S.A.,07816890000153,20982,Construção e Imobiliário,Exploração de Imóveis,active
+MULT3F,stock,stock,non_financial,MULTIPLAN - EMPREEND IMOBILIARIOS S.A.,07816890000153,20982,Finance,,active
+MWET3F,stock,stock,non_financial,WETZEL S.A.,84683671000194,11991,Producer Manufacturing,,active
+MWET4,stock,stock,non_financial,WETZEL S.A.,84683671000194,11991,Producer Manufacturing,,active
+MWET4F,stock,stock,non_financial,WETZEL S.A.,84683671000194,11991,Producer Manufacturing,,active
+MYPK3,stock,stock,non_financial,IOCHPE MAXION SA,61156113000175,11932,Consumo Cíclico,Automóveis e Motocicletas,active
+MYPK3F,stock,stock,non_financial,IOCHPE MAXION SA,61156113000175,11932,Producer Manufacturing,,active
+NATU3,stock,stock,non_financial,NATURA COSMETICOS SA,71673990000177,19550,Consumo Não Cíclico,Produtos de Uso Pessoal,active
+NATU3F,stock,stock,non_financial,NATURA COSMETICOS SA,71673990000177,19550,Consumer Non-Durables,,active
+NEXP3,stock,stock,non_financial,NEXPE PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL,08613550000198,21180,Construção e Imobiliário,Intermediação Imobiliária,active
+NORD3,stock,stock,non_financial,NORDON INDUSTRIAS METALURGICAS S.A.,60884319000159,9083,Bens Industriais,Máq. e Equip. Industriais,active
+NORD3F,stock,stock,non_financial,NORDON INDUSTRIAS METALURGICAS S.A.,60884319000159,9083,Producer Manufacturing,,active
+NUTR3,stock,stock,non_financial,NUTRIPLANT INDUSTRIA E COMÉRCIO S/A,51128999000190,21334,Materiais Básicos,Fertilizantes e Defensivos,active
+OBTC3,stock,stock,non_financial,ORANJEBTC S.A. - EDUCAÇÃO E INVESTIMENTO,59693110000129,27910,Technology Services,,active
+OBTC3F,stock,stock,non_financial,ORANJEBTC S.A. - EDUCAÇÃO E INVESTIMENTO,59693110000129,27910,Technology Services,,active
+ODER4F,stock,stock,non_financial,CONSERVAS ODERICH SA,97191902000194,4693,Consumer Non-Durables,,active
+OFSA3,stock,stock,non_financial,OUROFINO S.A.,20258278000170,23507,Consumo Não Cíclico,Medicamentos e Outros Produtos,active
+OFSA3F,stock,stock,non_financial,OUROFINO S.A.,20258278000170,23507,Health Technology,,active
+OIBR3,stock,stock,non_financial,OI S.A. - EM RECUPERAÇÃO JUDICIAL,76535764000143,11312,Telecomunicações,Telecomunicações,active
+ONCO3,stock,stock,non_financial,ONCOCLÍNICAS DO BRASIL SERVIÇOS MÉDICOS S.A.,12104241000402,26123,Saúde,Serv.Méd.Hospit..Análises e Diagnósticos,active
+OPCT3,stock,stock,non_financial,OCEANPACT SERVIÇOS MARÍTIMOS S.A.,09114805000130,25534,Bens Industriais,Equipamentos e Serviços,active
+ORVR3,stock,stock,non_financial,ORIZON VALORIZAÇÃO DE RESÍDUOS S.A.,11421994000136,25550,Saneamento,Água e Saneamento,active
+OSXB3,stock,stock,non_financial,OSX BRASIL S.A. - EM RECUPERAÇÃO JUDICIAL,09112685000132,21342,Bens Industriais,Equipamentos e Serviços,active
+PASS3,stock,stock,non_financial,COMPASS GÁS E ENERGIA S.A.,21389501000181,25127,Energia,Gás,active
+PATI3,stock,stock,non_financial,PANATLANTICA SA,92693019000189,94,Materiais Básicos,Artefatos de Ferro e Aço,active
+PATI3F,stock,stock,non_financial,PANATLANTICA SA,92693019000189,94,Producer Manufacturing,,active
+PATI4,stock,stock,non_financial,PANATLANTICA SA,92693019000189,94,Producer Manufacturing,,active
+PATI4F,stock,stock,non_financial,PANATLANTICA SA,92693019000189,94,Producer Manufacturing,,active
+PCAR3,stock,stock,non_financial,COMPANHIA BRASILEIRA DE DISTRIBUIÇÃO,47508411000156,14826,Consumo Não Cíclico,Alimentos,active
+PDGR3,stock,stock,non_financial,PDG REALTY S.A. EMPREEND E PARTICIPACOES,02950811000189,20478,Construção e Imobiliário,Incorporações,active
+PDGR3F,stock,stock,non_financial,PDG REALTY S.A. EMPREEND E PARTICIPACOES,02950811000189,20478,Finance,,active
+PDTC3,stock,stock,non_financial,PADTEC HOLDING S.A.,02365069000144,18414,Tecnologia,Programas e Serviços,active
+PDTC3F,stock,stock,non_financial,PADTEC HOLDING S.A.,02365069000144,18414,Electronic Technology,,active
+PEAB3,stock,stock,non_financial,CIA DE PARTICIPAÇÕES ALIANÇA DA BAHIA,01938783000111,18708,Construção e Imobiliário,Exploração de Imóveis,active
+PETR3,stock,stock,non_financial,PETRÓLEO BRASILEIRO S.A. - PETROBRAS,33000167000101,9512,Energia,Exploração. Refino e Distribuição,active
+PETR4,stock,stock,non_financial,PETRÓLEO BRASILEIRO S.A. - PETROBRAS,33000167000101,9512,Energia,Petróleo e Gás Integrado,active
+PFRM3,stock,stock,non_financial,PROFARMA DISTRIB PROD FARMACEUTICOS S.A.,45453214000151,20346,Consumo Não Cíclico,Medicamentos e Outros Produtos,active
+PFRM3F,stock,stock,non_financial,PROFARMA DISTRIB PROD FARMACEUTICOS S.A.,45453214000151,20346,Distribution Services,,active
+PGMN3,stock,stock,non_financial,EMPREENDIMENTOS PAGUE MENOS SA,06626253000151,22608,Consumo Não Cíclico,Medicamentos e Outros Produtos,active
+PGMN3F,stock,stock,non_financial,EMPREENDIMENTOS PAGUE MENOS SA,06626253000151,22608,Retail Trade,,active
+PINE3,stock,stock,bank,BANCO PINE S/A,62144175000120,20567,Serviços Financeiros,Bancos,active
+PLAS3,stock,stock,non_financial,PLASCAR PARTICIPAÇÕES INDUSTRIAIS S.A,51928174000150,13471,Consumo Cíclico,Automóveis e Motocicletas,active
+PLPL3,stock,stock,non_financial,PLANO & PLANO DESENVOLVIMENTO IMOBILIÁRIO S.A.,24230275000180,25070,Construção e Imobiliário,Incorporações,active
+PLPL3F,stock,stock,non_financial,PLANO & PLANO DESENVOLVIMENTO IMOBILIÁRIO S.A.,24230275000180,25070,Finance,,active
+PMAM3,stock,stock,non_financial,PARANAPANEMA S.A. - EM RECUPERAÇÃO JUDICIAL,60398369000479,9393,Materiais Básicos,Artefatos de Cobre,active
+PMAM3F,stock,stock,non_financial,PARANAPANEMA S.A. - EM RECUPERAÇÃO JUDICIAL,60398369000479,9393,Non-Energy Minerals,,active
+PNVL3,stock,stock,non_financial,DIMED SA DISTRIBUIDORA DE MEDICAMENTOS,92665611000177,9342,Consumo Não Cíclico,Medicamentos e Outros Produtos,active
+PNVL3F,stock,stock,non_financial,DIMED SA DISTRIBUIDORA DE MEDICAMENTOS,92665611000177,9342,Retail Trade,,active
+POMO3,stock,stock,non_financial,MARCOPOLO SA,88611835000129,8451,Consumo Cíclico,Material Rodoviário,active
+POMO3F,stock,stock,non_financial,MARCOPOLO SA,88611835000129,8451,Producer Manufacturing,,active
+POMO4,stock,stock,non_financial,MARCOPOLO SA,88611835000129,8451,Producer Manufacturing,,active
+POMO4F,stock,stock,non_financial,MARCOPOLO SA,88611835000129,8451,Producer Manufacturing,,active
+POSI3,stock,stock,non_financial,POSITIVO TECNOLOGIA S.A.,81243735000148,20362,Tecnologia,Computadores e Equipamentos,active
+POSI3F,stock,stock,non_financial,POSITIVO TECNOLOGIA S.A.,81243735000148,20362,Electronic Technology,,active
+PRIO3,stock,stock,non_financial,PRIO S.A.,10629105000168,22187,Energia,Exploração e Produção de Petróleo,active
+PRIO3F,stock,stock,non_financial,PRIO S.A.,10629105000168,22187,Energy Minerals,,active
+PRNR3,stock,stock,non_financial,PRINER SERVIÇOS INDUSTRIAIS S.A.,18593815000197,24236,Serviços,Serviços Diversos,active
+PRNR3F,stock,stock,non_financial,PRINER SERVIÇOS INDUSTRIAIS S.A.,18593815000197,24236,Industrial Services,,active
+PSSA3,stock,stock,non_financial,PORTO SEGURO SA,02149205000169,16659,Serviços Financeiros,Seguradoras,active
+PSSA3F,stock,stock,non_financial,PORTO SEGURO SA,02149205000169,16659,Finance,,active
+PSVM11F,stock,stock,non_financial,PORTO SUDESTE V.M. S.A.,18494485000182,23523,Transportation,,active
+PTBL3,stock,stock,non_financial,PBG S/A,83475913000191,13773,Construção e Imobiliário,Produtos para Construção,active
+PTBL3F,stock,stock,non_financial,PBG S/A,83475913000191,13773,Producer Manufacturing,,active
+QUAL3,stock,stock,non_financial,QUALICORP CONSULTORIA E CORRETORA DE SEGUROS S.A.,11992680000193,22497,Saúde,Serv.Méd.Hospit..Análises e Diagnósticos,active
+QUAL3F,stock,stock,non_financial,QUALICORP CONSULTORIA E CORRETORA DE SEGUROS S.A.,11992680000193,22497,Health Services,,active
+RADL3,stock,stock,non_financial,RAIA DROGASIL S.A.,61585865000151,5258,Consumo Não Cíclico,Medicamentos e Outros Produtos,active
+RADL3F,stock,stock,non_financial,RAIA DROGASIL S.A.,61585865000151,5258,Retail Trade,,active
+RAIL3,stock,stock,non_financial,RUMO S.A.,02387241000160,17450,Bens Industriais,Transporte Ferroviário,active
+RAIL3F,stock,stock,non_financial,RUMO S.A.,02387241000160,17450,Transportation,,active
+RAIZ4,stock,stock,non_financial,RAÍZEN S.A.,33453598000123,25917,Consumo Não Cíclico,Açúcar e Álcool,active
+RANI3,stock,stock,non_financial,IRANI PAPEL E EMBALAGEM S.A.,92791243000103,2429,Materiais,Embalagens,active
+RANI3F,stock,stock,non_financial,IRANI PAPEL E EMBALAGEM S.A.,92791243000103,2429,Process Industries,,active
+RAPT3,stock,stock,non_financial,RANDONCORP S.A.,89086144000116,14109,Consumo Cíclico,Material Rodoviário,active
+RAPT3F,stock,stock,non_financial,RANDONCORP S.A.,89086144000116,14109,Producer Manufacturing,,active
+RAPT4,stock,stock,non_financial,RANDONCORP S.A.,89086144000116,14109,Producer Manufacturing,,active
+RAPT4F,stock,stock,non_financial,RANDONCORP S.A.,89086144000116,14109,Producer Manufacturing,,active
+RCSL3,stock,stock,non_financial,RECRUSUL SA,91333666000117,12572,Consumo Cíclico,Material Rodoviário,active
+RCSL3F,stock,stock,non_financial,RECRUSUL SA,91333666000117,12572,Producer Manufacturing,,active
+RCSL4,stock,stock,non_financial,RECRUSUL SA,91333666000117,12572,Producer Manufacturing,,active
+RCSL4F,stock,stock,non_financial,RECRUSUL SA,91333666000117,12572,Producer Manufacturing,,active
+RDOR3,stock,stock,non_financial,REDE D'OR SÃO LUIZ S.A.,06047087000139,24821,Saúde,Serviços Médicos Hospitalares,active
+RDOR3F,stock,stock,non_financial,REDE D'OR SÃO LUIZ S.A.,06047087000139,24821,Health Services,,active
+RECV3,stock,stock,non_financial,PETRORECÔNCAVO S.A.,03342704000130,25780,Energia,Exploração e Produção de Petróleo,active
+RECV3F,stock,stock,non_financial,PETRORECÔNCAVO S.A.,03342704000130,25780,Energy Minerals,,active
+REDE3,stock,stock,non_financial,REDE ENERGIA PARTICIPAÇÕES S.A.,61584140000149,3190,Energia,Energia Elétrica,active
+REDE3F,stock,stock,non_financial,REDE ENERGIA PARTICIPAÇÕES S.A.,61584140000149,3190,Utilities,,active
+RENT3,stock,stock,non_financial,LOCALIZA RENT A CAR SA,16670085000155,19739,Consumo Cíclico,Aluguel de Carros,active
+RENT3F,stock,stock,non_financial,LOCALIZA RENT A CAR SA,16670085000155,19739,Finance,,active
+RENT4,stock,stock,non_financial,LOCALIZA RENT A CAR SA,16670085000155,19739,Finance,,active
+RENT4F,stock,stock,non_financial,LOCALIZA RENT A CAR SA,16670085000155,19739,Finance,,active
+RIAA3,stock,stock,non_financial,GUARARAPES CONFECÇÕES SA,08402943000152,4669,Têxtil e Vestuário,Têxtil e Vestuário,active
+RNEW3,stock,stock,non_financial,RENOVA ENERGIA S.A.,08534605000174,21636,Energia,Energia Elétrica,active
+RNEW3F,stock,stock,non_financial,RENOVA ENERGIA S.A.,08534605000174,21636,Utilities,,active
+RNEW4,stock,stock,non_financial,RENOVA ENERGIA S.A.,08534605000174,21636,Utilities,,active
+RNEW4F,stock,stock,non_financial,RENOVA ENERGIA S.A.,08534605000174,21636,Utilities,,active
+ROMI3,stock,stock,non_financial,ROMI S.A.,56720428000163,7510,Bens Industriais,Máquinas e Equipamentos Industriais,active
+ROMI3F,stock,stock,non_financial,ROMI S.A.,56720428000163,7510,Producer Manufacturing,,active
+RPAD3,stock,stock,bank,ALFA HOLDINGS S.A.,17167396000169,9954,Serviços Financeiros,Bancos,active
+RPAD3F,stock,stock,non_financial,ALFA HOLDINGS S.A.,17167396000169,9954,Finance,,active
+RPAD5,stock,stock,non_financial,ALFA HOLDINGS S.A.,17167396000169,9954,Finance,,active
+RPAD5F,stock,stock,non_financial,ALFA HOLDINGS S.A.,17167396000169,9954,Finance,,active
+RPAD6,stock,stock,non_financial,ALFA HOLDINGS S.A.,17167396000169,9954,Finance,,active
+RPAD6F,stock,stock,non_financial,ALFA HOLDINGS S.A.,17167396000169,9954,Finance,,active
+RSUL4,stock,stock,non_financial,METALURGICA RIOSULENSE SA,85778074000106,13439,Producer Manufacturing,,active
+RSUL4F,stock,stock,non_financial,METALURGICA RIOSULENSE SA,85778074000106,13439,Producer Manufacturing,,active
+RVEE3,stock,stock,non_financial,REVEE S.A.,52841191000118,27650,Miscellaneous,,active
+RVEE3F,stock,stock,non_financial,REVEE S.A.,52841191000118,27650,Miscellaneous,,active
+SANB11,stock,unit,bank,BANCO SANTANDER (BRASIL) S.A.,90400888000142,20532,Serviços Financeiros,Bancos,active
+SANB3,stock,stock,bank,BANCO SANTANDER (BRASIL) S.A.,90400888000142,20532,Serviços Financeiros,Bancos,active
+SAPR3,stock,stock,non_financial,CIA. DE SANEAMENTO DO PARANÁ - SANEPAR,76484013000145,18627,Saneamento,Água e Saneamento,active
+SAUD3,stock,stock,non_financial,BRADSAÚDE S.A.,58119199000151,20125,Serviços Médicos,Serviços Médicos,active
+SBFG3,stock,stock,non_financial,GRUPO SBF S.A.,13217485000111,24694,Consumo Cíclico,Produtos Diversos,active
+SBFG3F,stock,stock,non_financial,GRUPO SBF S.A.,13217485000111,24694,Retail Trade,,active
+SBSP3,stock,stock,non_financial,CIA SANEAMENTO BÁSICO ESTADO SÃO PAULO,43776517000180,14443,Saneamento,Água e Saneamento,active
+SCAR3,stock,stock,non_financial,SAO CARLOS EMPREEND E PARTICIPACOES S.A.,29780061000109,13781,Construção e Imobiliário,Exploração de Imóveis,active
+SCAR3F,stock,stock,non_financial,SAO CARLOS EMPREEND E PARTICIPACOES S.A.,29780061000109,13781,Finance,,active
+SEER3,stock,stock,non_financial,SER EDUCACIONAL S.A.,04986320000113,23221,Educação,Serviços Educacionais,active
+SEER3F,stock,stock,non_financial,SER EDUCACIONAL S.A.,04986320000113,23221,Consumer Services,,active
+SHOW3,stock,stock,non_financial,T4F ENTRETENIMENTO SA,02860694000162,22454,Consumo Cíclico,Produção de Eventos e Shows,active
+SHOW3F,stock,stock,non_financial,T4F ENTRETENIMENTO SA,02860694000162,22454,Consumer Services,,active
+SHUL4,stock,stock,non_financial,SCHULZ SA,84693183000168,14664,Producer Manufacturing,,active
+SHUL4F,stock,stock,non_financial,SCHULZ SA,84693183000168,14664,Producer Manufacturing,,active
+SIMH3,stock,stock,non_financial,SIMPAR S.A.,07415333000120,25003,Holdings,Holdings Diversificadas,active
+SIMH3F,stock,stock,non_financial,SIMPAR S.A.,07415333000120,25003,Transportation,,active
+SLCE3,stock,stock,non_financial,SLC AGRICOLA SA,89096457000155,20745,Consumo Não Cíclico,Agricultura,active
+SLCE3F,stock,stock,non_financial,SLC AGRICOLA SA,89096457000155,20745,Process Industries,,active
+SMFT3,stock,stock,non_financial,SMARTFIT ESCOLA DE GINÁSTICA E DANÇA S.A.,07594978000178,24260,Consumo Cíclico,Atividades Esportivas,active
+SMFT3F,stock,stock,non_financial,SMARTFIT ESCOLA DE GINÁSTICA E DANÇA S.A.,07594978000178,24260,Consumer Services,,active
+SMTO3,stock,stock,non_financial,SÃO MARTINHO SA,51466860000156,20516,Consumo Não Cíclico,Açúcar e Álcool,active
+SOJA3,stock,stock,non_financial,BOA SAFRA SEMENTES S.A,10807374000177,25704,Consumo Não Cíclico,Agricultura,active
+SOJA3F,stock,stock,non_financial,BOA SAFRA SEMENTES S.A,10807374000177,25704,Process Industries,,active
+SOND5,stock,stock,non_financial,SONDOTECNICA ENGENHARIA SOLOS S.A.,33386210000119,10880,Industrial Services,,active
+SOND5F,stock,stock,non_financial,SONDOTECNICA ENGENHARIA SOLOS S.A.,33386210000119,10880,Industrial Services,,active
+SOND6F,stock,stock,non_financial,SONDOTECNICA ENGENHARIA SOLOS S.A.,33386210000119,10880,Industrial Services,,active
+SUZB3,stock,stock,non_financial,SUZANO S.A.,16404287000155,13986,Materiais Básicos,Papel e Celulose,active
+SUZB3F,stock,stock,non_financial,SUZANO S.A.,16404287000155,13986,Process Industries,,active
+SYNE3,stock,stock,non_financial,SYN PROP & TECH S.A.,08801621000186,21040,Construção e Imobiliário,Exploração de Imóveis,active
+TAEE11,stock,unit,non_financial,TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.,07859971000130,20257,Energia,Energia Elétrica,active
+TAEE11F,stock,stock,non_financial,TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.,07859971000130,20257,Industrial Services,,active
+TAEE3,stock,stock,non_financial,TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.,07859971000130,20257,Energia,Energia Elétrica,active
+TAEE3F,stock,stock,non_financial,TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.,07859971000130,20257,Industrial Services,,active
+TAEE4,stock,stock,non_financial,TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.,07859971000130,20257,Industrial Services,,active
+TAEE4F,stock,stock,non_financial,TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.,07859971000130,20257,Industrial Services,,active
+TASA3,stock,stock,non_financial,TAURUS ARMAS S.A.,92781335000102,6173,Bens Industriais,Armas e Munições,active
+TASA3F,stock,stock,non_financial,TAURUS ARMAS S.A.,92781335000102,6173,Electronic Technology,,active
+TASA4,stock,stock,non_financial,TAURUS ARMAS S.A.,92781335000102,6173,Electronic Technology,,active
+TASA4F,stock,stock,non_financial,TAURUS ARMAS S.A.,92781335000102,6173,Electronic Technology,,active
+TCSA3,stock,stock,non_financial,TECNISA S/A,08065557000112,20435,Construção e Imobiliário,Incorporações,active
+TCSA3F,stock,stock,non_financial,TECNISA S/A,08065557000112,20435,Finance,,active
+TECN3,stock,stock,non_financial,TECHNOS SA,09295063000197,22519,Consumo Cíclico,Acessórios,active
+TECN3F,stock,stock,non_financial,TECHNOS SA,09295063000197,22519,Consumer Durables,,active
+TELB3,stock,stock,non_financial,TELEC. BRASILEIRAS S.A. - TELEBRÁS,00336701000104,11258,Telecomunicações,Telecomunicações,active
+TEND3,stock,stock,non_financial,CONSTRUTORA TENDA S/A,71476527000135,21148,Construção e Imobiliário,Incorporações,active
+TEND3F,stock,stock,non_financial,CONSTRUTORA TENDA S/A,71476527000135,21148,Finance,,active
+TFCO4,stock,stock,non_financial,TRACK & FIELD CO S.A,59418806000147,25208,Consumo Cíclico,Vestuário,active
+TFCO4F,stock,stock,non_financial,TRACK & FIELD CO S.A,59418806000147,25208,Retail Trade,,active
+TGMA3,stock,stock,non_financial,TEGMA GESTÃO LOGÍSTICA SA,02351144000118,20800,Bens Industriais,Transporte Rodoviário,active
+TIMS3,stock,stock,non_financial,TIM S.A.,02421421000111,24929,Telecomunicações,Telecomunicações,active
+TIMS3F,stock,stock,non_financial,TIM S.A.,02421421000111,24929,Communications,,active
+TOKY3,stock,stock,non_financial,GRUPO TOKY S.A. - EM RECUPERAÇÃO JUDICIAL,31553627000101,25461,Comércio (Atacado e Varejo),Comércio (Atacado e Varejo),active
+TOTS3,stock,stock,non_financial,TOTVS S.A,53113791000122,19992,Tecnologia,Programas e Serviços,active
+TOTS3F,stock,stock,non_financial,TOTVS S.A,53113791000122,19992,Technology Services,,active
+TPIS3,stock,stock,non_financial,TPI - TRIUNFO PARTICIPACOES E INVESTIMENTOS S.A.,03014553000191,19330,Infraestrutura,Exploração de Rodovias,active
+TRIS3,stock,stock,non_financial,TRISUL S/A,08811643000127,21130,Construção e Imobiliário,Incorporações,active
+TRIS3F,stock,stock,non_financial,TRISUL S/A,08811643000127,21130,Consumer Durables,,active
+TTEN3,stock,stock,non_financial,TRÊS TENTOS AGROINDUSTRIAL S.A.,94813102000170,25950,Consumo Não Cíclico,Agricultura,active
+TTEN3F,stock,stock,non_financial,TRÊS TENTOS AGROINDUSTRIAL S.A.,94813102000170,25950,Commercial Services,,active
+TUPY3,stock,stock,non_financial,TUPY SA,84683374000149,6343,Consumo Cíclico,Material Rodoviário,active
+TUPY3F,stock,stock,non_financial,TUPY SA,84683374000149,6343,Producer Manufacturing,,active
+UCAS3,stock,stock,non_financial,UNICASA INDÚSTRIA DE MÓVEIS S.A.,90441460000148,22780,Consumo Cíclico,Móveis,active
+UCAS3F,stock,stock,non_financial,UNICASA INDÚSTRIA DE MÓVEIS S.A.,90441460000148,22780,Consumer Durables,,active
+UGPA3,stock,stock,non_financial,ULTRAPAR PARTICIPAÇÕES SA,33256439000139,18465,Energia,"Exploração, Refino e Distribuição",active
+UNIP3,stock,stock,non_financial,UNIPAR CARBOCLORO S.A.,33958695000178,11592,Materiais Básicos,Químicos Diversos,active
+UNIP3F,stock,stock,non_financial,UNIPAR CARBOCLORO S.A.,33958695000178,11592,Process Industries,,active
+UNIP5,stock,stock,non_financial,UNIPAR CARBOCLORO S.A.,33958695000178,11592,Process Industries,,active
+UNIP5F,stock,stock,non_financial,UNIPAR CARBOCLORO S.A.,33958695000178,11592,Process Industries,,active
+UNIP6,stock,stock,non_financial,UNIPAR CARBOCLORO S.A.,33958695000178,11592,Process Industries,,active
+UNIP6F,stock,stock,non_financial,UNIPAR CARBOCLORO S.A.,33958695000178,11592,Process Industries,,active
+USIM3,stock,stock,non_financial,USINAS SID DE MINAS GERAIS S.A.-USIMINAS,60894730000105,14320,Materiais Básicos,Siderurgia,active
+USIM3F,stock,stock,non_financial,USINAS SID DE MINAS GERAIS S.A.-USIMINAS,60894730000105,14320,Non-Energy Minerals,,active
+USIM5,stock,stock,non_financial,USINAS SID DE MINAS GERAIS S.A.-USIMINAS,60894730000105,14320,Materiais Básicos,Siderurgia,active
+USIM5F,stock,stock,non_financial,USINAS SID DE MINAS GERAIS S.A.-USIMINAS,60894730000105,14320,Non-Energy Minerals,,active
+USIM6,stock,stock,non_financial,USINAS SID DE MINAS GERAIS S.A.-USIMINAS,60894730000105,14320,Non-Energy Minerals,,active
+USIM6F,stock,stock,non_financial,USINAS SID DE MINAS GERAIS S.A.-USIMINAS,60894730000105,14320,Non-Energy Minerals,,active
+VALE3,stock,stock,non_financial,VALE S.A.,33592510000154,4170,Materiais Básicos,Mineração de Minerais Metálicos,active
+VALE3F,stock,stock,non_financial,VALE S.A.,33592510000154,4170,Non-Energy Minerals,,active
+VAMO3,stock,stock,non_financial,"VAMOS LOCAÇÃO DE CAMINHÕES, MÁQUINAS E EQUIPAMENTOS S.A.",23373000000132,24716,Consumo Cíclico,Aluguel de Carros,active
+VBBR3,stock,stock,non_financial,VIBRA ENERGIA S/A,34274233000102,24295,Energia,"Exploração, Refino e Distribuição",active
+VBBR3F,stock,stock,non_financial,VIBRA ENERGIA S/A,34274233000102,24295,Retail Trade,,active
+VITT3,stock,stock,non_financial,VITTIA S.A.,45365558000109,25763,Materiais Básicos,Fertilizantes e Defensivos,active
+VITT3F,stock,stock,non_financial,VITTIA S.A.,45365558000109,25763,Process Industries,,active
+VIVA3,stock,stock,non_financial,VIVARA PARTICIPAÇÕES S.A.,33839910000111,24805,Consumo Cíclico,Acessórios,active
+VIVR3,stock,stock,non_financial,VIVER INCORPORADORA E CONSTRUTORA S.A,67571414000141,20702,Construção e Imobiliário,Incorporações,active
+VIVR3F,stock,stock,non_financial,VIVER INCORPORADORA E CONSTRUTORA S.A,67571414000141,20702,Consumer Durables,,active
+VIVT3,stock,stock,non_financial,TELEFÔNICA BRASIL S.A.,02558157000162,17671,Telecomunicações,Telecomunicações,active
+VIVT3F,stock,stock,non_financial,TELEFÔNICA BRASIL S.A.,02558157000162,17671,Communications,,active
+VLID3,stock,stock,non_financial,VALID SOLUÇÕES S.A.,33113309000147,20028,Serviços,Serviços Diversos,active
+VLID3F,stock,stock,non_financial,VALID SOLUÇÕES S.A.,33113309000147,20028,Commercial Services,,active
+VSTE3,stock,stock,non_financial,VESTE SA ESTILO,49669856000143,21440,Consumo Cíclico,Tecidos. Vestuário e Calçados,active
+VSTE3F,stock,stock,non_financial,VESTE SA ESTILO,49669856000143,21440,Consumer Non-Durables,,active
+VTRU3,stock,stock,non_financial,VITRU EDUCAÇÃO S.A.,20512706000140,27057,Educação,Serviços Educacionais,active
+VTRU3F,stock,stock,non_financial,VITRU EDUCAÇÃO S.A.,20512706000140,27057,Commercial Services,,active
+VULC3,stock,stock,non_financial,VULCABRAS S.A.,50926955000142,11762,Consumo Cíclico,Calçados,active
+VULC3F,stock,stock,non_financial,VULCABRAS S.A.,50926955000142,11762,Consumer Non-Durables,,active
+VVEO3,stock,stock,non_financial,CM HOSPITALAR S.A,12420164000157,25682,Consumo Não Cíclico,Medicamentos e Outros Produtos,active
+VVEO3F,stock,stock,non_financial,CM HOSPITALAR S.A,12420164000157,25682,Distribution Services,,active
+WDCN3,stock,stock,non_financial,LIVETECH DA BAHIA INDÚSTRIA E COMÉRCIO S.A.,05917486000140,25895,Comércio (Atacado e Varejo),Comércio (Atacado e Varejo),active
+WEGE3,stock,stock,non_financial,WEG SA,84429695000111,5410,Bens Industriais,Máquinas e Equipamentos,active
+WEGE3F,stock,stock,non_financial,WEG SA,84429695000111,5410,Producer Manufacturing,,active
+WEST3,stock,stock,non_financial,WESTWING COMÉRCIO VAREJISTA S.A.,14776142000150,25518,Consumo Cíclico,Móveis,active
+WHRL3,stock,stock,non_financial,WHIRLPOOL S.A,59105999000186,14346,Consumo Cíclico,Eletrodomésticos,active
+WHRL3F,stock,stock,non_financial,WHIRLPOOL S.A,59105999000186,14346,Consumer Durables,,active
+WHRL4,stock,stock,non_financial,WHIRLPOOL S.A,59105999000186,14346,Consumer Durables,,active
+WHRL4F,stock,stock,non_financial,WHIRLPOOL S.A,59105999000186,14346,Consumer Durables,,active
+WIZC3,stock,stock,non_financial,WIZ CO PARTICIPAÇÕES E CORRETAGEM DE SEGUROS S.A.,42278473000103,23590,Serviços Financeiros,Corretoras de Seguros e Resseguros,active
+WIZC3F,stock,stock,non_financial,WIZ CO PARTICIPAÇÕES E CORRETAGEM DE SEGUROS S.A.,42278473000103,23590,Finance,,active
+WLMM3,stock,stock,non_financial,WLM PART. E COMÉRCIO DE MÁQUINAS E VEÍCULOS S.A.,33228024000151,11070,Consumo Cíclico,Material de Transporte,active
+WLMM3F,stock,stock,non_financial,WLM PART. E COMÉRCIO DE MÁQUINAS E VEÍCULOS S.A.,33228024000151,11070,Distribution Services,,active
+WLMM4,stock,stock,non_financial,WLM PART. E COMÉRCIO DE MÁQUINAS E VEÍCULOS S.A.,33228024000151,11070,Distribution Services,,active
+WLMM4F,stock,stock,non_financial,WLM PART. E COMÉRCIO DE MÁQUINAS E VEÍCULOS S.A.,33228024000151,11070,Distribution Services,,active
+YDUQ3,stock,stock,non_financial,YDUQS PARTICIPACOES S.A.,08807432000110,21016,Educação,Serviços Educacionais,active
+YDUQ3F,stock,stock,non_financial,YDUQS PARTICIPACOES S.A.,08807432000110,21016,Commercial Services,,active

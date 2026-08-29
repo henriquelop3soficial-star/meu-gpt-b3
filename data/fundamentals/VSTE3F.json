@@ -1,0 +1,71 @@
+{
+  "ticker": "VSTE3F",
+  "asset_type": "stock",
+  "issuer_name": "VESTE SA ESTILO",
+  "cnpj": "49669856000143",
+  "cvm_code": "21440",
+  "updated_at": "2026-08-29T01:16:41.934021+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 1109824000.0,
+      "net_income": 22779000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1032693000.0,
+      "cash_and_equivalents": 31208000.0,
+      "short_term_debt": 56153000.0,
+      "long_term_debt": 258638000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 1111555000.0,
+      "net_income": 665000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1043284000.0,
+      "cash_and_equivalents": 35290000.0,
+      "short_term_debt": 107806000.0,
+      "long_term_debt": 240088000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 1230948000.0,
+      "net_income": 24409000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1065477000.0,
+      "cash_and_equivalents": 40503000.0,
+      "short_term_debt": 95191000.0,
+      "long_term_debt": 218953000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

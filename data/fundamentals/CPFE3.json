@@ -1,0 +1,71 @@
+{
+  "ticker": "CPFE3",
+  "asset_type": "stock",
+  "issuer_name": "CPFL ENERGIA SA",
+  "cnpj": "02429144000193",
+  "cvm_code": "18660",
+  "updated_at": "2026-08-29T01:16:41.772669+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 39743190000.0,
+      "net_income": 5537162000.0,
+      "earnings_per_share": 0.0,
+      "equity": 19998753000.0,
+      "cash_and_equivalents": 4435186000.0,
+      "short_term_debt": 4512551000.0,
+      "long_term_debt": 21924552000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 42628210000.0,
+      "net_income": 5761554000.0,
+      "earnings_per_share": 0.0,
+      "equity": 21795029000.0,
+      "cash_and_equivalents": 1973401000.0,
+      "short_term_debt": 5402972000.0,
+      "long_term_debt": 23385366000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 44367780000.0,
+      "net_income": 5742553000.0,
+      "earnings_per_share": 0.0,
+      "equity": 23504509000.0,
+      "cash_and_equivalents": 2229320000.0,
+      "short_term_debt": 4895705000.0,
+      "long_term_debt": 24160022000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

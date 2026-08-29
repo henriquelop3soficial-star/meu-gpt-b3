@@ -1,0 +1,71 @@
+{
+  "ticker": "MWET4F",
+  "asset_type": "stock",
+  "issuer_name": "WETZEL S.A.",
+  "cnpj": "84683671000194",
+  "cvm_code": "11991",
+  "updated_at": "2026-08-29T01:16:41.851481+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 268096000.0,
+      "net_income": -25338000.0,
+      "earnings_per_share": 0.0,
+      "equity": -5792000.0,
+      "cash_and_equivalents": 303000.0,
+      "short_term_debt": 43660000.0,
+      "long_term_debt": 36499000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 279779000.0,
+      "net_income": 32880000.0,
+      "earnings_per_share": 0.0,
+      "equity": 26192000.0,
+      "cash_and_equivalents": 526000.0,
+      "short_term_debt": 59052000.0,
+      "long_term_debt": 25372000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 197561000.0,
+      "net_income": -28578000.0,
+      "earnings_per_share": 0.0,
+      "equity": 6606000.0,
+      "cash_and_equivalents": 35000.0,
+      "short_term_debt": 73926000.0,
+      "long_term_debt": 37900000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

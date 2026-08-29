@@ -1,0 +1,74 @@
+{
+  "ticker": "BPAC3",
+  "asset_type": "stock",
+  "issuer_name": "BANCO BTG PACTUAL S/A",
+  "cnpj": "30306294000145",
+  "cvm_code": "22616",
+  "updated_at": "2026-08-29T01:16:41.757280+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "bank",
+      "revenue": 24617325000.0,
+      "net_income": null,
+      "earnings_per_share": 0.0,
+      "equity": 0.0,
+      "cash_and_equivalents": 2439095000.0,
+      "short_term_debt": null,
+      "long_term_debt": null,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados.",
+        "Dívida de banco não é calculada: depósitos e captações não equivalem à dívida corporativa de empresa não financeira."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "bank",
+      "revenue": 34660017000.0,
+      "net_income": null,
+      "earnings_per_share": 0.0,
+      "equity": 0.0,
+      "cash_and_equivalents": 4709224000.0,
+      "short_term_debt": null,
+      "long_term_debt": null,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados.",
+        "Dívida de banco não é calculada: depósitos e captações não equivalem à dívida corporativa de empresa não financeira."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "bank",
+      "revenue": 28145817000.0,
+      "net_income": null,
+      "earnings_per_share": 0.0,
+      "equity": 0.0,
+      "cash_and_equivalents": 5815072000.0,
+      "short_term_debt": null,
+      "long_term_debt": null,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados.",
+        "Dívida de banco não é calculada: depósitos e captações não equivalem à dívida corporativa de empresa não financeira."
+      ]
+    }
+  ],
+  "errors": []
+}

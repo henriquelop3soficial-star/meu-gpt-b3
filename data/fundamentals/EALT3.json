@@ -1,0 +1,71 @@
+{
+  "ticker": "EALT3",
+  "asset_type": "stock",
+  "issuer_name": "ELECTRO AÇO ALTONA S/A",
+  "cnpj": "82643537000134",
+  "cvm_code": "5380",
+  "updated_at": "2026-08-29T01:16:41.786720+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 495479000.0,
+      "net_income": 49313000.0,
+      "earnings_per_share": 0.0,
+      "equity": 243576000.0,
+      "cash_and_equivalents": 14899000.0,
+      "short_term_debt": 70555000.0,
+      "long_term_debt": 56799000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 564238000.0,
+      "net_income": 66541000.0,
+      "earnings_per_share": 0.0,
+      "equity": 295589000.0,
+      "cash_and_equivalents": 12904000.0,
+      "short_term_debt": 83773000.0,
+      "long_term_debt": 37169000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 556054000.0,
+      "net_income": 91042000.0,
+      "earnings_per_share": 0.0,
+      "equity": 355837000.0,
+      "cash_and_equivalents": 30061000.0,
+      "short_term_debt": 44145000.0,
+      "long_term_debt": 63085000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

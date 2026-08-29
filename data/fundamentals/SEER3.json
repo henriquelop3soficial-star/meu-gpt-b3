@@ -1,0 +1,71 @@
+{
+  "ticker": "SEER3",
+  "asset_type": "stock",
+  "issuer_name": "SER EDUCACIONAL S.A.",
+  "cnpj": "04986320000113",
+  "cvm_code": "23221",
+  "updated_at": "2026-08-29T01:16:41.903644+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 1830934000.0,
+      "net_income": -28044000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1209487000.0,
+      "cash_and_equivalents": 215267000.0,
+      "short_term_debt": 241164000.0,
+      "long_term_debt": 613392000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 1981354000.0,
+      "net_income": -1162000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1208464000.0,
+      "cash_and_equivalents": 370728000.0,
+      "short_term_debt": 292483000.0,
+      "long_term_debt": 671850000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 2216531000.0,
+      "net_income": 214436000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1342852000.0,
+      "cash_and_equivalents": 261932000.0,
+      "short_term_debt": 251665000.0,
+      "long_term_debt": 464770000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

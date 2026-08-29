@@ -1,0 +1,71 @@
+{
+  "ticker": "RSUL4",
+  "asset_type": "stock",
+  "issuer_name": "METALURGICA RIOSULENSE SA",
+  "cnpj": "85778074000106",
+  "cvm_code": "13439",
+  "updated_at": "2026-08-29T01:16:41.886496+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 341433000.0,
+      "net_income": 54126000.0,
+      "earnings_per_share": 0.0,
+      "equity": 189111000.0,
+      "cash_and_equivalents": 6475000.0,
+      "short_term_debt": 3678000.0,
+      "long_term_debt": 3118000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 380752000.0,
+      "net_income": 58732000.0,
+      "earnings_per_share": 0.0,
+      "equity": 235827000.0,
+      "cash_and_equivalents": 1351000.0,
+      "short_term_debt": 5785000.0,
+      "long_term_debt": 11861000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 420460000.0,
+      "net_income": 64448000.0,
+      "earnings_per_share": 0.0,
+      "equity": 274006000.0,
+      "cash_and_equivalents": 2392000.0,
+      "short_term_debt": 2974000.0,
+      "long_term_debt": 29180000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

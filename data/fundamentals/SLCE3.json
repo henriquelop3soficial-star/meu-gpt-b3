@@ -1,0 +1,71 @@
+{
+  "ticker": "SLCE3",
+  "asset_type": "stock",
+  "issuer_name": "SLC AGRICOLA SA",
+  "cnpj": "89096457000155",
+  "cvm_code": "20745",
+  "updated_at": "2026-08-29T01:16:41.906690+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 9122124000.0,
+      "net_income": 937980000.0,
+      "earnings_per_share": 0.0,
+      "equity": 5241866000.0,
+      "cash_and_equivalents": 1613703000.0,
+      "short_term_debt": 1413552000.0,
+      "long_term_debt": 2979827000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 7803627000.0,
+      "net_income": 481723000.0,
+      "earnings_per_share": 0.0,
+      "equity": 4104542000.0,
+      "cash_and_equivalents": 1979575000.0,
+      "short_term_debt": 1685130000.0,
+      "long_term_debt": 3913274000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 9759214000.0,
+      "net_income": 565213000.0,
+      "earnings_per_share": 0.0,
+      "equity": 5655435000.0,
+      "cash_and_equivalents": 2647586000.0,
+      "short_term_debt": 1591681000.0,
+      "long_term_debt": 6136603000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

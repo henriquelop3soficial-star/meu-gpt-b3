@@ -1,0 +1,71 @@
+{
+  "ticker": "LREN3F",
+  "asset_type": "stock",
+  "issuer_name": "LOJAS RENNER SA",
+  "cnpj": "92754738000162",
+  "cvm_code": "8133",
+  "updated_at": "2026-08-29T01:16:41.835993+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 13647849000.0,
+      "net_income": 976259000.0,
+      "earnings_per_share": 0.0,
+      "equity": 10047221000.0,
+      "cash_and_equivalents": 2532187000.0,
+      "short_term_debt": 1090731000.0,
+      "long_term_debt": 836169000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 14436366000.0,
+      "net_income": 1196668000.0,
+      "earnings_per_share": 0.0,
+      "equity": 10772951000.0,
+      "cash_and_equivalents": 1926110000.0,
+      "short_term_debt": 931760000.0,
+      "long_term_debt": 13740000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 15829460000.0,
+      "net_income": 1457566000.0,
+      "earnings_per_share": 0.0,
+      "equity": 10456281000.0,
+      "cash_and_equivalents": 978066000.0,
+      "short_term_debt": 21087000.0,
+      "long_term_debt": 358788000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

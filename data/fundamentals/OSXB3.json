@@ -1,0 +1,71 @@
+{
+  "ticker": "OSXB3",
+  "asset_type": "stock",
+  "issuer_name": "OSX BRASIL S.A. - EM RECUPERAÇÃO JUDICIAL",
+  "cnpj": "09112685000132",
+  "cvm_code": "21342",
+  "updated_at": "2026-08-29T01:16:41.857794+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 45246000.0,
+      "net_income": -1191067000.0,
+      "earnings_per_share": 0.0,
+      "equity": -6808783000.0,
+      "cash_and_equivalents": 2141000.0,
+      "short_term_debt": 0.0,
+      "long_term_debt": 6049337000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 64419000.0,
+      "net_income": -1591264000.0,
+      "earnings_per_share": 0.0,
+      "equity": -8404492000.0,
+      "cash_and_equivalents": 614000.0,
+      "short_term_debt": 0.0,
+      "long_term_debt": 6721366000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 82656000.0,
+      "net_income": -1106833000.0,
+      "earnings_per_share": 0.0,
+      "equity": -9918400000.0,
+      "cash_and_equivalents": 9315000.0,
+      "short_term_debt": 0.0,
+      "long_term_debt": 7675526000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

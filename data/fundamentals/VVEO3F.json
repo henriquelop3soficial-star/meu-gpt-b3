@@ -1,0 +1,71 @@
+{
+  "ticker": "VVEO3F",
+  "asset_type": "stock",
+  "issuer_name": "CM HOSPITALAR S.A",
+  "cnpj": "12420164000157",
+  "cvm_code": "25682",
+  "updated_at": "2026-08-29T01:16:41.936387+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 11083830000.0,
+      "net_income": 359916000.0,
+      "earnings_per_share": 0.0,
+      "equity": 3289360000.0,
+      "cash_and_equivalents": 472702000.0,
+      "short_term_debt": 391746000.0,
+      "long_term_debt": 2835178000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 11583371000.0,
+      "net_income": -1415491000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1926522000.0,
+      "cash_and_equivalents": 543666000.0,
+      "short_term_debt": 402752000.0,
+      "long_term_debt": 3469652000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 11566926000.0,
+      "net_income": 18239000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1937089000.0,
+      "cash_and_equivalents": 573643000.0,
+      "short_term_debt": 997921000.0,
+      "long_term_debt": 2442465000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}

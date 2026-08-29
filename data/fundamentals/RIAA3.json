@@ -1,0 +1,71 @@
+{
+  "ticker": "RIAA3",
+  "asset_type": "stock",
+  "issuer_name": "GUARARAPES CONFECÇÕES SA",
+  "cnpj": "08402943000152",
+  "cvm_code": "4669",
+  "updated_at": "2026-08-29T01:16:41.883775+00:00",
+  "annual_financials": [
+    {
+      "year": 2023,
+      "accounting_profile": "non_financial",
+      "revenue": 8795386000.0,
+      "net_income": -34260000.0,
+      "earnings_per_share": 0.0,
+      "equity": 5223165000.0,
+      "cash_and_equivalents": 1285983000.0,
+      "short_term_debt": 1028604000.0,
+      "long_term_debt": 2480252000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2023.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2024,
+      "accounting_profile": "non_financial",
+      "revenue": 9634207000.0,
+      "net_income": 235138000.0,
+      "earnings_per_share": 0.0,
+      "equity": 5403620000.0,
+      "cash_and_equivalents": 1158206000.0,
+      "short_term_debt": 691399000.0,
+      "long_term_debt": 1279597000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 10497046000.0,
+      "net_income": 1475168000.0,
+      "earnings_per_share": 0.0,
+      "equity": 5352712000.0,
+      "cash_and_equivalents": 1415443000.0,
+      "short_term_debt": 497730000.0,
+      "long_term_debt": 1965516000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    }
+  ],
+  "errors": []
+}
