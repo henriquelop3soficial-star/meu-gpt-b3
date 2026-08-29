@@ -4,7 +4,7 @@
   "issuer_name": "BIOMA EDUCAÇÃO S.A.",
   "cnpj": "45987245000192",
   "cvm_code": "701",
-  "updated_at": "2026-08-29T01:35:20.213517+00:00",
+  "updated_at": "2026-08-29T01:45:35.964337+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 85836000.0,
-      "net_income_year_to_date": -10619000.0,
+      "revenue_year_to_date": 170388000.0,
+      "net_income_year_to_date": -27739000.0,
       "equity": 96222000.0,
       "cash_and_equivalents": 11850000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 81381000.0,
-      "net_income_year_to_date": 2131000.0,
+      "revenue_year_to_date": 251769000.0,
+      "net_income_year_to_date": -25993000.0,
       "equity": 97756000.0,
       "cash_and_equivalents": 15109000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 90916000.0,
-      "net_income_year_to_date": -4844000.0,
+      "revenue_year_to_date": 176476000.0,
+      "net_income_year_to_date": 21803000.0,
       "equity": 32421000.0,
       "cash_and_equivalents": 8051000.0,
       "source": {

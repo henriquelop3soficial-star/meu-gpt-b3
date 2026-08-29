@@ -4,7 +4,7 @@
   "issuer_name": "AMERICANAS S.A. - EM RECUPERAÇÃO JUDICIAL",
   "cnpj": "00776574000156",
   "cvm_code": "20990",
-  "updated_at": "2026-08-29T01:35:20.135255+00:00",
+  "updated_at": "2026-08-29T01:45:35.886031+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 3843000000.0,
-      "net_income_year_to_date": -98000000.0,
+      "revenue_year_to_date": 6901000000.0,
+      "net_income_year_to_date": -594000000.0,
       "equity": 4376000000.0,
       "cash_and_equivalents": 605000000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2690000000.0,
-      "net_income_year_to_date": 367000000.0,
+      "revenue_year_to_date": 8615000000.0,
+      "net_income_year_to_date": -227000000.0,
       "equity": 4737000000.0,
       "cash_and_equivalents": 404000000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 3302000000.0,
-      "net_income_year_to_date": -274000000.0,
+      "revenue_year_to_date": 6390000000.0,
+      "net_income_year_to_date": -603000000.0,
       "equity": 4155000000.0,
       "cash_and_equivalents": 267000000.0,
       "source": {

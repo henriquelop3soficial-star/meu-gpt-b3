@@ -4,7 +4,7 @@
   "issuer_name": "VULCABRAS S.A.",
   "cnpj": "50926955000142",
   "cvm_code": "11762",
-  "updated_at": "2026-08-29T01:35:20.979185+00:00",
+  "updated_at": "2026-08-29T01:45:36.722644+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 894811000.0,
-      "net_income_year_to_date": 353277000.0,
+      "revenue_year_to_date": 1596005000.0,
+      "net_income_year_to_date": 459342000.0,
       "equity": 2356356000.0,
       "cash_and_equivalents": 211761000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 955676000.0,
-      "net_income_year_to_date": 547172000.0,
+      "revenue_year_to_date": 2551681000.0,
+      "net_income_year_to_date": 1006514000.0,
       "equity": 2503380000.0,
       "cash_and_equivalents": 567232000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 994840000.0,
-      "net_income_year_to_date": 143721000.0,
+      "revenue_year_to_date": 1771222000.0,
+      "net_income_year_to_date": 223854000.0,
       "equity": 2652356000.0,
       "cash_and_equivalents": 355578000.0,
       "source": {

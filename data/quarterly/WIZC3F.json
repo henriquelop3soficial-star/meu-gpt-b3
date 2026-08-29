@@ -4,7 +4,7 @@
   "issuer_name": "WIZ CO PARTICIPAÇÕES E CORRETAGEM DE SEGUROS S.A.",
   "cnpj": "42278473000103",
   "cvm_code": "23590",
-  "updated_at": "2026-08-29T01:35:20.999398+00:00",
+  "updated_at": "2026-08-29T01:45:36.742343+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 358073000.0,
-      "net_income_year_to_date": 93162000.0,
+      "revenue_year_to_date": 697649000.0,
+      "net_income_year_to_date": 177225000.0,
       "equity": 1266081000.0,
       "cash_and_equivalents": 13919000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 351702000.0,
-      "net_income_year_to_date": 101659000.0,
+      "revenue_year_to_date": 1049351000.0,
+      "net_income_year_to_date": 278884000.0,
       "equity": 1303364000.0,
       "cash_and_equivalents": 68956000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 286313000.0,
-      "net_income_year_to_date": 83305000.0,
+      "revenue_year_to_date": 588919000.0,
+      "net_income_year_to_date": 155969000.0,
       "equity": 1342950000.0,
       "cash_and_equivalents": 11547000.0,
       "source": {

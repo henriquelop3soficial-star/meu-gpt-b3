@@ -4,7 +4,7 @@
   "issuer_name": "BANCO BRADESCO S.A.",
   "cnpj": "60746948000112",
   "cvm_code": "906",
-  "updated_at": "2026-08-29T01:35:20.197243+00:00",
+  "updated_at": "2026-08-29T01:45:35.947780+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "bank",
-      "revenue_year_to_date": 65314006000.0,
-      "net_income_year_to_date": 6139265000.0,
+      "revenue_year_to_date": 125449735000.0,
+      "net_income_year_to_date": 11814927000.0,
       "equity": 174542189000.0,
       "cash_and_equivalents": 222829387000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "bank",
-      "revenue_year_to_date": 70374059000.0,
-      "net_income_year_to_date": 5568016000.0,
+      "revenue_year_to_date": 195823794000.0,
+      "net_income_year_to_date": 17382943000.0,
       "equity": 176144427000.0,
       "cash_and_equivalents": 225625971000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "bank",
-      "revenue_year_to_date": 77095555000.0,
-      "net_income_year_to_date": 7245808000.0,
+      "revenue_year_to_date": 155209600000.0,
+      "net_income_year_to_date": 12476353000.0,
       "equity": 182736591000.0,
       "cash_and_equivalents": 224306799000.0,
       "source": {

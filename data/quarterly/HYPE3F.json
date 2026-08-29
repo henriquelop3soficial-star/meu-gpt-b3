@@ -4,7 +4,7 @@
   "issuer_name": "HYPERA S/A",
   "cnpj": "02932074000191",
   "cvm_code": "21431",
-  "updated_at": "2026-08-29T01:35:20.516432+00:00",
+  "updated_at": "2026-08-29T01:45:36.264192+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2153937000.0,
-      "net_income_year_to_date": 425414000.0,
+      "revenue_year_to_date": 3234843000.0,
+      "net_income_year_to_date": 284272000.0,
       "equity": 11994385000.0,
       "cash_and_equivalents": 1203615000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2227247000.0,
-      "net_income_year_to_date": 456076000.0,
+      "revenue_year_to_date": 5462090000.0,
+      "net_income_year_to_date": 740348000.0,
       "equity": 12255110000.0,
       "cash_and_equivalents": 1863762000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2336699000.0,
-      "net_income_year_to_date": 490236000.0,
+      "revenue_year_to_date": 4354477000.0,
+      "net_income_year_to_date": 837077000.0,
       "equity": 14431129000.0,
       "cash_and_equivalents": 1578512000.0,
       "source": {

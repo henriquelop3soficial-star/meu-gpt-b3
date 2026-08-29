@@ -4,7 +4,7 @@
   "issuer_name": "EUCATEX S.A. INDUSTRIA E COMERCIO",
   "cnpj": "56643018000166",
   "cvm_code": "5770",
-  "updated_at": "2026-08-29T01:35:20.438629+00:00",
+  "updated_at": "2026-08-29T01:45:36.187520+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 784065000.0,
-      "net_income_year_to_date": 84953000.0,
+      "revenue_year_to_date": 1528778000.0,
+      "net_income_year_to_date": 180917000.0,
       "equity": 2727889000.0,
       "cash_and_equivalents": 371398000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 798344000.0,
-      "net_income_year_to_date": 81091000.0,
+      "revenue_year_to_date": 2327122000.0,
+      "net_income_year_to_date": 262010000.0,
       "equity": 2803791000.0,
       "cash_and_equivalents": 340690000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 806078000.0,
-      "net_income_year_to_date": 76410000.0,
+      "revenue_year_to_date": 1589873000.0,
+      "net_income_year_to_date": 262819000.0,
       "equity": 3020220000.0,
       "cash_and_equivalents": 479381000.0,
       "source": {

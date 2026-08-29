@@ -4,7 +4,7 @@
   "issuer_name": "COGNA EDUCAÇÃO S.A.",
   "cnpj": "02800026000140",
   "cvm_code": "17973",
-  "updated_at": "2026-08-29T01:35:20.301647+00:00",
+  "updated_at": "2026-08-29T01:45:36.053276+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 1664600000.0,
-      "net_income_year_to_date": 105897000.0,
+      "revenue_year_to_date": 3292228000.0,
+      "net_income_year_to_date": 200145000.0,
       "equity": 13701682000.0,
       "cash_and_equivalents": 61534000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 1523369000.0,
-      "net_income_year_to_date": 177957000.0,
+      "revenue_year_to_date": 4815597000.0,
+      "net_income_year_to_date": 378102000.0,
       "equity": 13885799000.0,
       "cash_and_equivalents": 20121000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 1960727000.0,
-      "net_income_year_to_date": 148948000.0,
+      "revenue_year_to_date": 4106855000.0,
+      "net_income_year_to_date": 290165000.0,
       "equity": 13744284000.0,
       "cash_and_equivalents": 72401000.0,
       "source": {

@@ -4,7 +4,7 @@
   "issuer_name": "MAHLE METAL LEVE S.A.",
   "cnpj": "60476884000187",
   "cvm_code": "8575",
-  "updated_at": "2026-08-29T01:35:20.582116+00:00",
+  "updated_at": "2026-08-29T01:45:36.329883+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 1369159000.0,
-      "net_income_year_to_date": 126754000.0,
+      "revenue_year_to_date": 2635803000.0,
+      "net_income_year_to_date": 285447000.0,
       "equity": 741289000.0,
       "cash_and_equivalents": 164883000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 1445341000.0,
-      "net_income_year_to_date": 187325000.0,
+      "revenue_year_to_date": 4081144000.0,
+      "net_income_year_to_date": 472772000.0,
       "equity": 879197000.0,
       "cash_and_equivalents": 548903000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 1332204000.0,
-      "net_income_year_to_date": 159518000.0,
+      "revenue_year_to_date": 2588567000.0,
+      "net_income_year_to_date": 373737000.0,
       "equity": 966408000.0,
       "cash_and_equivalents": 488594000.0,
       "source": {

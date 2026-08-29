@@ -4,7 +4,7 @@
   "issuer_name": "NUTRIPLANT INDUSTRIA E COMÉRCIO S/A",
   "cnpj": "51128999000190",
   "cvm_code": "21334",
-  "updated_at": "2026-08-29T01:35:20.676814+00:00",
+  "updated_at": "2026-08-29T01:45:36.424062+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 66161000.0,
-      "net_income_year_to_date": 574000.0,
+      "revenue_year_to_date": 112471000.0,
+      "net_income_year_to_date": -1890000.0,
       "equity": 43263000.0,
       "cash_and_equivalents": 5816000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 54137000.0,
-      "net_income_year_to_date": 1385000.0,
+      "revenue_year_to_date": 166608000.0,
+      "net_income_year_to_date": -1936000.0,
       "equity": 43218000.0,
       "cash_and_equivalents": 2372000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 36776000.0,
-      "net_income_year_to_date": 1108000.0,
+      "revenue_year_to_date": 74141000.0,
+      "net_income_year_to_date": 538000.0,
       "equity": 51076000.0,
       "cash_and_equivalents": 1987000.0,
       "source": {

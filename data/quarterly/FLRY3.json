@@ -4,7 +4,7 @@
   "issuer_name": "FLEURY SA",
   "cnpj": "60840055000131",
   "cvm_code": "21881",
-  "updated_at": "2026-08-29T01:35:20.460757+00:00",
+  "updated_at": "2026-08-29T01:45:36.209234+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2024533000.0,
-      "net_income_year_to_date": 144550000.0,
+      "revenue_year_to_date": 4039606000.0,
+      "net_income_year_to_date": 320380000.0,
       "equity": 5470520000.0,
       "cash_and_equivalents": 7432000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2190979000.0,
-      "net_income_year_to_date": 182248000.0,
+      "revenue_year_to_date": 6230585000.0,
+      "net_income_year_to_date": 502628000.0,
       "equity": 5482672000.0,
       "cash_and_equivalents": 11689000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2316654000.0,
-      "net_income_year_to_date": 219332000.0,
+      "revenue_year_to_date": 4539772000.0,
+      "net_income_year_to_date": 416986000.0,
       "equity": 5518372000.0,
       "cash_and_equivalents": 19060000.0,
       "source": {

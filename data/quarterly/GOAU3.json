@@ -4,7 +4,7 @@
   "issuer_name": "METALURGICA GERDAU SA",
   "cnpj": "92690783000109",
   "cvm_code": "8656",
-  "updated_at": "2026-08-29T01:35:20.487727+00:00",
+  "updated_at": "2026-08-29T01:45:36.235686+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 17525750000.0,
-      "net_income_year_to_date": 862730000.0,
+      "revenue_year_to_date": 34901086000.0,
+      "net_income_year_to_date": 1618636000.0,
       "equity": 55172657000.0,
       "cash_and_equivalents": 8514872000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 17983143000.0,
-      "net_income_year_to_date": 1089920000.0,
+      "revenue_year_to_date": 52884229000.0,
+      "net_income_year_to_date": 2708556000.0,
       "equity": 54791384000.0,
       "cash_and_equivalents": 9411541000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 17870632000.0,
-      "net_income_year_to_date": 1464320000.0,
+      "revenue_year_to_date": 34586293000.0,
+      "net_income_year_to_date": 2476110000.0,
       "equity": 53796916000.0,
       "cash_and_equivalents": 5185953000.0,
       "source": {

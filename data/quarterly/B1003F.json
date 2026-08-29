@@ -4,7 +4,7 @@
   "issuer_name": "B100 S.A.",
   "cnpj": "52270350000171",
   "cvm_code": "27634",
-  "updated_at": "2026-08-29T01:35:20.182587+00:00",
+  "updated_at": "2026-08-29T01:45:35.933291+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-06-30",
@@ -13,7 +13,7 @@
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
       "revenue_year_to_date": 29505000.0,
-      "net_income_year_to_date": 12350000.0,
+      "net_income_year_to_date": 12337000.0,
       "equity": 476676000.0,
       "cash_and_equivalents": 15904000.0,
       "source": {
@@ -32,8 +32,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 10019000.0,
-      "net_income_year_to_date": -431512000.0,
+      "revenue_year_to_date": 14357000.0,
+      "net_income_year_to_date": -419175000.0,
       "equity": 45164000.0,
       "cash_and_equivalents": 7100000.0,
       "source": {
@@ -73,7 +73,7 @@
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
       "revenue_year_to_date": 2487000.0,
-      "net_income_year_to_date": -2793000.0,
+      "net_income_year_to_date": -7508000.0,
       "equity": 64352000.0,
       "cash_and_equivalents": 1181000.0,
       "source": {

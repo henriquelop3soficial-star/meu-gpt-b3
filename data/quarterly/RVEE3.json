@@ -4,7 +4,7 @@
   "issuer_name": "REVEE S.A.",
   "cnpj": "52841191000118",
   "cvm_code": "27650",
-  "updated_at": "2026-08-29T01:35:20.824159+00:00",
+  "updated_at": "2026-08-29T01:45:36.568677+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-06-30",
@@ -32,8 +32,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 396000.0,
-      "net_income_year_to_date": 20948000.0,
+      "revenue_year_to_date": 733000.0,
+      "net_income_year_to_date": 18233000.0,
       "equity": 138233000.0,
       "cash_and_equivalents": 13501000.0,
       "source": {
@@ -72,8 +72,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 933000.0,
-      "net_income_year_to_date": -33542000.0,
+      "revenue_year_to_date": 1215000.0,
+      "net_income_year_to_date": -37243000.0,
       "equity": 36533000.0,
       "cash_and_equivalents": 1096000.0,
       "source": {

@@ -4,7 +4,7 @@
   "issuer_name": "VESTE SA ESTILO",
   "cnpj": "49669856000143",
   "cvm_code": "21440",
-  "updated_at": "2026-08-29T01:35:20.972805+00:00",
+  "updated_at": "2026-08-29T01:45:36.716416+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 319906000.0,
-      "net_income_year_to_date": 15597000.0,
+      "revenue_year_to_date": 585776000.0,
+      "net_income_year_to_date": 279000.0,
       "equity": 1045955000.0,
       "cash_and_equivalents": 33516000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 309400000.0,
-      "net_income_year_to_date": 7927000.0,
+      "revenue_year_to_date": 895176000.0,
+      "net_income_year_to_date": 8206000.0,
       "equity": 1054905000.0,
       "cash_and_equivalents": 36855000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 351232000.0,
-      "net_income_year_to_date": 11970000.0,
+      "revenue_year_to_date": 655798000.0,
+      "net_income_year_to_date": 23343000.0,
       "equity": 1089034000.0,
       "cash_and_equivalents": 31353000.0,
       "source": {

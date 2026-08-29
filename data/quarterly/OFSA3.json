@@ -4,7 +4,7 @@
   "issuer_name": "OUROFINO S.A.",
   "cnpj": "20258278000170",
   "cvm_code": "23507",
-  "updated_at": "2026-08-29T01:35:20.683104+00:00",
+  "updated_at": "2026-08-29T01:45:36.430322+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 259194000.0,
-      "net_income_year_to_date": 24243000.0,
+      "revenue_year_to_date": 448760000.0,
+      "net_income_year_to_date": 26291000.0,
       "equity": 657595000.0,
       "cash_and_equivalents": 147599000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 356505000.0,
-      "net_income_year_to_date": 54728000.0,
+      "revenue_year_to_date": 805265000.0,
+      "net_income_year_to_date": 81019000.0,
       "equity": 712509000.0,
       "cash_and_equivalents": 206558000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 338673000.0,
-      "net_income_year_to_date": 18717000.0,
+      "revenue_year_to_date": 589142000.0,
+      "net_income_year_to_date": 40074000.0,
       "equity": 826956000.0,
       "cash_and_equivalents": 219977000.0,
       "source": {

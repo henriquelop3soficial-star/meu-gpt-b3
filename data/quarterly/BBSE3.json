@@ -4,7 +4,7 @@
   "issuer_name": "BB SEGURIDADE PARTICIPAÇÕES S.A.",
   "cnpj": "17344597000194",
   "cvm_code": "23159",
-  "updated_at": "2026-08-29T01:35:20.200516+00:00",
+  "updated_at": "2026-08-29T01:45:35.951122+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -33,7 +33,7 @@
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
       "revenue_year_to_date": 0.0,
-      "net_income_year_to_date": 2415912000.0,
+      "net_income_year_to_date": 4380181000.0,
       "equity": 10494024000.0,
       "cash_and_equivalents": 7075552000.0,
       "source": {
@@ -53,7 +53,7 @@
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
       "revenue_year_to_date": 0.0,
-      "net_income_year_to_date": 2334345000.0,
+      "net_income_year_to_date": 6714526000.0,
       "equity": 12869841000.0,
       "cash_and_equivalents": 6107286000.0,
       "source": {
@@ -93,7 +93,7 @@
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
       "revenue_year_to_date": 0.0,
-      "net_income_year_to_date": 2412732000.0,
+      "net_income_year_to_date": 4552169000.0,
       "equity": 10890345000.0,
       "cash_and_equivalents": 6154557000.0,
       "source": {

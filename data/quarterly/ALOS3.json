@@ -4,7 +4,7 @@
   "issuer_name": "ALLOS S.A.",
   "cnpj": "05878397000132",
   "cvm_code": "22357",
-  "updated_at": "2026-08-29T01:35:20.109669+00:00",
+  "updated_at": "2026-08-29T01:45:35.860390+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 697295000.0,
-      "net_income_year_to_date": 229938000.0,
+      "revenue_year_to_date": 1347726000.0,
+      "net_income_year_to_date": 508041000.0,
       "equity": 14209277000.0,
       "cash_and_equivalents": 105561000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 678318000.0,
-      "net_income_year_to_date": 155922000.0,
+      "revenue_year_to_date": 2026044000.0,
+      "net_income_year_to_date": 663964000.0,
       "equity": 14170953000.0,
       "cash_and_equivalents": 48994000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 721004000.0,
-      "net_income_year_to_date": 325863000.0,
+      "revenue_year_to_date": 1384706000.0,
+      "net_income_year_to_date": 592813000.0,
       "equity": 12948961000.0,
       "cash_and_equivalents": 44899000.0,
       "source": {

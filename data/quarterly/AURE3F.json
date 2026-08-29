@@ -4,7 +4,7 @@
   "issuer_name": "AUREN ENERGIA S.A",
   "cnpj": "28594234000123",
   "cvm_code": "26620",
-  "updated_at": "2026-08-29T01:35:20.158435+00:00",
+  "updated_at": "2026-08-29T01:45:35.909235+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2885529000.0,
-      "net_income_year_to_date": -562853000.0,
+      "revenue_year_to_date": 5837832000.0,
+      "net_income_year_to_date": -508856000.0,
       "equity": 14063603000.0,
       "cash_and_equivalents": 4907414000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 3537391000.0,
-      "net_income_year_to_date": -403695000.0,
+      "revenue_year_to_date": 9375223000.0,
+      "net_income_year_to_date": -912551000.0,
       "equity": 13564283000.0,
       "cash_and_equivalents": 4479368000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 3055499000.0,
-      "net_income_year_to_date": -379061000.0,
+      "revenue_year_to_date": 6130034000.0,
+      "net_income_year_to_date": -980667000.0,
       "equity": 12752850000.0,
       "cash_and_equivalents": 2949774000.0,
       "source": {

@@ -4,7 +4,7 @@
   "issuer_name": "CIA SIDERURGICA NACIONAL",
   "cnpj": "33042730000104",
   "cvm_code": "4030",
-  "updated_at": "2026-08-29T01:35:20.322435+00:00",
+  "updated_at": "2026-08-29T01:45:36.073718+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 10693286000.0,
-      "net_income_year_to_date": -130369000.0,
+      "revenue_year_to_date": 21600915000.0,
+      "net_income_year_to_date": -861949000.0,
       "equity": 16853240000.0,
       "cash_and_equivalents": 18305208000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 11793868000.0,
-      "net_income_year_to_date": 76438000.0,
+      "revenue_year_to_date": 33394783000.0,
+      "net_income_year_to_date": -785511000.0,
       "equity": 17355367000.0,
       "cash_and_equivalents": 16526099000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 11306169000.0,
-      "net_income_year_to_date": -773058000.0,
+      "revenue_year_to_date": 21909941000.0,
+      "net_income_year_to_date": -1328081000.0,
       "equity": 15240376000.0,
       "cash_and_equivalents": 13630963000.0,
       "source": {

@@ -4,7 +4,7 @@
   "issuer_name": "UNICASA INDÚSTRIA DE MÓVEIS S.A.",
   "cnpj": "90441460000148",
   "cvm_code": "22780",
-  "updated_at": "2026-08-29T01:35:20.926522+00:00",
+  "updated_at": "2026-08-29T01:45:36.670785+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 63614000.0,
-      "net_income_year_to_date": -2195000.0,
+      "revenue_year_to_date": 106655000.0,
+      "net_income_year_to_date": -7619000.0,
       "equity": 184099000.0,
       "cash_and_equivalents": 14181000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 66643000.0,
-      "net_income_year_to_date": -947000.0,
+      "revenue_year_to_date": 173298000.0,
+      "net_income_year_to_date": -8566000.0,
       "equity": 183135000.0,
       "cash_and_equivalents": 23297000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 54595000.0,
-      "net_income_year_to_date": -5151000.0,
+      "revenue_year_to_date": 95544000.0,
+      "net_income_year_to_date": -12274000.0,
       "equity": 167740000.0,
       "cash_and_equivalents": 16197000.0,
       "source": {

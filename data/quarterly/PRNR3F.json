@@ -4,7 +4,7 @@
   "issuer_name": "PRINER SERVIÇOS INDUSTRIAIS S.A.",
   "cnpj": "18593815000197",
   "cvm_code": "24236",
-  "updated_at": "2026-08-29T01:35:20.749582+00:00",
+  "updated_at": "2026-08-29T01:45:36.496611+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 361894000.0,
-      "net_income_year_to_date": 508000.0,
+      "revenue_year_to_date": 730739000.0,
+      "net_income_year_to_date": 4525000.0,
       "equity": 359033000.0,
       "cash_and_equivalents": 356525000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 359134000.0,
-      "net_income_year_to_date": 3060000.0,
+      "revenue_year_to_date": 1089873000.0,
+      "net_income_year_to_date": 7585000.0,
       "equity": 515063000.0,
       "cash_and_equivalents": 478906000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 462618000.0,
-      "net_income_year_to_date": -1030000.0,
+      "revenue_year_to_date": 883815000.0,
+      "net_income_year_to_date": 51685000.0,
       "equity": 553249000.0,
       "cash_and_equivalents": 301833000.0,
       "source": {

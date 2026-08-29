@@ -4,7 +4,7 @@
   "issuer_name": "VITRU EDUCAÇÃO S.A.",
   "cnpj": "20512706000140",
   "cvm_code": "27057",
-  "updated_at": "2026-08-29T01:35:20.977500+00:00",
+  "updated_at": "2026-08-29T01:45:36.720964+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 606006000.0,
-      "net_income_year_to_date": 127296000.0,
+      "revenue_year_to_date": 1151897000.0,
+      "net_income_year_to_date": 177239000.0,
       "equity": 2736285000.0,
       "cash_and_equivalents": 30814000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 549065000.0,
-      "net_income_year_to_date": 98221000.0,
+      "revenue_year_to_date": 1700962000.0,
+      "net_income_year_to_date": 275460000.0,
       "equity": 2834844000.0,
       "cash_and_equivalents": 34271000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 661348000.0,
-      "net_income_year_to_date": 105606000.0,
+      "revenue_year_to_date": 1240584000.0,
+      "net_income_year_to_date": 900524000.0,
       "equity": 4014376000.0,
       "cash_and_equivalents": 98222000.0,
       "source": {

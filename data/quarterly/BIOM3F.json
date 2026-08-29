@@ -4,7 +4,7 @@
   "issuer_name": "BIOMM SA",
   "cnpj": "04752991000110",
   "cvm_code": "19305",
-  "updated_at": "2026-08-29T01:35:20.218288+00:00",
+  "updated_at": "2026-08-29T01:45:35.969043+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 27174000.0,
-      "net_income_year_to_date": -13737000.0,
+      "revenue_year_to_date": 66765000.0,
+      "net_income_year_to_date": -25472000.0,
       "equity": 238009000.0,
       "cash_and_equivalents": 16462000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 35761000.0,
-      "net_income_year_to_date": -10598000.0,
+      "revenue_year_to_date": 102526000.0,
+      "net_income_year_to_date": -36070000.0,
       "equity": 284098000.0,
       "cash_and_equivalents": 14965000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 89428000.0,
-      "net_income_year_to_date": 1848000.0,
+      "revenue_year_to_date": 181883000.0,
+      "net_income_year_to_date": 11540000.0,
       "equity": 325198000.0,
       "cash_and_equivalents": 10418000.0,
       "source": {

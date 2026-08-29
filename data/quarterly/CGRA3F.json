@@ -4,7 +4,7 @@
   "issuer_name": "GRAZZIOTIN SA",
   "cnpj": "92012467000170",
   "cvm_code": "4537",
-  "updated_at": "2026-08-29T01:35:20.287346+00:00",
+  "updated_at": "2026-08-29T01:45:36.039227+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 224797000.0,
-      "net_income_year_to_date": 40075000.0,
+      "revenue_year_to_date": 360194000.0,
+      "net_income_year_to_date": 44490000.0,
       "equity": 949228000.0,
       "cash_and_equivalents": 168752000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 164938000.0,
-      "net_income_year_to_date": 8260000.0,
+      "revenue_year_to_date": 525132000.0,
+      "net_income_year_to_date": 52751000.0,
       "equity": 957426000.0,
       "cash_and_equivalents": 214948000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 219601000.0,
-      "net_income_year_to_date": 28033000.0,
+      "revenue_year_to_date": 351690000.0,
+      "net_income_year_to_date": 33243000.0,
       "equity": 929827000.0,
       "cash_and_equivalents": 170204000.0,
       "source": {

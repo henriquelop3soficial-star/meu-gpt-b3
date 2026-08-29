@@ -4,7 +4,7 @@
   "issuer_name": "CM HOSPITALAR S.A",
   "cnpj": "12420164000157",
   "cvm_code": "25682",
-  "updated_at": "2026-08-29T01:35:20.982390+00:00",
+  "updated_at": "2026-08-29T01:45:36.725776+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2815509000.0,
-      "net_income_year_to_date": -71358000.0,
+      "revenue_year_to_date": 5600402000.0,
+      "net_income_year_to_date": -130292000.0,
       "equity": 1787203000.0,
       "cash_and_equivalents": 788881000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2833653000.0,
-      "net_income_year_to_date": 226877000.0,
+      "revenue_year_to_date": 8434055000.0,
+      "net_income_year_to_date": 96585000.0,
       "equity": 2014758000.0,
       "cash_and_equivalents": 753110000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2910169000.0,
-      "net_income_year_to_date": -34652000.0,
+      "revenue_year_to_date": 5742089000.0,
+      "net_income_year_to_date": -91660000.0,
       "equity": 1822554000.0,
       "cash_and_equivalents": 387070000.0,
       "source": {

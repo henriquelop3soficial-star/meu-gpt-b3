@@ -4,7 +4,7 @@
   "issuer_name": "MINERVA S/A",
   "cnpj": "67620377000114",
   "cvm_code": "20931",
-  "updated_at": "2026-08-29T01:35:20.205550+00:00",
+  "updated_at": "2026-08-29T01:45:35.956258+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 13917915000.0,
-      "net_income_year_to_date": 458270000.0,
+      "revenue_year_to_date": 25114066000.0,
+      "net_income_year_to_date": 643258000.0,
       "equity": 2031037000.0,
       "cash_and_equivalents": 7689833000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 15512241000.0,
-      "net_income_year_to_date": 120019000.0,
+      "revenue_year_to_date": 40626307000.0,
+      "net_income_year_to_date": 763277000.0,
       "equity": 1854653000.0,
       "cash_and_equivalents": 9258445000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 14102235000.0,
-      "net_income_year_to_date": 196887000.0,
+      "revenue_year_to_date": 27511612000.0,
+      "net_income_year_to_date": 284166000.0,
       "equity": 2182311000.0,
       "cash_and_equivalents": 12260644000.0,
       "source": {

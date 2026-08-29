@@ -4,7 +4,7 @@
   "issuer_name": "TEGMA GESTÃO LOGÍSTICA SA",
   "cnpj": "02351144000118",
   "cvm_code": "20800",
-  "updated_at": "2026-08-29T01:35:20.905792+00:00",
+  "updated_at": "2026-08-29T01:45:36.649865+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 540540000.0,
-      "net_income_year_to_date": 67119000.0,
+      "revenue_year_to_date": 980897000.0,
+      "net_income_year_to_date": 110853000.0,
       "equity": 993359000.0,
       "cash_and_equivalents": 347151000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 634223000.0,
-      "net_income_year_to_date": 79891000.0,
+      "revenue_year_to_date": 1615120000.0,
+      "net_income_year_to_date": 190744000.0,
       "equity": 984234000.0,
       "cash_and_equivalents": 245664000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 740116000.0,
-      "net_income_year_to_date": 83116000.0,
+      "revenue_year_to_date": 1261395000.0,
+      "net_income_year_to_date": 121901000.0,
       "equity": 994134000.0,
       "cash_and_equivalents": 196923000.0,
       "source": {

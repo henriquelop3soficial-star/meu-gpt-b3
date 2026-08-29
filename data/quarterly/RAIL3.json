@@ -4,7 +4,7 @@
   "issuer_name": "RUMO S.A.",
   "cnpj": "02387241000160",
   "cvm_code": "17450",
-  "updated_at": "2026-08-29T01:35:20.765777+00:00",
+  "updated_at": "2026-08-29T01:45:36.512664+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 3711393000.0,
-      "net_income_year_to_date": 333257000.0,
+      "revenue_year_to_date": 6678143000.0,
+      "net_income_year_to_date": 236080000.0,
       "equity": 13611120000.0,
       "cash_and_equivalents": 6091529000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 3819265000.0,
-      "net_income_year_to_date": 415896000.0,
+      "revenue_year_to_date": 10497408000.0,
+      "net_income_year_to_date": 651977000.0,
       "equity": 14007797000.0,
       "cash_and_equivalents": 5430144000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 3940275000.0,
-      "net_income_year_to_date": 519760000.0,
+      "revenue_year_to_date": 7222578000.0,
+      "net_income_year_to_date": 617482000.0,
       "equity": 14686691000.0,
       "cash_and_equivalents": 5455578000.0,
       "source": {

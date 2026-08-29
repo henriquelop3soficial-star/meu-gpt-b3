@@ -4,7 +4,7 @@
   "issuer_name": "CONSTRUTORA TENDA S/A",
   "cnpj": "71476527000135",
   "cvm_code": "21148",
-  "updated_at": "2026-08-29T01:35:20.899242+00:00",
+  "updated_at": "2026-08-29T01:45:36.643400+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 991483000.0,
-      "net_income_year_to_date": 199417000.0,
+      "revenue_year_to_date": 1856720000.0,
+      "net_income_year_to_date": 281801000.0,
       "equity": 1199333000.0,
       "cash_and_equivalents": 139328000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 1135356000.0,
-      "net_income_year_to_date": 106170000.0,
+      "revenue_year_to_date": 2992076000.0,
+      "net_income_year_to_date": 387971000.0,
       "equity": 1241576000.0,
       "cash_and_equivalents": 164615000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 1290042000.0,
-      "net_income_year_to_date": 174217000.0,
+      "revenue_year_to_date": 2474859000.0,
+      "net_income_year_to_date": 352298000.0,
       "equity": 1534624000.0,
       "cash_and_equivalents": 68222000.0,
       "source": {

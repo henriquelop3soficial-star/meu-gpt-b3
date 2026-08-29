@@ -4,7 +4,7 @@
   "issuer_name": "REDE ENERGIA PARTICIPAÇÕES S.A.",
   "cnpj": "61584140000149",
   "cvm_code": "3190",
-  "updated_at": "2026-08-29T01:35:20.795614+00:00",
+  "updated_at": "2026-08-29T01:45:36.541195+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 4737936000.0,
-      "net_income_year_to_date": 431275000.0,
+      "revenue_year_to_date": 9286271000.0,
+      "net_income_year_to_date": 933612000.0,
       "equity": 6504910000.0,
       "cash_and_equivalents": 290073000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 5161685000.0,
-      "net_income_year_to_date": 415774000.0,
+      "revenue_year_to_date": 14447956000.0,
+      "net_income_year_to_date": 1349386000.0,
       "equity": 6242802000.0,
       "cash_and_equivalents": 257147000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 5088269000.0,
-      "net_income_year_to_date": 243836000.0,
+      "revenue_year_to_date": 10065280000.0,
+      "net_income_year_to_date": 568856000.0,
       "equity": 6941106000.0,
       "cash_and_equivalents": 363850000.0,
       "source": {

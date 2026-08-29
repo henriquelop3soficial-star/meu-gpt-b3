@@ -4,7 +4,7 @@
   "issuer_name": "COMPANHIA ENERGÉTICA DE BRASÍLIA - CEB",
   "cnpj": "00070698000111",
   "cvm_code": "14451",
-  "updated_at": "2026-08-29T01:35:20.280125+00:00",
+  "updated_at": "2026-08-29T01:45:36.032436+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 128514000.0,
-      "net_income_year_to_date": 59286000.0,
+      "revenue_year_to_date": 263808000.0,
+      "net_income_year_to_date": 123680000.0,
       "equity": 1318912000.0,
       "cash_and_equivalents": 577724000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 123057000.0,
-      "net_income_year_to_date": 53637000.0,
+      "revenue_year_to_date": 386865000.0,
+      "net_income_year_to_date": 177313000.0,
       "equity": 1247545000.0,
       "cash_and_equivalents": 486199000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 106497000.0,
-      "net_income_year_to_date": 48192000.0,
+      "revenue_year_to_date": 209935000.0,
+      "net_income_year_to_date": 89228000.0,
       "equity": 1188618000.0,
       "cash_and_equivalents": 287320000.0,
       "source": {

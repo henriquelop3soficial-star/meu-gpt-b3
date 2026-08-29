@@ -4,7 +4,7 @@
   "issuer_name": "CIA ENERG MINAS GERAIS - CEMIG",
   "cnpj": "17155730000164",
   "cvm_code": "2453",
-  "updated_at": "2026-08-29T01:35:20.295534+00:00",
+  "updated_at": "2026-08-29T01:45:36.047308+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 10786295000.0,
-      "net_income_year_to_date": 1188281000.0,
+      "revenue_year_to_date": 20630526000.0,
+      "net_income_year_to_date": 2227021000.0,
       "equity": 28478860000.0,
       "cash_and_equivalents": 1757787000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 10619741000.0,
-      "net_income_year_to_date": 796742000.0,
+      "revenue_year_to_date": 31250267000.0,
+      "net_income_year_to_date": 3023763000.0,
       "equity": 28734659000.0,
       "cash_and_equivalents": 1451684000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 11156238000.0,
-      "net_income_year_to_date": 945444000.0,
+      "revenue_year_to_date": 21618781000.0,
+      "net_income_year_to_date": 1924423000.0,
       "equity": 29186153000.0,
       "cash_and_equivalents": 2162396000.0,
       "source": {

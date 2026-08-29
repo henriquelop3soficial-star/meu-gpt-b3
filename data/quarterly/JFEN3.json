@@ -4,7 +4,7 @@
   "issuer_name": "JOAO FORTES ENGENHARIA SA - EM RECUPERAÇÃO JUDICIAL",
   "cnpj": "33035536000100",
   "cvm_code": "7811",
-  "updated_at": "2026-08-29T01:35:20.556237+00:00",
+  "updated_at": "2026-08-29T01:45:36.304038+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 45069000.0,
-      "net_income_year_to_date": -57150000.0,
+      "revenue_year_to_date": 123599000.0,
+      "net_income_year_to_date": -98094000.0,
       "equity": -193393000.0,
       "cash_and_equivalents": 6756000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 49778000.0,
-      "net_income_year_to_date": -37325000.0,
+      "revenue_year_to_date": 173377000.0,
+      "net_income_year_to_date": -135419000.0,
       "equity": -188037000.0,
       "cash_and_equivalents": 3723000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 21493000.0,
-      "net_income_year_to_date": -27760000.0,
+      "revenue_year_to_date": 47043000.0,
+      "net_income_year_to_date": -31719000.0,
       "equity": -310261000.0,
       "cash_and_equivalents": 5562000.0,
       "source": {

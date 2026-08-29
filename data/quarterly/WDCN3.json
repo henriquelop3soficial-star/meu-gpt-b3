@@ -4,7 +4,7 @@
   "issuer_name": "LIVETECH DA BAHIA INDÚSTRIA E COMÉRCIO S.A.",
   "cnpj": "05917486000140",
   "cvm_code": "25895",
-  "updated_at": "2026-08-29T01:35:20.985695+00:00",
+  "updated_at": "2026-08-29T01:45:36.729033+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 222235000.0,
-      "net_income_year_to_date": -16744000.0,
+      "revenue_year_to_date": 435790000.0,
+      "net_income_year_to_date": -8581000.0,
       "equity": 645384000.0,
       "cash_and_equivalents": 131969000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 222303000.0,
-      "net_income_year_to_date": -2535000.0,
+      "revenue_year_to_date": 658325000.0,
+      "net_income_year_to_date": -11071000.0,
       "equity": 643288000.0,
       "cash_and_equivalents": 205248000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 198324000.0,
-      "net_income_year_to_date": 2835000.0,
+      "revenue_year_to_date": 389824000.0,
+      "net_income_year_to_date": 9770000.0,
       "equity": 476501000.0,
       "cash_and_equivalents": 258941000.0,
       "source": {

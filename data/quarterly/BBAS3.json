@@ -4,7 +4,7 @@
   "issuer_name": "BANCO DO BRASIL S.A.",
   "cnpj": "00000000000191",
   "cvm_code": "1023",
-  "updated_at": "2026-08-29T01:35:20.195644+00:00",
+  "updated_at": "2026-08-29T01:45:35.946120+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "bank",
-      "revenue_year_to_date": 77532482000.0,
-      "net_income_year_to_date": 3582262000.0,
+      "revenue_year_to_date": 149252571000.0,
+      "net_income_year_to_date": 7760116000.0,
       "equity": 186448138000.0,
       "cash_and_equivalents": 64935263000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "bank",
-      "revenue_year_to_date": 84767065000.0,
-      "net_income_year_to_date": 3006743000.0,
+      "revenue_year_to_date": 234019636000.0,
+      "net_income_year_to_date": 10766859000.0,
       "equity": 187149880000.0,
       "cash_and_equivalents": 65753371000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "bank",
-      "revenue_year_to_date": 81771473000.0,
-      "net_income_year_to_date": 3256684000.0,
+      "revenue_year_to_date": 160747114000.0,
+      "net_income_year_to_date": 6362961000.0,
       "equity": 190767860000.0,
       "cash_and_equivalents": 65017849000.0,
       "source": {

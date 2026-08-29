@@ -4,7 +4,7 @@
   "issuer_name": "GENERAL SHOPPING E OUTLETS DO BRASIL BRASIL S.A.",
   "cnpj": "08764621000153",
   "cvm_code": "21008",
-  "updated_at": "2026-08-29T01:35:20.497140+00:00",
+  "updated_at": "2026-08-29T01:45:36.244960+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 44173000.0,
-      "net_income_year_to_date": 71020000.0,
+      "revenue_year_to_date": 88969000.0,
+      "net_income_year_to_date": 195166000.0,
       "equity": -1338750000.0,
       "cash_and_equivalents": 86125000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 46609000.0,
-      "net_income_year_to_date": 20657000.0,
+      "revenue_year_to_date": 135578000.0,
+      "net_income_year_to_date": 215823000.0,
       "equity": -1318093000.0,
       "cash_and_equivalents": 72254000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 44575000.0,
-      "net_income_year_to_date": 52812000.0,
+      "revenue_year_to_date": 91271000.0,
+      "net_income_year_to_date": -230028000.0,
       "equity": -1741774000.0,
       "cash_and_equivalents": 41361000.0,
       "source": {

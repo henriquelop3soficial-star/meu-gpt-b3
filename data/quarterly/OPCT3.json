@@ -4,7 +4,7 @@
   "issuer_name": "OCEANPACT SERVIÇOS MARÍTIMOS S.A.",
   "cnpj": "09114805000130",
   "cvm_code": "25534",
-  "updated_at": "2026-08-29T01:35:20.689461+00:00",
+  "updated_at": "2026-08-29T01:45:36.436638+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 508500000.0,
-      "net_income_year_to_date": 9703000.0,
+      "revenue_year_to_date": 967702000.0,
+      "net_income_year_to_date": 23358000.0,
       "equity": 916548000.0,
       "cash_and_equivalents": 281356000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 613751000.0,
-      "net_income_year_to_date": 58042000.0,
+      "revenue_year_to_date": 1581453000.0,
+      "net_income_year_to_date": 81400000.0,
       "equity": 964398000.0,
       "cash_and_equivalents": 634056000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 735867000.0,
-      "net_income_year_to_date": 55823000.0,
+      "revenue_year_to_date": 1233293000.0,
+      "net_income_year_to_date": 85577000.0,
       "equity": 1034464000.0,
       "cash_and_equivalents": 340212000.0,
       "source": {

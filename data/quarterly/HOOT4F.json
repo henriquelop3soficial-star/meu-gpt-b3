@@ -4,7 +4,7 @@
   "issuer_name": "HOTEIS OTHON S.A. - EM RECUPERAÇÃO JUDICIAL",
   "cnpj": "33200049000147",
   "cvm_code": "6700",
-  "updated_at": "2026-08-29T01:35:20.513099+00:00",
+  "updated_at": "2026-08-29T01:45:36.260862+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 37148000.0,
-      "net_income_year_to_date": 13399000.0,
+      "revenue_year_to_date": 96188000.0,
+      "net_income_year_to_date": 25914000.0,
       "equity": -67694000.0,
       "cash_and_equivalents": 31563000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 40853000.0,
-      "net_income_year_to_date": 3400000.0,
+      "revenue_year_to_date": 137041000.0,
+      "net_income_year_to_date": 29314000.0,
       "equity": -64262000.0,
       "cash_and_equivalents": 37471000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 44975000.0,
-      "net_income_year_to_date": 4648000.0,
+      "revenue_year_to_date": 113409000.0,
+      "net_income_year_to_date": 21372000.0,
       "equity": -41510000.0,
       "cash_and_equivalents": 58388000.0,
       "source": {

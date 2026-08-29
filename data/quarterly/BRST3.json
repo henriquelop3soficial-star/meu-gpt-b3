@@ -4,7 +4,7 @@
   "issuer_name": "BRISANET SERVIÇOS DE TELECOMUNICAÇÕES S.A.",
   "cnpj": "04601397000128",
   "cvm_code": "27693",
-  "updated_at": "2026-08-29T01:35:20.258829+00:00",
+  "updated_at": "2026-08-29T01:45:36.011223+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 410216000.0,
-      "net_income_year_to_date": 6219000.0,
+      "revenue_year_to_date": 801800000.0,
+      "net_income_year_to_date": 26664000.0,
       "equity": 1547389000.0,
       "cash_and_equivalents": 76823000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 433610000.0,
-      "net_income_year_to_date": 38382000.0,
+      "revenue_year_to_date": 1235410000.0,
+      "net_income_year_to_date": 65046000.0,
       "equity": 1585771000.0,
       "cash_and_equivalents": 62529000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 475871000.0,
-      "net_income_year_to_date": 26081000.0,
+      "revenue_year_to_date": 929768000.0,
+      "net_income_year_to_date": 45175000.0,
       "equity": 1588774000.0,
       "cash_and_equivalents": 60959000.0,
       "source": {

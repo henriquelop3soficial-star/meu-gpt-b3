@@ -4,7 +4,7 @@
   "issuer_name": "JOSAPAR-JOAQUIM OLIVEIRA S.A. - PARTICIP",
   "cnpj": "87456562000122",
   "cvm_code": "13285",
-  "updated_at": "2026-08-29T01:35:20.559698+00:00",
+  "updated_at": "2026-08-29T01:45:36.307652+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 430831000.0,
-      "net_income_year_to_date": 2999000.0,
+      "revenue_year_to_date": 819092000.0,
+      "net_income_year_to_date": 5504000.0,
       "equity": 764962000.0,
       "cash_and_equivalents": 33367000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 518032000.0,
-      "net_income_year_to_date": 5545000.0,
+      "revenue_year_to_date": 1337124000.0,
+      "net_income_year_to_date": 11049000.0,
       "equity": 770578000.0,
       "cash_and_equivalents": 105924000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 389009000.0,
-      "net_income_year_to_date": 2862000.0,
+      "revenue_year_to_date": 720881000.0,
+      "net_income_year_to_date": 5249000.0,
       "equity": 772100000.0,
       "cash_and_equivalents": 17954000.0,
       "source": {

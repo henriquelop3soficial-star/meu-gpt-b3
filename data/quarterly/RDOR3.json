@@ -4,7 +4,7 @@
   "issuer_name": "REDE D'OR SÃO LUIZ S.A.",
   "cnpj": "06047087000139",
   "cvm_code": "24821",
-  "updated_at": "2026-08-29T01:35:20.786396+00:00",
+  "updated_at": "2026-08-29T01:45:36.532721+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 13960847000.0,
-      "net_income_year_to_date": 1047761000.0,
+      "revenue_year_to_date": 26933879000.0,
+      "net_income_year_to_date": 2114539000.0,
       "equity": 27894450000.0,
       "cash_and_equivalents": 5078114000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 14415537000.0,
-      "net_income_year_to_date": 1538127000.0,
+      "revenue_year_to_date": 41349416000.0,
+      "net_income_year_to_date": 3652666000.0,
       "equity": 28802268000.0,
       "cash_and_equivalents": 5534941000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 14658396000.0,
-      "net_income_year_to_date": 1289606000.0,
+      "revenue_year_to_date": 29000366000.0,
+      "net_income_year_to_date": 2298036000.0,
       "equity": 22938044000.0,
       "cash_and_equivalents": 3014917000.0,
       "source": {

@@ -4,7 +4,7 @@
   "issuer_name": "ALLPARK EMPREENDIMENTOS, PARTICIPAÇÕES E SERVIÇOS S.A.",
   "cnpj": "60537263000166",
   "cvm_code": "24953",
-  "updated_at": "2026-08-29T01:35:20.119157+00:00",
+  "updated_at": "2026-08-29T01:45:35.869801+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 461510000.0,
-      "net_income_year_to_date": 6121000.0,
+      "revenue_year_to_date": 886621000.0,
+      "net_income_year_to_date": 3534000.0,
       "equity": 361699000.0,
       "cash_and_equivalents": 323674000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 486222000.0,
-      "net_income_year_to_date": 7806000.0,
+      "revenue_year_to_date": 1372843000.0,
+      "net_income_year_to_date": 11340000.0,
       "equity": 367960000.0,
       "cash_and_equivalents": 337575000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 524007000.0,
-      "net_income_year_to_date": 9852000.0,
+      "revenue_year_to_date": 1018607000.0,
+      "net_income_year_to_date": 13455000.0,
       "equity": 377852000.0,
       "cash_and_equivalents": 213855000.0,
       "source": {

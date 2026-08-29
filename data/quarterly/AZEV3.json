@@ -4,7 +4,7 @@
   "issuer_name": "AZEVEDO & TRAVASSOS SA",
   "cnpj": "61351532000168",
   "cvm_code": "11975",
-  "updated_at": "2026-08-29T01:35:20.165195+00:00",
+  "updated_at": "2026-08-29T01:45:35.916140+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 78940000.0,
-      "net_income_year_to_date": 61267000.0,
+      "revenue_year_to_date": 131157000.0,
+      "net_income_year_to_date": 47734000.0,
       "equity": 779741000.0,
       "cash_and_equivalents": 14947000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 116103000.0,
-      "net_income_year_to_date": -620391000.0,
+      "revenue_year_to_date": 247260000.0,
+      "net_income_year_to_date": -572657000.0,
       "equity": 159350000.0,
       "cash_and_equivalents": 7191000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 182880000.0,
-      "net_income_year_to_date": 1323000.0,
+      "revenue_year_to_date": 331630000.0,
+      "net_income_year_to_date": 2277000.0,
       "equity": 413986000.0,
       "cash_and_equivalents": 73738000.0,
       "source": {

@@ -4,7 +4,7 @@
   "issuer_name": "C&A MODAS S.A.",
   "cnpj": "45242914000105",
   "cvm_code": "24848",
-  "updated_at": "2026-08-29T01:35:20.278340+00:00",
+  "updated_at": "2026-08-29T01:45:36.030564+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2058463000.0,
-      "net_income_year_to_date": 200312000.0,
+      "revenue_year_to_date": 3670545000.0,
+      "net_income_year_to_date": 204384000.0,
       "equity": 3455690000.0,
       "cash_and_equivalents": 832715000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 1840861000.0,
-      "net_income_year_to_date": 69471000.0,
+      "revenue_year_to_date": 5511406000.0,
+      "net_income_year_to_date": 273855000.0,
       "equity": 3536833000.0,
       "cash_and_equivalents": 907266000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2082351000.0,
-      "net_income_year_to_date": 177931000.0,
+      "revenue_year_to_date": 3701913000.0,
+      "net_income_year_to_date": 179594000.0,
       "equity": 3803115000.0,
       "cash_and_equivalents": 540690000.0,
       "source": {

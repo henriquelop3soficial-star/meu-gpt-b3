@@ -4,7 +4,7 @@
   "issuer_name": "BRBI BR PARTNERS S.A",
   "cnpj": "10739356000103",
   "cvm_code": "25860",
-  "updated_at": "2026-08-29T01:35:20.244442+00:00",
+  "updated_at": "2026-08-29T01:45:35.994552+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "bank",
-      "revenue_year_to_date": 77732000.0,
-      "net_income_year_to_date": 45192000.0,
+      "revenue_year_to_date": 159598000.0,
+      "net_income_year_to_date": 88315000.0,
       "equity": null,
       "cash_and_equivalents": 15333387000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "bank",
-      "revenue_year_to_date": 71232000.0,
-      "net_income_year_to_date": 42224000.0,
+      "revenue_year_to_date": 230830000.0,
+      "net_income_year_to_date": 130539000.0,
       "equity": null,
       "cash_and_equivalents": 16811591000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "bank",
-      "revenue_year_to_date": 85912000.0,
-      "net_income_year_to_date": 35087000.0,
+      "revenue_year_to_date": 174108000.0,
+      "net_income_year_to_date": 72801000.0,
       "equity": null,
       "cash_and_equivalents": 18229848000.0,
       "source": {

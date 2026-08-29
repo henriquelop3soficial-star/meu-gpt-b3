@@ -4,7 +4,7 @@
   "issuer_name": "OSX BRASIL S.A. - EM RECUPERAÇÃO JUDICIAL",
   "cnpj": "09112685000132",
   "cvm_code": "21342",
-  "updated_at": "2026-08-29T01:35:20.692848+00:00",
+  "updated_at": "2026-08-29T01:45:36.440110+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 21783000.0,
-      "net_income_year_to_date": -276662000.0,
+      "revenue_year_to_date": 43209000.0,
+      "net_income_year_to_date": -515121000.0,
       "equity": -8917229000.0,
       "cash_and_equivalents": 10304000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 24013000.0,
-      "net_income_year_to_date": -25640000.0,
+      "revenue_year_to_date": 67222000.0,
+      "net_income_year_to_date": -540761000.0,
       "equity": -8942426000.0,
       "cash_and_equivalents": 14767000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 26518000.0,
-      "net_income_year_to_date": -283167000.0,
+      "revenue_year_to_date": 48334000.0,
+      "net_income_year_to_date": -567971000.0,
       "equity": -10486027000.0,
       "cash_and_equivalents": 14681000.0,
       "source": {

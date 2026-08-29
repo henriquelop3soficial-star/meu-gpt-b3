@@ -4,7 +4,7 @@
   "issuer_name": "ISA ENERGIA BRASIL S.A.",
   "cnpj": "02998611000104",
   "cvm_code": "18376",
-  "updated_at": "2026-08-29T01:35:20.540601+00:00",
+  "updated_at": "2026-08-29T01:45:36.288405+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 1432874000.0,
-      "net_income_year_to_date": 232275000.0,
+      "revenue_year_to_date": 3844914000.0,
+      "net_income_year_to_date": 956980000.0,
       "equity": 21150707000.0,
       "cash_and_equivalents": 653574000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2558971000.0,
-      "net_income_year_to_date": 802797000.0,
+      "revenue_year_to_date": 6403885000.0,
+      "net_income_year_to_date": 1759777000.0,
       "equity": 21395868000.0,
       "cash_and_equivalents": 719176000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2597525000.0,
-      "net_income_year_to_date": 703370000.0,
+      "revenue_year_to_date": 5108280000.0,
+      "net_income_year_to_date": 1322519000.0,
       "equity": 22480937000.0,
       "cash_and_equivalents": 468699000.0,
       "source": {

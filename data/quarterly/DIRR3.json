@@ -4,7 +4,7 @@
   "issuer_name": "DIRECIONAL ENGENHARIA SA",
   "cnpj": "16614075000100",
   "cvm_code": "21350",
-  "updated_at": "2026-08-29T01:35:20.356262+00:00",
+  "updated_at": "2026-08-29T01:45:36.107474+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 1065210000.0,
-      "net_income_year_to_date": 220643000.0,
+      "revenue_year_to_date": 1959342000.0,
+      "net_income_year_to_date": 412095000.0,
       "equity": 2470650000.0,
       "cash_and_equivalents": 1251709000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 1157823000.0,
-      "net_income_year_to_date": 282974000.0,
+      "revenue_year_to_date": 3117165000.0,
+      "net_income_year_to_date": 695069000.0,
       "equity": 2720182000.0,
       "cash_and_equivalents": 1575523000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 1279265000.0,
-      "net_income_year_to_date": 255427000.0,
+      "revenue_year_to_date": 2443792000.0,
+      "net_income_year_to_date": 522961000.0,
       "equity": 2737142000.0,
       "cash_and_equivalents": 1529554000.0,
       "source": {

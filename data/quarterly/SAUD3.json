@@ -4,7 +4,7 @@
   "issuer_name": "BRADSAÚDE S.A.",
   "cnpj": "58119199000151",
   "cvm_code": "20125",
-  "updated_at": "2026-08-29T01:35:20.831546+00:00",
+  "updated_at": "2026-08-29T01:45:36.576028+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 603695000.0,
-      "net_income_year_to_date": 147797000.0,
+      "revenue_year_to_date": 1191495000.0,
+      "net_income_year_to_date": 317366000.0,
       "equity": 1291975000.0,
       "cash_and_equivalents": 31530000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 617388000.0,
-      "net_income_year_to_date": 142376000.0,
+      "revenue_year_to_date": 1808778000.0,
+      "net_income_year_to_date": 459742000.0,
       "equity": 1290654000.0,
       "cash_and_equivalents": 16683000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 8096913000.0,
-      "net_income_year_to_date": 636447000.0,
+      "revenue_year_to_date": 8717929000.0,
+      "net_income_year_to_date": 788587000.0,
       "equity": 18707911000.0,
       "cash_and_equivalents": 61236000.0,
       "source": {

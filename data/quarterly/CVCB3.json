@@ -4,7 +4,7 @@
   "issuer_name": "CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS SA",
   "cnpj": "10760260000119",
   "cvm_code": "23310",
-  "updated_at": "2026-08-29T01:35:20.335214+00:00",
+  "updated_at": "2026-08-29T01:45:36.086390+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 348233000.0,
-      "net_income_year_to_date": -46434000.0,
+      "revenue_year_to_date": 723973000.0,
+      "net_income_year_to_date": -53868000.0,
       "equity": 468360000.0,
       "cash_and_equivalents": 251065000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 388995000.0,
-      "net_income_year_to_date": 40626000.0,
+      "revenue_year_to_date": 1112968000.0,
+      "net_income_year_to_date": -13242000.0,
       "equity": 503499000.0,
       "cash_and_equivalents": 176912000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 332703000.0,
-      "net_income_year_to_date": -72537000.0,
+      "revenue_year_to_date": 710479000.0,
+      "net_income_year_to_date": -144858000.0,
       "equity": 322905000.0,
       "cash_and_equivalents": 175763000.0,
       "source": {

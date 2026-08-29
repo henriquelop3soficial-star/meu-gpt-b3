@@ -4,7 +4,7 @@
   "issuer_name": "TRACK & FIELD CO S.A",
   "cnpj": "59418806000147",
   "cvm_code": "25208",
-  "updated_at": "2026-08-29T01:35:20.903992+00:00",
+  "updated_at": "2026-08-29T01:45:36.648012+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 242091000.0,
-      "net_income_year_to_date": 33989000.0,
+      "revenue_year_to_date": 454877000.0,
+      "net_income_year_to_date": 68780000.0,
       "equity": 512231000.0,
       "cash_and_equivalents": 23674000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 268529000.0,
-      "net_income_year_to_date": 29902000.0,
+      "revenue_year_to_date": 723406000.0,
+      "net_income_year_to_date": 98682000.0,
       "equity": 531619000.0,
       "cash_and_equivalents": 20658000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 279718000.0,
-      "net_income_year_to_date": 37121000.0,
+      "revenue_year_to_date": 530876000.0,
+      "net_income_year_to_date": 71522000.0,
       "equity": 615658000.0,
       "cash_and_equivalents": 50313000.0,
       "source": {

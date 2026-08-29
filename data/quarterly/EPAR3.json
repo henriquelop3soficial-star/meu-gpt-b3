@@ -4,7 +4,7 @@
   "issuer_name": "EMBPAR PARTICIPAÇÕES S/A",
   "cnpj": "42331462000131",
   "cvm_code": "15458",
-  "updated_at": "2026-08-29T01:35:20.419282+00:00",
+  "updated_at": "2026-08-29T01:45:36.168654+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 574000.0,
-      "net_income_year_to_date": -756000.0,
+      "revenue_year_to_date": 1106000.0,
+      "net_income_year_to_date": -1400000.0,
       "equity": 40889000.0,
       "cash_and_equivalents": 2990000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 585000.0,
-      "net_income_year_to_date": 886000.0,
+      "revenue_year_to_date": 1691000.0,
+      "net_income_year_to_date": -514000.0,
       "equity": 41775000.0,
       "cash_and_equivalents": 3421000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 393000.0,
-      "net_income_year_to_date": -1428000.0,
+      "revenue_year_to_date": 963000.0,
+      "net_income_year_to_date": 1248000.0,
       "equity": 40672000.0,
       "cash_and_equivalents": 9910000.0,
       "source": {

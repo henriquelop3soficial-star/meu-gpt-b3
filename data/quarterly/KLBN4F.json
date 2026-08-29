@@ -4,7 +4,7 @@
   "issuer_name": "KLABIN S.A.",
   "cnpj": "89637490000145",
   "cvm_code": "12653",
-  "updated_at": "2026-08-29T01:35:20.575360+00:00",
+  "updated_at": "2026-08-29T01:45:36.323188+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 5247202000.0,
-      "net_income_year_to_date": 585329000.0,
+      "revenue_year_to_date": 10105736000.0,
+      "net_income_year_to_date": 1031828000.0,
       "equity": 13388708000.0,
       "cash_and_equivalents": 7302249000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 5426467000.0,
-      "net_income_year_to_date": 477884000.0,
+      "revenue_year_to_date": 15532203000.0,
+      "net_income_year_to_date": 1509712000.0,
       "equity": 14671595000.0,
       "cash_and_equivalents": 8959471000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 5150712000.0,
-      "net_income_year_to_date": 386580000.0,
+      "revenue_year_to_date": 10096669000.0,
+      "net_income_year_to_date": -110396000.0,
       "equity": 15973853000.0,
       "cash_and_equivalents": 9321549000.0,
       "source": {

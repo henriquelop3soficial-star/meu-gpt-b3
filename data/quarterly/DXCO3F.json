@@ -4,7 +4,7 @@
   "issuer_name": "DEXCO S.A.",
   "cnpj": "97837181000147",
   "cvm_code": "21091",
-  "updated_at": "2026-08-29T01:35:20.374985+00:00",
+  "updated_at": "2026-08-29T01:45:36.125404+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2121662000.0,
-      "net_income_year_to_date": 38525000.0,
+      "revenue_year_to_date": 4024207000.0,
+      "net_income_year_to_date": 97142000.0,
       "equity": 7047481000.0,
       "cash_and_equivalents": 861948000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2128016000.0,
-      "net_income_year_to_date": 14192000.0,
+      "revenue_year_to_date": 6152223000.0,
+      "net_income_year_to_date": 111334000.0,
       "equity": 6989902000.0,
       "cash_and_equivalents": 1202693000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2231538000.0,
-      "net_income_year_to_date": 14880000.0,
+      "revenue_year_to_date": 4250043000.0,
+      "net_income_year_to_date": 86792000.0,
       "equity": 7404259000.0,
       "cash_and_equivalents": 2359909000.0,
       "source": {

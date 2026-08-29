@@ -4,7 +4,7 @@
   "issuer_name": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
   "cnpj": "33000167000101",
   "cvm_code": "9512",
-  "updated_at": "2026-08-29T01:35:20.712771+00:00",
+  "updated_at": "2026-08-29T01:45:36.460194+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 119128000000.0,
-      "net_income_year_to_date": 26774000000.0,
+      "revenue_year_to_date": 242272000000.0,
+      "net_income_year_to_date": 62105000000.0,
       "equity": 401782000000.0,
       "cash_and_equivalents": 38177000000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 127906000000.0,
-      "net_income_year_to_date": 32847000000.0,
+      "revenue_year_to_date": 370178000000.0,
+      "net_income_year_to_date": 94952000000.0,
       "equity": 424961000000.0,
       "cash_and_equivalents": 47675000000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 169530000000.0,
-      "net_income_year_to_date": 52495000000.0,
+      "revenue_year_to_date": 293216000000.0,
+      "net_income_year_to_date": 85256000000.0,
       "equity": 481854000000.0,
       "cash_and_equivalents": 33560000000.0,
       "source": {

@@ -4,7 +4,7 @@
   "issuer_name": "CONSTRUTORA ADOLPHO LINDENBERG S.A.",
   "cnpj": "61022042000118",
   "cvm_code": "4723",
-  "updated_at": "2026-08-29T01:35:20.263289+00:00",
+  "updated_at": "2026-08-29T01:45:36.015649+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 75474000.0,
-      "net_income_year_to_date": 11978000.0,
+      "revenue_year_to_date": 107338000.0,
+      "net_income_year_to_date": 13184000.0,
       "equity": 268553000.0,
       "cash_and_equivalents": 52074000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 46028000.0,
-      "net_income_year_to_date": -931000.0,
+      "revenue_year_to_date": 153366000.0,
+      "net_income_year_to_date": 12254000.0,
       "equity": 267122000.0,
       "cash_and_equivalents": 52378000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 75460000.0,
-      "net_income_year_to_date": 11300000.0,
+      "revenue_year_to_date": 172101000.0,
+      "net_income_year_to_date": 23617000.0,
       "equity": 409635000.0,
       "cash_and_equivalents": 170502000.0,
       "source": {

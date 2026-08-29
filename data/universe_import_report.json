@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-08-29T01:34:56.531633+00:00",
+  "generated_at": "2026-08-29T01:45:04.839856+00:00",
   "sources": [
     "https://brapi.dev/api/quote/list",
     "https://brapi.dev/api/v2/stocks/profile",
     "https://dados.cvm.gov.br/dados/CIA_ABERTA/CAD/DADOS/cad_cia_aberta.csv"
   ],
   "listed_assets_found": 785,
+  "assets_reused_from_previous_file": 587,
+  "new_assets_requiring_brapi_profile": 198,
   "assets_linked_to_cvm": 587,
   "assets_unresolved": 198,
   "note": "Ativos não vinculados à CVM foram separados para auditoria e não recebem fundamentos por inferência."

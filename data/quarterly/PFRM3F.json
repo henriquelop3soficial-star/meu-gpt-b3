@@ -4,7 +4,7 @@
   "issuer_name": "PROFARMA DISTRIB PROD FARMACEUTICOS S.A.",
   "cnpj": "45453214000151",
   "cvm_code": "20346",
-  "updated_at": "2026-08-29T01:35:20.717787+00:00",
+  "updated_at": "2026-08-29T01:45:36.465123+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2701974000.0,
-      "net_income_year_to_date": 23490000.0,
+      "revenue_year_to_date": 5412472000.0,
+      "net_income_year_to_date": 35199000.0,
       "equity": 1620866000.0,
       "cash_and_equivalents": 246566000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2850074000.0,
-      "net_income_year_to_date": 49071000.0,
+      "revenue_year_to_date": 8262546000.0,
+      "net_income_year_to_date": 84270000.0,
       "equity": 1672418000.0,
       "cash_and_equivalents": 263542000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 3577029000.0,
-      "net_income_year_to_date": 71637000.0,
+      "revenue_year_to_date": 6450929000.0,
+      "net_income_year_to_date": 70365000.0,
       "equity": 1684938000.0,
       "cash_and_equivalents": 487774000.0,
       "source": {

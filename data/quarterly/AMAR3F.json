@@ -4,7 +4,7 @@
   "issuer_name": "MARISA LOJAS SA",
   "cnpj": "61189288000189",
   "cvm_code": "22055",
-  "updated_at": "2026-08-29T01:35:20.132088+00:00",
+  "updated_at": "2026-08-29T01:45:35.882662+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 394481000.0,
-      "net_income_year_to_date": 2106000.0,
+      "revenue_year_to_date": 692383000.0,
+      "net_income_year_to_date": 4470000.0,
       "equity": 289343000.0,
       "cash_and_equivalents": 10248000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 332752000.0,
-      "net_income_year_to_date": 5839000.0,
+      "revenue_year_to_date": 1025135000.0,
+      "net_income_year_to_date": 10309000.0,
       "equity": 295428000.0,
       "cash_and_equivalents": 52179000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 386234000.0,
-      "net_income_year_to_date": -68375000.0,
+      "revenue_year_to_date": 672688000.0,
+      "net_income_year_to_date": -164190000.0,
       "equity": 60921000.0,
       "cash_and_equivalents": 109902000.0,
       "source": {

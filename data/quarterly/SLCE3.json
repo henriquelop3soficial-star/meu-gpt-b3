@@ -4,7 +4,7 @@
   "issuer_name": "SLC AGRICOLA SA",
   "cnpj": "89096457000155",
   "cvm_code": "20745",
-  "updated_at": "2026-08-29T01:35:20.855015+00:00",
+  "updated_at": "2026-08-29T01:45:36.599501+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2254859000.0,
-      "net_income_year_to_date": 139837000.0,
+      "revenue_year_to_date": 5089531000.0,
+      "net_income_year_to_date": 650537000.0,
       "equity": 5253647000.0,
       "cash_and_equivalents": 1149612000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2379036000.0,
-      "net_income_year_to_date": -14525000.0,
+      "revenue_year_to_date": 7468567000.0,
+      "net_income_year_to_date": 636012000.0,
       "equity": 5336896000.0,
       "cash_and_equivalents": 1720578000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2765644000.0,
-      "net_income_year_to_date": 245069000.0,
+      "revenue_year_to_date": 5430713000.0,
+      "net_income_year_to_date": 481151000.0,
       "equity": 6096702000.0,
       "cash_and_equivalents": 924266000.0,
       "source": {

@@ -4,7 +4,7 @@
   "issuer_name": "HELBOR EMPREENDIMENTOS S/A",
   "cnpj": "49263189000102",
   "cvm_code": "20877",
-  "updated_at": "2026-08-29T01:35:20.503930+00:00",
+  "updated_at": "2026-08-29T01:45:36.251787+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 285556000.0,
-      "net_income_year_to_date": 20333000.0,
+      "revenue_year_to_date": 584804000.0,
+      "net_income_year_to_date": 55911000.0,
       "equity": 2819704000.0,
       "cash_and_equivalents": 76446000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 232630000.0,
-      "net_income_year_to_date": 13008000.0,
+      "revenue_year_to_date": 817434000.0,
+      "net_income_year_to_date": 68919000.0,
       "equity": 2803546000.0,
       "cash_and_equivalents": 191247000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 212673000.0,
-      "net_income_year_to_date": 5291000.0,
+      "revenue_year_to_date": 559322000.0,
+      "net_income_year_to_date": 29500000.0,
       "equity": 2830746000.0,
       "cash_and_equivalents": 99453000.0,
       "source": {

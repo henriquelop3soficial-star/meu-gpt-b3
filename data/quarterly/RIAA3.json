@@ -4,7 +4,7 @@
   "issuer_name": "GUARARAPES CONFECÇÕES SA",
   "cnpj": "08402943000152",
   "cvm_code": "4669",
-  "updated_at": "2026-08-29T01:35:20.803759+00:00",
+  "updated_at": "2026-08-29T01:45:36.549248+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2635360000.0,
-      "net_income_year_to_date": 143210000.0,
+      "revenue_year_to_date": 4840357000.0,
+      "net_income_year_to_date": 116560000.0,
       "equity": 5527430000.0,
       "cash_and_equivalents": 715624000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2452191000.0,
-      "net_income_year_to_date": 73584000.0,
+      "revenue_year_to_date": 7292548000.0,
+      "net_income_year_to_date": 190144000.0,
       "equity": 5544320000.0,
       "cash_and_equivalents": 546611000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2691703000.0,
-      "net_income_year_to_date": 167921000.0,
+      "revenue_year_to_date": 5013675000.0,
+      "net_income_year_to_date": 172958000.0,
       "equity": 5403029000.0,
       "cash_and_equivalents": 918437000.0,
       "source": {

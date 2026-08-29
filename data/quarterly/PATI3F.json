@@ -4,7 +4,7 @@
   "issuer_name": "PANATLANTICA SA",
   "cnpj": "92693019000189",
   "cvm_code": "94",
-  "updated_at": "2026-08-29T01:35:20.697655+00:00",
+  "updated_at": "2026-08-29T01:45:36.445115+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 472916000.0,
-      "net_income_year_to_date": 7844000.0,
+      "revenue_year_to_date": 1002294000.0,
+      "net_income_year_to_date": 24960000.0,
       "equity": 773997000.0,
       "cash_and_equivalents": 28111000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 494593000.0,
-      "net_income_year_to_date": 5067000.0,
+      "revenue_year_to_date": 1496887000.0,
+      "net_income_year_to_date": 30028000.0,
       "equity": 779065000.0,
       "cash_and_equivalents": 22251000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 538033000.0,
-      "net_income_year_to_date": 20450000.0,
+      "revenue_year_to_date": 1009406000.0,
+      "net_income_year_to_date": 36462000.0,
       "equity": 778522000.0,
       "cash_and_equivalents": 6140000.0,
       "source": {

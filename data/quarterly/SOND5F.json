@@ -4,7 +4,7 @@
   "issuer_name": "SONDOTECNICA ENGENHARIA SOLOS S.A.",
   "cnpj": "33386210000119",
   "cvm_code": "10880",
-  "updated_at": "2026-08-29T01:35:20.867802+00:00",
+  "updated_at": "2026-08-29T01:45:36.612289+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 48902000.0,
-      "net_income_year_to_date": 4214000.0,
+      "revenue_year_to_date": 98876000.0,
+      "net_income_year_to_date": 10808000.0,
       "equity": 64238000.0,
       "cash_and_equivalents": 8918000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 56454000.0,
-      "net_income_year_to_date": 8348000.0,
+      "revenue_year_to_date": 155330000.0,
+      "net_income_year_to_date": 19156000.0,
       "equity": 72364000.0,
       "cash_and_equivalents": 11346000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 68139000.0,
-      "net_income_year_to_date": 13214000.0,
+      "revenue_year_to_date": 123505000.0,
+      "net_income_year_to_date": 18180000.0,
       "equity": 68313000.0,
       "cash_and_equivalents": 12208000.0,
       "source": {

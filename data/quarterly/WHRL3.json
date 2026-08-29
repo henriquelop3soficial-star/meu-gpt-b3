@@ -4,7 +4,7 @@
   "issuer_name": "WHIRLPOOL S.A",
   "cnpj": "59105999000186",
   "cvm_code": "14346",
-  "updated_at": "2026-08-29T01:35:20.991620+00:00",
+  "updated_at": "2026-08-29T01:45:36.734722+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 3076079000.0,
-      "net_income_year_to_date": 124715000.0,
+      "revenue_year_to_date": 6046167000.0,
+      "net_income_year_to_date": 315539000.0,
       "equity": 2232087000.0,
       "cash_and_equivalents": 2378178000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2984656000.0,
-      "net_income_year_to_date": 109717000.0,
+      "revenue_year_to_date": 9030823000.0,
+      "net_income_year_to_date": 425256000.0,
       "equity": 2147726000.0,
       "cash_and_equivalents": 2161738000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2981211000.0,
-      "net_income_year_to_date": 89699000.0,
+      "revenue_year_to_date": 5753010000.0,
+      "net_income_year_to_date": 160916000.0,
       "equity": 1974317000.0,
       "cash_and_equivalents": 1944121000.0,
       "source": {

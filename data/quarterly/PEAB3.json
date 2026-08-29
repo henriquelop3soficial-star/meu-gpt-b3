@@ -4,7 +4,7 @@
   "issuer_name": "CIA DE PARTICIPAÇÕES ALIANÇA DA BAHIA",
   "cnpj": "01938783000111",
   "cvm_code": "18708",
-  "updated_at": "2026-08-29T01:35:20.711022+00:00",
+  "updated_at": "2026-08-29T01:45:36.458374+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 30909000.0,
-      "net_income_year_to_date": 10648000.0,
+      "revenue_year_to_date": 57420000.0,
+      "net_income_year_to_date": 13457000.0,
       "equity": 909591000.0,
       "cash_and_equivalents": 16096000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 29697000.0,
-      "net_income_year_to_date": 7903000.0,
+      "revenue_year_to_date": 87117000.0,
+      "net_income_year_to_date": 21360000.0,
       "equity": 907574000.0,
       "cash_and_equivalents": 3925000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 28229000.0,
-      "net_income_year_to_date": 9270000.0,
+      "revenue_year_to_date": 56066000.0,
+      "net_income_year_to_date": 23518000.0,
       "equity": 926086000.0,
       "cash_and_equivalents": 354000.0,
       "source": {

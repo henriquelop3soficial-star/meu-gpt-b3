@@ -4,7 +4,7 @@
   "issuer_name": "HOSPITAL MATER DEI S.A.",
   "cnpj": "16676520000159",
   "cvm_code": "25690",
-  "updated_at": "2026-08-29T01:35:20.613579+00:00",
+  "updated_at": "2026-08-29T01:45:36.360866+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 545807000.0,
-      "net_income_year_to_date": 27091000.0,
+      "revenue_year_to_date": 1045125000.0,
+      "net_income_year_to_date": 47264000.0,
       "equity": 1481032000.0,
       "cash_and_equivalents": 613537000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 567857000.0,
-      "net_income_year_to_date": 27482000.0,
+      "revenue_year_to_date": 1612982000.0,
+      "net_income_year_to_date": 74746000.0,
       "equity": 1492682000.0,
       "cash_and_equivalents": 654027000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 613633000.0,
-      "net_income_year_to_date": 44987000.0,
+      "revenue_year_to_date": 1188591000.0,
+      "net_income_year_to_date": 77553000.0,
       "equity": 1507288000.0,
       "cash_and_equivalents": 599902000.0,
       "source": {

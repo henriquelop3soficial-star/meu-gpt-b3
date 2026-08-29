@@ -4,7 +4,7 @@
   "issuer_name": "BLAU FARMACÊUTICA S.A.",
   "cnpj": "58430828000160",
   "cvm_code": "24627",
-  "updated_at": "2026-08-29T01:35:20.221454+00:00",
+  "updated_at": "2026-08-29T01:45:35.972211+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 464826000.0,
-      "net_income_year_to_date": 63184000.0,
+      "revenue_year_to_date": 837823000.0,
+      "net_income_year_to_date": 153873000.0,
       "equity": 2252284000.0,
       "cash_and_equivalents": 58797000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 475196000.0,
-      "net_income_year_to_date": 105522000.0,
+      "revenue_year_to_date": 1313019000.0,
+      "net_income_year_to_date": 259395000.0,
       "equity": 2334783000.0,
       "cash_and_equivalents": 43203000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 486599000.0,
-      "net_income_year_to_date": 55540000.0,
+      "revenue_year_to_date": 921569000.0,
+      "net_income_year_to_date": 91825000.0,
       "equity": 2316347000.0,
       "cash_and_equivalents": 46773000.0,
       "source": {

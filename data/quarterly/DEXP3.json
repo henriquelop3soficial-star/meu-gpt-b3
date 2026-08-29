@@ -4,7 +4,7 @@
   "issuer_name": "DEXXOS PARTICIPAÇÕES S.A.",
   "cnpj": "02193750000152",
   "cvm_code": "16632",
-  "updated_at": "2026-08-29T01:35:20.354524+00:00",
+  "updated_at": "2026-08-29T01:45:36.105710+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 597308000.0,
-      "net_income_year_to_date": 38904000.0,
+      "revenue_year_to_date": 1200462000.0,
+      "net_income_year_to_date": 91505000.0,
       "equity": 1014217000.0,
       "cash_and_equivalents": 227309000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 516678000.0,
-      "net_income_year_to_date": 29455000.0,
+      "revenue_year_to_date": 1717140000.0,
+      "net_income_year_to_date": 120960000.0,
       "equity": 1040572000.0,
       "cash_and_equivalents": 313526000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 460312000.0,
-      "net_income_year_to_date": 42029000.0,
+      "revenue_year_to_date": 847219000.0,
+      "net_income_year_to_date": 93377000.0,
       "equity": 1089817000.0,
       "cash_and_equivalents": 343676000.0,
       "source": {

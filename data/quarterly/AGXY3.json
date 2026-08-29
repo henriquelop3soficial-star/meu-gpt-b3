@@ -4,7 +4,7 @@
   "issuer_name": "AGROGALAXY PARTICIPAÇÕES S.A. - EM RECUPERAÇÃO JUDICIAL",
   "cnpj": "21240146000184",
   "cvm_code": "25658",
-  "updated_at": "2026-08-29T01:35:20.104744+00:00",
+  "updated_at": "2026-08-29T01:45:35.855317+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 228285000.0,
-      "net_income_year_to_date": 2463895000.0,
+      "revenue_year_to_date": 569488000.0,
+      "net_income_year_to_date": 2264082000.0,
       "equity": 453746000.0,
       "cash_and_equivalents": 139425000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 440746000.0,
-      "net_income_year_to_date": -639118000.0,
+      "revenue_year_to_date": 1010234000.0,
+      "net_income_year_to_date": 1624964000.0,
       "equity": -185458000.0,
       "cash_and_equivalents": 57512000.0,
       "source": {

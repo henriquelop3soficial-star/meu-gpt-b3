@@ -4,7 +4,7 @@
   "issuer_name": "AZZAS 2154 S.A.",
   "cnpj": "16590234000176",
   "cvm_code": "22349",
-  "updated_at": "2026-08-29T01:35:20.177916+00:00",
+  "updated_at": "2026-08-29T01:45:35.928784+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2901385000.0,
-      "net_income_year_to_date": 537654000.0,
+      "revenue_year_to_date": 5597923000.0,
+      "net_income_year_to_date": 655480000.0,
       "equity": 8339548000.0,
       "cash_and_equivalents": 177365000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2958190000.0,
-      "net_income_year_to_date": 164952000.0,
+      "revenue_year_to_date": 8556113000.0,
+      "net_income_year_to_date": 820432000.0,
       "equity": 8347712000.0,
       "cash_and_equivalents": 174943000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2664045000.0,
-      "net_income_year_to_date": 29811000.0,
+      "revenue_year_to_date": 5143568000.0,
+      "net_income_year_to_date": 68407000.0,
       "equity": 8040341000.0,
       "cash_and_equivalents": 244064000.0,
       "source": {

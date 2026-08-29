@@ -4,7 +4,7 @@
   "issuer_name": "LOCALIZA RENT A CAR SA",
   "cnpj": "16670085000155",
   "cvm_code": "19739",
-  "updated_at": "2026-08-29T01:35:20.802048+00:00",
+  "updated_at": "2026-08-29T01:45:36.547475+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 9900107000.0,
-      "net_income_year_to_date": -168575000.0,
+      "revenue_year_to_date": 20039390000.0,
+      "net_income_year_to_date": 673878000.0,
       "equity": 25493518000.0,
       "cash_and_equivalents": 1952985000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 10731975000.0,
-      "net_income_year_to_date": 258078000.0,
+      "revenue_year_to_date": 30771365000.0,
+      "net_income_year_to_date": 931956000.0,
       "equity": 25141847000.0,
       "cash_and_equivalents": 3132846000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 12326818000.0,
-      "net_income_year_to_date": 1003047000.0,
+      "revenue_year_to_date": 24611180000.0,
+      "net_income_year_to_date": 2224943000.0,
       "equity": 27102546000.0,
       "cash_and_equivalents": 1799120000.0,
       "source": {

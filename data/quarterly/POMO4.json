@@ -4,7 +4,7 @@
   "issuer_name": "MARCOPOLO SA",
   "cnpj": "88611835000129",
   "cvm_code": "8451",
-  "updated_at": "2026-08-29T01:35:20.738374+00:00",
+  "updated_at": "2026-08-29T01:45:36.485531+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2305085000.0,
-      "net_income_year_to_date": 321091000.0,
+      "revenue_year_to_date": 3982521000.0,
+      "net_income_year_to_date": 564162000.0,
       "equity": 4226480000.0,
       "cash_and_equivalents": 1953445000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2505449000.0,
-      "net_income_year_to_date": 329618000.0,
+      "revenue_year_to_date": 6487970000.0,
+      "net_income_year_to_date": 893780000.0,
       "equity": 4387511000.0,
       "cash_and_equivalents": 1990624000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2373276000.0,
-      "net_income_year_to_date": 271216000.0,
+      "revenue_year_to_date": 4028514000.0,
+      "net_income_year_to_date": 535824000.0,
       "equity": 4298659000.0,
       "cash_and_equivalents": 1587320000.0,
       "source": {

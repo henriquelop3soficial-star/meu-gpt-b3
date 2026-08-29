@@ -4,7 +4,7 @@
   "issuer_name": "CRUZEIRO DO SUL EDUCACIONAL S.A.",
   "cnpj": "62984091000102",
   "cvm_code": "25526",
-  "updated_at": "2026-08-29T01:35:20.317479+00:00",
+  "updated_at": "2026-08-29T01:45:36.068739+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 721094000.0,
-      "net_income_year_to_date": 62663000.0,
+      "revenue_year_to_date": 1392868000.0,
+      "net_income_year_to_date": 149074000.0,
       "equity": 1542863000.0,
       "cash_and_equivalents": 655979000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 694225000.0,
-      "net_income_year_to_date": 113250000.0,
+      "revenue_year_to_date": 2087093000.0,
+      "net_income_year_to_date": 262324000.0,
       "equity": 1656113000.0,
       "cash_and_equivalents": 839576000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 780315000.0,
-      "net_income_year_to_date": 100663000.0,
+      "revenue_year_to_date": 1482274000.0,
+      "net_income_year_to_date": 162147000.0,
       "equity": 1675802000.0,
       "cash_and_equivalents": 865947000.0,
       "source": {

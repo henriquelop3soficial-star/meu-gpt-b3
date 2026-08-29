@@ -4,7 +4,7 @@
   "issuer_name": "AMBEV S.A.",
   "cnpj": "07526557000100",
   "cvm_code": "23264",
-  "updated_at": "2026-08-29T01:35:20.097212+00:00",
+  "updated_at": "2026-08-29T01:45:35.847907+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 20090194000.0,
-      "net_income_year_to_date": 2790566000.0,
+      "revenue_year_to_date": 42587572000.0,
+      "net_income_year_to_date": 6595215000.0,
       "equity": 93210957000.0,
       "cash_and_equivalents": 16404025000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 20847262000.0,
-      "net_income_year_to_date": 4863720000.0,
+      "revenue_year_to_date": 63434834000.0,
+      "net_income_year_to_date": 11458935000.0,
       "equity": 92728412000.0,
       "cash_and_equivalents": 18309248000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 20148919000.0,
-      "net_income_year_to_date": 3474676000.0,
+      "revenue_year_to_date": 42613399000.0,
+      "net_income_year_to_date": 7360243000.0,
       "equity": 88893165000.0,
       "cash_and_equivalents": 16610779000.0,
       "source": {

@@ -4,7 +4,7 @@
   "issuer_name": "MOTIVA INFRAESTRUTURA DE MOBILIDADE S.A.",
   "cnpj": "02846056000197",
   "cvm_code": "18821",
-  "updated_at": "2026-08-29T01:35:20.646784+00:00",
+  "updated_at": "2026-08-29T01:45:36.394223+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 4662280000.0,
-      "net_income_year_to_date": 884434000.0,
+      "revenue_year_to_date": 9258152000.0,
+      "net_income_year_to_date": 1433717000.0,
       "equity": 15021173000.0,
       "cash_and_equivalents": 4347419000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 6347121000.0,
-      "net_income_year_to_date": 1419122000.0,
+      "revenue_year_to_date": 15605273000.0,
+      "net_income_year_to_date": 2852839000.0,
       "equity": 16062333000.0,
       "cash_and_equivalents": 5339700000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 4827000000.0,
-      "net_income_year_to_date": 1402000000.0,
+      "revenue_year_to_date": 9203000000.0,
+      "net_income_year_to_date": 2045000000.0,
       "equity": 18052000000.0,
       "cash_and_equivalents": 4812000000.0,
       "source": {

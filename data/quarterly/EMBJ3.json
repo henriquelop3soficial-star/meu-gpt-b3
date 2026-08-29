@@ -4,7 +4,7 @@
   "issuer_name": "EMBRAER S.A.",
   "cnpj": "07689002000189",
   "cvm_code": "20087",
-  "updated_at": "2026-08-29T01:35:20.395956+00:00",
+  "updated_at": "2026-08-29T01:45:36.146035+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 10270363000.0,
-      "net_income_year_to_date": 397478000.0,
+      "revenue_year_to_date": 16675633000.0,
+      "net_income_year_to_date": 868372000.0,
       "equity": 19688082000.0,
       "cash_and_equivalents": 3568864000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 10866683000.0,
-      "net_income_year_to_date": 688122000.0,
+      "revenue_year_to_date": 27542316000.0,
+      "net_income_year_to_date": 1556494000.0,
       "equity": 21034445000.0,
       "cash_and_equivalents": 5666642000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 11335557000.0,
-      "net_income_year_to_date": 1090894000.0,
+      "revenue_year_to_date": 18920313000.0,
+      "net_income_year_to_date": 1285058000.0,
       "equity": 19830679000.0,
       "cash_and_equivalents": 7207793000.0,
       "source": {

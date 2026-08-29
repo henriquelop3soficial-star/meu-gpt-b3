@@ -4,7 +4,7 @@
   "issuer_name": "BANESTES SA BANCO DO ESTADO DO ESPIRITO SANTO",
   "cnpj": "28127603000178",
   "cvm_code": "1155",
-  "updated_at": "2026-08-29T01:35:20.208657+00:00",
+  "updated_at": "2026-08-29T01:45:35.959385+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "bank",
-      "revenue_year_to_date": 1324089000.0,
-      "net_income_year_to_date": 7138000.0,
+      "revenue_year_to_date": 2547294000.0,
+      "net_income_year_to_date": 118793000.0,
       "equity": 2362681000.0,
       "cash_and_equivalents": 8115448000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "bank",
-      "revenue_year_to_date": 1453270000.0,
-      "net_income_year_to_date": 105972000.0,
+      "revenue_year_to_date": 4000564000.0,
+      "net_income_year_to_date": 224765000.0,
       "equity": 2447735000.0,
       "cash_and_equivalents": 9134720000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "bank",
-      "revenue_year_to_date": 1481616000.0,
-      "net_income_year_to_date": 123704000.0,
+      "revenue_year_to_date": 2904946000.0,
+      "net_income_year_to_date": 221560000.0,
       "equity": 2511779000.0,
       "cash_and_equivalents": 4034818000.0,
       "source": {

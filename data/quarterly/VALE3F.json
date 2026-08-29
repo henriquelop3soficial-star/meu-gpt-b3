@@ -4,7 +4,7 @@
   "issuer_name": "VALE S.A.",
   "cnpj": "33592510000154",
   "cvm_code": "4170",
-  "updated_at": "2026-08-29T01:35:20.951230+00:00",
+  "updated_at": "2026-08-29T01:45:36.695032+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 49807000000.0,
-      "net_income_year_to_date": 12187000000.0,
+      "revenue_year_to_date": 97218000000.0,
+      "net_income_year_to_date": 20360000000.0,
       "equity": 220965000000.0,
       "cash_and_equivalents": 30093000000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 56701000000.0,
-      "net_income_year_to_date": 14671000000.0,
+      "revenue_year_to_date": 153919000000.0,
+      "net_income_year_to_date": 35031000000.0,
       "equity": 224733000000.0,
       "cash_and_equivalents": 31391000000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 53012000000.0,
-      "net_income_year_to_date": 7041000000.0,
+      "revenue_year_to_date": 101692000000.0,
+      "net_income_year_to_date": 17240000000.0,
       "equity": 201467000000.0,
       "cash_and_equivalents": 28871000000.0,
       "source": {

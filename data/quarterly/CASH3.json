@@ -4,7 +4,7 @@
   "issuer_name": "MELIUZ S.A.",
   "cnpj": "14110585000107",
   "cvm_code": "25232",
-  "updated_at": "2026-08-29T01:35:20.271166+00:00",
+  "updated_at": "2026-08-29T01:45:36.023441+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 97820000.0,
-      "net_income_year_to_date": 7567000.0,
+      "revenue_year_to_date": 198219000.0,
+      "net_income_year_to_date": 17571000.0,
       "equity": 535740000.0,
       "cash_and_equivalents": 71469000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 123656000.0,
-      "net_income_year_to_date": 14196000.0,
+      "revenue_year_to_date": 321875000.0,
+      "net_income_year_to_date": 31767000.0,
       "equity": 550275000.0,
       "cash_and_equivalents": 67301000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 115663000.0,
-      "net_income_year_to_date": -22431000.0,
+      "revenue_year_to_date": 233909000.0,
+      "net_income_year_to_date": -82543000.0,
       "equity": 435892000.0,
       "cash_and_equivalents": 73301000.0,
       "source": {

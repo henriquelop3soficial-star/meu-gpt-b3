@@ -4,7 +4,7 @@
   "issuer_name": "CSN MINERAÇÃO S.A.",
   "cnpj": "08902291000115",
   "cvm_code": "25585",
-  "updated_at": "2026-08-29T01:35:20.298785+00:00",
+  "updated_at": "2026-08-29T01:45:36.050482+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 4038202000.0,
-      "net_income_year_to_date": 115767000.0,
+      "revenue_year_to_date": 7949584000.0,
+      "net_income_year_to_date": -241521000.0,
       "equity": 9238333000.0,
       "cash_and_equivalents": 14354813000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 5146073000.0,
-      "net_income_year_to_date": 696268000.0,
+      "revenue_year_to_date": 13095657000.0,
+      "net_income_year_to_date": 454747000.0,
       "equity": 10098288000.0,
       "cash_and_equivalents": 13584743000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 3613204000.0,
-      "net_income_year_to_date": 219395000.0,
+      "revenue_year_to_date": 7317337000.0,
+      "net_income_year_to_date": 441522000.0,
       "equity": 7339601000.0,
       "cash_and_equivalents": 7920160000.0,
       "source": {

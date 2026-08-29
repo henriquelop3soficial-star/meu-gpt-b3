@@ -4,7 +4,7 @@
   "issuer_name": "COMPANHIA PARANAENSE DE ENERGIA COPEL",
   "cnpj": "76483817000120",
   "cvm_code": "14311",
-  "updated_at": "2026-08-29T01:35:20.308380+00:00",
+  "updated_at": "2026-08-29T01:45:36.059957+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 6225154000.0,
-      "net_income_year_to_date": 573564000.0,
+      "revenue_year_to_date": 12117240000.0,
+      "net_income_year_to_date": 1238231000.0,
       "equity": 25558855000.0,
       "cash_and_equivalents": 2835585000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 6811177000.0,
-      "net_income_year_to_date": 383073000.0,
+      "revenue_year_to_date": 18928417000.0,
+      "net_income_year_to_date": 1621304000.0,
       "equity": 25947667000.0,
       "cash_and_equivalents": 3815007000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 6918061000.0,
-      "net_income_year_to_date": 1047459000.0,
+      "revenue_year_to_date": 13985762000.0,
+      "net_income_year_to_date": 1741503000.0,
       "equity": 24148350000.0,
       "cash_and_equivalents": 3272606000.0,
       "source": {

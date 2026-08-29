@@ -4,7 +4,7 @@
   "issuer_name": "AMBIPAR PARTICIPAÇÕES E EMPREENDIMENTOS S.A.",
   "cnpj": "12648266000124",
   "cvm_code": "24961",
-  "updated_at": "2026-08-29T01:35:20.133536+00:00",
+  "updated_at": "2026-08-29T01:45:35.884136+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 1770716000.0,
-      "net_income_year_to_date": -134069000.0,
+      "revenue_year_to_date": 3510471000.0,
+      "net_income_year_to_date": -299852000.0,
       "equity": 2166454000.0,
       "cash_and_equivalents": 2616046000.0,
       "source": {

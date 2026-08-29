@@ -4,7 +4,7 @@
   "issuer_name": "EMPREENDIMENTOS PAGUE MENOS SA",
   "cnpj": "06626253000151",
   "cvm_code": "22608",
-  "updated_at": "2026-08-29T01:35:20.719592+00:00",
+  "updated_at": "2026-08-29T01:45:36.466955+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 3693371000.0,
-      "net_income_year_to_date": 50343000.0,
+      "revenue_year_to_date": 7064077000.0,
+      "net_income_year_to_date": 55438000.0,
       "equity": 2786137000.0,
       "cash_and_equivalents": 243754000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 3853222000.0,
-      "net_income_year_to_date": 75982000.0,
+      "revenue_year_to_date": 10917299000.0,
+      "net_income_year_to_date": 131419000.0,
       "equity": 2859797000.0,
       "cash_and_equivalents": 106253000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 3987177000.0,
-      "net_income_year_to_date": 71215000.0,
+      "revenue_year_to_date": 7795122000.0,
+      "net_income_year_to_date": 123298000.0,
       "equity": 3425981000.0,
       "cash_and_equivalents": 110437000.0,
       "source": {

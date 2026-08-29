@@ -4,7 +4,7 @@
   "issuer_name": "ROMI S.A.",
   "cnpj": "56720428000163",
   "cvm_code": "7510",
-  "updated_at": "2026-08-29T01:35:20.811761+00:00",
+  "updated_at": "2026-08-29T01:45:36.557128+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 316095000.0,
-      "net_income_year_to_date": 16374000.0,
+      "revenue_year_to_date": 589190000.0,
+      "net_income_year_to_date": 26462000.0,
       "equity": 1222885000.0,
       "cash_and_equivalents": 195239000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 349283000.0,
-      "net_income_year_to_date": 27356000.0,
+      "revenue_year_to_date": 938473000.0,
+      "net_income_year_to_date": 53818000.0,
       "equity": 1230812000.0,
       "cash_and_equivalents": 204420000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 334777000.0,
-      "net_income_year_to_date": 13925000.0,
+      "revenue_year_to_date": 555748000.0,
+      "net_income_year_to_date": 16290000.0,
       "equity": 1250909000.0,
       "cash_and_equivalents": 340523000.0,
       "source": {

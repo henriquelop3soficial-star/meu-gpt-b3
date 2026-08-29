@@ -4,7 +4,7 @@
   "issuer_name": "CIA FERRO LIGAS BAHIA FERBASA",
   "cnpj": "15141799000103",
   "cvm_code": "3069",
-  "updated_at": "2026-08-29T01:35:20.448269+00:00",
+  "updated_at": "2026-08-29T01:45:36.197154+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 639441000.0,
-      "net_income_year_to_date": 18689000.0,
+      "revenue_year_to_date": 1189290000.0,
+      "net_income_year_to_date": 42937000.0,
       "equity": 3370912000.0,
       "cash_and_equivalents": 390550000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 542568000.0,
-      "net_income_year_to_date": 45959000.0,
+      "revenue_year_to_date": 1731858000.0,
+      "net_income_year_to_date": 88896000.0,
       "equity": 3389550000.0,
       "cash_and_equivalents": 357038000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 523543000.0,
-      "net_income_year_to_date": 4538000.0,
+      "revenue_year_to_date": 1029915000.0,
+      "net_income_year_to_date": 2090000.0,
       "equity": 3288981000.0,
       "cash_and_equivalents": 276057000.0,
       "source": {

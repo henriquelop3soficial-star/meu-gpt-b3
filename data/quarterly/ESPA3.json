@@ -4,7 +4,7 @@
   "issuer_name": "MPM CORPÓREOS S.A.",
   "cnpj": "26659061000159",
   "cvm_code": "25445",
-  "updated_at": "2026-08-29T01:35:20.427649+00:00",
+  "updated_at": "2026-08-29T01:45:36.176660+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 259218000.0,
-      "net_income_year_to_date": 2104000.0,
+      "revenue_year_to_date": 538578000.0,
+      "net_income_year_to_date": 14213000.0,
       "equity": 871309000.0,
       "cash_and_equivalents": 183354000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 266026000.0,
-      "net_income_year_to_date": -9083000.0,
+      "revenue_year_to_date": 804604000.0,
+      "net_income_year_to_date": 5130000.0,
       "equity": 863245000.0,
       "cash_and_equivalents": 240204000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 257492000.0,
-      "net_income_year_to_date": -5894000.0,
+      "revenue_year_to_date": 545638000.0,
+      "net_income_year_to_date": 5978000.0,
       "equity": 861973000.0,
       "cash_and_equivalents": 166298000.0,
       "source": {

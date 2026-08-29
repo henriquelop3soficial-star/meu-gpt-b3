@@ -4,7 +4,7 @@
   "issuer_name": "GRUPO MATEUS S.A.",
   "cnpj": "24990777000109",
   "cvm_code": "25186",
-  "updated_at": "2026-08-29T01:35:20.484505+00:00",
+  "updated_at": "2026-08-29T01:45:36.232425+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 8779636000.0,
-      "net_income_year_to_date": 349199000.0,
+      "revenue_year_to_date": 17110941000.0,
+      "net_income_year_to_date": 667768000.0,
       "equity": 10339247000.0,
       "cash_and_equivalents": 1027777000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 10763538000.0,
-      "net_income_year_to_date": 846573000.0,
+      "revenue_year_to_date": 27874479000.0,
+      "net_income_year_to_date": 1514341000.0,
       "equity": 11251398000.0,
       "cash_and_equivalents": 1182893000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 9852461000.0,
-      "net_income_year_to_date": 241946000.0,
+      "revenue_year_to_date": 19254731000.0,
+      "net_income_year_to_date": 432868000.0,
       "equity": 12345241000.0,
       "cash_and_equivalents": 1631590000.0,
       "source": {

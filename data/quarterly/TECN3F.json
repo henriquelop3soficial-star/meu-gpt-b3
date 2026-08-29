@@ -4,7 +4,7 @@
   "issuer_name": "TECHNOS SA",
   "cnpj": "09295063000197",
   "cvm_code": "22519",
-  "updated_at": "2026-08-29T01:35:20.896519+00:00",
+  "updated_at": "2026-08-29T01:45:36.640738+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 121913000.0,
-      "net_income_year_to_date": 19097000.0,
+      "revenue_year_to_date": 208594000.0,
+      "net_income_year_to_date": 23582000.0,
       "equity": 417855000.0,
       "cash_and_equivalents": 66138000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 107829000.0,
-      "net_income_year_to_date": 18800000.0,
+      "revenue_year_to_date": 316423000.0,
+      "net_income_year_to_date": 42382000.0,
       "equity": 437339000.0,
       "cash_and_equivalents": 69938000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 128998000.0,
-      "net_income_year_to_date": 67544000.0,
+      "revenue_year_to_date": 220246000.0,
+      "net_income_year_to_date": 74031000.0,
       "equity": 502364000.0,
       "cash_and_equivalents": 27076000.0,
       "source": {

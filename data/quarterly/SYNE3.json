@@ -4,7 +4,7 @@
   "issuer_name": "SYN PROP & TECH S.A.",
   "cnpj": "08801621000186",
   "cvm_code": "21040",
-  "updated_at": "2026-08-29T01:35:20.874229+00:00",
+  "updated_at": "2026-08-29T01:45:36.618710+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 74373000.0,
-      "net_income_year_to_date": 19645000.0,
+      "revenue_year_to_date": 158135000.0,
+      "net_income_year_to_date": 43506000.0,
       "equity": 1802131000.0,
       "cash_and_equivalents": 511984000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 87023000.0,
-      "net_income_year_to_date": 25255000.0,
+      "revenue_year_to_date": 245158000.0,
+      "net_income_year_to_date": 68761000.0,
       "equity": 1407336000.0,
       "cash_and_equivalents": 232092000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 81859000.0,
-      "net_income_year_to_date": 14140000.0,
+      "revenue_year_to_date": 164191000.0,
+      "net_income_year_to_date": 40327000.0,
       "equity": 1470714000.0,
       "cash_and_equivalents": 177310000.0,
       "source": {

@@ -4,7 +4,7 @@
   "issuer_name": "SIMPAR S.A.",
   "cnpj": "07415333000120",
   "cvm_code": "25003",
-  "updated_at": "2026-08-29T01:35:20.851691+00:00",
+  "updated_at": "2026-08-29T01:45:36.596282+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 10611623000.0,
-      "net_income_year_to_date": -42923000.0,
+      "revenue_year_to_date": 21142788000.0,
+      "net_income_year_to_date": -31402000.0,
       "equity": 6328015000.0,
       "cash_and_equivalents": 2278565000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 11390347000.0,
-      "net_income_year_to_date": -237989000.0,
+      "revenue_year_to_date": 32533135000.0,
+      "net_income_year_to_date": -269391000.0,
       "equity": 6172292000.0,
       "cash_and_equivalents": 3215230000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 11248662000.0,
-      "net_income_year_to_date": -151121000.0,
+      "revenue_year_to_date": 22172960000.0,
+      "net_income_year_to_date": -325398000.0,
       "equity": 9825968000.0,
       "cash_and_equivalents": 3441567000.0,
       "source": {

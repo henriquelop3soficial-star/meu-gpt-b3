@@ -4,7 +4,7 @@
   "issuer_name": "ENJOEI S.A.",
   "cnpj": "16922038000151",
   "cvm_code": "25259",
-  "updated_at": "2026-08-29T01:35:20.413315+00:00",
+  "updated_at": "2026-08-29T01:45:36.163122+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 68656000.0,
-      "net_income_year_to_date": -8067000.0,
+      "revenue_year_to_date": 129335000.0,
+      "net_income_year_to_date": -14790000.0,
       "equity": 306081000.0,
       "cash_and_equivalents": 198635000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 70076000.0,
-      "net_income_year_to_date": -2458000.0,
+      "revenue_year_to_date": 199410000.0,
+      "net_income_year_to_date": -17248000.0,
       "equity": 303794000.0,
       "cash_and_equivalents": 209580000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 60769000.0,
-      "net_income_year_to_date": -47629000.0,
+      "revenue_year_to_date": 110380000.0,
+      "net_income_year_to_date": -55147000.0,
       "equity": 208053000.0,
       "cash_and_equivalents": 182028000.0,
       "source": {

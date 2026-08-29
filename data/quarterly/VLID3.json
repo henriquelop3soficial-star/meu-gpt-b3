@@ -4,7 +4,7 @@
   "issuer_name": "VALID SOLUÇÕES S.A.",
   "cnpj": "33113309000147",
   "cvm_code": "20028",
-  "updated_at": "2026-08-29T01:35:20.969572+00:00",
+  "updated_at": "2026-08-29T01:45:36.713258+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 490099000.0,
-      "net_income_year_to_date": 54880000.0,
+      "revenue_year_to_date": 990771000.0,
+      "net_income_year_to_date": 128460000.0,
       "equity": 1750513000.0,
       "cash_and_equivalents": 459133000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 540400000.0,
-      "net_income_year_to_date": 51805000.0,
+      "revenue_year_to_date": 1531171000.0,
+      "net_income_year_to_date": 180265000.0,
       "equity": 1732094000.0,
       "cash_and_equivalents": 493691000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 505653000.0,
-      "net_income_year_to_date": 37547000.0,
+      "revenue_year_to_date": 952633000.0,
+      "net_income_year_to_date": 93226000.0,
       "equity": 1723208000.0,
       "cash_and_equivalents": 491110000.0,
       "source": {

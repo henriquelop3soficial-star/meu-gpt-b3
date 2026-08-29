@@ -4,7 +4,7 @@
   "issuer_name": "POSITIVO TECNOLOGIA S.A.",
   "cnpj": "81243735000148",
   "cvm_code": "20362",
-  "updated_at": "2026-08-29T01:35:20.743047+00:00",
+  "updated_at": "2026-08-29T01:45:36.490154+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 842246000.0,
-      "net_income_year_to_date": 2251000.0,
+      "revenue_year_to_date": 1557657000.0,
+      "net_income_year_to_date": -10357000.0,
       "equity": 1611348000.0,
       "cash_and_equivalents": 675876000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 805637000.0,
-      "net_income_year_to_date": 1098000.0,
+      "revenue_year_to_date": 2363294000.0,
+      "net_income_year_to_date": -9259000.0,
       "equity": 1608410000.0,
       "cash_and_equivalents": 805539000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 938736000.0,
-      "net_income_year_to_date": 2577000.0,
+      "revenue_year_to_date": 1680123000.0,
+      "net_income_year_to_date": -9728000.0,
       "equity": 1560822000.0,
       "cash_and_equivalents": 489759000.0,
       "source": {

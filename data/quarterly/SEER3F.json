@@ -4,7 +4,7 @@
   "issuer_name": "SER EDUCACIONAL S.A.",
   "cnpj": "04986320000113",
   "cvm_code": "23221",
-  "updated_at": "2026-08-29T01:35:20.843198+00:00",
+  "updated_at": "2026-08-29T01:45:36.587749+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 589237000.0,
-      "net_income_year_to_date": 81326000.0,
+      "revenue_year_to_date": 1129226000.0,
+      "net_income_year_to_date": 124959000.0,
       "equity": 1314456000.0,
       "cash_and_equivalents": 250983000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 514451000.0,
-      "net_income_year_to_date": 14919000.0,
+      "revenue_year_to_date": 1643677000.0,
+      "net_income_year_to_date": 139878000.0,
       "equity": 1328928000.0,
       "cash_and_equivalents": 280612000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 622036000.0,
-      "net_income_year_to_date": 106285000.0,
+      "revenue_year_to_date": 1205799000.0,
+      "net_income_year_to_date": 182188000.0,
       "equity": 1523705000.0,
       "cash_and_equivalents": 269034000.0,
       "source": {

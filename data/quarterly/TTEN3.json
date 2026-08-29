@@ -4,7 +4,7 @@
   "issuer_name": "TRÊS TENTOS AGROINDUSTRIAL S.A.",
   "cnpj": "94813102000170",
   "cvm_code": "25950",
-  "updated_at": "2026-08-29T01:35:20.920097+00:00",
+  "updated_at": "2026-08-29T01:45:36.664407+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 3562877000.0,
-      "net_income_year_to_date": 330847000.0,
+      "revenue_year_to_date": 7061985000.0,
+      "net_income_year_to_date": 523266000.0,
       "equity": 4494294000.0,
       "cash_and_equivalents": 1686809000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 4994879000.0,
-      "net_income_year_to_date": 203044000.0,
+      "revenue_year_to_date": 12056864000.0,
+      "net_income_year_to_date": 726310000.0,
       "equity": 4703071000.0,
       "cash_and_equivalents": 2123163000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 4700400000.0,
-      "net_income_year_to_date": 205888000.0,
+      "revenue_year_to_date": 8907348000.0,
+      "net_income_year_to_date": 291063000.0,
       "equity": 5006693000.0,
       "cash_and_equivalents": 1309345000.0,
       "source": {

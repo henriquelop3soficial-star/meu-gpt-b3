@@ -4,7 +4,7 @@
   "issuer_name": "VITTIA S.A.",
   "cnpj": "45365558000109",
   "cvm_code": "25763",
-  "updated_at": "2026-08-29T01:35:20.959546+00:00",
+  "updated_at": "2026-08-29T01:45:36.703316+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 99060000.0,
-      "net_income_year_to_date": -21183000.0,
+      "revenue_year_to_date": 236880000.0,
+      "net_income_year_to_date": -23140000.0,
       "equity": 601681000.0,
       "cash_and_equivalents": 63607000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 324954000.0,
-      "net_income_year_to_date": 39435000.0,
+      "revenue_year_to_date": 561834000.0,
+      "net_income_year_to_date": 16294000.0,
       "equity": 617544000.0,
       "cash_and_equivalents": 76029000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 114048000.0,
-      "net_income_year_to_date": -17915000.0,
+      "revenue_year_to_date": 235962000.0,
+      "net_income_year_to_date": -24397000.0,
       "equity": 604169000.0,
       "cash_and_equivalents": 105868000.0,
       "source": {

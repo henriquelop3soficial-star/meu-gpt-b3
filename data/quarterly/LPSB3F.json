@@ -4,7 +4,7 @@
   "issuer_name": "LPS BRASIL CONSULTORIA DE IMOVEIS S/A",
   "cnpj": "08078847000109",
   "cvm_code": "20370",
-  "updated_at": "2026-08-29T01:35:20.596982+00:00",
+  "updated_at": "2026-08-29T01:45:36.344701+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 51242000.0,
-      "net_income_year_to_date": 17535000.0,
+      "revenue_year_to_date": 99472000.0,
+      "net_income_year_to_date": 23213000.0,
       "equity": 235714000.0,
       "cash_and_equivalents": 50731000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 51557000.0,
-      "net_income_year_to_date": 19294000.0,
+      "revenue_year_to_date": 151029000.0,
+      "net_income_year_to_date": 42507000.0,
       "equity": 252654000.0,
       "cash_and_equivalents": 63525000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 54589000.0,
-      "net_income_year_to_date": 7281000.0,
+      "revenue_year_to_date": 103767000.0,
+      "net_income_year_to_date": 11667000.0,
       "equity": 233768000.0,
       "cash_and_equivalents": 34586000.0,
       "source": {

@@ -4,7 +4,7 @@
   "issuer_name": "EQUATORIAL S.A.",
   "cnpj": "03220438000173",
   "cvm_code": "20010",
-  "updated_at": "2026-08-29T01:35:20.424244+00:00",
+  "updated_at": "2026-08-29T01:45:36.173357+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 12795327000.0,
-      "net_income_year_to_date": 1289635000.0,
+      "revenue_year_to_date": 24504420000.0,
+      "net_income_year_to_date": 1995916000.0,
       "equity": 32112303000.0,
       "cash_and_equivalents": 2114164000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 14145096000.0,
-      "net_income_year_to_date": 609805000.0,
+      "revenue_year_to_date": 38649516000.0,
+      "net_income_year_to_date": 2605721000.0,
       "equity": 32796502000.0,
       "cash_and_equivalents": 4861502000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 13738934000.0,
-      "net_income_year_to_date": 653007000.0,
+      "revenue_year_to_date": 26488874000.0,
+      "net_income_year_to_date": 1259763000.0,
       "equity": 28715324000.0,
       "cash_and_equivalents": 5075274000.0,
       "source": {

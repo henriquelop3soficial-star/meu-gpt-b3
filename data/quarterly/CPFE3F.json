@@ -4,7 +4,7 @@
   "issuer_name": "CPFL ENERGIA SA",
   "cnpj": "02429144000193",
   "cvm_code": "18660",
-  "updated_at": "2026-08-29T01:35:20.306698+00:00",
+  "updated_at": "2026-08-29T01:45:36.058165+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 10549126000.0,
-      "net_income_year_to_date": 1185802000.0,
+      "revenue_year_to_date": 21204346000.0,
+      "net_income_year_to_date": 2801195000.0,
       "equity": 22437659000.0,
       "cash_and_equivalents": 2198935000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 11329141000.0,
-      "net_income_year_to_date": 1376387000.0,
+      "revenue_year_to_date": 32533487000.0,
+      "net_income_year_to_date": 4177580000.0,
       "equity": 23688349000.0,
       "cash_and_equivalents": 2098038000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 11107429000.0,
-      "net_income_year_to_date": 1438045000.0,
+      "revenue_year_to_date": 22448961000.0,
+      "net_income_year_to_date": 3347501000.0,
       "equity": 23674713000.0,
       "cash_and_equivalents": 2164836000.0,
       "source": {

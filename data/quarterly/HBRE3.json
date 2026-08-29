@@ -4,7 +4,7 @@
   "issuer_name": "HBR REALTY EMPREENDIMENTOS IMOBILIÁRIOS S.A.",
   "cnpj": "14785152000151",
   "cvm_code": "25402",
-  "updated_at": "2026-08-29T01:35:20.505673+00:00",
+  "updated_at": "2026-08-29T01:45:36.253576+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 63997000.0,
-      "net_income_year_to_date": -30132000.0,
+      "revenue_year_to_date": 109610000.0,
+      "net_income_year_to_date": -57449000.0,
       "equity": 2918970000.0,
       "cash_and_equivalents": 23556000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 63159000.0,
-      "net_income_year_to_date": -28622000.0,
+      "revenue_year_to_date": 172769000.0,
+      "net_income_year_to_date": -86071000.0,
       "equity": 2769473000.0,
       "cash_and_equivalents": 13363000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 68617000.0,
-      "net_income_year_to_date": -22101000.0,
+      "revenue_year_to_date": 133422000.0,
+      "net_income_year_to_date": -44116000.0,
       "equity": 2620709000.0,
       "cash_and_equivalents": 15871000.0,
       "source": {

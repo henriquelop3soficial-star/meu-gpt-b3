@@ -4,7 +4,7 @@
   "issuer_name": "TRISUL S/A",
   "cnpj": "08811643000127",
   "cvm_code": "21130",
-  "updated_at": "2026-08-29T01:35:20.918421+00:00",
+  "updated_at": "2026-08-29T01:45:36.662660+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 293667000.0,
-      "net_income_year_to_date": 49949000.0,
+      "revenue_year_to_date": 565650000.0,
+      "net_income_year_to_date": 92929000.0,
       "equity": 1561854000.0,
       "cash_and_equivalents": 549749000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 372603000.0,
-      "net_income_year_to_date": 54909000.0,
+      "revenue_year_to_date": 938253000.0,
+      "net_income_year_to_date": 147838000.0,
       "equity": 1615943000.0,
       "cash_and_equivalents": 578558000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 370232000.0,
-      "net_income_year_to_date": 44937000.0,
+      "revenue_year_to_date": 713403000.0,
+      "net_income_year_to_date": 73200000.0,
       "equity": 1530313000.0,
       "cash_and_equivalents": 408816000.0,
       "source": {

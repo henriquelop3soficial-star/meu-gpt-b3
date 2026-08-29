@@ -4,7 +4,7 @@
   "issuer_name": "TUPY SA",
   "cnpj": "84683374000149",
   "cvm_code": "6343",
-  "updated_at": "2026-08-29T01:35:20.924877+00:00",
+  "updated_at": "2026-08-29T01:45:36.669121+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2627369000.0,
-      "net_income_year_to_date": 23935000.0,
+      "revenue_year_to_date": 5110413000.0,
+      "net_income_year_to_date": 11742000.0,
       "equity": 3172902000.0,
       "cash_and_equivalents": 1436624000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2399201000.0,
-      "net_income_year_to_date": -39749000.0,
+      "revenue_year_to_date": 7509614000.0,
+      "net_income_year_to_date": -28007000.0,
       "equity": 3090865000.0,
       "cash_and_equivalents": 1648624000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2475302000.0,
-      "net_income_year_to_date": -10852000.0,
+      "revenue_year_to_date": 4781461000.0,
+      "net_income_year_to_date": -105043000.0,
       "equity": 2298057000.0,
       "cash_and_equivalents": 2036771000.0,
       "source": {

@@ -4,7 +4,7 @@
   "issuer_name": "ENERGISA SA",
   "cnpj": "00864214000106",
   "cvm_code": "15253",
-  "updated_at": "2026-08-29T01:35:20.405169+00:00",
+  "updated_at": "2026-08-29T01:45:36.155169+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 8563865000.0,
-      "net_income_year_to_date": 489761000.0,
+      "revenue_year_to_date": 16973481000.0,
+      "net_income_year_to_date": 1516476000.0,
       "equity": 22909095000.0,
       "cash_and_equivalents": 1254643000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 9181985000.0,
-      "net_income_year_to_date": 648430000.0,
+      "revenue_year_to_date": 26155466000.0,
+      "net_income_year_to_date": 2164906000.0,
       "equity": 22635438000.0,
       "cash_and_equivalents": 1154133000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 9240979000.0,
-      "net_income_year_to_date": -39628000.0,
+      "revenue_year_to_date": 18236184000.0,
+      "net_income_year_to_date": 535142000.0,
       "equity": 22983446000.0,
       "cash_and_equivalents": 1174856000.0,
       "source": {

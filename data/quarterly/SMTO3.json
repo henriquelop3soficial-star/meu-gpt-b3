@@ -4,7 +4,7 @@
   "issuer_name": "SÃO MARTINHO SA",
   "cnpj": "51466860000156",
   "cvm_code": "20516",
-  "updated_at": "2026-08-29T01:35:20.861419+00:00",
+  "updated_at": "2026-08-29T01:45:36.605864+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-06-30",
@@ -32,8 +32,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 1738644000.0,
-      "net_income_year_to_date": 176416000.0,
+      "revenue_year_to_date": 3595805000.0,
+      "net_income_year_to_date": 239245000.0,
       "equity": 6971483000.0,
       "cash_and_equivalents": 113452000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-12-31",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 1592302000.0,
-      "net_income_year_to_date": 424081000.0,
+      "revenue_year_to_date": 5188107000.0,
+      "net_income_year_to_date": 663326000.0,
       "equity": 7298618000.0,
       "cash_and_equivalents": 45593000.0,
       "source": {

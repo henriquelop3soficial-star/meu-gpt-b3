@@ -4,7 +4,7 @@
   "issuer_name": "INFRACOMMERCE CXAAS S.A.",
   "cnpj": "38456921000136",
   "cvm_code": "25747",
-  "updated_at": "2026-08-29T01:35:20.518266+00:00",
+  "updated_at": "2026-08-29T01:45:36.266090+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 181893000.0,
-      "net_income_year_to_date": -61420000.0,
+      "revenue_year_to_date": 366516000.0,
+      "net_income_year_to_date": -106200000.0,
       "equity": -201372000.0,
       "cash_and_equivalents": 81524000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 147349000.0,
-      "net_income_year_to_date": -79356000.0,
+      "revenue_year_to_date": 513865000.0,
+      "net_income_year_to_date": -185556000.0,
       "equity": 338323000.0,
       "cash_and_equivalents": 69006000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 149632000.0,
-      "net_income_year_to_date": -23645000.0,
+      "revenue_year_to_date": 287452000.0,
+      "net_income_year_to_date": -83190000.0,
       "equity": 134114000.0,
       "cash_and_equivalents": 35224000.0,
       "source": {

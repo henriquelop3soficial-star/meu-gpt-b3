@@ -4,7 +4,7 @@
   "issuer_name": "LAVVI EMPREENDIMENTOS IMOBILIÁRIOS S.A",
   "cnpj": "26462693000128",
   "cvm_code": "25062",
-  "updated_at": "2026-08-29T01:35:20.580410+00:00",
+  "updated_at": "2026-08-29T01:45:36.328155+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 481894000.0,
-      "net_income_year_to_date": 128543000.0,
+      "revenue_year_to_date": 816524000.0,
+      "net_income_year_to_date": 224898000.0,
       "equity": 1815702000.0,
       "cash_and_equivalents": 138087000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 414753000.0,
-      "net_income_year_to_date": 115999000.0,
+      "revenue_year_to_date": 1231277000.0,
+      "net_income_year_to_date": 340897000.0,
       "equity": 1811095000.0,
       "cash_and_equivalents": 115719000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 495377000.0,
-      "net_income_year_to_date": 102546000.0,
+      "revenue_year_to_date": 868335000.0,
+      "net_income_year_to_date": 184619000.0,
       "equity": 1718028000.0,
       "cash_and_equivalents": 192713000.0,
       "source": {

@@ -4,7 +4,7 @@
   "issuer_name": "LOG-IN LOGISTICA INTERMODAL SA",
   "cnpj": "42278291000124",
   "cvm_code": "20710",
-  "updated_at": "2026-08-29T01:35:20.592002+00:00",
+  "updated_at": "2026-08-29T01:45:36.339879+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 739180000.0,
-      "net_income_year_to_date": 25086000.0,
+      "revenue_year_to_date": 1422943000.0,
+      "net_income_year_to_date": 51629000.0,
       "equity": 1045918000.0,
       "cash_and_equivalents": 270583000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 794416000.0,
-      "net_income_year_to_date": 19358000.0,
+      "revenue_year_to_date": 2217215000.0,
+      "net_income_year_to_date": 70850000.0,
       "equity": 1066007000.0,
       "cash_and_equivalents": 239625000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 777105000.0,
-      "net_income_year_to_date": 133198000.0,
+      "revenue_year_to_date": 1457249000.0,
+      "net_income_year_to_date": 95263000.0,
       "equity": 1206857000.0,
       "cash_and_equivalents": 271725000.0,
       "source": {

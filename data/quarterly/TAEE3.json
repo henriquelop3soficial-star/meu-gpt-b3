@@ -4,7 +4,7 @@
   "issuer_name": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
   "cnpj": "07859971000130",
   "cvm_code": "20257",
-  "updated_at": "2026-08-29T01:35:20.879148+00:00",
+  "updated_at": "2026-08-29T01:45:36.623526+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 1261828000.0,
-      "net_income_year_to_date": 510019000.0,
+      "revenue_year_to_date": 2244721000.0,
+      "net_income_year_to_date": 875180000.0,
       "equity": 7612368000.0,
       "cash_and_equivalents": 432835000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 1180557000.0,
-      "net_income_year_to_date": 340606000.0,
+      "revenue_year_to_date": 3425278000.0,
+      "net_income_year_to_date": 1215786000.0,
       "equity": 7645339000.0,
       "cash_and_equivalents": 609905000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 1067649000.0,
-      "net_income_year_to_date": 567144000.0,
+      "revenue_year_to_date": 2105003000.0,
+      "net_income_year_to_date": 920790000.0,
       "equity": 8070915000.0,
       "cash_and_equivalents": 208359000.0,
       "source": {

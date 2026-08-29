@@ -4,7 +4,7 @@
   "issuer_name": "EMAE - EMPRESA METROP.AGUAS ENERGIA S.A.",
   "cnpj": "02302101000142",
   "cvm_code": "16993",
-  "updated_at": "2026-08-29T01:35:20.392599+00:00",
+  "updated_at": "2026-08-29T01:45:36.142666+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 159555000.0,
-      "net_income_year_to_date": 31668000.0,
+      "revenue_year_to_date": 308005000.0,
+      "net_income_year_to_date": 66047000.0,
       "equity": 1262988000.0,
       "cash_and_equivalents": 247391000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 154256000.0,
-      "net_income_year_to_date": 287470000.0,
+      "revenue_year_to_date": 462260000.0,
+      "net_income_year_to_date": 353517000.0,
       "equity": 1550458000.0,
       "cash_and_equivalents": 243886000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 125947000.0,
-      "net_income_year_to_date": 50973000.0,
+      "revenue_year_to_date": 246574000.0,
+      "net_income_year_to_date": 76729000.0,
       "equity": 671551000.0,
       "cash_and_equivalents": 455068000.0,
       "source": {

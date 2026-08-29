@@ -4,7 +4,7 @@
   "issuer_name": "MAGAZINE LUIZA SA",
   "cnpj": "47960950000121",
   "cvm_code": "22470",
-  "updated_at": "2026-08-29T01:35:20.631915+00:00",
+  "updated_at": "2026-08-29T01:45:36.379290+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 9134666000.0,
-      "net_income_year_to_date": -24356000.0,
+      "revenue_year_to_date": 18523651000.0,
+      "net_income_year_to_date": -11588000.0,
       "equity": 11085083000.0,
       "cash_and_equivalents": 1969935000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 9026651000.0,
-      "net_income_year_to_date": 84585000.0,
+      "revenue_year_to_date": 27550302000.0,
+      "net_income_year_to_date": 72997000.0,
       "equity": 11160098000.0,
       "cash_and_equivalents": 1424531000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 8898727000.0,
-      "net_income_year_to_date": -72462000.0,
+      "revenue_year_to_date": 18104458000.0,
+      "net_income_year_to_date": -127682000.0,
       "equity": 11166703000.0,
       "cash_and_equivalents": 904972000.0,
       "source": {

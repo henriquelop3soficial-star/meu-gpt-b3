@@ -4,7 +4,7 @@
   "issuer_name": "DIMED SA DISTRIBUIDORA DE MEDICAMENTOS",
   "cnpj": "92665611000177",
   "cvm_code": "9342",
-  "updated_at": "2026-08-29T01:35:20.733769+00:00",
+  "updated_at": "2026-08-29T01:45:36.480911+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 1313746000.0,
-      "net_income_year_to_date": 25090000.0,
+      "revenue_year_to_date": 2572434000.0,
+      "net_income_year_to_date": 50556000.0,
       "equity": 1234102000.0,
       "cash_and_equivalents": 47667000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 1373996000.0,
-      "net_income_year_to_date": 31302000.0,
+      "revenue_year_to_date": 3946430000.0,
+      "net_income_year_to_date": 81858000.0,
       "equity": 1264170000.0,
       "cash_and_equivalents": 48390000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 1509150000.0,
-      "net_income_year_to_date": 30371000.0,
+      "revenue_year_to_date": 2958811000.0,
+      "net_income_year_to_date": 63602000.0,
       "equity": 1317019000.0,
       "cash_and_equivalents": 59995000.0,
       "source": {

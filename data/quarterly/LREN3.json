@@ -4,7 +4,7 @@
   "issuer_name": "LOJAS RENNER SA",
   "cnpj": "92754738000162",
   "cvm_code": "8133",
-  "updated_at": "2026-08-29T01:35:20.598648+00:00",
+  "updated_at": "2026-08-29T01:45:36.346423+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 4167566000.0,
-      "net_income_year_to_date": 404496000.0,
+      "revenue_year_to_date": 7425142000.0,
+      "net_income_year_to_date": 625529000.0,
       "equity": 10300491000.0,
       "cash_and_equivalents": 833472000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 3563472000.0,
-      "net_income_year_to_date": 279395000.0,
+      "revenue_year_to_date": 10988614000.0,
+      "net_income_year_to_date": 904924000.0,
       "equity": 10143083000.0,
       "cash_and_equivalents": 866881000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 4201496000.0,
-      "net_income_year_to_date": 404645000.0,
+      "revenue_year_to_date": 7567191000.0,
+      "net_income_year_to_date": 661896000.0,
       "equity": 10367784000.0,
       "cash_and_equivalents": 1215940000.0,
       "source": {

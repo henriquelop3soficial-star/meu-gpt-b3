@@ -4,7 +4,7 @@
   "issuer_name": "PETRORECÔNCAVO S.A.",
   "cnpj": "03342704000130",
   "cvm_code": "25780",
-  "updated_at": "2026-08-29T01:35:20.790053+00:00",
+  "updated_at": "2026-08-29T01:45:36.536051+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 806302000.0,
-      "net_income_year_to_date": 238139000.0,
+      "revenue_year_to_date": 1667054000.0,
+      "net_income_year_to_date": 465668000.0,
       "equity": 4438631000.0,
       "cash_and_equivalents": 222608000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 786385000.0,
-      "net_income_year_to_date": 121937000.0,
+      "revenue_year_to_date": 2453439000.0,
+      "net_income_year_to_date": 587605000.0,
       "equity": 4563499000.0,
       "cash_and_equivalents": 277772000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 807943000.0,
-      "net_income_year_to_date": 202683000.0,
+      "revenue_year_to_date": 1492399000.0,
+      "net_income_year_to_date": 326480000.0,
       "equity": 4433506000.0,
       "cash_and_equivalents": 320992000.0,
       "source": {

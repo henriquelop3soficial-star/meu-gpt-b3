@@ -4,7 +4,7 @@
   "issuer_name": "PADTEC HOLDING S.A.",
   "cnpj": "02365069000144",
   "cvm_code": "18414",
-  "updated_at": "2026-08-29T01:35:20.709216+00:00",
+  "updated_at": "2026-08-29T01:45:36.456494+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 73009000.0,
-      "net_income_year_to_date": -7906000.0,
+      "revenue_year_to_date": 145310000.0,
+      "net_income_year_to_date": -7956000.0,
       "equity": 117903000.0,
       "cash_and_equivalents": 54308000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 76563000.0,
-      "net_income_year_to_date": 4094000.0,
+      "revenue_year_to_date": 221873000.0,
+      "net_income_year_to_date": -3862000.0,
       "equity": 123306000.0,
       "cash_and_equivalents": 28228000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 63099000.0,
-      "net_income_year_to_date": -4614000.0,
+      "revenue_year_to_date": 132408000.0,
+      "net_income_year_to_date": 3180000.0,
       "equity": 140739000.0,
       "cash_and_equivalents": 56275000.0,
       "source": {

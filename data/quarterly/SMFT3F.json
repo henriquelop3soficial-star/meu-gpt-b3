@@ -4,7 +4,7 @@
   "issuer_name": "SMARTFIT ESCOLA DE GINÁSTICA E DANÇA S.A.",
   "cnpj": "07594978000178",
   "cvm_code": "24260",
-  "updated_at": "2026-08-29T01:35:20.859838+00:00",
+  "updated_at": "2026-08-29T01:45:36.604245+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 1791140000.0,
-      "net_income_year_to_date": 160889000.0,
+      "revenue_year_to_date": 3469314000.0,
+      "net_income_year_to_date": 281836000.0,
       "equity": 5655472000.0,
       "cash_and_equivalents": 1059223000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 1824155000.0,
-      "net_income_year_to_date": 144268000.0,
+      "revenue_year_to_date": 5293469000.0,
+      "net_income_year_to_date": 426104000.0,
       "equity": 5724750000.0,
       "cash_and_equivalents": 1191226000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 2177084000.0,
-      "net_income_year_to_date": 155869000.0,
+      "revenue_year_to_date": 4279188000.0,
+      "net_income_year_to_date": 328047000.0,
       "equity": 6092484000.0,
       "cash_and_equivalents": 1540185000.0,
       "source": {

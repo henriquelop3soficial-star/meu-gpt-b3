@@ -4,7 +4,7 @@
   "issuer_name": "ALLIANÇA SAÚDE E PARTICIPAÇÕES S.A.",
   "cnpj": "42771949000135",
   "cvm_code": "24058",
-  "updated_at": "2026-08-29T01:35:20.091373+00:00",
+  "updated_at": "2026-08-29T01:45:35.841200+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 303567000.0,
-      "net_income_year_to_date": -11533000.0,
+      "revenue_year_to_date": 610630000.0,
+      "net_income_year_to_date": -32741000.0,
       "equity": 1091702000.0,
       "cash_and_equivalents": 116421000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 328347000.0,
-      "net_income_year_to_date": 9559000.0,
+      "revenue_year_to_date": 938977000.0,
+      "net_income_year_to_date": -23182000.0,
       "equity": 1099291000.0,
       "cash_and_equivalents": 123751000.0,
       "source": {

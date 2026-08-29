@@ -4,7 +4,7 @@
   "issuer_name": "BELORA RDVC CITY DESENVOLVIMENTO IMOBILIÁRIO S.A.",
   "cnpj": "52805925000103",
   "cvm_code": "27570",
-  "updated_at": "2026-08-29T01:35:20.276684+00:00",
+  "updated_at": "2026-08-29T01:45:36.028856+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-06-30",
@@ -33,7 +33,7 @@
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
       "revenue_year_to_date": 0.0,
-      "net_income_year_to_date": -1012000.0,
+      "net_income_year_to_date": -1007000.0,
       "equity": 4011000.0,
       "cash_and_equivalents": 0.0,
       "source": {

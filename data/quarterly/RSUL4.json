@@ -4,7 +4,7 @@
   "issuer_name": "METALURGICA RIOSULENSE SA",
   "cnpj": "85778074000106",
   "cvm_code": "13439",
-  "updated_at": "2026-08-29T01:35:20.821054+00:00",
+  "updated_at": "2026-08-29T01:45:36.565546+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 108563000.0,
-      "net_income_year_to_date": 15139000.0,
+      "revenue_year_to_date": 209576000.0,
+      "net_income_year_to_date": 30180000.0,
       "equity": 253700000.0,
       "cash_and_equivalents": 78000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 119044000.0,
-      "net_income_year_to_date": 20195000.0,
+      "revenue_year_to_date": 328620000.0,
+      "net_income_year_to_date": 50375000.0,
       "equity": 273972000.0,
       "cash_and_equivalents": 1213000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 108445000.0,
-      "net_income_year_to_date": 13539000.0,
+      "revenue_year_to_date": 208632000.0,
+      "net_income_year_to_date": 26893000.0,
       "equity": 300899000.0,
       "cash_and_equivalents": 22147000.0,
       "source": {

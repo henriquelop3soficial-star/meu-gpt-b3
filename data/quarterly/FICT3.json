@@ -4,7 +4,7 @@
   "issuer_name": "FICTOR ALIMENTOS S.A. - EM RECUPERAÇÃO JUDICIAL",
   "cnpj": "00359742000108",
   "cvm_code": "15423",
-  "updated_at": "2026-08-29T01:35:20.451770+00:00",
+  "updated_at": "2026-08-29T01:45:36.200393+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-09-30",
@@ -13,7 +13,7 @@
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
       "revenue_year_to_date": 31095000.0,
-      "net_income_year_to_date": -2292000.0,
+      "net_income_year_to_date": -2999000.0,
       "equity": 59287000.0,
       "cash_and_equivalents": 52721000.0,
       "source": {

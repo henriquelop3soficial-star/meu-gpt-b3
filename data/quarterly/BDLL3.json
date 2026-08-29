@@ -4,7 +4,7 @@
   "issuer_name": "BARDELLA S.A. INDUSTRIAS MECANICAS - EM RECUPERAÇÃO JUDICIAL",
   "cnpj": "60851615000153",
   "cvm_code": "1520",
-  "updated_at": "2026-08-29T01:35:20.203781+00:00",
+  "updated_at": "2026-08-29T01:45:35.954366+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -32,8 +32,8 @@
       "period_end": "2025-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 20359000.0,
-      "net_income_year_to_date": -8514000.0,
+      "revenue_year_to_date": 24479000.0,
+      "net_income_year_to_date": -21526000.0,
       "equity": -245464000.0,
       "cash_and_equivalents": 8776000.0,
       "source": {
@@ -52,8 +52,8 @@
       "period_end": "2025-09-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 11961000.0,
-      "net_income_year_to_date": 24927000.0,
+      "revenue_year_to_date": 36440000.0,
+      "net_income_year_to_date": 3401000.0,
       "equity": -220537000.0,
       "cash_and_equivalents": 7436000.0,
       "source": {
@@ -92,8 +92,8 @@
       "period_end": "2026-06-30",
       "period_type": "year_to_date",
       "accounting_profile": "non_financial",
-      "revenue_year_to_date": 6437000.0,
-      "net_income_year_to_date": -8388000.0,
+      "revenue_year_to_date": 12070000.0,
+      "net_income_year_to_date": -16388000.0,
       "equity": -260920000.0,
       "cash_and_equivalents": 7488000.0,
       "source": {
