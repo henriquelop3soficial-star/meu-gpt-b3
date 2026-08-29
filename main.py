@@ -150,6 +150,11 @@ async def bolsai_get(path: str, params: dict[str, Any] | None = None) -> dict[st
     except httpx.HTTPStatusError as error:
         if error.response.status_code == 404:
             raise HTTPException(status_code=404, detail="Ativo não encontrado na BolsAI.") from error
+        if error.response.status_code == 403:
+            raise HTTPException(
+                status_code=403,
+                detail="Recurso não disponível no plano BolsAI atual. Não preencha o dado por estimativa.",
+            ) from error
         if error.response.status_code == 429:
             raise HTTPException(status_code=429, detail="Limite de requisições da BolsAI atingido.") from error
         raise HTTPException(status_code=502, detail=f"BolsAI retornou HTTP {error.response.status_code}.") from error
