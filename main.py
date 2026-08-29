@@ -15,6 +15,7 @@ load_dotenv()
 
 ROOT_DIR = Path(__file__).resolve().parent
 FUNDAMENTALS_DIR = ROOT_DIR / "data" / "fundamentals"
+QUARTERLY_DIR = ROOT_DIR / "data" / "quarterly"
 HISTORY_DIR = ROOT_DIR / "data" / "history"
 
 
@@ -201,6 +202,18 @@ def load_cvm_financials(ticker: str) -> dict[str, Any] | None:
     return payload if isinstance(payload, dict) else None
 
 
+def load_cvm_interim_financials(ticker: str) -> dict[str, Any] | None:
+    """Lê os resultados intermediários gerados a partir dos ITRs públicos da CVM."""
+    snapshot_path = QUARTERLY_DIR / f"{ticker}.json"
+    if not snapshot_path.exists():
+        return None
+    try:
+        payload = json.loads(snapshot_path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return None
+    return payload if isinstance(payload, dict) else None
+
+
 def annual_records(snapshot: dict[str, Any] | None) -> list[dict[str, Any]]:
     if not snapshot:
         return []
@@ -209,6 +222,16 @@ def annual_records(snapshot: dict[str, Any] | None) -> list[dict[str, Any]]:
         return []
     valid = [item for item in records if isinstance(item, dict) and isinstance(item.get("year"), int)]
     return sorted(valid, key=lambda item: item["year"])
+
+
+def interim_records(snapshot: dict[str, Any] | None) -> list[dict[str, Any]]:
+    if not snapshot:
+        return []
+    records = snapshot.get("interim_financials")
+    if not isinstance(records, list):
+        return []
+    valid = [item for item in records if isinstance(item, dict) and isinstance(item.get("reference_date"), str)]
+    return sorted(valid, key=lambda item: item["reference_date"])
 
 
 def load_b3_history(ticker: str) -> dict[str, Any] | None:
@@ -346,6 +369,8 @@ async def fundamentals(ticker: str, _: None = Depends(require_api_key)) -> Funda
 
     snapshot = load_cvm_financials(ticker)
     records = annual_records(snapshot)
+    interim_snapshot = load_cvm_interim_financials(ticker)
+    interim = interim_records(interim_snapshot)
     if not records:
         raise HTTPException(
             status_code=404,
@@ -357,6 +382,7 @@ async def fundamentals(ticker: str, _: None = Depends(require_api_key)) -> Funda
     quote = quote_data if isinstance(quote_data, dict) else {}
     current = records[-1]
     previous = records[-2] if len(records) > 1 else None
+    latest_interim = interim[-1] if interim else None
     price = number(quote.get("regularMarketPrice"))
     market_cap = number(quote.get("marketCap"))
     eps = number(current.get("earnings_per_share"))
@@ -380,13 +406,19 @@ async def fundamentals(ticker: str, _: None = Depends(require_api_key)) -> Funda
         "total_debt": (number(current.get("short_term_debt")) or 0.0) + (number(current.get("long_term_debt")) or 0.0)
         if number(current.get("short_term_debt")) is not None or number(current.get("long_term_debt")) is not None else None,
         "total_cash": number(current.get("cash_and_equivalents")),
+        "annual_shares_outstanding": number((current.get("capital_composition") or {}).get("shares_outstanding")),
         "dividends_per_share_ttm": None,
         "payout_percent_ttm": None,
         "dividend_yield_percent_ttm": None,
+        "latest_interim_revenue_year_to_date": number(latest_interim.get("revenue_year_to_date")) if latest_interim else None,
+        "latest_interim_net_income_year_to_date": number(latest_interim.get("net_income_year_to_date")) if latest_interim else None,
+        "latest_interim_equity": number(latest_interim.get("equity")) if latest_interim else None,
+        "latest_interim_cash": number(latest_interim.get("cash_and_equivalents")) if latest_interim else None,
     }
     status_by_source = {
         "quote": payload_status(quote_payload, quote_data),
         "cvm_dfp": "ok: demonstrações anuais públicas importadas",
+        "cvm_itr": "ok: ITR público mais recente importado" if latest_interim else "não integrado ou não disponível para o ativo",
         "dividends": "não integrado: fonte gratuita de proventos será adicionada em etapa posterior",
     }
     current_year = current["year"]
@@ -405,6 +437,7 @@ async def fundamentals(ticker: str, _: None = Depends(require_api_key)) -> Funda
         raw_data={
             "quote": quote_payload,
             "cvm_financials": snapshot,
+            "cvm_itr": interim_snapshot,
         },
     )
 
