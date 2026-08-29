@@ -102,7 +102,11 @@ def account_value(rows: list[dict[str, str]], account_code: str | None) -> float
     matches = [row for row in rows if row.get("CD_CONTA") == account_code]
     if not matches:
         return None
-    matches.sort(key=lambda row: (row.get("DT_FIM_EXERC", ""), row.get("DT_INI_EXERC", "")), reverse=True)
+    # Um mesmo ITR pode trazer, para a mesma conta, o trimestre isolado
+    # (por exemplo, 01/04 a 30/06) e o acumulado no ano (01/01 a 30/06).
+    # Este importador declara ``year_to_date``; por isso seleciona a linha
+    # cujo início de exercício é o mais antigo, e não o trimestre isolado.
+    matches.sort(key=lambda row: (row.get("DT_INI_EXERC", "9999-12-31"), row.get("DT_FIM_EXERC", "")))
     value = parse_money(matches[0].get("VL_CONTA"))
     return scale_to_brl(value, matches[0].get("ESCALA_MOEDA"))
 

@@ -93,52 +93,35 @@ def chunked(items: list[str], size: int) -> list[list[str]]:
 
 def load_profiles(tickers: list[str]) -> dict[str, dict[str, Any]]:
     profiles: dict[str, dict[str, Any]] = {}
-
     for batch in chunked(tickers, 10):
         try:
             payload = get_json(BRAPI_PROFILE_URL, {"symbols": ",".join(batch)})
         except urllib.error.HTTPError as error:
             if error.code == 401:
-                raise RuntimeError(
-                    "BRAPI_TOKEN não configurado ou inválido."
-                ) from error
-
+                raise RuntimeError("BRAPI_TOKEN não configurado ou inválido. Configure a mesma chave BRAPI usada pelo Coletor B3 antes de atualizar o universo.") from error
             if error.code != 400:
                 raise
-
+            # Alguns símbolos podem não possuir perfil cadastral. Em vez de
+            # descartar o lote inteiro, tentamos um a um e mantemos somente
+            # os perfis que a BRAPI efetivamente confirmar.
             for ticker in batch:
                 try:
-                    individual = get_json(
-                        BRAPI_PROFILE_URL,
-                        {"symbols": ticker},
-                    )
-                except urllib.error.HTTPError:
+                    individual = get_json(BRAPI_PROFILE_URL, {"symbols": ticker})
+                except urllib.error.HTTPError as individual_error:
+                    if individual_error.code == 401:
+                        raise RuntimeError("BRAPI_TOKEN não configurado ou inválido. Configure a mesma chave BRAPI usada pelo Coletor B3 antes de atualizar o universo.") from individual_error
                     continue
-
                 for result in individual.get("results") or []:
-                    symbol = str(
-                        result.get("symbol")
-                        or result.get("requestedSymbol")
-                        or ""
-                    ).upper()
+                    symbol = str(result.get("symbol") or result.get("requestedSymbol") or "").upper()
                     data = result.get("data")
-
                     if symbol and isinstance(data, dict):
                         profiles[symbol] = data
-
             continue
-
         for result in payload.get("results") or []:
-            ticker = str(
-                result.get("symbol")
-                or result.get("requestedSymbol")
-                or ""
-            ).upper()
+            ticker = str(result.get("symbol") or result.get("requestedSymbol") or "").upper()
             data = result.get("data")
-
             if ticker and isinstance(data, dict):
                 profiles[ticker] = data
-
     return profiles
 
 
@@ -170,6 +153,40 @@ def write_csv(path: Path, rows: list[dict[str, str]], fields: list[str]) -> None
         writer.writerows(rows)
 
 
+def load_existing_assets() -> dict[str, dict[str, str]]:
+    """Carrega vínculos já validados para não consultar o perfil da BRAPI de novo.
+
+    A primeira carga pode precisar consultar perfis para encontrar o CNPJ. Nas
+    atualizações seguintes, o vínculo ticker -> companhia/CVM já está salvo em
+    ``assets.csv`` e deve ser reaproveitado. Isso mantém a atualização semanal
+    dentro de uma cota gratuita pequena da BRAPI.
+    """
+    if not ASSETS_FILE.exists():
+        return {}
+    with ASSETS_FILE.open("r", encoding="utf-8-sig", newline="") as file:
+        return {
+            str(row.get("ticker") or "").upper().strip(): row
+            for row in csv.DictReader(file)
+            if str(row.get("ticker") or "").strip() and str(row.get("cvm_code") or "").strip()
+        }
+
+
+def reused_asset(existing: dict[str, str], item: dict[str, Any]) -> dict[str, str]:
+    """Atualiza só os campos de mercado que a listagem fornece sem novo perfil."""
+    return {
+        "ticker": str(item.get("stock") or existing.get("ticker") or "").upper().strip(),
+        "asset_type": existing.get("asset_type") or "stock",
+        "security_type": str(item.get("subType") or existing.get("security_type") or "stock").lower(),
+        "accounting_profile": existing.get("accounting_profile") or "non_financial",
+        "issuer_name": existing.get("issuer_name") or str(item.get("name") or ""),
+        "cnpj": existing.get("cnpj") or "",
+        "cvm_code": existing.get("cvm_code") or "",
+        "sector": str(item.get("sector") or existing.get("sector") or ""),
+        "industry": str(item.get("subsector") or existing.get("industry") or ""),
+        "status": "active",
+    }
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Monta automaticamente data/assets.csv para ações e Units.")
     parser.add_argument("--max-assets", type=int, help="Limita a importação, útil para teste.")
@@ -181,13 +198,27 @@ def main() -> None:
     if not listed:
         raise RuntimeError("A BRAPI não retornou ações ou Units listados.")
 
-    profiles = load_profiles([str(item.get("stock")).upper() for item in listed])
+    existing_assets = load_existing_assets()
+    new_listed = [
+        item for item in listed
+        if str(item.get("stock") or "").upper().strip() not in existing_assets
+    ]
+    # Perfis são consultados somente para tickers inéditos. Os ativos já
+    # vinculados à CVM são lidos do arquivo local, evitando centenas de
+    # chamadas individuais a cada execução.
+    profiles = load_profiles([str(item.get("stock")).upper() for item in new_listed])
     cvm_by_cnpj, cvm_by_name = build_cvm_index(get_csv(CVM_CAD_URL))
     assets: list[dict[str, str]] = []
     unresolved: list[dict[str, str]] = []
+    reused_count = 0
 
     for item in listed:
         ticker = str(item.get("stock") or "").upper().strip()
+        existing = existing_assets.get(ticker)
+        if existing:
+            assets.append(reused_asset(existing, item))
+            reused_count += 1
+            continue
         profile = profiles.get(ticker, {})
         cnpj = digits(str(profile.get("cnpj") or ""))
         cvm_row = cvm_by_cnpj.get(cnpj)
@@ -221,6 +252,8 @@ def main() -> None:
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "sources": [BRAPI_LIST_URL, BRAPI_PROFILE_URL, CVM_CAD_URL],
         "listed_assets_found": len(listed),
+        "assets_reused_from_previous_file": reused_count,
+        "new_assets_requiring_brapi_profile": len(new_listed),
         "assets_linked_to_cvm": len(assets),
         "assets_unresolved": len(unresolved),
         "note": "Ativos não vinculados à CVM foram separados para auditoria e não recebem fundamentos por inferência.",
