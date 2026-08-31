@@ -4,13 +4,13 @@
   "issuer_name": "AUTOMOB PARTICIPAÇÕES S.A.",
   "cnpj": "35654688000108",
   "cvm_code": "27707",
-  "updated_at": "2026-08-29T01:57:52.437782+00:00",
+  "updated_at": "2026-08-31T08:27:17.790582+00:00",
   "annual_financials": [
     {
       "year": 2023,
       "accounting_profile": "non_financial",
       "revenue": 2536766000.0,
-      "net_income": -177597000.0,
+      "net_income": 89403000.0,
       "earnings_per_share": 0.0,
       "equity": 1593729000.0,
       "cash_and_equivalents": 24251000.0,
