@@ -4,7 +4,7 @@
   "issuer_name": "TELEFÔNICA BRASIL S.A.",
   "cnpj": "02558157000162",
   "cvm_code": "17671",
-  "updated_at": "2026-09-07T08:35:18.538110+00:00",
+  "updated_at": "2026-09-14T08:34:52.804200+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -58,35 +58,6 @@
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
         "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
-      },
-      "notes": [
-        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
-        "Campos nulos não foram estimados."
-      ]
-    },
-    {
-      "year": 2025,
-      "accounting_profile": "non_financial",
-      "revenue": 59595000000.0,
-      "net_income": 6177543000.0,
-      "earnings_per_share": 0.0,
-      "equity": 69002726000.0,
-      "cash_and_equivalents": 7032339000.0,
-      "short_term_debt": 5348864000.0,
-      "long_term_debt": 14997817000.0,
-      "capital_composition": {
-        "ordinary_shares": 3226546622.0,
-        "preferred_shares": 0.0,
-        "total_shares": 3226546622.0,
-        "treasury_shares": 30940270.0,
-        "shares_outstanding": 3195606352.0,
-        "reference_date": "2025-12-31",
-        "source": "DFP - Composição do Capital"
-      },
-      "source": {
-        "provider": "CVM Dados Abertos",
-        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
-        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
       },
       "notes": [
         "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",

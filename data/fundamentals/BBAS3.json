@@ -4,7 +4,7 @@
   "issuer_name": "BANCO DO BRASIL S.A.",
   "cnpj": "00000000000191",
   "cvm_code": "1023",
-  "updated_at": "2026-09-07T08:35:18.352966+00:00",
+  "updated_at": "2026-09-14T08:34:52.652761+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -59,36 +59,6 @@
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
         "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
-      },
-      "notes": [
-        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
-        "Campos nulos não foram estimados.",
-        "Dívida de banco não é calculada: depósitos e captações não equivalem à dívida corporativa de empresa não financeira."
-      ]
-    },
-    {
-      "year": 2025,
-      "accounting_profile": "bank",
-      "revenue": 319462104000.0,
-      "net_income": 16781938000.0,
-      "earnings_per_share": 2.4,
-      "equity": 193567416000.0,
-      "cash_and_equivalents": 59635525000.0,
-      "short_term_debt": null,
-      "long_term_debt": null,
-      "capital_composition": {
-        "ordinary_shares": 5730834040.0,
-        "preferred_shares": 0.0,
-        "total_shares": 5730834040.0,
-        "treasury_shares": 22370399.0,
-        "shares_outstanding": 5708463641.0,
-        "reference_date": "2025-12-31",
-        "source": "DFP - Composição do Capital"
-      },
-      "source": {
-        "provider": "CVM Dados Abertos",
-        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
-        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
       },
       "notes": [
         "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",

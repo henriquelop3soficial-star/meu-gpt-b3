@@ -4,7 +4,7 @@
   "issuer_name": "GRUPO CASAS BAHIA S.A.",
   "cnpj": "33041260065290",
   "cvm_code": "6505",
-  "updated_at": "2026-09-07T08:35:18.357111+00:00",
+  "updated_at": "2026-09-14T08:34:52.656225+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -58,35 +58,6 @@
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
         "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
-      },
-      "notes": [
-        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
-        "Campos nulos não foram estimados."
-      ]
-    },
-    {
-      "year": 2025,
-      "accounting_profile": "non_financial",
-      "revenue": 29197000000.0,
-      "net_income": -2988000000.0,
-      "earnings_per_share": 0.0,
-      "equity": 2774000000.0,
-      "cash_and_equivalents": 1225000000.0,
-      "short_term_debt": 5613000000.0,
-      "long_term_debt": 685000000.0,
-      "capital_composition": {
-        "ordinary_shares": 653878.0,
-        "preferred_shares": 0.0,
-        "total_shares": 653878.0,
-        "treasury_shares": 15.0,
-        "shares_outstanding": 653863.0,
-        "reference_date": "2025-12-31",
-        "source": "DFP - Composição do Capital"
-      },
-      "source": {
-        "provider": "CVM Dados Abertos",
-        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
-        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
       },
       "notes": [
         "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",

@@ -4,68 +4,8 @@
   "issuer_name": "CONSERVAS ODERICH SA",
   "cnpj": "97191902000194",
   "cvm_code": "4693",
-  "updated_at": "2026-09-07T08:35:35.520132+00:00",
+  "updated_at": "2026-09-14T08:34:58.669111+00:00",
   "interim_financials": [
-    {
-      "reference_date": "2025-03-31",
-      "period_start": "2025-01-01",
-      "period_end": "2025-03-31",
-      "period_type": "year_to_date",
-      "accounting_profile": "non_financial",
-      "revenue_year_to_date": 177807000.0,
-      "net_income_year_to_date": 17267000.0,
-      "equity": 550684000.0,
-      "cash_and_equivalents": 152121000.0,
-      "source": {
-        "provider": "CVM Dados Abertos",
-        "dataset": "ITR - Informações Trimestrais",
-        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2025.zip"
-      },
-      "notes": [
-        "Valores do ITR consolidado foram normalizados para BRL.",
-        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
-      ]
-    },
-    {
-      "reference_date": "2025-06-30",
-      "period_start": "2025-01-01",
-      "period_end": "2025-06-30",
-      "period_type": "year_to_date",
-      "accounting_profile": "non_financial",
-      "revenue_year_to_date": 376359000.0,
-      "net_income_year_to_date": 30093000.0,
-      "equity": 559560000.0,
-      "cash_and_equivalents": 153768000.0,
-      "source": {
-        "provider": "CVM Dados Abertos",
-        "dataset": "ITR - Informações Trimestrais",
-        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2025.zip"
-      },
-      "notes": [
-        "Valores do ITR consolidado foram normalizados para BRL.",
-        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
-      ]
-    },
-    {
-      "reference_date": "2025-09-30",
-      "period_start": "2025-01-01",
-      "period_end": "2025-09-30",
-      "period_type": "year_to_date",
-      "accounting_profile": "non_financial",
-      "revenue_year_to_date": 594426000.0,
-      "net_income_year_to_date": 54772000.0,
-      "equity": 579216000.0,
-      "cash_and_equivalents": 117118000.0,
-      "source": {
-        "provider": "CVM Dados Abertos",
-        "dataset": "ITR - Informações Trimestrais",
-        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2025.zip"
-      },
-      "notes": [
-        "Valores do ITR consolidado foram normalizados para BRL.",
-        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
-      ]
-    },
     {
       "reference_date": "2026-03-31",
       "period_start": "2026-01-01",

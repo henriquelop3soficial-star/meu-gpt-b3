@@ -4,68 +4,8 @@
   "issuer_name": "MARCOPOLO SA",
   "cnpj": "88611835000129",
   "cvm_code": "8451",
-  "updated_at": "2026-09-07T08:35:35.574390+00:00",
+  "updated_at": "2026-09-14T08:34:58.691410+00:00",
   "interim_financials": [
-    {
-      "reference_date": "2025-03-31",
-      "period_start": "2025-01-01",
-      "period_end": "2025-03-31",
-      "period_type": "year_to_date",
-      "accounting_profile": "non_financial",
-      "revenue_year_to_date": 1677436000.0,
-      "net_income_year_to_date": 243071000.0,
-      "equity": 4013800000.0,
-      "cash_and_equivalents": 1762813000.0,
-      "source": {
-        "provider": "CVM Dados Abertos",
-        "dataset": "ITR - Informações Trimestrais",
-        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2025.zip"
-      },
-      "notes": [
-        "Valores do ITR consolidado foram normalizados para BRL.",
-        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
-      ]
-    },
-    {
-      "reference_date": "2025-06-30",
-      "period_start": "2025-01-01",
-      "period_end": "2025-06-30",
-      "period_type": "year_to_date",
-      "accounting_profile": "non_financial",
-      "revenue_year_to_date": 3982521000.0,
-      "net_income_year_to_date": 564162000.0,
-      "equity": 4226480000.0,
-      "cash_and_equivalents": 1953445000.0,
-      "source": {
-        "provider": "CVM Dados Abertos",
-        "dataset": "ITR - Informações Trimestrais",
-        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2025.zip"
-      },
-      "notes": [
-        "Valores do ITR consolidado foram normalizados para BRL.",
-        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
-      ]
-    },
-    {
-      "reference_date": "2025-09-30",
-      "period_start": "2025-01-01",
-      "period_end": "2025-09-30",
-      "period_type": "year_to_date",
-      "accounting_profile": "non_financial",
-      "revenue_year_to_date": 6487970000.0,
-      "net_income_year_to_date": 893780000.0,
-      "equity": 4387511000.0,
-      "cash_and_equivalents": 1990624000.0,
-      "source": {
-        "provider": "CVM Dados Abertos",
-        "dataset": "ITR - Informações Trimestrais",
-        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2025.zip"
-      },
-      "notes": [
-        "Valores do ITR consolidado foram normalizados para BRL.",
-        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
-      ]
-    },
     {
       "reference_date": "2026-03-31",
       "period_start": "2026-01-01",

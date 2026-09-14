@@ -4,7 +4,7 @@
   "issuer_name": "CM HOSPITALAR S.A",
   "cnpj": "12420164000157",
   "cvm_code": "25682",
-  "updated_at": "2026-09-07T08:35:18.541972+00:00",
+  "updated_at": "2026-09-14T08:34:52.807710+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -58,35 +58,6 @@
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
         "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
-      },
-      "notes": [
-        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
-        "Campos nulos não foram estimados."
-      ]
-    },
-    {
-      "year": 2025,
-      "accounting_profile": "non_financial",
-      "revenue": 11566926000.0,
-      "net_income": 18239000.0,
-      "earnings_per_share": 0.0,
-      "equity": 1937089000.0,
-      "cash_and_equivalents": 573643000.0,
-      "short_term_debt": 997921000.0,
-      "long_term_debt": 2442465000.0,
-      "capital_composition": {
-        "ordinary_shares": 322820608.0,
-        "preferred_shares": 0.0,
-        "total_shares": 322820608.0,
-        "treasury_shares": 7012300.0,
-        "shares_outstanding": 315808308.0,
-        "reference_date": "2025-12-31",
-        "source": "DFP - Composição do Capital"
-      },
-      "source": {
-        "provider": "CVM Dados Abertos",
-        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
-        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
       },
       "notes": [
         "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",

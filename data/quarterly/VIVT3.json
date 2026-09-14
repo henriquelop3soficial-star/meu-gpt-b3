@@ -4,68 +4,8 @@
   "issuer_name": "TELEFÔNICA BRASIL S.A.",
   "cnpj": "02558157000162",
   "cvm_code": "17671",
-  "updated_at": "2026-09-07T08:35:35.795438+00:00",
+  "updated_at": "2026-09-14T08:34:58.783333+00:00",
   "interim_financials": [
-    {
-      "reference_date": "2025-03-31",
-      "period_start": "2025-01-01",
-      "period_end": "2025-03-31",
-      "period_type": "year_to_date",
-      "accounting_profile": "non_financial",
-      "revenue_year_to_date": 14390273000.0,
-      "net_income_year_to_date": 1056270000.0,
-      "equity": 68144326000.0,
-      "cash_and_equivalents": 8185114000.0,
-      "source": {
-        "provider": "CVM Dados Abertos",
-        "dataset": "ITR - Informações Trimestrais",
-        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2025.zip"
-      },
-      "notes": [
-        "Valores do ITR consolidado foram normalizados para BRL.",
-        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
-      ]
-    },
-    {
-      "reference_date": "2025-06-30",
-      "period_start": "2025-01-01",
-      "period_end": "2025-06-30",
-      "period_type": "year_to_date",
-      "accounting_profile": "non_financial",
-      "revenue_year_to_date": 29035365000.0,
-      "net_income_year_to_date": 2395075000.0,
-      "equity": 68139419000.0,
-      "cash_and_equivalents": 9454104000.0,
-      "source": {
-        "provider": "CVM Dados Abertos",
-        "dataset": "ITR - Informações Trimestrais",
-        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2025.zip"
-      },
-      "notes": [
-        "Valores do ITR consolidado foram normalizados para BRL.",
-        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
-      ]
-    },
-    {
-      "reference_date": "2025-09-30",
-      "period_start": "2025-01-01",
-      "period_end": "2025-09-30",
-      "period_type": "year_to_date",
-      "accounting_profile": "non_financial",
-      "revenue_year_to_date": 43984421000.0,
-      "net_income_year_to_date": 4282295000.0,
-      "equity": 68500404000.0,
-      "cash_and_equivalents": 6796561000.0,
-      "source": {
-        "provider": "CVM Dados Abertos",
-        "dataset": "ITR - Informações Trimestrais",
-        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2025.zip"
-      },
-      "notes": [
-        "Valores do ITR consolidado foram normalizados para BRL.",
-        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
-      ]
-    },
     {
       "reference_date": "2026-03-31",
       "period_start": "2026-01-01",

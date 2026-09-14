@@ -4,7 +4,7 @@
   "issuer_name": "GRUPO TOKY S.A. - EM RECUPERAÇÃO JUDICIAL",
   "cnpj": "31553627000101",
   "cvm_code": "25461",
-  "updated_at": "2026-09-07T08:35:18.523709+00:00",
+  "updated_at": "2026-09-14T08:34:52.791418+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -58,35 +58,6 @@
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
         "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
-      },
-      "notes": [
-        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
-        "Campos nulos não foram estimados."
-      ]
-    },
-    {
-      "year": 2025,
-      "accounting_profile": "non_financial",
-      "revenue": 1445029000.0,
-      "net_income": -146886000.0,
-      "earnings_per_share": 0.0,
-      "equity": 222151000.0,
-      "cash_and_equivalents": 30718000.0,
-      "short_term_debt": 25840000.0,
-      "long_term_debt": 481518000.0,
-      "capital_composition": {
-        "ordinary_shares": 216786.0,
-        "preferred_shares": 0.0,
-        "total_shares": 216786.0,
-        "treasury_shares": 0.0,
-        "shares_outstanding": 216786.0,
-        "reference_date": "2025-12-31",
-        "source": "DFP - Composição do Capital"
-      },
-      "source": {
-        "provider": "CVM Dados Abertos",
-        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
-        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
       },
       "notes": [
         "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",

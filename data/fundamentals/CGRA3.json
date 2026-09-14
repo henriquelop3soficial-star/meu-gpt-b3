@@ -4,7 +4,7 @@
   "issuer_name": "GRAZZIOTIN SA",
   "cnpj": "92012467000170",
   "cvm_code": "4537",
-  "updated_at": "2026-09-07T08:35:18.373820+00:00",
+  "updated_at": "2026-09-14T08:34:52.670474+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -58,35 +58,6 @@
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
         "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
-      },
-      "notes": [
-        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
-        "Campos nulos não foram estimados."
-      ]
-    },
-    {
-      "year": 2025,
-      "accounting_profile": "non_financial",
-      "revenue": 744815000.0,
-      "net_income": 83855000.0,
-      "earnings_per_share": 0.0,
-      "equity": 878113000.0,
-      "cash_and_equivalents": 147062000.0,
-      "short_term_debt": 0.0,
-      "long_term_debt": 0.0,
-      "capital_composition": {
-        "ordinary_shares": 10007950.0,
-        "preferred_shares": 13949369.0,
-        "total_shares": 23957319.0,
-        "treasury_shares": 413601.0,
-        "shares_outstanding": 23543718.0,
-        "reference_date": "2025-12-31",
-        "source": "DFP - Composição do Capital"
-      },
-      "source": {
-        "provider": "CVM Dados Abertos",
-        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
-        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
       },
       "notes": [
         "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",

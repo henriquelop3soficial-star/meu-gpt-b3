@@ -4,7 +4,7 @@
   "issuer_name": "MOTIVA INFRAESTRUTURA DE MOBILIDADE S.A.",
   "cnpj": "02846056000197",
   "cvm_code": "18821",
-  "updated_at": "2026-09-07T08:35:18.461233+00:00",
+  "updated_at": "2026-09-14T08:34:52.741060+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -58,35 +58,6 @@
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
         "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
-      },
-      "notes": [
-        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
-        "Campos nulos não foram estimados."
-      ]
-    },
-    {
-      "year": 2025,
-      "accounting_profile": "non_financial",
-      "revenue": 18850645000.0,
-      "net_income": 3503497000.0,
-      "earnings_per_share": 0.0,
-      "equity": 16282437000.0,
-      "cash_and_equivalents": 3651544000.0,
-      "short_term_debt": 1857013000.0,
-      "long_term_debt": 35383678000.0,
-      "capital_composition": {
-        "ordinary_shares": 2020000000.0,
-        "preferred_shares": 0.0,
-        "total_shares": 2020000000.0,
-        "treasury_shares": 9512335.0,
-        "shares_outstanding": 2010487665.0,
-        "reference_date": "2025-12-31",
-        "source": "DFP - Composição do Capital"
-      },
-      "source": {
-        "provider": "CVM Dados Abertos",
-        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
-        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
       },
       "notes": [
         "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",

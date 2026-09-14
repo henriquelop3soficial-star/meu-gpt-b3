@@ -4,7 +4,7 @@
   "issuer_name": "METALURGICA RIOSULENSE SA",
   "cnpj": "85778074000106",
   "cvm_code": "13439",
-  "updated_at": "2026-09-07T08:35:18.502426+00:00",
+  "updated_at": "2026-09-14T08:34:52.773615+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -58,35 +58,6 @@
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
         "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
-      },
-      "notes": [
-        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
-        "Campos nulos não foram estimados."
-      ]
-    },
-    {
-      "year": 2025,
-      "accounting_profile": "non_financial",
-      "revenue": 420460000.0,
-      "net_income": 64448000.0,
-      "earnings_per_share": 0.0,
-      "equity": 274006000.0,
-      "cash_and_equivalents": 2392000.0,
-      "short_term_debt": 2974000.0,
-      "long_term_debt": 29180000.0,
-      "capital_composition": {
-        "ordinary_shares": 3576903.0,
-        "preferred_shares": 2495225.0,
-        "total_shares": 6072128.0,
-        "treasury_shares": 0.0,
-        "shares_outstanding": 6072128.0,
-        "reference_date": "2025-12-31",
-        "source": "DFP - Composição do Capital"
-      },
-      "source": {
-        "provider": "CVM Dados Abertos",
-        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
-        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
       },
       "notes": [
         "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",

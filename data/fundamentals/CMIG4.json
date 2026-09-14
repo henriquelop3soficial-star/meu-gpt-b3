@@ -4,7 +4,7 @@
   "issuer_name": "CIA ENERG MINAS GERAIS - CEMIG",
   "cnpj": "17155730000164",
   "cvm_code": "2453",
-  "updated_at": "2026-09-07T08:35:18.376275+00:00",
+  "updated_at": "2026-09-14T08:34:52.672598+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -58,35 +58,6 @@
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
         "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
-      },
-      "notes": [
-        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
-        "Campos nulos não foram estimados."
-      ]
-    },
-    {
-      "year": 2025,
-      "accounting_profile": "non_financial",
-      "revenue": 42751283000.0,
-      "net_income": 4899617000.0,
-      "earnings_per_share": 0.0,
-      "equity": 28581703000.0,
-      "cash_and_equivalents": 1901636000.0,
-      "short_term_debt": 3051643000.0,
-      "long_term_debt": 16413688000.0,
-      "capital_composition": {
-        "ordinary_shares": 956602.0,
-        "preferred_shares": 1905180.0,
-        "total_shares": 2861782.0,
-        "treasury_shares": 1100.0,
-        "shares_outstanding": 2860682.0,
-        "reference_date": "2025-12-31",
-        "source": "DFP - Composição do Capital"
-      },
-      "source": {
-        "provider": "CVM Dados Abertos",
-        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
-        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
       },
       "notes": [
         "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",

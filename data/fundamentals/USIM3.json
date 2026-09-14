@@ -4,7 +4,7 @@
   "issuer_name": "USINAS SID DE MINAS GERAIS S.A.-USIMINAS",
   "cnpj": "60894730000105",
   "cvm_code": "14320",
-  "updated_at": "2026-09-07T08:35:18.531241+00:00",
+  "updated_at": "2026-09-14T08:34:52.798174+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -58,35 +58,6 @@
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
         "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
-      },
-      "notes": [
-        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
-        "Campos nulos não foram estimados."
-      ]
-    },
-    {
-      "year": 2025,
-      "accounting_profile": "non_financial",
-      "revenue": 26263450000.0,
-      "net_income": -2910034000.0,
-      "earnings_per_share": 0.0,
-      "equity": 23701381000.0,
-      "cash_and_equivalents": 5141617000.0,
-      "short_term_debt": 184291000.0,
-      "long_term_debt": 6205848000.0,
-      "capital_composition": {
-        "ordinary_shares": 705260684.0,
-        "preferred_shares": 547818424.0,
-        "total_shares": 1253079108.0,
-        "treasury_shares": 22136448.0,
-        "shares_outstanding": 1230942660.0,
-        "reference_date": "2025-12-31",
-        "source": "DFP - Composição do Capital"
-      },
-      "source": {
-        "provider": "CVM Dados Abertos",
-        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
-        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
       },
       "notes": [
         "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",

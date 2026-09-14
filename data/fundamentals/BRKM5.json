@@ -4,7 +4,7 @@
   "issuer_name": "BRASKEM S.A.",
   "cnpj": "42150391000170",
   "cvm_code": "4820",
-  "updated_at": "2026-09-07T08:35:18.366290+00:00",
+  "updated_at": "2026-09-14T08:34:52.664284+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -58,35 +58,6 @@
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
         "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
-      },
-      "notes": [
-        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
-        "Campos nulos não foram estimados."
-      ]
-    },
-    {
-      "year": 2025,
-      "accounting_profile": "non_financial",
-      "revenue": 70717000000.0,
-      "net_income": -10961000000.0,
-      "earnings_per_share": 0.0,
-      "equity": -16502000000.0,
-      "cash_and_equivalents": 10501000000.0,
-      "short_term_debt": 8268000000.0,
-      "long_term_debt": 43553000000.0,
-      "capital_composition": {
-        "ordinary_shares": 451668652.0,
-        "preferred_shares": 345539155.0,
-        "total_shares": 797207807.0,
-        "treasury_shares": 27.0,
-        "shares_outstanding": 797207780.0,
-        "reference_date": "2025-12-31",
-        "source": "DFP - Composição do Capital"
-      },
-      "source": {
-        "provider": "CVM Dados Abertos",
-        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
-        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
       },
       "notes": [
         "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
