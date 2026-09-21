@@ -4,7 +4,7 @@
   "issuer_name": "CYRELA BRAZIL REALTY S.A.EMPREEND E PART",
   "cnpj": "73178600000118",
   "cvm_code": "14460",
-  "updated_at": "2026-09-14T08:34:52.682710+00:00",
+  "updated_at": "2026-09-21T08:33:33.098157+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -58,6 +58,35 @@
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
         "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 9423494000.0,
+      "net_income": 2395829000.0,
+      "earnings_per_share": 0.0,
+      "equity": 11466784000.0,
+      "cash_and_equivalents": 726554000.0,
+      "short_term_debt": 1502490000.0,
+      "long_term_debt": 7214779000.0,
+      "capital_composition": {
+        "ordinary_shares": 384000.0,
+        "preferred_shares": 0.0,
+        "total_shares": 384000.0,
+        "treasury_shares": 17689.0,
+        "shares_outstanding": 366311.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
       },
       "notes": [
         "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",

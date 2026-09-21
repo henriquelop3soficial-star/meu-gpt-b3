@@ -4,7 +4,7 @@
   "issuer_name": "CONSTRUTORA TENDA S/A",
   "cnpj": "71476527000135",
   "cvm_code": "21148",
-  "updated_at": "2026-09-14T08:34:52.788828+00:00",
+  "updated_at": "2026-09-21T08:33:33.245242+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -58,6 +58,35 @@
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
         "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 4173389000.0,
+      "net_income": 484431000.0,
+      "earnings_per_share": 0.0,
+      "equity": 1204864000.0,
+      "cash_and_equivalents": 30163000.0,
+      "short_term_debt": 361321000.0,
+      "long_term_debt": 951649000.0,
+      "capital_composition": {
+        "ordinary_shares": 122578.0,
+        "preferred_shares": 0.0,
+        "total_shares": 122578.0,
+        "treasury_shares": 1396.0,
+        "shares_outstanding": 121182.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
       },
       "notes": [
         "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",

@@ -4,7 +4,7 @@
   "issuer_name": "WLM PART. E COMÉRCIO DE MÁQUINAS E VEÍCULOS S.A.",
   "cnpj": "33228024000151",
   "cvm_code": "11070",
-  "updated_at": "2026-09-14T08:34:52.811638+00:00",
+  "updated_at": "2026-09-21T08:33:33.274618+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -58,6 +58,35 @@
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
         "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 3011892000.0,
+      "net_income": 86892000.0,
+      "earnings_per_share": 0.0,
+      "equity": 775303000.0,
+      "cash_and_equivalents": 122259000.0,
+      "short_term_debt": 234726000.0,
+      "long_term_debt": 215805000.0,
+      "capital_composition": {
+        "ordinary_shares": 16571220.0,
+        "preferred_shares": 19843450.0,
+        "total_shares": 36414670.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 36414670.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
       },
       "notes": [
         "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",

@@ -4,7 +4,7 @@
   "issuer_name": "AZEVEDO & TRAVASSOS SA",
   "cnpj": "61351532000168",
   "cvm_code": "11975",
-  "updated_at": "2026-09-14T08:34:52.647426+00:00",
+  "updated_at": "2026-09-21T08:33:33.049330+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -58,6 +58,35 @@
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
         "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 349427000.0,
+      "net_income": -618309000.0,
+      "earnings_per_share": 0.0,
+      "equity": 111704000.0,
+      "cash_and_equivalents": 30070000.0,
+      "short_term_debt": 203124000.0,
+      "long_term_debt": 37100000.0,
+      "capital_composition": {
+        "ordinary_shares": 201978758.0,
+        "preferred_shares": 390776842.0,
+        "total_shares": 592755600.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 592755600.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
       },
       "notes": [
         "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",

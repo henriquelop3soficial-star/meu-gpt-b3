@@ -4,7 +4,7 @@
   "issuer_name": "OSX BRASIL S.A. - EM RECUPERAÇÃO JUDICIAL",
   "cnpj": "09112685000132",
   "cvm_code": "21342",
-  "updated_at": "2026-09-14T08:34:52.749262+00:00",
+  "updated_at": "2026-09-21T08:33:33.189647+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -58,6 +58,35 @@
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
         "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 82656000.0,
+      "net_income": -1106833000.0,
+      "earnings_per_share": 0.0,
+      "equity": -9918400000.0,
+      "cash_and_equivalents": 9315000.0,
+      "short_term_debt": 0.0,
+      "long_term_debt": 7675526000.0,
+      "capital_composition": {
+        "ordinary_shares": 3148038.0,
+        "preferred_shares": 0.0,
+        "total_shares": 3148038.0,
+        "treasury_shares": 0.0,
+        "shares_outstanding": 3148038.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
       },
       "notes": [
         "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",

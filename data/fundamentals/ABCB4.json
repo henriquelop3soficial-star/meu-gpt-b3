@@ -4,7 +4,7 @@
   "issuer_name": "BANCO ABC BRASIL S/A",
   "cnpj": "28195667000106",
   "cvm_code": "20958",
-  "updated_at": "2026-09-14T08:34:52.630791+00:00",
+  "updated_at": "2026-09-21T08:33:33.028731+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -59,6 +59,36 @@
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
         "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados.",
+        "Dívida de banco não é calculada: depósitos e captações não equivalem à dívida corporativa de empresa não financeira."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "bank",
+      "revenue": null,
+      "net_income": null,
+      "earnings_per_share": null,
+      "equity": null,
+      "cash_and_equivalents": null,
+      "short_term_debt": null,
+      "long_term_debt": null,
+      "capital_composition": {
+        "ordinary_shares": 122961704.0,
+        "preferred_shares": 121695153.0,
+        "total_shares": 244656857.0,
+        "treasury_shares": 3493826.0,
+        "shares_outstanding": 241163031.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
       },
       "notes": [
         "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",

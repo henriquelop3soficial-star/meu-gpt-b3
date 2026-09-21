@@ -4,7 +4,7 @@
   "issuer_name": "CVC BRASIL OPERADORA E AGÊNCIA DE VIAGENS SA",
   "cnpj": "10760260000119",
   "cvm_code": "23310",
-  "updated_at": "2026-09-14T08:34:52.680667+00:00",
+  "updated_at": "2026-09-21T08:33:33.095307+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -58,6 +58,35 @@
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
         "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 1488493000.0,
+      "net_income": -40935000.0,
+      "earnings_per_share": 0.0,
+      "equity": 478791000.0,
+      "cash_and_equivalents": 286727000.0,
+      "short_term_debt": 86015000.0,
+      "long_term_debt": 309320000.0,
+      "capital_composition": {
+        "ordinary_shares": 525591097.0,
+        "preferred_shares": 0.0,
+        "total_shares": 525591097.0,
+        "treasury_shares": 4792509.0,
+        "shares_outstanding": 520798588.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
       },
       "notes": [
         "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",

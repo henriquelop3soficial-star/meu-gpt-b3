@@ -4,7 +4,7 @@
   "issuer_name": "BLAU FARMACÊUTICA S.A.",
   "cnpj": "58430828000160",
   "cvm_code": "24627",
-  "updated_at": "2026-09-14T08:34:52.658317+00:00",
+  "updated_at": "2026-09-21T08:33:33.065597+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -58,6 +58,35 @@
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
         "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 1702382000.0,
+      "net_income": 296773000.0,
+      "earnings_per_share": 0.0,
+      "equity": 2255742000.0,
+      "cash_and_equivalents": 45601000.0,
+      "short_term_debt": 285593000.0,
+      "long_term_debt": 313541000.0,
+      "capital_composition": {
+        "ordinary_shares": 230984962.0,
+        "preferred_shares": 0.0,
+        "total_shares": 230984962.0,
+        "treasury_shares": 2227160.0,
+        "shares_outstanding": 228757802.0,
+        "reference_date": "2025-12-31",
+        "source": "DFP - Composição do Capital"
+      },
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
       },
       "notes": [
         "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",

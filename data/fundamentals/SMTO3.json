@@ -4,7 +4,7 @@
   "issuer_name": "SÃO MARTINHO SA",
   "cnpj": "51466860000156",
   "cvm_code": "20516",
-  "updated_at": "2026-09-14T08:34:52.780797+00:00",
+  "updated_at": "2026-09-21T08:33:33.234945+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -58,6 +58,35 @@
         "provider": "CVM Dados Abertos",
         "dataset": "DFP - Demonstrações Financeiras Padronizadas",
         "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2024.zip"
+      },
+      "notes": [
+        "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
+        "Campos nulos não foram estimados."
+      ]
+    },
+    {
+      "year": 2025,
+      "accounting_profile": "non_financial",
+      "revenue": 7162034000.0,
+      "net_income": 556731000.0,
+      "earnings_per_share": 0.0,
+      "equity": 6699362000.0,
+      "cash_and_equivalents": 898588000.0,
+      "short_term_debt": 1596787000.0,
+      "long_term_debt": 9323127000.0,
+      "capital_composition": {
+        "ordinary_shares": 332435391.0,
+        "preferred_shares": 0.0,
+        "total_shares": 332435391.0,
+        "treasury_shares": 3857600.0,
+        "shares_outstanding": 328577791.0,
+        "reference_date": "2025-03-31",
+        "source": "DFP - Composição do Capital"
+      },
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "DFP - Demonstrações Financeiras Padronizadas",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/dfp_cia_aberta_2025.zip"
       },
       "notes": [
         "Valores monetários consolidados foram normalizados para BRL conforme a escala do arquivo da CVM.",
