@@ -4,7 +4,7 @@
   "issuer_name": "OI S.A. - EM RECUPERAÇÃO JUDICIAL",
   "cnpj": "76535764000143",
   "cvm_code": "11312",
-  "updated_at": "2026-10-05T17:13:06.586788+00:00",
+  "updated_at": "2026-10-12T18:01:30.319396+00:00",
   "annual_financials": [
     {
       "year": 2023,
@@ -67,20 +67,20 @@
     {
       "year": 2025,
       "accounting_profile": "non_financial",
-      "revenue": null,
-      "net_income": null,
-      "earnings_per_share": null,
-      "equity": null,
-      "cash_and_equivalents": null,
-      "short_term_debt": null,
-      "long_term_debt": null,
+      "revenue": 2598133000.0,
+      "net_income": -36368915000.0,
+      "earnings_per_share": 0.0,
+      "equity": -52689960000.0,
+      "cash_and_equivalents": 788478000.0,
+      "short_term_debt": 642893000.0,
+      "long_term_debt": 35738795000.0,
       "capital_composition": {
-        "ordinary_shares": null,
-        "preferred_shares": null,
-        "total_shares": null,
-        "treasury_shares": null,
-        "shares_outstanding": null,
-        "reference_date": null,
+        "ordinary_shares": 328544.0,
+        "preferred_shares": 1577.0,
+        "total_shares": 330121.0,
+        "treasury_shares": 6458.0,
+        "shares_outstanding": 323663.0,
+        "reference_date": "2025-12-31",
         "source": "DFP - Composição do Capital"
       },
       "source": {

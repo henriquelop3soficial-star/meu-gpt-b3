@@ -4,7 +4,7 @@
   "issuer_name": "OI S.A. - EM RECUPERAÇÃO JUDICIAL",
   "cnpj": "76535764000143",
   "cvm_code": "11312",
-  "updated_at": "2026-10-05T17:13:20.321932+00:00",
+  "updated_at": "2026-10-12T18:01:38.893238+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -36,6 +36,26 @@
       "net_income_year_to_date": 821310000.0,
       "equity": -15469158000.0,
       "cash_and_equivalents": 850894000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2025.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2025-09-30",
+      "period_start": "2025-01-01",
+      "period_end": "2025-09-30",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 2076049000.0,
+      "net_income_year_to_date": -33997722000.0,
+      "equity": -50288235000.0,
+      "cash_and_equivalents": 845644000.0,
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "ITR - Informações Trimestrais",
