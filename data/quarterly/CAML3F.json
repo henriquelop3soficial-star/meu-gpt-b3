@@ -4,7 +4,7 @@
   "issuer_name": "CAMIL ALIMENTOS S/A",
   "cnpj": "64904295000103",
   "cvm_code": "24228",
-  "updated_at": "2026-10-12T18:01:38.496428+00:00",
+  "updated_at": "2026-10-19T15:43:17.217944+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-05-31",
@@ -76,6 +76,26 @@
       "net_income_year_to_date": 27971000.0,
       "equity": 2989107000.0,
       "cash_and_equivalents": 1430714000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2026.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2026-08-31",
+      "period_start": "2026-03-01",
+      "period_end": "2026-08-31",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 5432767000.0,
+      "net_income_year_to_date": 69280000.0,
+      "equity": 3052281000.0,
+      "cash_and_equivalents": 1853717000.0,
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "ITR - Informações Trimestrais",
