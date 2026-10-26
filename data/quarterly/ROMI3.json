@@ -4,7 +4,7 @@
   "issuer_name": "ROMI S.A.",
   "cnpj": "56720428000163",
   "cvm_code": "7510",
-  "updated_at": "2026-10-19T15:43:17.781273+00:00",
+  "updated_at": "2026-10-26T15:17:02.928254+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -96,6 +96,26 @@
       "net_income_year_to_date": 16290000.0,
       "equity": 1250909000.0,
       "cash_and_equivalents": 340523000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2026.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2026-09-30",
+      "period_start": "2026-01-01",
+      "period_end": "2026-09-30",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 812816000.0,
+      "net_income_year_to_date": 58988000.0,
+      "equity": 1267545000.0,
+      "cash_and_equivalents": 348583000.0,
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "ITR - Informações Trimestrais",

@@ -4,7 +4,7 @@
   "issuer_name": "BRADSAÚDE S.A.",
   "cnpj": "58119199000151",
   "cvm_code": "20125",
-  "updated_at": "2026-10-19T15:43:17.801936+00:00",
+  "updated_at": "2026-10-26T15:17:02.948326+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -96,6 +96,26 @@
       "net_income_year_to_date": 788587000.0,
       "equity": 18707911000.0,
       "cash_and_equivalents": 61236000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2026.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2026-09-30",
+      "period_start": "2026-01-01",
+      "period_end": "2026-09-30",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 20819460000.0,
+      "net_income_year_to_date": 1969613000.0,
+      "equity": 19658769000.0,
+      "cash_and_equivalents": 91249000.0,
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "ITR - Informações Trimestrais",

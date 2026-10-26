@@ -4,7 +4,7 @@
   "issuer_name": "WEG SA",
   "cnpj": "84429695000111",
   "cvm_code": "5410",
-  "updated_at": "2026-10-19T15:43:17.966332+00:00",
+  "updated_at": "2026-10-26T15:17:03.108911+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -96,6 +96,26 @@
       "net_income_year_to_date": 3226245000.0,
       "equity": 20191394000.0,
       "cash_and_equivalents": 7750256000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2026.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2026-09-30",
+      "period_start": "2026-01-01",
+      "period_end": "2026-09-30",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 30472677000.0,
+      "net_income_year_to_date": 4988916000.0,
+      "equity": 21367143000.0,
+      "cash_and_equivalents": 5484016000.0,
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "ITR - Informações Trimestrais",
