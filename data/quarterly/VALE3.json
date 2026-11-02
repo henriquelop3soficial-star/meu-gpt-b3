@@ -4,7 +4,7 @@
   "issuer_name": "VALE S.A.",
   "cnpj": "33592510000154",
   "cvm_code": "4170",
-  "updated_at": "2026-10-26T15:17:03.069674+00:00",
+  "updated_at": "2026-11-02T18:31:15.994249+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -96,6 +96,26 @@
       "net_income_year_to_date": 17240000000.0,
       "equity": 201467000000.0,
       "cash_and_equivalents": 28871000000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2026.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2026-09-30",
+      "period_start": "2026-01-01",
+      "period_end": "2026-09-30",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 156154000000.0,
+      "net_income_year_to_date": 23776000000.0,
+      "equity": 199718000000.0,
+      "cash_and_equivalents": 25082000000.0,
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "ITR - Informações Trimestrais",

@@ -4,7 +4,7 @@
   "issuer_name": "MOTIVA INFRAESTRUTURA DE MOBILIDADE S.A.",
   "cnpj": "02846056000197",
   "cvm_code": "18821",
-  "updated_at": "2026-10-26T15:17:02.742694+00:00",
+  "updated_at": "2026-11-02T18:31:15.701792+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -96,6 +96,26 @@
       "net_income_year_to_date": 2045000000.0,
       "equity": 18052000000.0,
       "cash_and_equivalents": 4812000000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2026.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2026-09-30",
+      "period_start": "2026-01-01",
+      "period_end": "2026-09-30",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 14762000000.0,
+      "net_income_year_to_date": 5492000000.0,
+      "equity": 19291000000.0,
+      "cash_and_equivalents": 4886000000.0,
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "ITR - Informações Trimestrais",
