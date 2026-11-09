@@ -4,7 +4,7 @@
   "issuer_name": "CIA SANEAMENTO BÁSICO ESTADO SÃO PAULO",
   "cnpj": "43776517000180",
   "cvm_code": "14443",
-  "updated_at": "2026-11-02T18:31:15.883692+00:00",
+  "updated_at": "2026-11-09T18:55:16.859606+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -96,6 +96,26 @@
       "net_income_year_to_date": 3213464000.0,
       "equity": 45310286000.0,
       "cash_and_equivalents": 4243477000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2026.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2026-09-30",
+      "period_start": "2026-01-01",
+      "period_end": "2026-09-30",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 30314585000.0,
+      "net_income_year_to_date": 4601199000.0,
+      "equity": 46719527000.0,
+      "cash_and_equivalents": 4108028000.0,
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "ITR - Informações Trimestrais",

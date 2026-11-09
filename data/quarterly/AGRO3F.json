@@ -4,7 +4,7 @@
   "issuer_name": "BRASILAGRO CIA BRAS DE PROP AGRICOLAS",
   "cnpj": "07628528000159",
   "cvm_code": "20036",
-  "updated_at": "2026-11-02T18:31:15.177440+00:00",
+  "updated_at": "2026-11-09T18:55:16.299256+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -76,6 +76,26 @@
       "net_income_year_to_date": -76066000.0,
       "equity": 2041053000.0,
       "cash_and_equivalents": 73246000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2026.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2026-09-30",
+      "period_start": "2026-07-01",
+      "period_end": "2026-09-30",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 332114000.0,
+      "net_income_year_to_date": 81285000.0,
+      "equity": 2026369000.0,
+      "cash_and_equivalents": 277787000.0,
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "ITR - Informações Trimestrais",
