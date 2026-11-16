@@ -4,7 +4,7 @@
   "issuer_name": "COMPASS GÁS E ENERGIA S.A.",
   "cnpj": "21389501000181",
   "cvm_code": "25127",
-  "updated_at": "2026-11-09T18:55:16.750994+00:00",
+  "updated_at": "2026-11-16T18:40:20.323833+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -96,6 +96,26 @@
       "net_income_year_to_date": 669423000.0,
       "equity": 8099008000.0,
       "cash_and_equivalents": 2785113000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2026.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2026-09-30",
+      "period_start": "2026-01-01",
+      "period_end": "2026-09-30",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 11227012000.0,
+      "net_income_year_to_date": 1260501000.0,
+      "equity": 8671210000.0,
+      "cash_and_equivalents": 2376137000.0,
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "ITR - Informações Trimestrais",

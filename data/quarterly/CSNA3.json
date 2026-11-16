@@ -4,7 +4,7 @@
   "issuer_name": "CIA SIDERURGICA NACIONAL",
   "cnpj": "33042730000104",
   "cvm_code": "4030",
-  "updated_at": "2026-11-09T18:55:16.469659+00:00",
+  "updated_at": "2026-11-16T18:40:20.092956+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -96,6 +96,26 @@
       "net_income_year_to_date": -1328081000.0,
       "equity": 15240376000.0,
       "cash_and_equivalents": 13630963000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2026.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2026-09-30",
+      "period_start": "2026-01-01",
+      "period_end": "2026-09-30",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 32395741000.0,
+      "net_income_year_to_date": -2575369000.0,
+      "equity": 13628482000.0,
+      "cash_and_equivalents": 10148951000.0,
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "ITR - Informações Trimestrais",

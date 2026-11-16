@@ -4,7 +4,7 @@
   "issuer_name": "JOAO FORTES ENGENHARIA SA - EM RECUPERAÇÃO JUDICIAL",
   "cnpj": "33035536000100",
   "cvm_code": "7811",
-  "updated_at": "2026-11-09T18:55:16.644465+00:00",
+  "updated_at": "2026-11-16T18:40:20.236799+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -96,6 +96,26 @@
       "net_income_year_to_date": -31719000.0,
       "equity": -310261000.0,
       "cash_and_equivalents": 5562000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2026.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2026-09-30",
+      "period_start": "2026-01-01",
+      "period_end": "2026-09-30",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 85600000.0,
+      "net_income_year_to_date": -56055000.0,
+      "equity": -334579000.0,
+      "cash_and_equivalents": 2313000.0,
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "ITR - Informações Trimestrais",

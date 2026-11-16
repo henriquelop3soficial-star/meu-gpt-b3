@@ -4,7 +4,7 @@
   "issuer_name": "WHIRLPOOL S.A",
   "cnpj": "59105999000186",
   "cvm_code": "14346",
-  "updated_at": "2026-11-09T18:55:16.985005+00:00",
+  "updated_at": "2026-11-16T18:40:20.512278+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-03-31",
@@ -96,6 +96,26 @@
       "net_income_year_to_date": 160916000.0,
       "equity": 1974317000.0,
       "cash_and_equivalents": 1944121000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2026.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2026-09-30",
+      "period_start": "2026-01-01",
+      "period_end": "2026-09-30",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 8689194000.0,
+      "net_income_year_to_date": 102452000.0,
+      "equity": 1951317000.0,
+      "cash_and_equivalents": 854645000.0,
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "ITR - Informações Trimestrais",

@@ -4,7 +4,7 @@
   "issuer_name": "JALLES MACHADO S.A.",
   "cnpj": "02635522000195",
   "cvm_code": "25496",
-  "updated_at": "2026-11-09T18:55:16.643035+00:00",
+  "updated_at": "2026-11-16T18:40:20.235575+00:00",
   "interim_financials": [
     {
       "reference_date": "2025-06-30",
@@ -76,6 +76,26 @@
       "net_income_year_to_date": -74085000.0,
       "equity": 1936164000.0,
       "cash_and_equivalents": 1287563000.0,
+      "source": {
+        "provider": "CVM Dados Abertos",
+        "dataset": "ITR - Informações Trimestrais",
+        "url": "https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/itr_cia_aberta_2026.zip"
+      },
+      "notes": [
+        "Valores do ITR consolidado foram normalizados para BRL.",
+        "Resultado identificado como acumulado no exercício; não foi convertido em trimestre isolado."
+      ]
+    },
+    {
+      "reference_date": "2026-09-30",
+      "period_start": "2026-04-01",
+      "period_end": "2026-09-30",
+      "period_type": "year_to_date",
+      "accounting_profile": "non_financial",
+      "revenue_year_to_date": 676755000.0,
+      "net_income_year_to_date": -32724000.0,
+      "equity": 1977525000.0,
+      "cash_and_equivalents": 1559180000.0,
       "source": {
         "provider": "CVM Dados Abertos",
         "dataset": "ITR - Informações Trimestrais",
